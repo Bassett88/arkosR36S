@@ -6,6 +6,7 @@ The overarching goals of ArkOS is as follows:
 1. Ease of use 
 1. Lightweight 
 1. Performance
+1. Online Updates (Won't require SD card reflashing unless there are major structural changes like file system changes.)
 
 This OS came about from an initial port of TheRA to support a roms folder on a NTFS partition so that the management of roms could be done by simply putting you SD card into an appropriate card reader on a Windows 10 computer.  Through various upgrades and tweaks overtime, it has diverged significantly from TheRA and it's time to rebrand this distro.  With suggestions provided by community members, ArkOS was chosen.  Short for **Another rk3326 Operating System**.
 
@@ -22,6 +23,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 -  Stability tweak for RTL8188 and RTL8812/RTL8811 wireless chipsets.  (Disabled USB and wireless chip power saving in the 8812 and 8192 drivers which causes wifi drops on these chipsets.)
 -  Optimized kernel and very few running backend OS services to maximize resources for emulation performance.
 -  Pico-8 support.  Just add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to /roms/bios/pico-8 folder and add your .png game files to /roms/ports/pico-8 folder then start pico-8 from Ports in the Emulationstation menu.
+-  All game saves (in-game and save states) are located in respective rom folders.
 -  Stable sleep mode for supported RK3326 devices (Odroid Go Advance, RK2020, RGB10, and RG351P).
 
 For more information about the supported Emulators and Ports, click the ArkOS Emulators and Ports information page link on the right of this page.
