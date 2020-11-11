@@ -92,7 +92,7 @@ Per game:
 - Hit Select+X to exit the retroarch menu or hit the B button to go back and hit the resume option.
 
 ## Q. Can the mouse pointer that's always visible in the upper right corner of Drastic (NDS Emulator) be removed?
-### A. As of the writing of this entry (7/16/2020), it can not be removed.  It’s unfortunately a "feature" of the emulator for the time being.
+### A. As of the writing of this entry (11/10/2020), it can not be removed.  It’s unfortunately a "feature" of the emulator for the time being.
 
 ## Q. My unit doesn't seem to boot from the SD card anymore.  What could be the issue?
 ### A. It could be one of the following issues:
