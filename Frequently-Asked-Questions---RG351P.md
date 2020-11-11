@@ -13,7 +13,7 @@
 11. [How can I access a terminal physically on ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-can-i-access-a-terminal-physically-on-ArkOS)
 
 ## Q. How do I SSH into ArkOS?
-### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions---RG351P#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
+### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
 - Go to the **Options** menu and select **WIFI**.  
 - Then hit the **R1** button to go to the **+** sign and click the A button to add your wifi details.  
 - Once completed, you can then check **NETWORK INFO** for the assigned IP to your device.  
