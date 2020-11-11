@@ -14,12 +14,12 @@
 
 ## Q. How do I SSH into ArkOS?
 ### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions---RG351P#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
-- Go to the **Odroid Options** menu and select **WIFI**.  
+- Go to the **Options** menu and select **WIFI**.  
 - Then hit the **R1** button to go to the **+** sign and click the A button to add your wifi details.  
 - Once completed, you can then check **NETWORK INFO** for the assigned IP to your device.  
   -  _Be aware that the assigned IP address will show a slash then a number (most likely a 24).  That just represents the network block size, not the ssh port number._  The default ssh port number is 22.  
 - Be sure to select **Enable Remote Services** so that SSH is enabled before attempting to connect.  
-- User and Password credentials are odroid/odroid.
+- User and Password credentials are ark/ark.
 
 ## Q. I was using Paragon software to add, remove, or modify files on the SD card and now my unit won't boot with the card.  What could be wrong?
 ### A. The most probable issue is a corrupted ext4 partition on the SD card.  There's been a common occurrence of Paragon corrupting the ext4 partition on SD cards.  It's best to use a Linux machine (or a Linux VM) to manage files on the ext4 partition of the SD card.  You can try to fix the ext4 partition by following the steps in [this link](https://www.platfrastructure.life/post/rpi_boot_repair/), or simply reimage the card.  The [ArkOS](https://github.com/christianhaitian/arkos/wiki/ArkOS-(arkos-Edition)-(Updated-10-16-2020)) image linked from this wiki provides a NTFS partition for the Roms and Bios folder that is easily accessible from Windows without any additional software and is easier for managing such files as you don't have to have a Linux machine or VM.
