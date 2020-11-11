@@ -105,8 +105,7 @@ Per game:
 ## Q. How can I access a terminal physically on ArkOS
 ### A. Do the following:
 
-   *  With your wifi dongle plugged in and connected to wifi, ensure ArkOS is up to date by going to the Options menu and selecting Update.
-   *  Plug in your usb keyboard.  The wifi dongle can be removed at this point if you're not using a usb hub.
+   *  Plug in your usb keyboard.
    *  Exit EmulationStation by hitting Start, then Quit, then Quit Emulationstation.
    *  On your connected usb keyboard, hit alt-f2.
    *  You should now have a terminal login screen appear on the screen.  User: odroid Password: odroid
