@@ -78,7 +78,7 @@ Per game:
 ### A. You'll need a screenscraper.fr account.  You can register for a free account at https://www.screenscraper.fr/.  Once you've completed that, enter your username and password that you created at the website in the screenscraper es menu then scrape away!  Note that if you pay for extra threads, it will increase the speed of scraping.  This is useful if you have a large rom collection.
 
 ## Q. Where can I find information on where to load roms, available cores, and port information for ArkOS?
-### A. Check this [link](https://github.com/christianhaitian/rk2020/wiki/ArkOS-Emulators-and-Ports-information) for more info.
+### A. Check this [link](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information) for more info.
 
 ## Q. I can't seem to insert coins in some MAME and CPS games.  How do I fix this?
 ### A. For some reason, select for credit doesn’t work for some games in MAME and CPS.  If you change the coin button to something else like R2 or L2, it works.  Below are the instructions you can follow to do this:
