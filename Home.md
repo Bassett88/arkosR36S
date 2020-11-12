@@ -96,9 +96,10 @@ Download Links:
 **OGA 1.1/RGB10** - (Coming Soon)
 
 ### Credits and Thanks
-Slaminger for the TheRA OS that helped inspire me to provide ArkOS\
-valadaa48 for various assistance and all his work on the original rk3326 device, the Odroid Go Advance.
-npaladin2000 for donation of the RG351P device so I could release this OS on it.
+Slaminger for the TheRA OS that helped inspire me to provide ArkOS \
+valadaa48 for various assistance and all his work on the original rk3326 device, the Odroid Go Advance. \
+luali for kernel and dtb for the RG351P, and various other assistance requests. \
+npaladin2000 for donation of the RG351P device so I could release this OS on it. \
 RadioMan for testing and feedback\
 IggyV for testing and feedback\
 Jetup for bootlogo fix, suggestions, theme update, testing and feedback
