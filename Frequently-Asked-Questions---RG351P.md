@@ -34,12 +34,18 @@
 ## Q. What are the global event keys and emulator event keys in ArkOS?
 ### A. ![](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_hotkeys_resized.jpg)  
 
+**Amiberry**
+
+- Select + X: Amiberry Menu
+- Select + Start: Exit Amiberry.
+
 **For Drastic (NDS emulator)**
 
-- L2: screen swap between upper and lower DS screens
-- R2: stylus tap
-- Joystick: Move the stylus 
-- Select: Drastic menu
+- L2: Screen swap between upper and lower DS screens
+- R2: Swap between dual screen and single screen view
+- Right Joystick: Move the stylus 
+- R3: Stylus tap
+- L3: Drastic menu
 
 To exit the emulator, do so through the Drastic menu.
 
@@ -49,18 +55,20 @@ To exit the system, hit the Start button then Option then select Shutdown.
 
 **For PPSSPP (PSP emulator)**
 
-- R2: PPSSPP Menu
+- L2: PPSSPP Menu
+- L3: Load state
+- R2: Save state
 
-To exit the emulator, do so through the PPSSPP menu.  You can also hit Minus and Start together to exit the emulator as well.
+To exit the emulator, do so through the PPSSPP menu.
 
 **For Mupen64plus standalone emulator**
 
 ![](https://github.com/christianhaitian/arkos/raw/master/arkos_black_Mupen64plus_keys.png)  
 
-- Minus+Start: Exit Emulator
-- Minus+R1: Save State
-- Minus+L1: Load State
-- Minus+A: Pause/Unpause Emulator
+- Select + Start: Exit emulator
+- Select + R1: Save State
+- Select + L1: Load State
+- Select + A: Pause/Unpause emulator
 
 ## Q. How do I change emulator cores in ArkOS?
 ### A. Do the following:
