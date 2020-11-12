@@ -4,7 +4,7 @@
 -  Rom folders are located in either /roms when accessing the device via network or from the EASYROMS folder in Mac, Linux or Windows if accessing the micro SD card in a micro SD card reader directly on a PC.
 -  All bios files go into the bios folder located in the roms (EASYROMS) folder unless specifically stated otherwise in the emulators list below.
 -  Any systems listed below that have a standalone emulator will most likely not have controls that can be reconfigured.
--  Any systems below with multiple emulator cores available will have a default emulator core **bolded** and in parentheses().  [Click here](https://github.com/christianhaitian/rk2020/wiki/Frequently-Asked-Questions#q-how-do-i-change-emulator-cores-in-ArkOS) for information on how to change emulators per system or game.
+-  Any systems below with multiple emulator cores available will have a default emulator core **bolded** and in parentheses().  [Click here](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-change-emulator-cores-in-arkos) for information on how to change emulators per system or game.
    - Required file extensions and rom versions are based on default emulator core requirements.
 -  Since much of this is similar to retropie, more information about these emulators can be found at the retropie wiki located at https://retropie.org.uk/docs/ under the Emulation section.
 
