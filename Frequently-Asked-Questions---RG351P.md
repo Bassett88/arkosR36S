@@ -32,7 +32,7 @@
 ### A. Try turning on the RGA Scaling feature.  There is a small difference from Bilinear filtering in that this feature does subpixel scaling instead of just smoothing (may look blurry) as bilinear filtering does.  This feature can be turned on while in game by going to the retroarch menu, then settings, then video, then scrolling down to the RGA Scaling option and hit A to turn it on.  The screen will blank for a few seconds and come back.  See if it improves the picture for you.
 
 ## Q. What are the global event keys and emulator event keys in ArkOS?
-### A. ![](https://github.com/christianhaitian/arkos/blob/master/arkos_hotkeys.png?raw=true)  
+### A. ![](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_hotkeys_resized.jpg)  
 
 **For Drastic (NDS emulator)**
 
