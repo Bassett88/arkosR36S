@@ -63,7 +63,7 @@ To exit the emulator, do so through the PPSSPP menu.
 
 **For Mupen64plus standalone emulator**
 
-![](https://github.com/christianhaitian/arkos/raw/master/arkos_black_Mupen64plus_keys.png)  
+![](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_hotkeys_resized.jpg)  
 
 - Select + Start: Exit emulator
 - Select + R1: Save State
