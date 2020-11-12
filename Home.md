@@ -89,7 +89,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 Download Links:
 
-**RG351P** - (Coming Soon)
+**RG351P** - [GDrive](https://drive.google.com/file/d/1TkFK8d1nL8MRqcbjgcGO23k12FZSvLvx/view?usp=sharing) | [Mega](https://mega.nz/file/DEJCGbQI#4xjO6ULlGR_aT-aCC8DhoMBwBYOvswnUO7uuBhLhqn4)
 
 **OGA 1.0/RK2020** - (Coming Soon)
 
