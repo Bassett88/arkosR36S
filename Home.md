@@ -26,8 +26,9 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 -  All game saves (in-game and save states) are located in respective rom folders.
 -  Stable sleep mode for supported RK3326 devices (Odroid Go Advance, RK2020, RGB10, and RG351P).
 
-For more information about the supported Emulators and Ports, click the ArkOS Emulators and Ports information page link on the right of this page. \
-For global and emulator hotkey information, click the Frequently Asked Questions for the specific rk3326 device you have on the right of this page.
+**For more information about the supported Emulators and Ports, click the ArkOS Emulators and Ports information page link on the right of this page.** \
+
+**For global and emulator hotkey information, click the Frequently Asked Questions for the specific rk3326 device you have on the right of this page.**
 
 # Disclaimer:
 **Support for this OS is made on a best effort basis and is subject to change at anytime.  I make no guarantee on support or capabilities of this image.  Use at your own risk!**
