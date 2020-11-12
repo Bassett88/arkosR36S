@@ -16,6 +16,12 @@ Rom Folder: amiga \
 Extensions: .lha .LHA \
 Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)
 
+### Amiga CD32
+Emulator: lr-puae \
+Rom Folder: amigacd32 \
+Extensions: .cue .CUE .ccd .CCD .nrg .NRG .mds .MDS .iso .ISO .m3u .M3U \
+Bios: kick34005.A500 and kick40063.A600 and kick40068.A1200
+
 ### Arcade
 Emulator: (**lr-fbneo**) fbalpha2012 fbalpha2016 fbalpha2018 \
 Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well) \
