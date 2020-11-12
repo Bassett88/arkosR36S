@@ -387,6 +387,9 @@ Instructions: Add Doom.wad file to /roms/ports/doom folder then start Doom from 
 ### Doom 2
 Instructions: Add Doom2.wad file to /roms/ports/doom2 folder then start Doom 2 from Ports in emulationstation menu.    For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
 
+### EasyRPG
+Instructions: Load game folders within the /roms/ports/easyrpg folder.  Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.
+
 ### Pico-8
 Instructions: Add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to /roms/bios/pico-8 folder and add your .png game files to /roms/ports/pico-8 folder then start pico-8 from Ports in emulationstation menu
 
