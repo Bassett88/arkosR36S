@@ -313,7 +313,7 @@ Rom Folder: x1 \
 Extensions: .dx1 .DX1 .zip .ZIP .2d .2D .2hd .2HD .tfd .TFD .d88 .D88 .88d .88D .hdm .HDM .xdf .XDF .dup .DUP .cmd .CMD \
 Bios: IPLROM.X1, IPLROM.X1T (*need to be placed in a folder named xmil within the bios folder*)
 
-### Sharp x68000
+### Sharp X68000
 Emulator: lr-px68k \
 Rom Folder: x68000
 Extensions: .dim .DIM .m3u .M3U
