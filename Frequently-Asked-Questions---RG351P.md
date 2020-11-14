@@ -11,6 +11,7 @@
 9. [Can the mouse pointer that's always visible in the upper right corner of Drastic (NDS Emulator) be removed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-can-the-mouse-pointer-thats-always-visible-in-the-upper-right-corner-of-drastic-nds-emulator-be-removed)
 10. [My unit doesn't seem to boot from the SD card anymore.  What could be the issue?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-my-unit-doesnt-seem-to-boot-from-the-sd-card-anymore--what-could-be-the-issue)
 11. [How can I access a terminal physically on ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-can-i-access-a-terminal-physically-on-ArkOS)
+12. [How do I enable rumble in pscx_rearmed?]()
 
 ## Q. How do I SSH into ArkOS?
 ### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -116,5 +117,19 @@ Per game:
    *  Plug in your usb keyboard.
    *  Exit EmulationStation by hitting Start, then Quit, then Quit Emulationstation.
    *  On your connected usb keyboard, hit alt-f2.
-   *  You should now have a terminal login screen appear on the screen.  User: odroid Password: odroid
+   *  You should now have a terminal login screen appear on the screen.  User: ark Password: ark
    *  If you'd like to go back to EmulationStation without restarting, do the following: `sudo systemctl restart emulationstation`
+
+## Q. How do I enable rumble in pscx_rearmed?
+### A. Do the following:
+
+   *  Launch a rumble supporting Playstation game.  Check this [link](https://github.com/libretro/libretro-database/issues/64) for a list of known titles that support rumble.
+   *  Go to the Retroarch Quick menu (Select+X)
+   *  Scroll down to Options then hit the A button.
+   *  Make sure Enable vibration is on.
+   *  Go back to the quick menu by hitting the B button.
+   *  Scroll down to Controls then hit the A button.
+   *  Then scroll down to Port 1 Controls and hit the A button.
+   *  Set Device Type to dualshock by hitting the right d-pad button twice.
+   *  Then hit the B button, then scroll down to Save core Remap File and hit the A button.
+   *  Now exit the menu (Select+X) and enjoy rumble mode!
