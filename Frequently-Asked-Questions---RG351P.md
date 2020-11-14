@@ -120,7 +120,7 @@ Per game:
    *  You should now have a terminal login screen appear on the screen.  User: ark Password: ark
    *  If you'd like to go back to EmulationStation without restarting, do the following: `sudo systemctl restart emulationstation`
 
-## Q. How do I enable rumble in pscx_rearmed?
+## Q. How do I enable rumble(vibration) in pscx_rearmed?
 ### A. Do the following:
 
    *  Launch a rumble supporting Playstation game.  Check this [link](https://github.com/libretro/libretro-database/issues/64) for a list of known titles that support rumble.
