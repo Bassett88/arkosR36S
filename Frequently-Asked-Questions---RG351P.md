@@ -11,7 +11,7 @@
 9. [Can the mouse pointer that's always visible in the upper right corner of Drastic (NDS Emulator) be removed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-can-the-mouse-pointer-thats-always-visible-in-the-upper-right-corner-of-drastic-nds-emulator-be-removed)
 10. [My unit doesn't seem to boot from the SD card anymore.  What could be the issue?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-my-unit-doesnt-seem-to-boot-from-the-sd-card-anymore--what-could-be-the-issue)
 11. [How can I access a terminal physically on ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-can-i-access-a-terminal-physically-on-ArkOS)
-12. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumble-in-pscx_rearmed)
+12. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-pscx_rearmed)
 
 ## Q. How do I SSH into ArkOS?
 ### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
