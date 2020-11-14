@@ -124,12 +124,13 @@ Per game:
 ### A. Do the following:
 
    *  Launch a rumble supporting Playstation game.  Check this [link](https://github.com/libretro/libretro-database/issues/64) for a list of known titles that support rumble.
-   *  Go to the Retroarch Quick menu (Select+X)
-   *  Scroll down to Options then hit the A button.
-   *  Make sure Enable vibration is on.
+   *  Go to the **Retroarch Quick menu** (Select+X)
+   *  Scroll down to **Options** then hit the A button.
+   *  Make sure **Enable vibration is on**.
    *  Go back to the quick menu by hitting the B button.
-   *  Scroll down to Controls then hit the A button.
-   *  Then scroll down to Port 1 Controls and hit the A button.
-   *  Set Device Type to dualshock by hitting the right d-pad button twice.
-   *  Then hit the B button, then scroll up to Save core Remap File and hit the A button.
+   *  Scroll down to **Controls** then hit the A button.
+   *  Then scroll down to **Port 1 Controls** and hit the A button.
+   *  Set **Device Type to dualshock** by hitting the right d-pad button twice.
+   *  Then hit the B button, then scroll up to **Save core Remap File** and hit the A button.
    *  Now exit the menu (Select+X) and enjoy rumble mode!
+**Note: Some games may require that vibration be turned on from its options or settings menu.**
