@@ -131,5 +131,5 @@ Per game:
    *  Scroll down to Controls then hit the A button.
    *  Then scroll down to Port 1 Controls and hit the A button.
    *  Set Device Type to dualshock by hitting the right d-pad button twice.
-   *  Then hit the B button, then scroll down to Save core Remap File and hit the A button.
+   *  Then hit the B button, then scroll up to Save core Remap File and hit the A button.
    *  Now exit the menu (Select+X) and enjoy rumble mode!
