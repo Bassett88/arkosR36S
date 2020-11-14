@@ -133,4 +133,5 @@ Per game:
    *  Set **Device Type to dualshock** by hitting the right d-pad button twice.
    *  Then hit the B button, then scroll up to **Save core Remap File** and hit the A button.
    *  Now exit the menu (Select+X) and enjoy rumble mode! \
+
 **Note: Some games may require that vibration be turned on from its options or settings menu.**
