@@ -22,6 +22,12 @@ Rom Folder: amigacd32 \
 Extensions: .cue .CUE .ccd .CCD .nrg .NRG .mds .MDS .iso .ISO .m3u .M3U \
 Bios: kick34005.A500 and kick40063.A600 and kick40068.A1200
 
+### Amstrad CPC
+Emulator: lr-cap32 \
+Rom Folder: amstradcpc \
+Extensions: .cpc .CPC .dsk .DSK \
+Bios: None
+
 ### Arcade
 Emulator: (**lr-fbneo**) fbalpha2012 fbalpha2016 fbalpha2018 \
 Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well) \
@@ -121,6 +127,12 @@ Emulator: lr-mgba \
 Rom Folder: gba \
 Extensions: .gb .GB .gbc .GBC .gba .GBA .zip .ZIP .7z .7Z \
 Bios: gba_bios.bin (optional), gb_bios.bin (optional), gbc_bios.bin (optional), sgb_bios.bin (optional)
+
+### Game and Watch
+Emulator: lr-gw \
+Rom Folder: gameandwatch \
+Extensions: .mgw .MGW \
+Bios: None
 
 ### Game Boy Color
 Emulator: (**lr-gambatte**) lr-mgba lr-tgbdual \
