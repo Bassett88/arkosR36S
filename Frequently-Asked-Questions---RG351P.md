@@ -12,7 +12,7 @@
 10. [My unit doesn't seem to boot from the SD card anymore.  What could be the issue?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-my-unit-doesnt-seem-to-boot-from-the-sd-card-anymore--what-could-be-the-issue)
 11. [How can I access a terminal physically on ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-can-i-access-a-terminal-physically-on-ArkOS)
 12. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-pscx_rearmed)
-13. [How do I enable rumble(vibration) in flycast_rumble?]()
+13. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
 
 ## Q. How do I SSH into ArkOS?
 ### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
