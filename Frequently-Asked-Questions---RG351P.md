@@ -135,3 +135,15 @@ Per game:
    *  Now exit the menu (Select+X) and enjoy rumble mode! \
 
 **Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu for it to work as well.**
+
+## Q. How do I enable rumble(vibration) in flycast_rumble?
+### A. Do the following:
+
+   *  Launch a rumble supporting Dreamcast Game.  Check this [link](https://segaretro.org/Jump_Pack#List_of_compatible_games) for a list of known titles that support rumble.
+   *  Go to the **Retroarch Quick menu** (Select+X)
+   *  Scroll down to **Options** then hit the A button.
+   *  Make sure **Purupuru Pack/Vibration Pack is on**.
+   *  Go back to the quick menu by hitting the B button.
+   *  Now exit the menu (Select+X) and enjoy rumble mode! \
+
+**Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu for it to work as well.**
