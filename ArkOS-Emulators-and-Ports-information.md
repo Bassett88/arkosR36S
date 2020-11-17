@@ -102,7 +102,7 @@ Bios: None
 Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme \
 Rom Folder: dreamcast \
 Extensions: ~~.7z .7Z~~ .gdi .GDI .cdi .CDI .cue .CUE \
-Bios: dc_boot.bin, dc_flash.bin (*need to be placed in a folder named dc within the bios folder*)
+Bios: dc_boot.bin, dc_flash.bin (*need to be placed in a folder named dc within the bios folder*) \
 Note: These cores are currently not working with .7z extension.  No ETA on when this will be addressed at this time.
 
 ### Dreamcast VMU
