@@ -114,4 +114,4 @@ silt247 for the Cannonball, Cave Story, Doom 1 and Doom 2 ports package
 
 I may have missed others and will update this area as I become aware.
 
-For questions, comments and feedback related to this distro or RK3326 devices in general, find us on Discord using this [link](https://discord.com/channels/529983248114122762/592209007154954241)
+For questions, comments and feedback related to this distro or RK3326 devices in general, find us on Discord using this [link](https://discord.gg/wurh4WM)
