@@ -89,7 +89,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 Download Links :
 
-**RG351P** - [GDrive]() | [Mega]() (Updated 11/17/2020) [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog)
+**RG351P** - [GDrive](https://drive.google.com/file/d/1BCqroCqzgf0Dg-RVD-XmP3-nZ6HhBXb4/view?usp=sharing) | [Mega](https://mega.nz/file/uNhQjAYL#PzbzsYVYjUzlr0NQW5cqqYyasQbv_PmRR55TOUbiLs4) (Updated 11/18/2020) [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog)
 
 **OGA 1.0/RK2020** - (Coming Soon)
 
@@ -102,14 +102,14 @@ luali for kernel and dtb for the RG351P, and various other assistance requests. 
 fewt for advice \
 npaladin2000 for donation of the RG351P device so I could release this OS on it. \
 BadBrent for advice \
-RadioMan for testing and feedback\
-IggyV for testing and feedback\
-Jetup for bootlogo fix, suggestions, theme update, testing and feedback
-Tiduscrying for themes, testing and feedback\
-plex for testing and feedback\
-WadaKatsu for testing and feedback\
-Rex for testing and feedback\
-TadMSTR for testing and feedback\
+RadioMan for testing and feedback \
+IggyV for testing and feedback \
+Jetup for bootlogo fix, suggestions, theme update, testing and feedback \
+Tiduscrying for themes, testing and feedback \
+plex for testing and feedback \
+WadaKatsu for testing and feedback \
+Rex for testing and feedback \
+TadMSTR for testing and feedback \
 RayLancer for bootlogo design, testing and feedback \
 silt247 for the Cannonball, Cave Story, Doom 1 and Doom 2 ports package
 
