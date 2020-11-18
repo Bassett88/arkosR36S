@@ -87,9 +87,9 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
    -  Insert the SD card back into your rk3326 device and power it on if you removed it to load your roms or reboot you device and enjoy!
    -  (**Tip**) There are additional updates that are made available from time to time.  You can apply them by going to the options menu and clicking on Update.  Make sure you're wifi adapter is plugged in and connected to your wireless network.  You must have a reliable internet connection for these online updates to complete successfully when available.
 
-Download Links:
+Download Links :
 
-**RG351P** - [GDrive](https://drive.google.com/file/d/1TkFK8d1nL8MRqcbjgcGO23k12FZSvLvx/view?usp=sharing) | [Mega](https://mega.nz/file/DEJCGbQI#4xjO6ULlGR_aT-aCC8DhoMBwBYOvswnUO7uuBhLhqn4)
+**RG351P** - [GDrive](https://drive.google.com/file/d/1EFWP1QSpm-lnbm02wHM3e8_rmZQXsQCJ/view?usp=sharing) | [Mega](https://mega.nz/file/bF5QGBhK#3S0xZWs4C483OzP1gwZSzBKzcCPzwK1OTJCJ-e1zPE0) (Updated 11/17/2020) [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog)
 
 **OGA 1.0/RK2020** - (Coming Soon)
 
@@ -99,6 +99,7 @@ Download Links:
 Slaminger for the TheRA OS that helped inspire me to provide ArkOS \
 valadaa48 for various assistance and all his work on the original rk3326 device, the Odroid Go Advance. \
 luali for kernel and dtb for the RG351P, and various other assistance requests. \
+fewt for advice \
 npaladin2000 for donation of the RG351P device so I could release this OS on it. \
 BadBrent for advice \
 RadioMan for testing and feedback\
