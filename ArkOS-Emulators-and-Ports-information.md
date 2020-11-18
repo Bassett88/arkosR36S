@@ -328,8 +328,8 @@ Bios: IPLROM.X1, IPLROM.X1T (*need to be placed in a folder named xmil within th
 
 ### Sharp X68000
 Emulator: lr-px68k \
-Rom Folder: x68000
-Extensions: .dim .DIM .m3u .M3U
+Rom Folder: x68000 \
+Extensions: .dim .DIM .m3u .M3U \
 Bios: iplrom.dat, cgrom.dat, iplrom30.dat (optional), iplromco.dat (optional), iplromxv.dat (optional) (*need to be placed in a folder named keropi within the bios folder*)
 
 ### SuFami Turbo
