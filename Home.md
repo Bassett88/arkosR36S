@@ -4,7 +4,6 @@ This wiki will house information pertaining to the ArkOS distribution.
 
 The overarching goals of ArkOS is as follows:
 1. Ease of use 
-1. Lightweight 
 1. Performance
 1. Online Updates (Won't require SD card reflashing unless there are major structural changes like file system changes.)
 
