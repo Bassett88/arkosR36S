@@ -11,8 +11,9 @@
 9. [Can the mouse pointer that's always visible in the upper right corner of Drastic (NDS Emulator) be removed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-can-the-mouse-pointer-thats-always-visible-in-the-upper-right-corner-of-drastic-nds-emulator-be-removed)
 10. [My unit doesn't seem to boot from the SD card anymore.  What could be the issue?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-my-unit-doesnt-seem-to-boot-from-the-sd-card-anymore--what-could-be-the-issue)
 11. [How can I access a terminal physically on ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-can-i-access-a-terminal-physically-on-ArkOS)
-12. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-pscx_rearmed)
-13. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
+12. [When I'm in a game, I go to the retroarch menu and make a change and when I attempt to save the current configuration, it fails to save.  Why is that happening?]()
+13. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-pscx_rearmed)
+14. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
 
 ## Q. How do I SSH into ArkOS?
 ### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -120,6 +121,9 @@ Per game:
    *  On your connected usb keyboard, hit alt-f2.
    *  You should now have a terminal login screen appear on the screen.  User: ark Password: ark
    *  If you'd like to go back to EmulationStation without restarting, do the following: `sudo systemctl restart emulationstation`
+
+## Q. When I'm in a game, I go to the retroarch menu and make a change and when I attempt to save the current configuration, it fails to save.  Why is that happening?
+### A. The most likely cause is that you have save a core, content, or save game override for the particular emulator core or game you currently have loaded.  Once you have those, you will no longer be able to save a global configuration from that emulator core or game.  This is by design from libretro.  What you'll have to do is from within Emulationstation, scroll through the systems to the retroarch menu, then select either retroarch or retroarch32, then make your global changes there and save current configuration there.
 
 ## Q. How do I enable rumble(vibration) in pscx_rearmed?
 ### A. Do the following:
