@@ -11,7 +11,7 @@
 9. [Can the mouse pointer that's always visible in the upper right corner of Drastic (NDS Emulator) be removed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-can-the-mouse-pointer-thats-always-visible-in-the-upper-right-corner-of-drastic-nds-emulator-be-removed)
 10. [My unit doesn't seem to boot from the SD card anymore.  What could be the issue?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-my-unit-doesnt-seem-to-boot-from-the-sd-card-anymore--what-could-be-the-issue)
 11. [How can I access a terminal physically on ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-can-i-access-a-terminal-physically-on-ArkOS)
-12. [When I'm in a game, I go to the retroarch menu and make a change and when I attempt to save the current configuration, it fails to save.  Why is that happening?]()
+12. [When I'm in a game, I go to the retroarch menu and make a change and when I attempt to save the current configuration, it fails to save.  Why is that happening?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-when-im-in-a-game-i-go-to-the-retroarch-menu-and-make-a-change-and-when-i-attempt-to-save-the-current-configuration-it-fails-to-save--why-is-that-happening)
 13. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-pscx_rearmed)
 14. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
 
