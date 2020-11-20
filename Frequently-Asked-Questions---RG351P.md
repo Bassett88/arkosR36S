@@ -123,7 +123,7 @@ Per game:
    *  If you'd like to go back to EmulationStation without restarting, do the following: `sudo systemctl restart emulationstation`
 
 ## Q. When I'm in a game, I go to the retroarch menu and make a change and when I attempt to save the current configuration, it fails to save.  Why is that happening?
-### A. The most likely cause is that you have save a core, content, or save game override for the particular emulator core or game you currently have loaded.  Once you have those, you will no longer be able to save a global configuration from that emulator core or game.  This is by design from libretro.  What you'll have to do is from within Emulationstation, scroll through the systems to the retroarch menu, then select either retroarch or retroarch32, then make your global changes there and save current configuration there.
+### A. The most likely cause is that you have saved a core, content, or game override for the particular emulator core or game you currently have loaded.  Once you have those, you will no longer be able to save a global configuration from that emulator core or game.  This is by design from libretro.  What you'll have to do is from within Emulationstation, scroll through the systems to the retroarch menu, then select either retroarch or retroarch32, then make your global changes there and save current configuration there.
 
 ## Q. How do I enable rumble(vibration) in pscx_rearmed?
 ### A. Do the following:
