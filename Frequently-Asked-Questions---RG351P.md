@@ -43,6 +43,7 @@
 
 ## Q. What are the global event keys and emulator event keys in ArkOS?
 ### A. ![](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_hotkeys_resized.jpg)  
+  - Be aware that there's a known issue with retroarch in which using the menu combination key of Select+X to close the menu while in game may cause the retroarch hotkeys to stop functioning.  This is caused by an issue in which the search box may come up in the menu but is hidden because the retroarch menu disappears as you go back to the game.  The  workaround available is that you can hit L1+R1+Start+Select to open the menu and exit the search dialog with the start button in order to restore the retroarch hotkeys.  Select+X function will return.  More information about this issue available from this libretro forum [link](https://forums.libretro.com/t/rare-hotkey-issue-on-windows-10-retroarch-pc/21311/3).
 
 **Amiberry**
 
