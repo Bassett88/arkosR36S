@@ -23,13 +23,13 @@
 - Once completed, you can then verify that your wifi is connected by confirming that you see the wifi symbol located near the top right corner of the Emulationstation Menu.  You can also verify that you have a valid wireless connection by going to **Options** then **NETWORK INFO** and verify you have an assigned IP for your device.  
 
 ## Q. How do I SSH into ArkOS?
-### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
-- Go to the **Options** menu and select **WIFI**.  
-- Then hit the **R1** button to go to the **+** sign and click the A button to add your wifi details.  
-- Once completed, you can then check **NETWORK INFO** for the assigned IP to your device.  
+### A. Verify that you completed the steps in FAQ #1 above to configure your wireless connection.  You will then need to do the following:
+- Go to the **Options** menu and select **NETWORK INFO** so you can see your the assigned IP to your device.  
   -  _Be aware that the assigned IP address will show a slash then a number (most likely a 24).  That just represents the network block size, not the ssh port number._  The default ssh port number is 22.  
-- Be sure to select **Enable Remote Services** so that SSH is enabled before attempting to connect.  
+- Click A to continue and you will go back out to the Options menu.
+- Select **Enable Remote Services** so that SSH is enabled before attempting to connect.  
 - User and Password credentials are ark/ark.
+  -  _Be aware that every time you'd like to access ArkOS on your device from your network, you will need to **Enable Remote Services** after every reboot._  This is a security feature as it's not good security practice to keep remote services active on your device especially when connecting to unknown networks.  It also reduces resource overhead for the system to help ensure the best possible gaming experience.
 
 ## Q. I was using Paragon software to add, remove, or modify files on the SD card and now my unit won't boot with the card.  What could be wrong?
 ### A. The most probable issue is a corrupted ext4 partition on the SD card.  There's been a common occurrence of Paragon corrupting the ext4 partition on SD cards.  It's best to use a Linux machine (or a Linux VM) to manage files on the ext4 partition of the SD card.  You can try to fix the ext4 partition by following the steps in [this link](https://www.platfrastructure.life/post/rpi_boot_repair/), or simply reimage the card.  The [ArkOS](https://github.com/christianhaitian/arkos/wiki) image linked from this wiki provides an exfat partition for the Roms and Bios folder that is easily accessible from Linux, Mac or Windows without any additional software and is easier for managing such files as you don't have to have a Linux machine or VM.
