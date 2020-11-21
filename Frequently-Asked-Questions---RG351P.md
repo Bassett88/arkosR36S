@@ -1,6 +1,6 @@
 # Table of Contents:
 
-1. [How do I configure my wifi connection in ArkOS?]()
+1. [How do I configure my wifi connection in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-configure-my-wifi-connection-in-arkos)
 2. [How do I SSH into ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-ssh-into-ArkOS)
 3. [I was using Paragon software to add, remove, or modify files on the SD card and now my unit won't boot with the card.  What could be wrong?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-i-was-using-paragon-software-to-add-remove-or-modify-files-on-the-sd-card-and-now-my-unit-wont-boot-with-the-card--what-could-be-wrong)
 4. [How do I change emulator cores in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-change-emulator-cores-in-ArkOS)
