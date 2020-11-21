@@ -1,19 +1,26 @@
 # Table of Contents:
 
-1. [How do I SSH into ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-ssh-into-ArkOS)
-2. [I was using Paragon software to add, remove, or modify files on the SD card and now my unit won't boot with the card.  What could be wrong?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-i-was-using-paragon-software-to-add-remove-or-modify-files-on-the-sd-card-and-now-my-unit-wont-boot-with-the-card--what-could-be-wrong)
-3. [How do I change emulator cores in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-change-emulator-cores-in-ArkOS)
-4. [How do I scrape roms using screenscraper in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-scrape-roms-using-screenscraper-in-ArkOS)
-5. [How can I make text look better in certain games and systems in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-can-i-make-text-look-better-in-certain-games-and-systems)
-6. [What are the global event keys and emulator event keys in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-what-are-the-global-event-keys-and-emulator-event-keys-in-ArkOS)
-7. [Where can I find information on where to load roms, available cores, and port information for ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-where-can-i-find-information-on-where-to-load-roms-available-cores-and-port-information-for-arkos)
-8. [I can't seem to insert coins in some MAME games.  How do I fix this?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-i-cant-seem-to-insert-coins-in-some-mame-and-cps-games--how-do-i-fix-this)
-9. [Can the mouse pointer that's always visible in the upper right corner of Drastic (NDS Emulator) be removed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-can-the-mouse-pointer-thats-always-visible-in-the-upper-right-corner-of-drastic-nds-emulator-be-removed)
-10. [My unit doesn't seem to boot from the SD card anymore.  What could be the issue?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-my-unit-doesnt-seem-to-boot-from-the-sd-card-anymore--what-could-be-the-issue)
-11. [How can I access a terminal physically on ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-can-i-access-a-terminal-physically-on-ArkOS)
-12. [When I'm in a game, I go to the retroarch menu and make a change and when I attempt to save the current configuration, it fails to save.  Why is that happening?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-when-im-in-a-game-i-go-to-the-retroarch-menu-and-make-a-change-and-when-i-attempt-to-save-the-current-configuration-it-fails-to-save--why-is-that-happening)
-13. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-pscx_rearmed)
-14. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
+1. [How do I configure my wifi connection in ArkOS?]()
+2. [How do I SSH into ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-ssh-into-ArkOS)
+3. [I was using Paragon software to add, remove, or modify files on the SD card and now my unit won't boot with the card.  What could be wrong?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-i-was-using-paragon-software-to-add-remove-or-modify-files-on-the-sd-card-and-now-my-unit-wont-boot-with-the-card--what-could-be-wrong)
+4. [How do I change emulator cores in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-change-emulator-cores-in-ArkOS)
+5. [How do I scrape roms using screenscraper in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-scrape-roms-using-screenscraper-in-ArkOS)
+6. [How can I make text look better in certain games and systems in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-can-i-make-text-look-better-in-certain-games-and-systems)
+7. [What are the global event keys and emulator event keys in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-what-are-the-global-event-keys-and-emulator-event-keys-in-ArkOS)
+8. [Where can I find information on where to load roms, available cores, and port information for ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-where-can-i-find-information-on-where-to-load-roms-available-cores-and-port-information-for-arkos)
+9. [I can't seem to insert coins in some MAME games.  How do I fix this?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-i-cant-seem-to-insert-coins-in-some-mame-and-cps-games--how-do-i-fix-this)
+10. [Can the mouse pointer that's always visible in the upper right corner of Drastic (NDS Emulator) be removed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-can-the-mouse-pointer-thats-always-visible-in-the-upper-right-corner-of-drastic-nds-emulator-be-removed)
+11. [My unit doesn't seem to boot from the SD card anymore.  What could be the issue?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-my-unit-doesnt-seem-to-boot-from-the-sd-card-anymore--what-could-be-the-issue)
+12. [How can I access a terminal physically on ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-can-i-access-a-terminal-physically-on-ArkOS)
+13. [When I'm in a game, I go to the retroarch menu and make a change and when I attempt to save the current configuration, it fails to save.  Why is that happening?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-when-im-in-a-game-i-go-to-the-retroarch-menu-and-make-a-change-and-when-i-attempt-to-save-the-current-configuration-it-fails-to-save--why-is-that-happening)
+14. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-pscx_rearmed)
+15. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
+
+## Q. How do I configure my wifi connection in ArkOS?
+### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
+- Go to the **Options** menu and select **WIFI**.  
+- Then hit the **R1** button to go to the **+** sign and click the A button to add your wifi details.  
+- Once completed, you can then verify that your wifi is connected by confirming that you see the wifi symbol located near the top right corner of the Emulationstation Menu.  You can also verify that you have a valid wireless connection by going to **Options** then **NETWORK INFO** and verify you have an assigned IP for your device.  
 
 ## Q. How do I SSH into ArkOS?
 ### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
