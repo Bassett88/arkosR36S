@@ -105,7 +105,7 @@ BadBrent for advice \
 RadioMan for testing and feedback \
 IggyV for testing and feedback \
 Jetup for bootlogo fix, suggestions, theme update, testing and feedback \
-Tiduscrying for themes, testing and feedback \
+Tiduscrying for ArkOS logo, themes, testing and feedback \
 plex for testing and feedback \
 WadaKatsu for testing and feedback \
 Rex for testing and feedback \
