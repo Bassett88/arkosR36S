@@ -164,7 +164,8 @@ Emulator: lr-mame2003-plus \
 Rom Folder: mame2003 \
 Extensions: .zip .ZIP .7z .7Z \
 Required Rom Set version: MAME 0.78-MAME 0.188 \
-Bios: None
+Bios: None \
+Audio Samples: Place in /roms/bios/mame2003-plus/samples folder
 
 ### Mame 2010
 Emulator: lr-mame2010 \
