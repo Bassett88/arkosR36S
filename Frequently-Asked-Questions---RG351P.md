@@ -23,7 +23,7 @@
 - Once completed, you can then verify that your wifi is connected by confirming that you see the wifi symbol located near the top right corner of the Emulationstation Menu.  You can also verify that you have a valid wireless connection by going to **Options** then **NETWORK INFO** and verify you have an assigned IP for your device.  
 
 ## Q. How do I SSH into ArkOS?
-### A. Verify that you completed the steps in FAQ #1 above to configure your wireless connection.  You will then need to do the following:
+### A. Verify that you completed the steps in [FAQ #1](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-configure-my-wifi-connection-in-arkos) above to configure your wireless connection.  You will then need to do the following:
 - Go to the **Options** menu and select **NETWORK INFO** so you can see your the assigned IP to your device.  
   -  _Be aware that the assigned IP address will show a slash then a number (most likely a 24).  That just represents the network block size, not the ssh port number._  The default ssh port number is 22.  
 - Click A to continue and you will go back out to the Options menu.
