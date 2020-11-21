@@ -100,6 +100,7 @@ valadaa48 for various assistance and all his work on the original rk3326 device,
 luali for kernel and dtb for the RG351P, and various other assistance requests. \
 fewt for advice \
 npaladin2000 for donation of the RG351P device so I could release this OS on it. \
+RetroGameCorps for the youtube review \
 BadBrent for advice \
 RadioMan for testing and feedback \
 IggyV for testing and feedback \
@@ -115,3 +116,5 @@ silt247 for the Cannonball, Cave Story, Doom 1 and Doom 2 ports package
 I may have missed others and will update this area as I become aware.
 
 For questions, comments and feedback related to this distro or RK3326 devices in general, find us on Discord using this [link](https://discord.gg/wurh4WM)
+
+[![ArkOS Image](https://retrogamecorps.files.wordpress.com/2020/11/arkos-thumbnail.png?w=1440)](https://youtu.be/YBYMKrf775o)
