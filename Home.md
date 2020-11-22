@@ -117,4 +117,4 @@ I may have missed others and will update this area as I become aware.
 
 For questions, comments and feedback related to this distro or RK3326 devices in general, find us on Discord using this [link](https://discord.gg/wurh4WM)
 
-[![ArkOS Image](https://retrogamecorps.files.wordpress.com/2020/11/arkos-thumbnail.png?w=1440)](https://youtu.be/YBYMKrf775o)
+[![ArkOS Image](https://retrogamecorps.files.wordpress.com/2020/11/arkos-thumbnail.png?w=720)](https://youtu.be/YBYMKrf775o)
