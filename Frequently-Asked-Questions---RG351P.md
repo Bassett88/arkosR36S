@@ -15,6 +15,7 @@
 13. [When I'm in a game, I go to the retroarch menu and make a change and when I attempt to save the current configuration, it fails to save.  Why is that happening?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-when-im-in-a-game-i-go-to-the-retroarch-menu-and-make-a-change-and-when-i-attempt-to-save-the-current-configuration-it-fails-to-save--why-is-that-happening)
 14. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-pscx_rearmed)
 15. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
+16. [How do I enable rumble(vibration) in parallel_n64?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-parallel_n64)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -162,6 +163,8 @@ Per game:
 **Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu from in game to work as well.**
 
 ## Q. How do I enable rumble(vibration) in parallel_n64?
+### A. Do the following:
+
    * Launch a rumble supporting N64 game.  Check this [link](https://nintendo.fandom.com/wiki/List_of_Nintendo_64_games_with_Rumble_Pak_support) for a list of known titles that support rumble.
    * Go to the **Retroarch Quick menu** (Select+X)
    * Scroll down to **Options** then hit the A button.
