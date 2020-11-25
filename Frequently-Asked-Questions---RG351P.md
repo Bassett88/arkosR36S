@@ -147,7 +147,7 @@ Per game:
    *  Then hit the B button, then scroll up to **Save core Remap File** and hit the A button.
    *  Now exit the menu (Select+X) and enjoy rumble mode! \
 
-**Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu for it to work as well.**
+**Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu from in game to work as well.**
 
 ## Q. How do I enable rumble(vibration) in flycast_rumble?
 ### A. Do the following:
@@ -159,4 +159,14 @@ Per game:
    *  Go back to the quick menu by hitting the B button.
    *  Now exit the menu (Select+X) and enjoy rumble mode! \
 
-**Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu for it to work as well.**
+**Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu from in game to work as well.**
+
+## Q. How do I enable rumble(vibration) in parallel_n64?
+   * Launch a rumble supporting N64 game.  Check this [link](https://nintendo.fandom.com/wiki/List_of_Nintendo_64_games_with_Rumble_Pak_support) for a list of known titles that support rumble.
+   * Go to the **Retroarch Quick menu** (Select+X)
+   * Scroll down to **Options** then hit the A button.
+   * Make sure **Player 1 pak** is set to rumble.
+   *  Go back to the quick menu by hitting the B button.
+   *  Now exit the menu (Select+X) and enjoy rumble mode! \
+
+**Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu from in game to work as well.**
