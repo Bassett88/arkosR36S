@@ -13,7 +13,7 @@
 11. [My unit doesn't seem to boot from the SD card anymore.  What could be the issue?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-my-unit-doesnt-seem-to-boot-from-the-sd-card-anymore--what-could-be-the-issue)
 12. [How can I access a terminal physically on ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-can-i-access-a-terminal-physically-on-ArkOS)
 13. [When I'm in a game, I go to the retroarch menu and make a change and when I attempt to save the current configuration, it fails to save.  Why is that happening?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-when-im-in-a-game-i-go-to-the-retroarch-menu-and-make-a-change-and-when-i-attempt-to-save-the-current-configuration-it-fails-to-save--why-is-that-happening)
-14. [How do I add and enable background music in ArkOS?]()
+14. [How do I add and enable background music in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-add-and-enable-background-music-in-arkos)
 15. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-pscx_rearmed)
 16. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
 17. [How do I enable rumble(vibration) in parallel_n64?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-parallel_n64)
