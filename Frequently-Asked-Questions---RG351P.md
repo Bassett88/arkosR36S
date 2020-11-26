@@ -13,9 +13,10 @@
 11. [My unit doesn't seem to boot from the SD card anymore.  What could be the issue?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-my-unit-doesnt-seem-to-boot-from-the-sd-card-anymore--what-could-be-the-issue)
 12. [How can I access a terminal physically on ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-can-i-access-a-terminal-physically-on-ArkOS)
 13. [When I'm in a game, I go to the retroarch menu and make a change and when I attempt to save the current configuration, it fails to save.  Why is that happening?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-when-im-in-a-game-i-go-to-the-retroarch-menu-and-make-a-change-and-when-i-attempt-to-save-the-current-configuration-it-fails-to-save--why-is-that-happening)
-14. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-pscx_rearmed)
-15. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
-16. [How do I enable rumble(vibration) in parallel_n64?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-parallel_n64)
+14. [How do I add and enable background music in ArkOS?]()
+15. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-pscx_rearmed)
+16. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
+17. [How do I enable rumble(vibration) in parallel_n64?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-parallel_n64)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -133,6 +134,15 @@ Per game:
 
 ## Q. When I'm in a game, I go to the retroarch menu and make a change and when I attempt to save the current configuration, it fails to save.  Why is that happening?
 ### A. The most likely cause is that you have saved a core, content, or game override for the particular emulator core or game you currently have loaded.  Once you have those, you will no longer be able to save a global configuration from that emulator core or game.  This is by design from libretro.  What you'll have to do is from within Emulationstation, scroll through the systems to the retroarch menu, then select either retroarch or retroarch32, then make your global changes there and save current configuration there.
+
+## Q. How do I add and enable background music in ArkOS?
+### A. Do the following:
+
+   *  Just pop the micro SD card into a card reader, plug it into your Windows 10 1703, Mac OS X, or Linux computer and look for the drive letter named EASYROMS.
+   *  Place all .mp3 files you'd like to use as background music in the roms(EASYROMS)/bgmusic folder on the exfat partition.
+   *  Safely eject your micro SD card from your computer and insert the micro SD card in your RG351P and turn it on.
+   *  In Emulationstation, press START then go to Sound Settings > Frontend Music > ON.
+   *  Go back out of the start menu and enjoy!
 
 ## Q. How do I enable rumble(vibration) in pscx_rearmed?
 ### A. Do the following:
