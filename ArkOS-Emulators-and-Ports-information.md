@@ -429,7 +429,8 @@ Instructions: Add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip 
 Instructions: Add .pak files to /roms/ports/quake/quakepaks then start Quake from Ports in emulationstation menu
 
 ### Quake 2
-Instructions: Add .pak files to /roms/ports/quake2/baseq2 then start Quake 2 from Ports in emulationstation menu
+Instructions: Add .pak files to /roms/ports/quake2/baseq2 then start Quake 2 from Ports in emulationstation menu. \
+Notes: There's no support for music at this time until Libretro or the original developer of that emulator fixes this.
 
 ### Rick Dangerous
 Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in emulationstation menu.
