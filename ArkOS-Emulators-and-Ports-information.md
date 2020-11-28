@@ -65,6 +65,12 @@ Rom Folder: atarilynx \
 Extensions: .lnx .LNX .zip .ZIP \
 Bios: lynxboot.img (optional)
 
+### Atari ST
+Emulator: lr-hatari \
+Rom Folder: atarist \
+Extensions: .st .ST .msa .MSA .stx .STX .dim .DIM .ipf .IPF .zip .ZIP \
+Bios: tos.img
+
 ### Coleco
 Emulator: lr-bluemsx  \
 Rom Folder: coleco \
@@ -421,6 +427,9 @@ Instructions: Add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip 
 
 ### Quake 1
 Instructions: Add .pak files to /roms/ports/quake/quakepaks then start Quake from Ports in emulationstation menu
+
+### Quake 2
+Instructions: Add .pak files to /roms/ports/quake2/baseq2 then start Quake 2 from Ports in emulationstation menu
 
 ### Rick Dangerous
 Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in emulationstation menu.
