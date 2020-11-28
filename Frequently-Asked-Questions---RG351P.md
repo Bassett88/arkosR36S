@@ -70,7 +70,7 @@ To exit the system, hit the Start button then Option then select Shutdown.
 
 - L2: PPSSPP Menu
 - L3: Load state
-- R2: Save state
+- R3: Save state
 
 To exit the emulator, do so through the PPSSPP menu.
 
