@@ -17,6 +17,7 @@
 15. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-pscx_rearmed)
 16. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
 17. [How do I enable rumble(vibration) in parallel_n64?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-parallel_n64)
+18. [What does the Backup settings in the Options/Advanced section do?]()
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -183,3 +184,19 @@ Per game:
    *  Now exit the menu (Select+X) and enjoy rumble mode! \
 
 **Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu from in game to work as well.**
+
+## Q. What does the Backup settings in the Options/Advanced section do?
+### A. It backups the following settings to roms/backup/arkosbackup.tar.gz:
+
+Amiberry savestates and whdboot configuration and save \
+Current Timezone \
+Drastic emulator configuration \
+Emulationstation collections \
+Emulationstation settings \
+Mupen64plus standalone emulator gamepad configuration \
+Retroarch configurations for both 64 bit and 32 bit \
+Retroarch cheats for both 64 bit and 32 bit \
+Retroarch overlays for both 64 bit and 32 bit \
+Wireless connections
+
+**Note: As the compressed file will contain sensitive information such as wireless ssid passwords, it should be stored securely off the sd card once created if there's a concern of possible prying eyes.**
