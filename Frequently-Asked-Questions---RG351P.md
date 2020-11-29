@@ -199,7 +199,7 @@ Retroarch cheats for both 64 bit and 32 bit \
 Retroarch overlays for both 64 bit and 32 bit \
 Wireless connections
 
-Note:
+Important Notes:
 - As the compressed file will contain sensitive information such as wireless ssid passwords, it should be stored securely off the sd card once created if there's a concern of possible prying eyes.
 - An accompanying log file (arkosbackup.log) is also created in the roms/backup/ folder.
 - Only one backup file is created and currently supported with these options.  A new backup process will overwrite the existing backup and logfile in the roms/backup/ folder.
