@@ -89,11 +89,11 @@ To exit the emulator, do so through the PPSSPP menu.
 For an entire system library:
  - Hit the **Start button**, then hit A on **Emulator Settings**. 
 - Select the system you'd like to change the emulator core for then hit A.  
-- For emulator, select either retroarch or retroarch32.  For core, select your preferred core.
+- For emulator, select either retroarch, retroarch32 or standalone where applicable.  For core, select your preferred core.
 
 Per game:
 - Highlight the game then hit the **Select button** then hit A.  
-- Go to **Edit This Game's Metadata** then go to Emulator and select retroarch or retroarch32 then go to core and select preferred core.  
+- Go to **Edit This Game's Metadata** then go to Emulator and select retroarch, retroarch32 or standalone where applicable. Then go to core and select preferred core.  
 - Then save the selection.
 
 ## Q. How do i scrape roms using screenscraper in ArkOS?
