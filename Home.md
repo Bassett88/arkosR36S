@@ -88,7 +88,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 Download Links :
 
-**RG351P** - [GDrive-Updating please come back in a couple of hours]() | [Mega-Updating come back in a couple of hours]() (Updated 11/29/2020) [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog)
+**RG351P** - [GDrive](https://drive.google.com/file/d/1vpycxFj2gQGVFBEjC4epmXHJAMxwh-z8/view?usp=sharing) | [Mega](https://mega.nz/file/SEQSlRoR#640VmKc6joGRZPp9M0Ys4WO1xSPIyabpDkoIOSfjw5s) (Updated 11/29/2020) [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog)
 
 **OGA 1.0/RK2020** - (Coming Soon)
 
