@@ -279,7 +279,7 @@ Bios: None
 ### PC Engine CD/TurboGraphx CD
 Emulator: (**lr-mednafen-pce-fast**) lr-mednafen-pce lr-mednafen-supergrafx \
 Rom Folder: pcenginecd or turbografxcd \
-Extensions: .pce .PCE .ccd .CCD .iso .ISO .img .IMG .chd .CHD .zip .ZIP .cue .CUE \
+Extensions: .pce .PCE .ccd .CCD .iso .ISO .img .IMG .chd .CHD .cue .CUE \
 Bios: syscard3.pce
 
 ### PC-FX
