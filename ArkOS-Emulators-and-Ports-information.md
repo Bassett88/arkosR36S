@@ -308,7 +308,7 @@ Extensions: .iso .ISO .cso .CSO .pbp .PBP \
 Bios: None
 
 ### ScummVM
-Emulator: scummvm standalone \
+Emulator: (**lr-scummvm**) scummvm standalone \
 Rom Folder: scummvm \
 Extensions: .svm .SVM \
 Bios: None
@@ -377,6 +377,12 @@ Bios: None
 Emulator: lr-snes9x2010 \
 Rom Folder: snes-hacks \
 Extensions: .smc .SMC .fig .FIG .bs .BS .st .ST .sfc .SFC .gd3 .GD3 .gd7 .GD7 .dx2 .DX2 .bsx .BSX .swc .SWC .zip .ZIP .7z .7Z \
+Bios: None
+
+### Tic-80
+Emulator: lr-tic80 \
+Rom Folder: tic80 \
+Extensions: .tic .TIC \
 Bios: None
 
 ### Vectrex
