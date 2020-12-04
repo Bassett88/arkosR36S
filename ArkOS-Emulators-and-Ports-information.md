@@ -310,7 +310,7 @@ Bios: None
 ### ScummVM
 Emulator: (**lr-scummvm**) scummvm standalone \
 Rom Folder: scummvm \
-Extensions: .svm .SVM \
+Extensions: .scummvm .SCUMMVM \
 Bios: None
 
 ### Sega 32X
