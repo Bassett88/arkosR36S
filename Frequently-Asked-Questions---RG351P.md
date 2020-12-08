@@ -18,6 +18,7 @@
 16. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
 17. [How do I enable rumble(vibration) in parallel_n64?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-parallel_n64)
 18. [What does the Backup settings in the Options/Advanced section do?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-what-does-the-backup-settings-in-the-optionsadvanced-section-do)
+19. [How do I use ArkOS Browser for managing my roms via a web browser?]()
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -204,3 +205,13 @@ Important Notes:
 - An accompanying log file (arkosbackup.log) is also created in the roms/backup/ folder.
 - Only one backup file is created and currently supported with these options.  A new backup process will overwrite the existing backup and logfile in the roms/backup/ folder.
 
+##Q. How do I use ArkOS Browser for managing my roms via a web browser?
+###A. Do the following:
+
+1. Ensure you've configured your wifi following instructions [here](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-configure-my-wifi-connection-in-arkos)
+2. Make sure to Enable Remote Services by scrolling to Options and Hit A on **Enable Remote Services**
+3. Once enabled, go to your desktop or mobile browser and type http://rg351p \
+   Username: ark \
+   Password: ark 
+4. Once you've successfully logged in, you'll see the contents of the EASYROMS(roms) folder.  
+5. You can Upload your roms and Download your roms into the various folders.  For more information about the interface, go to this [link]()
