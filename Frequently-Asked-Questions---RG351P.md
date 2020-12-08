@@ -214,4 +214,29 @@ Important Notes:
    Username: ark \
    Password: ark 
 4. Once you've successfully logged in, you'll see the contents of the EASYROMS(roms) folder.  
-5. You can Upload your roms and Download your roms into the various folders.  For more information about the interface, go to this [link]()
+5. You can Upload your roms and Download your roms into the various folders.
+
+**Create a file/directory**
+
+Click on "New folder" on the left side menu and enter a name for your new directory.
+![](https://github.com/christianhaitian/arkos/raw/main/devices/AWB_New_Folder.JPG)
+
+Similarly, you can create a new file from the main interface.
+
+Once you have created the directory, you'll be redirected into that directory. If not, just double click on it to open. From there, you can upload files/folders or download the existing files.
+
+**Upload Files**
+
+To upload a new file, click on the Upload button (Up arrow) on the top and choose the files you want to upload.
+![](https://github.com/christianhaitian/arkos/raw/main/devices/AWB_Upload_Files.JPG)
+
+The selected file will be uploaded in few seconds depending upon the size.
+
+**Download files**
+
+Choose the file you want to download and hit download button (down arrow) on the top.
+![](https://github.com/christianhaitian/arkos/raw/main/devices/AWB_Download_Files.JPG)
+
+Single files can be downloaded directly. Also, you can download more than one files at a time. Multiple files can be downloaded as .zip, .tar, .tar.gz, .tar.bz2 or .tar.xz.
+
+Similarly, you can remove or copy your files.
