@@ -205,8 +205,8 @@ Important Notes:
 - An accompanying log file (arkosbackup.log) is also created in the roms/backup/ folder.
 - Only one backup file is created and currently supported with these options.  A new backup process will overwrite the existing backup and logfile in the roms/backup/ folder.
 
-##Q. How do I use ArkOS Browser for managing my roms via a web browser?
-###A. Do the following:
+## Q. How do I use ArkOS Browser for managing my roms via a web browser?
+### A. Do the following:
 
 1. Ensure you've configured your wifi following instructions [here](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-configure-my-wifi-connection-in-arkos)
 2. Make sure to Enable Remote Services by scrolling to Options and Hit A on **Enable Remote Services**
