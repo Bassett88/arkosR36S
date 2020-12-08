@@ -18,7 +18,7 @@
 16. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
 17. [How do I enable rumble(vibration) in parallel_n64?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-parallel_n64)
 18. [What does the Backup settings in the Options/Advanced section do?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-what-does-the-backup-settings-in-the-optionsadvanced-section-do)
-19. [How do I use ArkOS Browser for managing my roms via a web browser?]()
+19. [How do I use ArkOS Browser for managing my roms via a web browser?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-use-arkos-browser-for-managing-my-roms-via-a-web-browser)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
