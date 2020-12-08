@@ -191,16 +191,24 @@ Extensions: .7z .bin .sms .zip \
 Bios: bios_E.sms (optional), bios_U.sms (optional), bios_J.sms (optional)
 
 ### MSX
-Emulator: fMSX \
+Emulator: (**lr-bluemsx**) lr-fMSX \
 Rom Folder: msx \
-Extensions: .cas .CAS .dsk .DSK .msx1 .MSX1 .msx2 .MSX2 .rom .ROM \
+Extensions: .cas .CAS .dsk .DSK .mx1 .MX1 .mx2 .MX2 .rom .ROM .zip .ZIP \
 Bios: See this link for more details. https://docs.libretro.com/library/fmsx/#bios
+Notes: The blueMSX core requires the 'Databases' and 'Machines' folders from a full installation of blueMSX. \
+You can download the 'Databases' and 'Machines' folders from [an official full standalone blueMSX emulator](http://bluemsx.msxblue.com/download.html) installation. \
+Get blueMSXv282full.zip near the bottom of the page. \
+Move/Copy the 'Databases' and 'Machines' Folders to the bios folder.
 
 ### MSX2
-Emulator: fMSX \
+Emulator: (**lr-bluemsx**) lr-fMSX \
 Rom Folder: msx2 \
-Extensions: .cas .CAS .dsk .DSK .msx1 .MSX1 .msx2 .MSX2 .rom .ROM \
+Extensions: .cas .CAS .dsk .DSK .mx1 .MX1 .mx2 .MX2 .rom .ROM .zip .ZIP \
 Bios: See this link for more details. https://docs.libretro.com/library/fmsx/#bios
+Notes: The blueMSX core requires the 'Databases' and 'Machines' folders from a full installation of blueMSX. \
+You can download the 'Databases' and 'Machines' folders from [an official full standalone blueMSX emulator](http://bluemsx.msxblue.com/download.html) installation. \
+Get blueMSXv282full.zip near the bottom of the page. \
+Move/Copy the 'Databases' and 'Machines' Folders to the bios folder.
 
 ### Naomi
 Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme \
