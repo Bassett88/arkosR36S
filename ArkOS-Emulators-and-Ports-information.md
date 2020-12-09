@@ -10,8 +10,8 @@
 
 # Emulators
 
-### Amiga
-Emulator: Amiberry \
+### Amiga 
+Emulator: (**Amiberry**) lr-puae \
 Rom Folder: amiga \
 Extensions: .lha .LHA \
 Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)
