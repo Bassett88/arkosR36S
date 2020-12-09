@@ -101,6 +101,7 @@ luali for kernel and dtb for the RG351P, and various other assistance requests. 
 fewt for advice \
 npaladin2000 for donation of the RG351P device so I could release this OS on it. \
 RetroGameCorps for the youtube review \
+That One (Seong) for assistance with core updates \
 BadBrent for advice \
 RadioMan for testing and feedback \
 IggyV for testing and feedback \
