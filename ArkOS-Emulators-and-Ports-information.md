@@ -432,7 +432,7 @@ Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder 
 Instructions: Cave Story files are already included and ready to go.  Just start Cave Story from Ports in emulationstation menu.
 
 ### DevilutionX (Diablo 1)
-Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder; **make sure diabdat.mpq is all lowercase!**.  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support)
+Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder; **make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support)
 
 ### Doom 1
 Instructions: Add Doom.wad file to /roms/ports/doom folder then start Doom from Ports in emulationstation menu.  For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
