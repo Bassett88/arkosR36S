@@ -19,6 +19,7 @@
 17. [How do I enable rumble(vibration) in parallel_n64?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-enable-rumblevibration-in-parallel_n64)
 18. [What does the Backup settings in the Options/Advanced section do?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-what-does-the-backup-settings-in-the-optionsadvanced-section-do)
 19. [How do I use ArkOS Browser for managing my roms via a web browser?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-use-arkos-browser-for-managing-my-roms-via-a-web-browser)
+20. [How can I change or remove the splash screen when loading games?]()
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -240,3 +241,13 @@ Choose the file you want to download and hit download button (down arrow) on the
 Single files can be downloaded directly. Also, you can download more than one files at a time. Multiple files can be downloaded as .zip, .tar, .tar.gz, .tar.bz2 or .tar.xz.
 
 Similarly, you can remove or copy your files.
+
+## Q. How can I change or remove the splash screen when loading games?
+### A. You can change the splash screen by uploading a new splash screen image in the /roms/launchimages folder.  The image must meet the following criteria: 
+
+- Must be in .jpg format
+- Must be named loading.jpg.  The name is case sensitive!
+- Must be 480 pixels in width and 320 pixels in Height.
+- Must be of 24 bit depth
+
+If you'd like to remove the splash screen all together, just rename the loading.jpg file to something else or simply delete it.
