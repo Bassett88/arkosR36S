@@ -431,6 +431,9 @@ Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder 
 ### Cave Story
 Instructions: Cave Story files are already included and ready to go.  Just start Cave Story from Ports in emulationstation menu.
 
+### Commander Genius (Commander Keen)
+Instructions: Load your keen folders into the /roms/ports/cgenius/games folder.  As an example, the shareware version of Commander Keen 1 is included and is named Keen.  Then just start Commander Genius from Ports in emulationstation menu.
+
 ### DevilutionX (Diablo 1)
 Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder; **make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support)
 
@@ -442,6 +445,9 @@ Instructions: Add Doom2.wad file to /roms/ports/doom2 folder then start Doom 2 f
 
 ### EasyRPG
 Instructions: Load game folders within the /roms/ports/easyrpg folder.  Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.
+
+### OpenTyrian
+Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in Emulationstation.
 
 ### Pico-8
 Instructions: Add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to /roms/bios/pico-8 folder and add your .png game files to /roms/ports/pico-8 folder then start pico-8 from Ports in emulationstation menu
