@@ -247,7 +247,7 @@ Similarly, you can remove or copy your files.
 
 - Must be in .jpg format
 - Must be named loading.jpg.  The name is case sensitive!
-- Must be 480 pixels in width and 320 pixels in Height.
+- Must be 480 pixels in width and 320 pixels in height.
 - Must be of 24 bit depth
 
 If you'd like to remove the splash screen all together, just rename the loading.jpg file to something else or simply delete it.
