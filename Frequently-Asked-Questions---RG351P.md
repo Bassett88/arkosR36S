@@ -77,6 +77,10 @@ To exit the system, hit the Start button then Option then select Shutdown.
 
 To exit the emulator, do so through the PPSSPP menu.
 
+**For Solarus**
+
+To exit the system, hit the Select and Start button to exit.
+
 **For Mupen64plus standalone emulator**
 
 ![](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_mupen64_resized.jpg)  
