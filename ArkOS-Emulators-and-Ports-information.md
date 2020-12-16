@@ -108,6 +108,13 @@ Rom Folder: cps3 \
 Extensions: .zip .ZIP .7z .7Z .cue .CUE \
 Bios: None
 
+### Doom
+Emulator: (**lzdoom**) lr-prboom \
+Rom Folder: doom \
+Extensions: .wad .WAD \
+Bios: None \
+Notes: In order to use prboom, you'll need prboom.wad in the /roms/doom folder.  You can copy it from the /roms/ports/doom folder to that location or simply download it from [here](https://github.com/christianhaitian/arkos/raw/main/12162020/prboom.wad) and put it in that location.
+
 ### Dreamcast
 Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme \
 Rom Folder: dreamcast \
@@ -351,6 +358,12 @@ Rom Folder: x68000 \
 Extensions: .dim .DIM .m3u .M3U \
 Bios: iplrom.dat, cgrom.dat, iplrom30.dat (optional), iplromco.dat (optional), iplromxv.dat (optional) (*need to be placed in a folder named keropi within the bios folder*)
 
+### Solarus
+Emulator: solarus-run \
+Rom Folder: solarus \
+Extensions: .solarus .SOLARUS .zip .ZIP \
+Bios: None
+
 ### SuFami Turbo
 Emulator: (**lr-snes9x2010**) lr-snes9x lr-snes9x2002 lr-snes9x2005 \
 Rom Folder: sufami \
@@ -437,7 +450,7 @@ Instructions: Load your keen folders into the /roms/ports/cgenius/games folder. 
 ### DevilutionX (Diablo 1)
 Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder; **make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support)
 
-### Doom 1
+### Doom 1 (Soon to be deprecated as Doom has been moved to the main system section.  Uses lzdoom which is a superior doom engine and even supports mods like Brutal Doom Lite!) 
 Instructions: Add Doom.wad file to /roms/ports/doom folder then start Doom from Ports in emulationstation menu.  For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
 
 ### Doom 2
