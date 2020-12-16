@@ -79,7 +79,7 @@ To exit the emulator, do so through the PPSSPP menu.
 
 **For Solarus**
 
-To exit the system, hit the Select and Start button to exit.
+To exit the system, hit the Select and Start button.
 
 **For Mupen64plus standalone emulator**
 
