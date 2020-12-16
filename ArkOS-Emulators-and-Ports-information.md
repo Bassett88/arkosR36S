@@ -363,6 +363,7 @@ Emulator: solarus-run \
 Rom Folder: solarus \
 Extensions: .solarus .SOLARUS .zip .ZIP \
 Bios: None
+Notes:  The analog stick is inverted in Solarus games due to limitations of Solarus.  Games for Solarus usually allow the ability to reassign controller preferences from within games.  Solarus doesn't natively support the ability to exit the emulator from a controller.  For use in Arkos, a daemon is included that watches for the select and start buttons to be pressed simultaneously and kills the solarus-run process so return back to Emulationstation.  If you put the system to sleep while in a Solarus game, upon wake, the daemon may not work anymore.  If that's the case, try to press R3+Power button to safely shutdown the system.  If all else fails, you can hit the bottom reset button but limit the use of that when possible or data corruption can occur.
 
 ### SuFami Turbo
 Emulator: (**lr-snes9x2010**) lr-snes9x lr-snes9x2002 lr-snes9x2005 \
