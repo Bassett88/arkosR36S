@@ -53,7 +53,7 @@ Rom Folder: atari2600 \
 Extensions: .a26 .A26 .bin .BIN .zip .ZIP \
 Bios: None
 
-### Atari 5200 \
+### Atari 5200
 Emulator: lr-atari800 \
 Rom Folder: atari5200 \
 Extensions: .a52 .A52 .zip .ZIP \
