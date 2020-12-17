@@ -41,17 +41,23 @@ Rom Folder: atomiswave \
 Extensions: .7z .7Z .ist .IST .zip .ZIP .bin .BIN \
 Bios: awbios.zip (*need to be placed in a folder named dc within the bios folder*)
 
+### Atari 800
+Emulator: lr-atari800 \
+Rom Folder: atari800 \
+Extensions: .atr .ATR .rom .ROM .zip .ZIP \
+Bios: ATARIOSA.ROM and ATARIOSB.ROM and ATARIBAS.ROM
+
 ### Atari 2600
 Emulator: lr-stella \
 Rom Folder: atari2600 \
 Extensions: .a26 .A26 .bin .BIN .zip .ZIP \
 Bios: None
 
-### Atari 800, 5200 and XEGS
+### Atari 5200 \
 Emulator: lr-atari800 \
-Rom Folder: atari800 or atari5200 or atarixegs \
-Extensions: .a52 .A52 .atr .bin .BIN .rom .ROM .xex .XEX .zip .ZIP  \
-Bios: ATARIXL.ROM and ATARIBAS.ROM and ATARIOSA.ROM and ATARIOSB.ROM and 5200.rom
+Rom Folder: atari5200 \
+Extensions: .a52 .A52 .zip .ZIP \
+Bios: 5200.rom and ATARIBAS.ROM
 
 ### Atari 7800
 Emulator: lr-prosystem \
@@ -70,6 +76,12 @@ Emulator: lr-hatari \
 Rom Folder: atarist \
 Extensions: .st .ST .msa .MSA .stx .STX .dim .DIM .ipf .IPF .zip .ZIP \
 Bios: tos.img
+
+### Atari XEGS
+Emulator: lr-atari800 \
+Rom Folder: atarixegs \
+Extensions: .bin .BIN .rom .ROM .xex .XEX .zip .ZIP  \
+Bios: ATARIXL.ROM and ATARIBAS.ROM 
 
 ### Coleco
 Emulator: lr-bluemsx  \
