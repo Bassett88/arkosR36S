@@ -488,5 +488,8 @@ Notes: There's no support for music at this time until Libretro or the original 
 ### Rick Dangerous
 Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in emulationstation menu.
 
+### VVVVVV
+Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead.
+
 ### Wolfenstein 3D
 Instructions: Wolfenstein 3D shareware episode 1 is already included and ready to go.  You can add your own registered copy into the /roms/ports/ecwolf folder. 
