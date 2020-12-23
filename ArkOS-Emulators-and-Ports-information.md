@@ -482,9 +482,11 @@ Instructions: Only works with the full version of Half life 1.
 
 Note: The analog controls are reversed in menu only.  Just use the Dpad to navigate the menu.  Once in game, they work correctly.  
 
-Keys while in games: \
+Default keys while in games: \
 L2: Quick save \
 L1: Quick load \
+Select: Exit \
+Start: Pause \
 Dpad and left control stick: move \
 Right control stick: look around \
 R1: shoot \
