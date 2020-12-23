@@ -473,8 +473,12 @@ Instructions: Add Doom2.wad file to /roms/ports/doom2 folder then start Doom 2 f
 Instructions: Load game folders within the /roms/ports/easyrpg folder.  Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.
 
 ### Half-Life 1
-Instructions: Only works with the full version of Half life 1.  Copy the valve folder from your steam game folder or other source into /roms/ports/Half-Life. \
-Then unzip the contents of the **Copy Contents into valve folder.zip** into your valve folder.  Now launch Half-Life from the ports menu in emulationstation.  The first launch of the game may take up to 2 minutes to complete.  Subsequent launches will be quicker.  
+Instructions: Only works with the full version of Half life 1.
+
+1. Copy the valve folder from your steam game folder or other source into /roms/ports/Half-Life. \
+2. Then unzip the contents of the **Copy Contents into valve folder.zip** into your valve folder. \
+3. Now launch Half-Life from the ports menu in emulationstation.  
+4. The first launch of the game may take up to 2 minutes to complete.  Subsequent launches will be quicker.  
 
 Note: The analog controls are reversed in menu only.  Just use the Dpad to navigate the menu.  Once in game, they work correctly.  
 
@@ -485,7 +489,7 @@ Dpad and left control stick: move \
 Right control stick: look around \
 R1: shoot \
 Y: Bend down \
-B: Jump \
+B: Jump
 
 ### OpenTyrian
 Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in Emulationstation.
