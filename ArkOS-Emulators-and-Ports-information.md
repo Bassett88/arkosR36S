@@ -493,6 +493,13 @@ R1: shoot \
 Y: Bend down \
 B: Jump
 
+Thanks to a community member by the name of fonzo, an alternative to these controls that some like is to copy these 2 files into the valve folder:
+[autoexec.cfg](https://github.com/christianhaitian/arkos/raw/main/devices/autoexec.cfg)
+[keyboard.cfg](https://github.com/christianhaitian/arkos/raw/main/devices/keyboard.cfg)
+
+and you're controls will be as shown in the image below:
+![fonzo mapping](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_halflife_fonzo.png)
+
 ### OpenTyrian
 Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in Emulationstation.
 
