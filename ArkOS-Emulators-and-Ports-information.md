@@ -472,6 +472,21 @@ Instructions: Add Doom2.wad file to /roms/ports/doom2 folder then start Doom 2 f
 ### EasyRPG
 Instructions: Load game folders within the /roms/ports/easyrpg folder.  Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.
 
+### Half-Life 1
+Instructions: Only works with the full version of Half life 1.  Copy the valve folder from your steam game folder or other source into /roms/ports/Half-Life. \
+Then unzip the contents of the **Copy Contents into valve folder.zip** into your valve folder.  Now launch Half-Life from the ports menu in emulationstation.  The first launch of the game may take up to 2 minutes to complete.  Subsequent launches will be quicker.  
+
+Note: The analog controls are reversed in menu only.  Just use the Dpad to navigate the menu.  Once in game, they work correctly.  
+
+Keys while in games: \
+L2: Quick save \
+L1: Quick load \
+Dpad and left control stick: move \
+Right control stick: look around \
+R1: shoot \
+Y: Bend down \
+B: Jump \
+
 ### OpenTyrian
 Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in Emulationstation.
 
@@ -479,14 +494,17 @@ Instructions: OpenTyrian 2.1 files are already included as they were made freewa
 Instructions: Add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to /roms/bios/pico-8 folder and add your .png game files to /roms/ports/pico-8 folder then start pico-8 from Ports in emulationstation menu
 
 ### Quake 1
-Instructions: Add .pak files to /roms/ports/quake/quakepaks then start Quake from Ports in emulationstation menu
+Instructions: Add .pak files to /roms/ports/quake/quakepaks then start Quake from Ports in the emulationstation menu
 
 ### Quake 2
 Instructions: Add .pak files to /roms/ports/quake2/baseq2 then start Quake 2 from Ports in emulationstation menu. \
 Notes: There's no support for music at this time until Libretro or the original developer of that emulator fixes this.
 
 ### Rick Dangerous
-Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in emulationstation menu.
+Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in the emulationstation menu.
+
+### SDLPoP (Prince of Persia)
+Instructions: The game is an open-source port and is already included and ready to go.  Just start SDLPoP from Ports in the emulationstation menu.
 
 ### VVVVVV
 Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead.
