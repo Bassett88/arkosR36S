@@ -14,13 +14,10 @@
 12. [How can I access a terminal physically on ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-can-i-access-a-terminal-physically-on-ArkOS)
 13. [When I'm in a game, I go to the retroarch menu and make a change and when I attempt to save the current configuration, it fails to save.  Why is that happening?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-when-im-in-a-game-i-go-to-the-retroarch-menu-and-make-a-change-and-when-i-attempt-to-save-the-current-configuration-it-fails-to-save--why-is-that-happening)
 14. [How do I add and enable background music in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-add-and-enable-background-music-in-arkos)
-15. [How do I enable rumble(vibration) in pscx_rearmed?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-enable-rumblevibration-in-pscx_rearmed)
-16. [How do I enable rumble(vibration) in flycast_rumble?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-enable-rumblevibration-in-flycast_rumble)
-17. [How do I enable rumble(vibration) in parallel_n64?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-enable-rumblevibration-in-parallel_n64)
-18. [What does the Backup settings in the Options/Advanced section do?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-what-does-the-backup-settings-in-the-optionsadvanced-section-do)
-19. [How do I use ArkOS Browser for managing my roms via a web browser?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-use-arkos-browser-for-managing-my-roms-via-a-web-browser)
-20. [How can I change or remove the splash screen when loading games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-can-i-change-or-remove-the-splash-screen-when-loading-games)
-21. [How do I turn on the accessibility features of Retroarch?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-turn-on-the-text-to-speech-accessibility-feature-of-retroarch)
+15. [What does the Backup settings in the Options/Advanced section do?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-what-does-the-backup-settings-in-the-optionsadvanced-section-do)
+16. [How do I use ArkOS Browser for managing my roms via a web browser?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-use-arkos-browser-for-managing-my-roms-via-a-web-browser)
+17. [How can I change or remove the splash screen when loading games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-can-i-change-or-remove-the-splash-screen-when-loading-games)
+18. [How do I turn on the accessibility features of Retroarch?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-turn-on-the-text-to-speech-accessibility-feature-of-retroarch)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -148,46 +145,6 @@ Per game:
    *  Safely eject your micro SD card from your computer and insert the micro SD card in your RGB10 and turn it on.
    *  In Emulationstation, press START then go to Sound Settings > Frontend Music > ON.
    *  Go back out of the start menu and enjoy!
-
-## Q. How do I enable rumble(vibration) in pscx_rearmed?
-### A. Do the following:
-
-   *  Launch a rumble supporting Playstation game.  Check this [link](https://github.com/libretro/libretro-database/issues/64) for a list of known titles that support rumble.
-   *  Go to the **Retroarch Quick menu** (Select+X)
-   *  Scroll down to **Options** then hit the A button.
-   *  Make sure **Enable vibration is on**.
-   *  Go back to the quick menu by hitting the B button.
-   *  Scroll down to **Controls** then hit the A button.
-   *  Then scroll down to **Port 1 Controls** and hit the A button.
-   *  Set **Device Type to dualshock** by hitting the right d-pad button twice.
-   *  Then hit the B button, then scroll up to **Save core Remap File** and hit the A button.
-   *  Now exit the menu (Select+X) and enjoy rumble mode! \
-
-**Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu from in game to work as well.**
-
-## Q. How do I enable rumble(vibration) in flycast_rumble?
-### A. Do the following:
-
-   *  Launch a rumble supporting Dreamcast Game.  Check this [link](https://segaretro.org/Jump_Pack#List_of_compatible_games) for a list of known titles that support rumble.
-   *  Go to the **Retroarch Quick menu** (Select+X)
-   *  Scroll down to **Options** then hit the A button.
-   *  Make sure **Purupuru Pack/Vibration Pack is on**.
-   *  Go back to the quick menu by hitting the B button.
-   *  Now exit the menu (Select+X) and enjoy rumble mode! \
-
-**Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu from in game to work as well.**
-
-## Q. How do I enable rumble(vibration) in parallel_n64?
-### A. Do the following:
-
-   * Launch a rumble supporting N64 game.  Check this [link](https://nintendo.fandom.com/wiki/List_of_Nintendo_64_games_with_Rumble_Pak_support) for a list of known titles that support rumble.
-   * Go to the **Retroarch Quick menu** (Select+X)
-   * Scroll down to **Options** then hit the A button.
-   * Make sure **Player 1 pak** is set to rumble.
-   *  Go back to the quick menu by hitting the B button.
-   *  Now exit the menu (Select+X) and enjoy rumble mode! \
-
-**Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu from in game to work as well.**
 
 ## Q. What does the Backup settings in the Options/Advanced section do?
 ### A. It backups the following settings to roms/backup/arkosbackup.tar.gz:
