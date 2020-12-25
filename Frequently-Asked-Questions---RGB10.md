@@ -58,8 +58,8 @@
 
 **For Drastic (NDS emulator)**
 
-- L2: screen swap between upper and lower DS screens
-- R2: stylus tap
+- Minus Key: screen swap between upper and lower DS screens
+- Plus Key: stylus tap
 - Joystick: Move the stylus
 - Select: Drastic menu
 
@@ -71,7 +71,7 @@ To exit the system, hit the Start button then Option then select Shutdown or hit
 
 **For PPSSPP (PSP emulator)**
 
-- L2: PPSSPP Menu
+- Plus key: PPSSPP Menu
 
 To exit the emulator, do so through the PPSSPP menu or hit Select+Start.
 
