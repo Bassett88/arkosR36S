@@ -90,9 +90,9 @@ Download Links :
 
 **RG351P** - [GDrive](https://drive.google.com/file/d/1KaGODcWwx9gtnJjZjaQ9iC0UBiLX2SLi/view?usp=sharing) | [Mega](https://mega.nz/file/eIoW2AgR#ZcT57LcKqsKxqkwzTMxJCY1dfkVTpBfV3O8KsWVR5iI) (Updated 12/16/2020) [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog)
 
-**OGA 1.0/RK2020** - (Coming Soon)
+**OGA 1.0/RK2020** - [Mega](https://mega.nz/file/6co3HYCD#YkkMZSWopFgDDAiq7UNX__ylI_X7d77VZiZYZiOghYA)
 
-**OGA 1.1/RGB10** - (Coming Soon)
+**OGA 1.1/RGB10** - [Mega](https://mega.nz/file/jEhU1D7B#Pu1SkVR-_7F4Vs8nwc9xy-eLnARcWuc1iOlqjAle72s)
 
 ### Credits and Thanks
 Slaminger for the TheRA OS that helped inspire me to provide ArkOS \
