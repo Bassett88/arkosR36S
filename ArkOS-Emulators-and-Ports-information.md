@@ -292,9 +292,9 @@ Extensions: .d88 .D88 .hdi .HDI .zip .ZIP \
 Bios: See this link for more details.  https://docs.libretro.com/library/neko_project_ii_kai/#bios
 
 ### PC
-Emulator: lr-dosbox \
+Emulator: (**lr-dosbox_pure**) lr-dosbox \
 Rom Folder: dos \
-Extensions: exe .EXE .com .COM .bat .BAT .conf .CONF .cue .CUE .iso .ISO \
+Extensions: .exe .EXE .com .COM .bat .BAT .conf .CONF .cue .CUE .iso .ISO .zip .ZIP \
 Bios: None
 
 ### PC Engine/TurboGraphx-16
