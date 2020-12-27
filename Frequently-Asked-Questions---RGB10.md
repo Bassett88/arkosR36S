@@ -85,6 +85,19 @@ To exit the system, hit the Select and Start button.
 - Minus + L1: Load State
 - Minus + A: Pause/Unpause emulator
 
+**For File Manager**
+
+- D-pad: Move
+- L: Page up
+- R: Page down
+- A when a directory is selected: open directory 
+- A when a file is selected: view or execute
+- B: Go to parent directory / cancel
+- Y: System actions: - Select all items - Select no items - Create new directory - Display disk information - Quit program
+- X: Actions on selected items: - Copy to destination directory - Move to destination directory - Rename (appears only if 1 item is selected) - Delete Display disk used
+- SELECT: Select highlighted item. Selected items are displayed in red.
+- START: Open highlighted directory in destination panel. If a file is highlighted, open current directory in destination panel.
+
 ## Q. How do I change emulator cores in ArkOS?
 ### A. Do the following:
 For an entire system library:
