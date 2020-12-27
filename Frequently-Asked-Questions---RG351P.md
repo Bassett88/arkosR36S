@@ -104,8 +104,6 @@ To exit the system, hit the Select and Start button.
 - SELECT: Select highlighted item. Selected items are displayed in red.
 - START: Open highlighted directory in destination panel. If a file is highlighted, open current directory in destination panel.
 
-**Note**: Key assignments are used from the default retroarch32 configuration.  If the default key assignments are changed in retroarch32, it will change the key assignments for File Manager as well!
-
 ## Q. How do I change emulator cores in ArkOS?
 ### A. Do the following:
 For an entire system library:
