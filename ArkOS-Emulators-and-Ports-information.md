@@ -242,6 +242,14 @@ Rom Folder: neogeo \
 Extensions: .zip .ZIP .7z .7Z \
 Bios: neogeo.zip
 
+### Neo Geo CD
+Emulator: lr-neocd \
+Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well) \
+Rom Folder: neogeocd \
+Extensions: .cue .CUE .chd .CHD .m3u .M3U \
+Bios: (000-lo.lo or ng-lo.rom) and (neocd_f.rom or neocd.bin or uni-bioscd.rom) *placed in a folder named neocd within the bios folder* \
+Note: More information available [here](https://github.com/libretro/neocd_libretro#required-bios-files)
+
 ### Neo Geo Pocket
 Emulator: lr-mednafen-ngp (aka lr-beetle-ngp) \
 Rom Folder: ngp \
