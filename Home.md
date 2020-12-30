@@ -1,6 +1,7 @@
-Welcome to the ArkOS wiki!
-
-This wiki will house information pertaining to the ArkOS distribution.
+<H1 align="center">
+Welcome to the ArkOS wiki </H1>
+<p align="center"><img width="300" height="200" src="https://github.com/christianhaitian/arkos/raw/main/devices/ArkOSLogoOreoTransparent.bmp">
+</p>
 
 The overarching goals of ArkOS is as follows:
 1. Ease of use 
