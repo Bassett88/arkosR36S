@@ -26,13 +26,13 @@ Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for mo
 ### Amiga CD32
 Emulator: lr-puae \
 Rom Folder: amigacd32 \
-Extensions: .cue .CUE .ccd .CCD .nrg .NRG .mds .MDS .iso .ISO .m3u .M3U \
+Extensions: .cue .CUE .ccd .CCD .lha .LHA .nrg .NRG .mds .MDS .iso .ISO .m3u .M3U \
 Bios: kick34005.A500 and kick40063.A600 and kick40068.A1200
 
 ### Amstrad CPC
 Emulator: lr-cap32 \
 Rom Folder: amstradcpc \
-Extensions: .cpc .CPC .dsk .DSK \
+Extensions: .cpc .CPC .dsk .DSK .zip .ZIP \
 Bios: None
 
 ### Arcade
@@ -136,7 +136,7 @@ Bios: None
 ### Doom
 Emulator: (**lzdoom**) lr-prboom \
 Rom Folder: doom \
-Extensions: .wad .WAD \
+Extensions: .wad .WAD .sh .SH\
 Bios: None \
 Notes: In order to use prboom, you'll need prboom.wad in the /roms/doom folder.  You can copy it from the /roms/ports/doom folder to that location or simply download it from [here](https://github.com/christianhaitian/arkos/raw/main/12162020/prboom.wad) and put it in that location.
 
@@ -166,7 +166,7 @@ Extensions: .gb .GB .gbc .GBC .dmg .DMG .zip .ZIP .7z .7Z \
 Bios: gb_bios.bin (optional)
 
 ### Game Boy Advance
-Emulator: lr-mgba \
+Emulator: (**lr-mgba**) lr-vbam lr-vba_next \
 Rom Folder: gba \
 Extensions: .gb .GB .gbc .GBC .gba .GBA .zip .ZIP .7z .7Z \
 Bios: gba_bios.bin (optional), gb_bios.bin (optional), gbc_bios.bin (optional), sgb_bios.bin (optional)
@@ -357,7 +357,7 @@ Bios: None
 ### Pokemon Mini
 Emulator: lr-pokemini \
 Rom Folder: pokemonmini \
-Extensions: .min .MIN \
+Extensions: .min .MIN .zip .ZIP \
 Bios: bios.min (optional)
 
 ### ScummVM
