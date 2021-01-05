@@ -89,11 +89,11 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 Download Links :
 
-**RG351P** - [GDrive](https://drive.google.com/file/d/1KaGODcWwx9gtnJjZjaQ9iC0UBiLX2SLi/view?usp=sharing) | [Mega](https://mega.nz/file/eIoW2AgR#ZcT57LcKqsKxqkwzTMxJCY1dfkVTpBfV3O8KsWVR5iI) (Updated 12/16/2020) [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog)
+**RG351P** - [GDrive](https://drive.google.com/file/d/1KaGODcWwx9gtnJjZjaQ9iC0UBiLX2SLi/view?usp=sharing) | [Mega](https://mega.nz/file/eIoW2AgR#ZcT57LcKqsKxqkwzTMxJCY1dfkVTpBfV3O8KsWVR5iI) (Updated 12/16/2020) MD5:38BE3868FC6BE01F2C5AEBED004F0390 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog)
 
-**OGA 1.0/RK2020** - [Mega](https://mega.nz/file/6co3HYCD#YkkMZSWopFgDDAiq7UNX__ylI_X7d77VZiZYZiOghYA)
+**OGA 1.0/RK2020** - [GDrive](https://drive.google.com/file/d/1SGoBlSjDFRtU1oOHw7rdiOqA2-b6QIwf/view?usp=sharing) | [Mega](https://mega.nz/file/6co3HYCD#YkkMZSWopFgDDAiq7UNX__ylI_X7d77VZiZYZiOghYA) (Updated 12/25/2020) MD5:38C47B970323FC73C1C37638DA33D5F0 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog)
 
-**OGA 1.1/RGB10** - [Mega](https://mega.nz/file/jEhU1D7B#Pu1SkVR-_7F4Vs8nwc9xy-eLnARcWuc1iOlqjAle72s)
+**OGA 1.1/RGB10** - [GDrive](https://drive.google.com/file/d/1JFZMDEqOZmwJb6ugXgdmhZdi6Fpj1s9U/view?usp=sharing) | [Mega](https://mega.nz/file/jEhU1D7B#Pu1SkVR-_7F4Vs8nwc9xy-eLnARcWuc1iOlqjAle72s) (Updated 12/25/2020) MD5:55C98C674EA9CCC3C9C974E9892AE098 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog)
 
 ### Credits and Thanks
 Slaminger for the TheRA OS that helped inspire me to provide ArkOS \
