@@ -133,6 +133,13 @@ Rom Folder: cps3 \
 Extensions: .zip .ZIP .7z .7Z .cue .CUE \
 Bios: None
 
+### Daphne
+Emulator: hypseus standalone \
+Rom Folder: daphne \
+Extensions: .daphne .DAPHNE \
+Bios: None \
+Notes: Be aware that within the daphne folder is a roms folder.  That is not an error.  That folder is needed.  Your laserdisc .zip files should contain a "rom name".daphne folder that must be copied to the root daphne folder.  Make sure the "rom name".daphne folder contains a framefile ("rom name".txt) or it will not load.  Your laserdisc .zip files must be loaded into the daphne/roms folder.  If you're still having issues getting this to work, click [here](https://retropie.org.uk/docs/Daphne/)
+
 ### Doom
 Emulator: (**lzdoom**) lr-prboom \
 Rom Folder: doom \
