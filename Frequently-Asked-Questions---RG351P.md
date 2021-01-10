@@ -57,6 +57,15 @@
 - Select + X: Amiberry Menu
 - Select + Start: Exit Amiberry.
 
+**Daphne (Hypseus)**
+- Select: Coin
+- Start: Start game
+- A: Button 1
+- B: Button 2
+- C: Button 3
+- R2: Pause
+- Select+Start: Exit Daphne
+
 **For Drastic (NDS emulator)**
 
 - L2: Screen swap between upper and lower DS screens
