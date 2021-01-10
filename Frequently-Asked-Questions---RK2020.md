@@ -59,7 +59,7 @@
 - Start: Start game
 - A: Button 1
 - B: Button 2
-- C: Button 3
+- Y: Button 3
 - R2: Pause
 - Select+Start: Exit Daphne
 
