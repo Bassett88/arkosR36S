@@ -22,8 +22,8 @@ Known issues with ArkOS, devices and/or various software packages:
 6. While updating ArkOS, my wifi seems to stop working.
    - This is a common issue that is happening with rtl8xxxu chipset based wifi adapters.  These wifi adapters are known to have bad stability and performance with Linux using the built-in kernel drivers for this chipset.  There is a workaround for the issue available [here](https://github.com/christianhaitian/arkos/issues/124#issuecomment-751475195).
 
-7. OpenTyrian is jerky.  How can this be fixed?
-   - This is an issue due to the refresh rate that the game supports versus what the LCD panels on our devices expect.  Unless the developer of OpenTyrian or some other developer can fix the code in OpenTyrian to accommodate smooth play on the LCD panels on this device, this is how this game will perform for now.
+7. OpenTyrian is jerky.  How can this be fixed? (Resolved as of 01/11/2021 Online update.)
+   - ~~This is an issue due to the refresh rate that the game supports versus what the LCD panels on our devices expect.  Unless the developer of OpenTyrian or some other developer can fix the code in OpenTyrian to accommodate smooth play on the LCD panels on this device, this is how this game will perform for now.~~ Resolved as of 01/11/2021 Online update.
 
 8. The keyboard for setting up wifi has limited characters.  This is an issue for wifi passwords with special characters.  Can additional characters be added?
    - Unfortunately, that program's code is closed source and I can't change that, however, when I manage to support wifi directly in emulationstation, this should be feasible.
