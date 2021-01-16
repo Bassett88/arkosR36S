@@ -452,6 +452,12 @@ Rom Folder: tic80 \
 Extensions: .tic .TIC \
 Bios: None
 
+### Uzebox
+Emulator: lr-uzem \
+Rom Folder: uzebox \
+Extensions: .uze .UZE \
+Bios: None
+
 ### Vectrex
 Emulator: lr-vecx \
 Rom Folder: vectrex \
