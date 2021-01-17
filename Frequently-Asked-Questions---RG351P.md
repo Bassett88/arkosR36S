@@ -187,7 +187,7 @@ Per game:
    *  Then scroll down to **Port 1 Controls** and hit the A button.
    *  Set **Device Type to dualshock** by hitting the right d-pad button twice.
    *  Then hit the B button, then scroll up to **Save core Remap File** and hit the A button.
-   *  Now exit the menu (Select+X) and enjoy rumble mode! \
+   *  Now exit the menu (Select+X) and enjoy rumble mode! 
 
 **Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu from in game to work as well.**
 
@@ -199,7 +199,7 @@ Per game:
    *  Scroll down to **Options** then hit the A button.
    *  Make sure **Purupuru Pack/Vibration Pack is on**.
    *  Go back to the quick menu by hitting the B button.
-   *  Now exit the menu (Select+X) and enjoy rumble mode! \
+   *  Now exit the menu (Select+X) and enjoy rumble mode! 
 
 **Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu from in game to work as well.**
 
@@ -211,7 +211,7 @@ Per game:
    * Scroll down to **Options** then hit the A button.
    * Make sure **Player 1 pak** is set to rumble.
    *  Go back to the quick menu by hitting the B button.
-   *  Now exit the menu (Select+X) and enjoy rumble mode! \
+   *  Now exit the menu (Select+X) and enjoy rumble mode! 
 
 **Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu from in game to work as well.**
 
