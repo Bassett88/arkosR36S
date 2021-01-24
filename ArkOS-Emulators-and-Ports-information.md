@@ -385,6 +385,12 @@ Rom Folder: segacd \
 Extensions: .bin .BIN .chd .CHD .cue .CUE .iso .ISO \
 Bios: bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin
 
+### Sega Saturn
+Emulator: (**lr-yabasanshiro**) lr-yabause \
+Rom Folder: saturn \
+Extensions: .img .IMG .cue .CUE .chd .CHD .iso .ISO .m3u .M3U \
+Bios: saturn_bios.bin (Optional)
+
 ### SG 1000
 Emulator: lr-genesis_plus_gx \
 Rom Folder: sg-1000 \
