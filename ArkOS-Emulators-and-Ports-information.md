@@ -349,7 +349,7 @@ Extensions: .cue .CUE .img .IMG .mdf .MDF .pbp .PBP .toc .TOC .cbn .CBN .m3u .M3
 Bios: psxonpsp660.bin, scph101.bin, scph7001.bin, scph5501.bin, scph1001.bin
 
 ### Playstation Portable (PSP)
-Emulator: (**ppsspp standalone**) lr-ppsspp \
+Emulator: (**ppsspp standalone**) ppsspp-go standalone lr-ppsspp \
 Rom Folder: psp \
 Extensions: .iso .ISO .cso .CSO .pbp .PBP \
 Bios: None
