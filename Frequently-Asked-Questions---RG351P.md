@@ -136,7 +136,7 @@ Per game:
 ### A. For some reason, select for credit doesn’t work for some games in MAME and CPS.  If you change the coin button to something else like R2 or L2, it works.  Below are the instructions you can follow to do this:
 
 - Launch the MAME or CPS game that's having the coin issue.
-- Go into the retroarch menu by hitting Minus+X.  
+- Go into the retroarch menu by hitting Select+X.  
 - Then go to Controls.
 - Then go to Port 1 Controls.
 - Select an alternate coin button.
