@@ -74,17 +74,17 @@ To exit the emulator, do so through the Drastic menu.
 
 **For Pico-8**
 
-To exit the system, hit the Start button then Option then select Shutdown or hit Select+Start.
+To exit the system, hit the Start button then Option then select Shutdown or hit Minus+Start.
 
 **For PPSSPP (PSP emulator)**
 
 - Plus key: PPSSPP Menu
 
-To exit the emulator, do so through the PPSSPP menu or hit Select+Start.
+To exit the emulator, do so through the PPSSPP menu or hit Minus+Start.
 
 **For Solarus**
 
-To exit the system, hit the Select and Start button.
+To exit the system, hit the Minus and Start button.
 
 **For Mupen64plus standalone emulator**
 
