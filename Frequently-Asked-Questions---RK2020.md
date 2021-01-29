@@ -72,6 +72,10 @@
 
 To exit the emulator, do so through the Drastic menu.
 
+**For OpenBOR**
+
+To exit the emulator, hit the Start button then select exit in the menu for most paks or hit Select+Start.
+
 **For Pico-8**
 
 To exit the system, hit the Start button then Option then select Shutdown or hit Select+Start.
