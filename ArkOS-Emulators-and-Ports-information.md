@@ -312,6 +312,15 @@ Rom Folder: odyssey2 \
 Extensions: .bin .BIN \
 Bios: o2rom.bin
 
+### OpenBOR
+Emulator: OpenBOR Standalone \
+Rom Folder: openbor \
+Extensions: .pak .PAK \
+Bios: none \
+Notes: RG351P Limitations--It is not possible to use the joystick within OpenBOR. \
+Only the gamepad, Start, A, B, X, Y, L1, and R1 buttons are assignable.  DO NOT enable the gamepad within the options menu \
+or you may experience control issues!
+
 ### PC98
 Emulator: lr-nekop2 \
 Rom Folder: pc98 \
