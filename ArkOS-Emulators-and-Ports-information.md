@@ -141,7 +141,7 @@ Bios: None \
 Notes: Be aware that within the daphne folder is a roms folder.  That is not an error.  That folder is needed.  Your laserdisc .zip files should contain a "rom name".daphne folder that must be copied to the root daphne folder.  Make sure the "rom name".daphne folder contains a framefile ("rom name".txt) or it will not load.  Your laserdisc .zip files must be loaded into the daphne/roms folder.  If you're still having issues getting this to work, click [here](https://retropie.org.uk/docs/Daphne/)
 
 ### Doom
-Emulator: (**lzdoom**) lr-prboom \
+Emulator: (**lzdoom standalone**) lr-prboom \
 Rom Folder: doom \
 Extensions: .wad .WAD .sh .SH\
 Bios: None \
@@ -505,24 +505,27 @@ Bios: None
 
 # Ports
 
+### 2048
+Instructions: 2048 files are already included and ready to go.  Just start 2048 from Ports in the the emulationstation menu.
+
 ### Cannonball (OutRun)
-Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder then start Cannonball from Ports in emulationstation menu.  For exact naming of roms, view this [link](https://github.com/djyt/cannonball/blob/master/roms/roms.txt)
+Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder then start Cannonball from Ports in the emulationstation menu.  For exact naming of roms, view this [link](https://github.com/djyt/cannonball/blob/master/roms/roms.txt)
 
 ### Cave Story
-Instructions: Cave Story files are already included and ready to go.  Just start Cave Story from Ports in emulationstation menu.
+Instructions: Cave Story files are already included and ready to go.  Just start Cave Story from Ports in the emulationstation menu.
 
 ### Commander Genius (Commander Keen)
-Instructions: Load your keen folders into the /roms/ports/cgenius/games folder.  As an example, the shareware version of Commander Keen 1 is included and is named Keen.  Then just start Commander Genius from Ports in emulationstation menu.
+Instructions: Load your keen folders into the /roms/ports/cgenius/games folder.  As an example, the shareware version of Commander Keen 1 is included and is named Keen.  Then just start Commander Genius from Ports in the emulationstation menu.
 
 ### DevilutionX (Diablo 1)
 Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder; **make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support) \
 Important Note: It’s been reported that you must make sure you use the GOG version of diabdat.mpq with the newest patch_rt.mpq or you may experience a freeze of the game around level 20.
 
 ### Doom 1 (Soon to be deprecated as Doom has been moved to the main system section.  Uses lzdoom which is a superior doom engine and even supports mods like Brutal Doom Lite!) 
-Instructions: Add Doom.wad file to /roms/ports/doom folder then start Doom from Ports in emulationstation menu.  For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
+Instructions: Add Doom.wad file to /roms/ports/doom folder then start Doom from Ports in the emulationstation menu.  For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
 
 ### Doom 2
-Instructions: Add Doom2.wad file to /roms/ports/doom2 folder then start Doom 2 from Ports in emulationstation menu.    For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
+Instructions: Add Doom2.wad file to /roms/ports/doom2 folder then start Doom 2 from Ports in the emulationstation menu.    For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
 
 ### EasyRPG
 Instructions: Load game folders within the /roms/ports/easyrpg folder.  Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.
@@ -556,16 +559,16 @@ and you're controls will be as shown in the image below:
 ![fonzo mapping](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_halflife_fonzo.png)
 
 ### OpenTyrian
-Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in Emulationstation.
+Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in the Emulationstation.
 
 ### Pico-8
-Instructions: Add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to /roms/bios/pico-8 folder and add your .png game files to /roms/ports/pico-8 folder then start pico-8 from Ports in emulationstation menu
+Instructions: Add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to /roms/bios/pico-8 folder and add your .png game files to /roms/ports/pico-8 folder then start pico-8 from Ports in the emulationstation menu
 
 ### Quake 1
 Instructions: Add .pak files to /roms/ports/quake/quakepaks then start Quake from Ports in the emulationstation menu
 
 ### Quake 2
-Instructions: Add .pak files to /roms/ports/quake2/baseq2 then start Quake 2 from Ports in emulationstation menu. \
+Instructions: Add .pak files to /roms/ports/quake2/baseq2 then start Quake 2 from Ports in the emulationstation menu. \
 Notes: There's no support for music at this time until Libretro or the original developer of that emulator fixes this.
 
 ### Rick Dangerous
@@ -575,7 +578,7 @@ Instructions: Rick Dangerous files are already included and ready to go.  Just s
 Instructions: The game is an open-source port and is already included and ready to go.  Just start SDLPoP from Ports in the emulationstation menu.
 
 ### VVVVVV
-Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead.
+Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in the emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead.
 
 ### Wolfenstein 3D
 Instructions: Wolfenstein 3D shareware episode 1 is already included and ready to go.  You can add your own registered copy into the /roms/ports/ecwolf folder. 
