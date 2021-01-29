@@ -106,11 +106,24 @@ You can download the 'Databases' and 'Machines' folders from [an official full s
 Get blueMSXv282full.zip near the bottom of the page. \
 Move/Copy the 'Databases' and 'Machines' Folders to the bios folder.
 
+### Commodore 16
+Emulator: lr-vice_xplus4 \
+Rom Folder: c16 \
+Extensons: .d64 .D64 .d71 .D71 .d80 .D80 .d81 .D81 .d82 .D82 .g64 .G64 .g41 .G41 .x64 .X64 .t64 .T64 .tap .TAP .prg .PRG .p00 .P00 .crt .CRT .bin .BIN .zip .ZIP .gz .GZ .d6z .D6Z .d7z .D7Z .d8z .D8Z .g6z .G6Z .g4z .G4Z .x6z .X6Z .cmd .CMD .m3u .M3U .vsf .VSF .nib .NIB .nbz .NBZ \
+Bios: None
+
 ### Commodore 64/VIC-20/PET
-Emulator: lr-vice \
+Emulator: lr-vice_x64 \
 Rom Folder: c64 \
 Extensons: .d64 .D64 .zip .ZIP .7z .7Z .t64 .T64 .crt .CRT \
 Bios: None
+
+### Commodore 128
+Emulator: lr-vice_x128 \
+Rom Folder: c128 \
+Extensons: .d64 .D64 .d71 .D71 .d80 .D80 .d81 .D81 .d82 .D82 .g64 .G64 .g41 .G41 .x64 .X64 .t64 .T64 .tap .TAP .prg .PRG .p00 .P00 .crt .CRT .bin .BIN .zip .ZIP .gz .GZ .d6z .D6Z .d7z .D7Z .d8z .D8Z .g6z .G6Z .g4z .G4Z .x6z .X6Z .cmd .CMD .m3u .M3U .vsf .VSF .nib .NIB .nbz .NBZ \
+Bios: JiffyDOS_C128.bin JiffyDOS_C64.bin JiffyDOS_1541-II.bin JiffyDOS_1571_repl310654.bin JiffyDOS_1581.bin
+
 
 ### CPS 1
 Emulator: (**lr-fbneo**) fbalpha2012 fbalpha2016 fbalpha2018 \
@@ -173,10 +186,10 @@ Extensions: .gb .GB .gbc .GBC .dmg .DMG .zip .ZIP .7z .7Z \
 Bios: gb_bios.bin (optional)
 
 ### Game Boy Advance
-Emulator: (**lr-mgba**) lr-vbam lr-vba_next \
+Emulator: (**lr-mgba**) lr-vbam lr-vba_next lr-gpsp \
 Rom Folder: gba \
 Extensions: .gb .GB .gbc .GBC .gba .GBA .zip .ZIP .7z .7Z \
-Bios: gba_bios.bin (optional), gb_bios.bin (optional), gbc_bios.bin (optional), sgb_bios.bin (optional)
+Bios: gba_bios.bin (required for lr-gpsp optional for other cores), gb_bios.bin (optional), gbc_bios.bin (optional), sgb_bios.bin (optional)
 
 ### Game and Watch
 Emulator: lr-gw \
