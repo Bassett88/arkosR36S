@@ -151,7 +151,7 @@ Emulator: hypseus standalone \
 Rom Folder: daphne \
 Extensions: .daphne .DAPHNE \
 Bios: None \
-Notes: Be aware that within the daphne folder is a roms folder.  That is not an error.  That folder is needed.  Your laserdisc .zip files should contain a "rom name".daphne folder that must be copied to the root daphne folder.  Make sure the "rom name".daphne folder contains a framefile ("rom name".txt) or it will not load.  Your laserdisc .zip files must be loaded into the daphne/roms folder.  If you're still having issues getting this to work, click [here](https://retropie.org.uk/docs/Daphne/)
+Notes: Be aware that within the daphne folder is a roms folder.  That is not an error.  That folder is needed.  Your laserdisc .zip files should contain a "rom name".daphne folder that must be copied to the root daphne folder.  Make sure the "rom name".daphne folder contains a framefile ("rom name".txt) or it will not load.  Your laserdisc .zip files must be loaded into the daphne/roms folder.  If you're still having issues getting this to work, click [here](https://retrogamecorps.com/2021/01/20/guide-daphne-on-the-rg351p-and-rg350-devices/) for a great guide and video from Retro Game Corps.
 
 ### Doom
 Emulator: (**lzdoom standalone**) lr-prboom \
