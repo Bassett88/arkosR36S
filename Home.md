@@ -2,7 +2,7 @@
 Welcome to the ArkOS wiki </H1>
 <p align="center"><img width="200" height="100" src="https://github.com/christianhaitian/arkos/raw/main/devices/ArkOSLogoOreoTransparent.bmp">
 </p>
-<p align="center"><img width="300" height="200" src="https://github.com/christianhaitian/arkos/raw/main/pics/Systempic_1.JPG">
+<p align="center"><img width="250" height="200" src="https://github.com/christianhaitian/arkos/raw/main/pics/Systempic_1.JPG">
 </p>
 <p align="center"><img width="250" height="200" src="https://github.com/christianhaitian/arkos/raw/main/pics/GamePlay_1.JPG"><img width="250" height="200" src="https://github.com/christianhaitian/arkos/raw/main/pics/GamePlay_2.JPG"><img width="250" height="200" src="https://github.com/christianhaitian/arkos/raw/main/pics/GamePlay_3.JPG"><img width="250" height="200" src="https://github.com/christianhaitian/arkos/raw/main/pics/GamePlay_4.JPG">
 </p>
