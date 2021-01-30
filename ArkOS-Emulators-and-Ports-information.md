@@ -30,7 +30,7 @@ Extensions: .cue .CUE .ccd .CCD .lha .LHA .nrg .NRG .mds .MDS .iso .ISO .m3u .M3
 Bios: kick34005.A500 and kick40063.A600 and kick40068.A1200
 
 ### Amstrad CPC
-Emulator: lr-cap32 \
+Emulator: (**lr-crocods**) lr-cap32 \
 Rom Folder: amstradcpc \
 Extensions: .cpc .CPC .dsk .DSK .zip .ZIP \
 Bios: None
