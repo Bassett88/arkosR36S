@@ -119,6 +119,7 @@ To exit the system, hit the Select and Start button.
 - R3: FCTN+QUIT
 - Start: Key Enter
 - Select: Key P (Usually Pause)
+- Select + Start: Exit emulator
 
 **For File Manager**
 
