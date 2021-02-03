@@ -480,6 +480,13 @@ Rom Folder: tic80 \
 Extensions: .tic .TIC \
 Bios: None
 
+### TI-99
+Emulator: ti99sim \
+Rom Folder: ti99 \
+Extensions: .ctg .CTG \
+Bios: ti-994a.ctg \
+Notes: OGA, RK2020, and RGB10 units can not use the dpad for movement.  Only the joystick is supported for movement.
+
 ### Uzebox
 Emulator: lr-uzem \
 Rom Folder: uzebox \
