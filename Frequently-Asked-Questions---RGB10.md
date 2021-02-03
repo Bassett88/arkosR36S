@@ -99,6 +99,21 @@ To exit the system, hit the Minus and Start button.
 - Minus + L1: Load State
 - Minus + A: Pause/Unpause emulator
 
+**For TI-99 standalone emulator**
+
+- A: Fire
+- B: Key 1
+- X: Key 2
+- Y: Key 3
+- L1: FCTN+QUIT
+- R1: FCTN+REDO
+- L2: Key Space
+- R2: Key 0
+- Start: Key Enter
+- Select: FCTN+BACK
+- DPAD Up: Key P (Usually Pause)
+- Minus + Start: Exit emulator
+
 **For File Manager**
 
 - D-pad: Move
