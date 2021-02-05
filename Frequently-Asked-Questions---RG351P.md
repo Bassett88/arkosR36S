@@ -40,7 +40,7 @@
   -  If you'd like for ssh to always remain enabled, just type ```sudo systemctl enable ssh``` from within a ssh or terminal session.
   -  To enable the ability to login as root, do the following while in a ssh or terminal session:
      1. Set a password for the root user by doing ```sudo passwd root``` and set your preferred root password following the instructions presented.
-     1. Allow root to be able to login through ssh by doing ```sudo nano /etc/ssh/sshd_config``` then scroll down to ```PermitRootLogin``` and removing the beginning hashtag (#) and set it to yes.  Basically it should say ```PermitRootLogin yes```.  
+     1. Allow root to be able to login through ssh by doing ```sudo nano /etc/ssh/sshd_config``` then scroll down to ```PermitRootLogin``` and remove the beginning hashtag (#) and set PermitRootLogin to yes.  Basically it should say ```PermitRootLogin yes``` on that line.  
      1. Hit Ctrl+X, then hit y to save the change.
      1. Then either restart ssh by typing in ```sudo systemctl restart ssh``` or restart ArkOS.
 
