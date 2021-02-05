@@ -34,6 +34,14 @@
 - Select **Enable Remote Services** so that SSH is enabled before attempting to connect.  
 - User and Password credentials are ark/ark.
   -  _Be aware that every time you'd like to access ArkOS on your device from your network, you will need to **Enable Remote Services** after every reboot._  This is a security feature as it's not good security practice to keep remote services active on your device especially when connecting to unknown networks.  It also reduces resource overhead for the system to help ensure the best possible gaming experience.
+  -  If you'd like for ssh to always remain enabled, just type ```sudo systemctl enable ssh``` from within a ssh or terminal session.
+  -  To enable the ability to login as root, do the following while in a ssh or terminal session:
+     1. Set a password for the root user by doing ```sudo passwd root``` and set your preferred root password following the instructions presented.
+     1. Allow root to be able to login through ssh by doing ```sudo nano /etc/ssh/sshd_config``` then scroll down to ```PermitRootLogin``` and remove the beginning hashtag (#) and set PermitRootLogin to yes.  Basically it should say ```PermitRootLogin yes``` on that line.  
+     1. Hit Ctrl+X, then hit y to save the change.
+     1. Then either restart ssh by typing in ```sudo systemctl restart ssh``` or restart ArkOS.
+
+**With great power comes great responsibility!**  Be careful as you make changes as now you can easily make various changes that can render the OS unstable or unbootable.
 
 ## Q. I was using Paragon software to add, remove, or modify files on the SD card and now my unit won't boot with the card.  What could be wrong?
 ### A. The most probable issue is a corrupted ext4 partition on the SD card.  There's been a common occurrence of Paragon corrupting the ext4 partition on SD cards.  It's best to use a Linux machine (or a Linux VM) to manage files on the ext4 partition of the SD card.  You can try to fix the ext4 partition by following the steps in [this link](https://www.platfrastructure.life/post/rpi_boot_repair/), or simply reimage the card.  The [ArkOS](https://github.com/christianhaitian/arkos/wiki) image linked from this wiki provides an exfat partition for the Roms and Bios folder that is easily accessible from Linux, Mac or Windows without any additional software and is easier for managing such files as you don't have to have a Linux machine or VM.
