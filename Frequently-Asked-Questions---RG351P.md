@@ -65,6 +65,14 @@
 - Select + X: Amiberry Menu
 - Select + Start: Exit Amiberry.
 
+If you need to be able to use a mouse for a particular game, do the following:
+1. Launch a game then go to the Amiberry Menu by pressing Select + X
+1. On the left side of the screen, scroll down to Input.
+1. Hit right and set Port 0 to OpenSimHardware OSH PB Controller and change Default to Mouse
+1. Set Port 1 to Mouse and leave Default as default
+1. Then hit left and scroll up to configuration.
+1. Hit right and scroll down to the Save button and hit the A button.  This will save this configuration as the default configuration for that particular game when it's loaded.
+
 **Daphne (Hypseus)**
 - Select: Coin
 - Start: Start game
