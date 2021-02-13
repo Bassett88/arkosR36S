@@ -328,3 +328,13 @@ If you'd like to remove the splash screen all together, just rename the loading.
 ### A. Do the following:
 
 Using the left joystick (NOT THE DPAD!) do up, up, down, down, left, right, left, right, B, A.  You should now have access to the full UI.
+
+## Q. How do I mount a USB drive for copying and moving files?
+### A. Do the following:
+
+1. Plug in a USB drive that is formatted in Fat, Fat32, Exfat, or NTFS to one of the USB ports.
+2. While in Emulationstation, go to Options and select **USB Drive Mount**.
+   * Note - Only the first available partition on the USB drive will be mounted!
+3. If the USB drive has been successfully mounted, you will see a notification on the screen that it's been mounted to /mnt/usbdrive.  If not, double check that you plugged in the drive correctly and that the file system on it is not corrupted and is one that is supported as listed in step 1 above.
+4. You can now use File Manager to navigate to /mnt/usbdrive to access the mounted USB drive to copy and/or move files between it and ArkOS.
+5. When you're done copying and/or moving files within File Manager, be sure to go back to to Options and select **USB Drive Unmount** before unplugging your drive or you may risk corrupting the USB drive's file system.
