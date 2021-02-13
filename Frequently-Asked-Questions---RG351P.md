@@ -333,7 +333,7 @@ Using the left joystick (NOT THE DPAD!) do up, up, down, down, left, right, left
 ## Q. How do I mount a USB drive for copying and moving files?
 ### A. Do the following:
 
-1. Plug in a USB drive that is formatted in Fat, Fat32, Exfat, or NTFS to one of the USB ports.
+1. Plug in a USB drive that is formatted in Fat, Fat32, Exfat, or NTFS to one of the USB-C ports.
 2. While in Emulationstation, go to Options and select **USB Drive Mount**.
    * Note - Only the first available partition on the USB drive will be mounted!
 3. If the USB drive has been successfully mounted, you will see a notification on the screen that it's been mounted to /mnt/usbdrive.  If not, double check that you plugged in the drive correctly and that the file system on it is not corrupted and is one that is supported as listed in step 1 above.
