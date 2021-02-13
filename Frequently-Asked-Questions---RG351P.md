@@ -22,6 +22,7 @@
 20. [How can I change or remove the splash screen when loading games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-can-i-change-or-remove-the-splash-screen-when-loading-games)
 21. [How do I turn on the accessibility features of Retroarch?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-turn-on-the-text-to-speech-accessibility-feature-of-retroarch)
 22. [How do I get out of kiosk or kid UI mode?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-get-out-of-kiosk-or-kid-ui-mode)
+23. [How do I mount a USB drive for copying and moving files?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-mount-a-usb-drive-for-copying-and-moving-files)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
