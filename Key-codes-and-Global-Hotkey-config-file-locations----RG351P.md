@@ -19,7 +19,7 @@
 
 * ArkOS = /usr/local/bin/oga_events.py (Modify f3 = 313 to your preferred key code as listed above)
 
-# Useful for Mupen64plus key reassignment in ArkOS (/opt/mupen64plus/InputAutoCfg.ini) in the OpenSimHardware OSH PB Controller section and modifying joystick events (ex. Quit emulator and save state hotkeys) in /home/ark/.config/mupen64plus.cfg
+### Useful for Mupen64plus key reassignment in ArkOS (/opt/mupen64plus/InputAutoCfg.ini) in the OpenSimHardware OSH PB Controller section and modifying joystick events (ex. Quit emulator and save state hotkeys) in /home/ark/.config/mupen64plus.cfg
 
 * DPAD LEFT = hat(0 Left)
 * DPAD RIGHT = hat(0 Right)
