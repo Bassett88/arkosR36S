@@ -8,7 +8,8 @@ Various themes can be easily added to the roms/themes folder by inserting your m
 1. Insert the micro sd card back into your unit and boot it up.  
 1. Once in Emulationstation, hit the start button, then UI Settings, then Theme and select the theme you just loaded.  It should be named the same as the root folder name you added into your /roms/themes folder.
 
-For some themes especially tailored towards ArkOS, checkout Jetup13's github [here](https://github.com/Jetup13?tab=repositories)
+For some themes especially tailored towards ArkOS, checkout Jetup13's github [here](https://github.com/Jetup13?tab=repositories) \
+Want to be able to install Jetup13's themes directly on your unit?  See TadMST's ArkThemes installer [here](https://github.com/TadMSTR/ArkThemes)
 
 Some example pics of themes available from Jetup13's github
 
