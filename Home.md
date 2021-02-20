@@ -54,6 +54,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
    -  Uncompress the image with 7zip (Can be downloaded from https://www.7-zip.org/download.html)
    -  Use a program such as USB Image Tool by Alexander Beug (https://www.alexpage.de/usb-image-tool/download/) (Recommended) or Win32DiskImager (Works Fine) (https://sourceforge.net/projects/win32diskimager/) to flash to a 8GB micro SD card or larger.  (16GB micro SD card or bigger highly recommended!)
         - **DO NOT USE BALENA ETCHER WITH THIS IMAGE.**  There has been reports of various strange issues and inconsistent performance using Etcher for this image.
+        - Once the image has been completed, Windows may ask you if you want to format the SD card.  MAKE SURE TO CLICK CANCEL ON THIS QUESTION!
    -  Insert into your rk3326 device and power on the device.
    -  Device will reboot twice as it expands the NTFS partition and converts it to exfat to fill the rest of the micro SD card.
    -  Device is ready once the Emulationstation menu is displayed.
