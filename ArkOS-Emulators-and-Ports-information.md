@@ -364,6 +364,14 @@ Rom Folder: pcfx \
 Extensions: .chd .CHD .zip .ZIP .cue .CUE .ccd .CCD .toc .TOC \
 Bios: pcfx.rom
 
+### Pico-8
+Emulator: pico8-dyn \
+Rom Folder: pico-8/carts \
+Extensions: .png .PNG .p8 .P8 \
+Notes: Add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to /roms/pico-8 folder and add your .png game files to \
+/roms/pico-8/carts folder then start pico-8 from pico-8 emulationstation menu. \
+***Be careful to not delete the existing sdl_controllers.txt file in the /roms/pico-8 folder or you will not have any pico-8!.***
+
 ### Playstation 1 (PSX)
 Emulator: (**lr-pcsx-rearmed**) lr-duckstation \
 Rom Folder: psx \
@@ -521,7 +529,7 @@ Bios: None
 Emulator: lr-81 \
 Rom Folder: zx81 \
 Extensions: .p .P .tzx .TZX .tzx.zip TZX.ZIP .p.zip .P.ZIP \
-Bios: None
+Bios: None \
 Notes: I was only able to successfully load .p and .p.zip based roms.  I suggest using .p and .p.zip roms based on my testing. \
 Many games can be started by hitting select to bring up the virtual keyboard, hit R then newline key.  Otherwise, you'll need \
 to search online on how to load these games if you're not familiar with this system.
@@ -590,7 +598,7 @@ and you're controls will be as shown in the image below:
 ### OpenTyrian
 Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in the Emulationstation.
 
-### Pico-8
+### Pico-8 (Soon to be deprecated as Pico-8 has been moved to the main system section)
 Instructions: Add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to /roms/bios/pico-8 folder and add your .png game files to /roms/ports/pico-8 folder then start pico-8 from Ports in the emulationstation menu
 
 ### Quake 1
