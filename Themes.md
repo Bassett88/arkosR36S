@@ -1,3 +1,18 @@
+ArkOS comes with the following themes preinstalled
+
+ES-THEME-DOSIRAKF \
+ES-THEME-EPICNOIR \
+ES-THEME-FREEPLAY \
+ES-THEME-GBZ35-DARK-MOD \
+ES-THEME-GBZ35-MOD \
+ES-THEME-MINIMAL \
+ES-THEME-NES-BOX \
+ES-THEME-SUPER-RETRO-OGA \
+ES-THEME-SWITCH \
+ES-THEME-THERA_NTFS-CARBON
+
+ES-THEME-NES-BOX is the default theme you presented with on boot when you first boot into a freshly imaged SD card.
+
 Looking to update the existing ArkOS themes or add others?  
 
 Various themes can be easily added to the roms/themes folder by inserting your micro SD card into a Windows, Mac, or Linux machine.  Just do the following:
