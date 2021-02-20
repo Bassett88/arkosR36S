@@ -1,4 +1,4 @@
-ArkOS comes with the following themes preinstalled
+ArkOS comes with the following themes preinstalled:
 
 ES-THEME-DOSIRAKF \
 ES-THEME-EPICNOIR \
