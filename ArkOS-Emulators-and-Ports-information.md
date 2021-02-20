@@ -528,7 +528,7 @@ Bios: None
 ### ZX-81
 Emulator: lr-81 \
 Rom Folder: zx81 \
-Extensions: .p .P .tzx .TZX .tzx.zip TZX.ZIP .p.zip .P.ZIP \
+Extensions: .p .P .tzx .TZX .zip .ZIP \
 Bios: None \
 Notes: I was only able to successfully load .p and .p.zip based roms.  I suggest using .p and .p.zip roms based on my testing. \
 Many games can be started by hitting select to bring up the virtual keyboard, hit R then newline key.  Otherwise, you'll need \
