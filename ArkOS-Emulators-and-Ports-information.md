@@ -371,7 +371,7 @@ Extensions: .png .PNG .p8 .P8 \
 Notes: 
 -  Add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to /roms/pico-8 folder and add your .png and/or .p8 game files to /roms/pico-8/carts folder then start pico-8 from pico-8 emulationstation menu.
 -  If you'd like to access splore to download and update games online while in Pico-8, create a file named zzzsplore.p8 in /roms/pico-8/carts and launch zzzsplore from the pico-8 system menu in emulationstation
--  By default, pico-8 games will load in a 1:1 aspect ratio.  You can also load games in full screen and pixel perfect aspect ratios as well by changing the default emulator setting.  See [here](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-change-emulator-cores-in-arkos) for information on how to change default emulator.
+-  By default, pico-8 games will load in a 1:1 aspect ratio.  You can also load games in full screen and pixel perfect aspect ratios as well by changing the default emulator setting.  See [here](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-change-emulator-cores-in-arkos) for information on how to change the default emulator.
 -  ***Be careful to not delete the existing sdl_controllers.txt file in the /roms/pico-8 folder or you will not have any controls in pico-8!***
 
 ### Playstation 1 (PSX)
