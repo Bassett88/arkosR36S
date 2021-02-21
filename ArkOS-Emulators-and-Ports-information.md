@@ -368,6 +368,7 @@ Bios: pcfx.rom
 Emulator: pico8-dyn \
 Rom Folder: pico-8/carts \
 Extensions: .png .PNG .p8 .P8 \
+Bios: None \
 Notes: 
 -  Add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to /roms/pico-8 folder and add your .png and/or .p8 game files to /roms/pico-8/carts folder then start pico-8 from pico-8 emulationstation menu.
 -  If you'd like to access splore to download and update games online while in Pico-8, create a blank text file named zzzsplore.p8 in /roms/pico-8/carts and launch zzzsplore from the pico-8 system menu in emulationstation
