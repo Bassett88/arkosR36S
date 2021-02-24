@@ -20,6 +20,7 @@
 18. [How do I turn on the accessibility features of Retroarch?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-turn-on-the-text-to-speech-accessibility-feature-of-retroarch)
 19. [How do I get out of kiosk or kid UI mode?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-get-out-of-kiosk-or-kid-ui-mode)
 20. [How do I mount a USB drive for copying and moving files?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-mount-a-usb-drive-for-copying-and-moving-files)
+21. [Is it possible for Emulationstation to be fullscreen?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-is-it-possible-for-emulationstation-to-be-fullscreen)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -294,3 +295,22 @@ From the DPAD do up, up, down, down, left, right, left, right, B, A.  You should
 3. If the USB drive has been successfully mounted, you will see a notification on the screen that it's been mounted to /mnt/usbdrive.  If not, double check that you plugged in the drive correctly and that the file system on it is not corrupted and is one that is supported as listed in step 1 above.
 4. You can now use File Manager to navigate to /mnt/usbdrive to access the mounted USB drive to copy and/or move files between it and ArkOS.
 5. When you're done copying and/or moving files within File Manager, be sure to go back to to Options and select **USB Drive Unmount** before unplugging your drive or you may risk corrupting the USB drive's file system.
+
+## Q. Is it possible for Emulationstation to be fullscreen?
+### A. While not officially supported, you can install another version of Emulationstation that is fullscreen by doing the following:
+
+You'll need to have configured internet access to your device using a wireless dongle or USB ethernet adapter following the instructions above in FAQ #1 \
+You'll need a SSH client such as [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) to complete this:
+```
+sudo systemctl stop emulationstation
+sudo cp /usr/bin/emulationstation/emulationstation /usr/bin/emulationstation/emulationstation.bak
+sudo wget https://github.com/christianhaitian/EmulationStation-fcamod/raw/fullscreen/emulationstation -O /usr/bin/emulationstation/emulationstation
+sudo systemctl start emulationstation
+```
+To revert back to the default emulationstation:
+You'll need a SSH client such as Putty:
+```
+sudo systemctl stop emulationstation
+sudo cp /usr/bin/emulationstation/emulationstation.bak /usr/bin/emulationstation/emulationstation
+sudo systemctl start emulationstation
+```
