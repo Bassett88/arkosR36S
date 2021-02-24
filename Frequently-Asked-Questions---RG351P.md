@@ -342,7 +342,7 @@ Using the left joystick (NOT THE DPAD!) do up, up, down, down, left, right, left
 5. When you're done copying and/or moving files within File Manager, be sure to go back to to Options and select **USB Drive Unmount** before unplugging your drive or you may risk corrupting the USB drive's file system.
 
 ## Q. Is it possible for Emulationstation to be fullscreen?
-### A. You can install another version of Emulationstation that is fullscreen by doing the following:
+### A. While not officially supported, you can install another version of Emulationstation that is fullscreen by doing the following:
 
 You'll need to have configured internet access to your device using a wireless dongle or USB ethernet adapter following the instructions above in FAQ #1 \
 You'll need a SSH client such as [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) to complete this:
