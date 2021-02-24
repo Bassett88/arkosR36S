@@ -37,7 +37,7 @@
 * R1 = 5
 * R2 = 11
 * R3 = 9 \
-Left Analog Axis Configuration mappings \
+Left Analog Axis Configuration mappings
 * X Axis = axis(0+,0-)
 * Y Axis = axis(1+,1-) \
 Right Analog Axis Configuration mappings (TBD)
