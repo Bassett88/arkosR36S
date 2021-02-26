@@ -7,7 +7,7 @@
 -  Any systems below with multiple emulator cores available will have a default emulator core **bolded** and in parentheses().  [Click here](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#a-do-the-following) for information on how to change emulators per system or game.
    - Required file extensions and rom versions are based on default emulator core requirements.
 -  Since much of this is similar to retropie, more information about these emulators can be found at the retropie wiki located at https://retropie.org.uk/docs/ under the Emulation section.
--  You can also check out retrogamecorps at https://retrogamecorps.com/rg351/ for helpful guides on getting some of these systems and ports up and running as well.
+-  You can also check out Retro Game Corps at https://retrogamecorps.com/rg351/ for helpful guides on getting some of these systems and ports up and running as well.
 
 # Emulators
 
