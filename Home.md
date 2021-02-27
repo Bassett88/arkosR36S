@@ -79,6 +79,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
    -  Add the roms to their respective folders in the respective folders on the EASYROMS exfat partition.
       - This can be accomplished by either using either network connectivity (samba share or ftp) or by shutting down the device (start + power) then inserting the SD card into the computer.
       - **Do not delete any of the existing folders in the EASYROMS (roms) folder or any of their existing contents.  There are some dependencies in some of these folders (ex. PSP and NDS) that's needed for those emulators to work correctly.**
+      - Be careful that your Mac doesn't add any extra characters at the end of your files.  This has been a known issue of why roms don't show up in the menu when added from a Mac with the use of a SD card reader.
    -  Insert the SD card back into your rk3326 device and power it on if you removed it to load your roms or reboot you device and enjoy!
    -  (**Tip**) There are additional updates that are made available from time to time.  You can apply them by going to the options menu and clicking on Update.  Make sure you're wifi adapter is plugged in and connected to your wireless network.  You must have a reliable internet connection for these online updates to complete successfully when available.
 
