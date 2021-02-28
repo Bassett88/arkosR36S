@@ -297,20 +297,12 @@ From the DPAD do up, up, down, down, left, right, left, right, B, A.  You should
 5. When you're done copying and/or moving files within File Manager, be sure to go back to to Options and select **USB Drive Unmount** before unplugging your drive or you may risk corrupting the USB drive's file system.
 
 ## Q. Is it possible for Emulationstation to be fullscreen?
-### A. While not officially supported, you can install another version of Emulationstation that is fullscreen by doing the following:
+### A. Starting with the 02/27/2021 update for Arkos, You can switch to another version of Emulationstation that is fullscreen by doing the following:
 
-You'll need to have configured internet access to your device using a wireless dongle or USB ethernet adapter following the instructions above in FAQ #1 \
-You'll need a SSH client such as [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) to complete this:
-```
-sudo systemctl stop emulationstation
-sudo cp /usr/bin/emulationstation/emulationstation /usr/bin/emulationstation/emulationstation.bak
-sudo wget https://github.com/christianhaitian/EmulationStation-fcamod/raw/fullscreen/emulationstation -O /usr/bin/emulationstation/emulationstation
-sudo systemctl start emulationstation
-```
-To revert back to the default emulationstation:
-You'll need a SSH client such as Putty:
-```
-sudo systemctl stop emulationstation
-sudo cp /usr/bin/emulationstation/emulationstation.bak /usr/bin/emulationstation/emulationstation
-sudo systemctl start emulationstation
-```
+1. Go to the Options Section just after ScummVM and before Retroarch and click the A button.
+2. Click on Advanced.
+3. Then click on ES FULLSCREEN.
+
+Notes:
+- If you ever want to switch back to the original Emulationstation, repeat steps 1 and 2 above and then click on ES HEADER.
+- With the Fullscreen version, battery life information, current volume and wifi status is available from the start menu.
