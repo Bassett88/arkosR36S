@@ -222,6 +222,12 @@ Rom Folder: intellivision \
 Extensions: .bin .BIN .int .INT .zip .ZIP .7z .7Z \
 Bios: exec.bin, grom.bin
 
+### LowRes NX
+Emulator: lr-lowresnx \
+Rom Folder: lowresnx \
+Extensions: .nx .NX \
+Bios: None
+
 ### Mame 2003
 Emulator: lr-mame2003-plus \
 Rom Folder: mame2003 \
