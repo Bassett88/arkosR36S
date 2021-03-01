@@ -357,7 +357,7 @@ Notes:
 ### A. The boot logo is located in the fat32 boot partition.  It is named logo.bmp.  
 The image must meet the following criteria: 
 
-- Must be in .jpg format
+- Must be in .bmp format
 - Must be named logo.bmp.  The name is case sensitive!
 - Must be 480 pixels in width and 320 pixels in height.
 - Must be of 24 bit depth
