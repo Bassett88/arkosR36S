@@ -21,6 +21,7 @@
 19. [How do I get out of kiosk or kid UI mode?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-get-out-of-kiosk-or-kid-ui-mode)
 20. [How do I mount a USB drive for copying and moving files?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-mount-a-usb-drive-for-copying-and-moving-files)
 21. [Is it possible for Emulationstation to be fullscreen?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-is-it-possible-for-emulationstation-to-be-fullscreen)
+22. [How do I change the boot logo?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-change-the-boot-logo)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -306,3 +307,14 @@ From the DPAD do up, up, down, down, left, right, left, right, B, A.  You should
 Notes:
 - If you ever want to switch back to the original Emulationstation, repeat steps 1 and 2 above and then click on ES HEADER.
 - With the Fullscreen version, battery life information, current volume and wifi status is available from the start menu.
+
+## Q. How do I change the boot logo?
+### A. The boot logo is located in the fat32 boot partition.  It is named logo.bmp.  
+The image must meet the following criteria: 
+
+- Must be in .bmp format
+- Must be named logo.bmp.  The name is case sensitive!
+- Must be 480 pixels in width and 320 pixels in height.
+- Must be of 24 bit depth
+- Must be rotated counterclockwise.
+- See [here](https://wiki.odroid.com/odroid_go_advance/application_note/bootlogo) for more info and examples.
