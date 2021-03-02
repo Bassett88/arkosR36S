@@ -21,7 +21,7 @@ Bios: panafz1.bin or panafz10.bin or panafz10-norsa.bin or panafz10e-anvil.bin o
 ### Amiga 
 Emulator: (**Amiberry**) lr-puae \
 Rom Folder: amiga \
-Extensions: .lha .LHA \
+Extensions: .adf .ADF .hdf .HDF .lha .LHA \
 Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)
 
 ### Amiga CD32
