@@ -44,7 +44,7 @@ Extensions: .zip .ZIP .7z .7Z .cue .CUE \
 Bios: pgm.zip (for PGM games only like Knights of Valour and DoDonPachi)
 
 ### Atomiswave
-Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme \
+Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme retrorun retrorun32 \
 Rom Folder: atomiswave \
 Extensions: .7z .7Z .ist .IST .zip .ZIP .bin .BIN \
 Bios: awbios.zip (*need to be placed in a folder named dc within the bios folder*)
@@ -162,7 +162,7 @@ Bios: None \
 Notes: In order to use prboom, you'll need prboom.wad in the /roms/doom folder.  You can copy it from the /roms/ports/doom folder to that location or simply download it from [here](https://github.com/christianhaitian/arkos/raw/main/12162020/prboom.wad) and put it in that location.
 
 ### Dreamcast
-Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme \
+Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme retrorun retrorun32 \
 Rom Folder: dreamcast \
 Extensions: ~~.7z .7Z~~ .gdi .GDI .cdi .CDI .cue .CUE \
 Bios: dc_boot.bin, dc_flash.bin (*need to be placed in a folder named dc within the bios folder*) \
@@ -270,10 +270,11 @@ Get blueMSXv282full.zip near the bottom of the page. \
 Move/Copy the 'Databases' and 'Machines' Folders to the bios folder.
 
 ### Naomi
-Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme \
+Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme retrorun retrorun32 \
 Rom Folder: naomi \
 Extensions: .7z .7Z .ist .IST .zip .ZIP .bin .BIN .dat .DAT \
-Bios: naomi.zip (*need to be placed in a folder named dc within the bios folder*)
+Bios: naomi.zip (*need to be placed in a folder named dc within the bios folder*) \
+Notes: For retroarch emulation, the bios region will need to be set to Japan or the games won't load.  This can be done while loading a game by going to the retroarch menu, Options, Region, Japan.
 
 ### Neo Geo
 Emulator: (**lr-fbneo**) lr-fbalpha2012 \
