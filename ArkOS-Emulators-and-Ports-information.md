@@ -101,7 +101,7 @@ Bios: ATARIXL.ROM and ATARIBAS.ROM
 Emulator: lr-bluemsx  \
 Rom Folder: coleco \
 Extensions: .rom .ROM .ri .RI .mx1 .MX1 .mx2 .MX2 .col .COL .dsk .DSK .cas .CAS .sg .SG .sc .SC .m3u .M3U .zip .ZIP \
-Bios: coleco.rom \
+Bios: coleco.rom (Verified working MD5:2C66F5911E5B42B8EBE113403548EEE7) \
 Notes: The blueMSX core requires the 'Databases' and 'Machines' folders from a full installation of blueMSX. \
 You can download the 'Databases' and 'Machines' folders from [an official full standalone blueMSX emulator](http://bluemsx.msxblue.com/download.html) installation. \
 Get blueMSXv282full.zip near the bottom of the page. \
