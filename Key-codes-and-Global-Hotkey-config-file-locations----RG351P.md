@@ -40,4 +40,8 @@
 Left Analog Axis Configuration mappings
 * X Axis = axis(0+,0-)
 * Y Axis = axis(1+,1-) \
-Right Analog Axis Configuration mappings (TBD)
+Right Analog Axis Configuration mappings \
+Left = axis(2-) \
+Right = axis(2+) \
+Down = axis(3+) \
+Up = axis(3-)
