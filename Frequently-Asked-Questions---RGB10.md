@@ -265,7 +265,9 @@ Single files can be downloaded directly. Also, you can download more than one fi
 Similarly, you can remove or copy your files.
 
 ## Q. How can I change or remove the splash screen when loading games?
-### A. You can change the splash screen by uploading a new splash screen image in the /roms/launchimages folder.  The image must meet the following criteria: 
+### A. You can choose to use ascii art as your splash screen by simply going to Options/Advanced and select Switch launchimage to ascii.  To switch back to jpg images, simply go to Options/Advanced and select Switch launchimage to jpg.  
+
+You can change the splash screen by uploading a new splash screen image in the /roms/launchimages folder.  The image must meet the following criteria: 
 
 - Must be in .jpg format
 - Must be named loading.jpg.  The name is case sensitive!
@@ -273,6 +275,8 @@ Similarly, you can remove or copy your files.
 - Must be of 24 bit depth
 
 If you'd like to remove the splash screen all together, just rename the loading.jpg file to something else or simply delete it.
+
+You can also update loading.ascii with your own ascii art if you prefer.  You can also simply delete it.
 
 ## Q. How do I turn on the Text to Speech accessibility feature of Retroarch?
 ### A. Do the following:
