@@ -265,7 +265,7 @@ Single files can be downloaded directly. Also, you can download more than one fi
 Similarly, you can remove or copy your files.
 
 ## Q. How can I change or remove the splash screen when loading games?
-### A. You can choose to use ascii art as your splash screen by simply going to Options/Advanced and select Switch launchimage to ascii.  To switch back to jpg images, simply go to Options/Advanced and select Switch launchimage to jpg.  
+### A. You can choose to use ascii art as your splash screen by simply going to Options/Advanced and select Switch launchimage to ascii.  To switch back to jpg images, simply go to Options and select Switch launchimage to jpg.  
 
 You can change the splash screen by uploading a new splash screen image in the /roms/launchimages folder.  The image must meet the following criteria: 
 
