@@ -314,7 +314,7 @@ Emulator: (**lr-parallel-n64**) lr-mupen64plus_next lr-glupen64 mupen64plus(stan
 Rom Folder: n64 \
 Extensions: .z64 .Z64 .n64 .N64 .v64 .V64 \
 Bios: None \
-Note: mupen64plus(standalone) will most likely have the best performance but is the least user friendly emulator as the keys are not configurable.  See the FAQ section for the [RGB10](https://github.com/christianhaitian/rgb10/wiki/Frequently-Asked-Questions#a-) or the [RK2020](https://github.com/christianhaitian/rk2020/wiki/Frequently-Asked-Questions#a-) and scroll down to the mupen64plus standalone emulator section for the default key configuration for the standalone emulator.
+Note: mupen64plus(standalone) will most likely have the best performance but is the least user friendly emulator as the keys are not configurable.  See the FAQ section for the [RG351P/M](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations----RG351P) or the [RGB10](https://github.com/christianhaitian/rgb10/wiki/Frequently-Asked-Questions#a-) or the [RK2020](https://github.com/christianhaitian/rk2020/wiki/Frequently-Asked-Questions#a-) and scroll down to the mupen64plus standalone emulator section for the default key configuration for the standalone emulator.
 
 ### Nintendo 64DD
 Emulator: lr-parallel-n64 \
