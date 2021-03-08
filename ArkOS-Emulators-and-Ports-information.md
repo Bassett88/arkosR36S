@@ -174,6 +174,13 @@ Rom Folder: vmu \
 Extensions: .vms .VMS .bin .BIN \
 Bios: None
 
+### EasyRPG
+Emulator: lr-easyrpg \
+Rom Folder: easyrpg \
+Extensions: .ldb .LDB \
+Bios: None \
+Notes: Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.
+
 ### Famicom Disk System
 Emulator: (**lr-nestopia**) lr-fceumm \
 Rom Folder: fds \
@@ -504,7 +511,7 @@ Emulator: ti99sim \
 Rom Folder: ti99 \
 Extensions: .ctg .CTG \
 Bios: ti-994a.ctg \
-Notes: OGA, RK2020, and RGB10 units can not use the dpad for movement.  Only the joystick is supported for movement.
+Notes: (For OGA, RGB10, and RK2020) Default version of ti99 enables dpad only (ti99sim-sdl-dpad) due to possible analog noise issues.  You can change this by selecting ti99sim-sdl as the emulator.  See [here](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-change-emulator-cores-in-ArkOS) to learn how to change the emulator from within ES.
 
 ### Uzebox
 Emulator: lr-uzem \
@@ -575,7 +582,7 @@ Instructions: Add Doom.wad file to /roms/ports/doom folder then start Doom from 
 ### Doom 2
 Instructions: Add Doom2.wad file to /roms/ports/doom2 folder then start Doom 2 from Ports in the emulationstation menu.    For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
 
-### EasyRPG
+### EasyRPG (Soon to be deprecated as Pico-8 has been moved to the main system section)
 Instructions: Load game folders within the /roms/ports/easyrpg folder.  Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.
 
 ### Half-Life 1
