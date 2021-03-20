@@ -166,7 +166,11 @@ Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme retrorun retrorun
 Rom Folder: dreamcast \
 Extensions: ~~.7z .7Z~~ .gdi .GDI .cdi .CDI .cue .CUE \
 Bios: dc_boot.bin, dc_flash.bin (*need to be placed in a folder named dc within the bios folder*) \
-Note: These cores are currently not working with .7z extension.  No ETA on when this will be addressed at this time.
+Note: 
+-  These cores are currently not working with .7z extension.  No ETA on when this will be addressed at this time.  
+-  Saves are loaded from /roms/bios/dc/ as vmu_save_A1.bin files (A1, A2, B1, B2 etc) for retrorun and retrorun32.
+  -  In Retroarch, per-game saves can be enabled and loaded from /roms/dreamcast as <game name>.A1.bin files (A1, A2 etc). 
+  -  The files can be interchanged by renaming and placing into the appropriate location.
 
 ### Dreamcast VMU
 Emulator: lr-vemulator \
