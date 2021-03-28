@@ -47,7 +47,8 @@ Bios: pgm.zip (for PGM games only like Knights of Valour and DoDonPachi)
 Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme retrorun retrorun32 \
 Rom Folder: atomiswave \
 Extensions: .7z .7Z .ist .IST .zip .ZIP .bin .BIN \
-Bios: awbios.zip (*need to be placed in a folder named dc within the bios folder*)
+Bios: awbios.zip (*need to be placed in a folder named dc within the bios folder*) \
+Note: Thanks to bignella for testing and compiling a list of the performance of various Atomiswave games using the retrorun32/flycast32 rumble emulator/core combination.  See [here](https://docs.google.com/spreadsheets/d/1Hr73Tx2uQS7L00rfh68lusGENYZDybkM3OitHLMQUPw/edit#gid=152897279).
 
 ### Atari 800
 Emulator: lr-atari800 \
@@ -167,6 +168,7 @@ Rom Folder: dreamcast \
 Extensions: ~~.7z .7Z~~ .gdi .GDI .cdi .CDI .cue .CUE \
 Bios: dc_boot.bin, dc_flash.bin (*need to be placed in a folder named dc within the bios folder*) \
 Note: 
+-  Thanks to bignella for testing and compiling a list of the performance of various Dreamcast games using the retrorun32/flycast32 rumble core.  See [here](https://docs.google.com/spreadsheets/d/1Hr73Tx2uQS7L00rfh68lusGENYZDybkM3OitHLMQUPw/edit#gid=1744200840).
 -  These cores are currently not working with .7z extension.  No ETA on when this will be addressed at this time.  
 -  Saves are loaded from /roms/bios/dc/ as vmu_save_A1.bin files (A1, A2, B1, B2 etc) for retrorun and retrorun32.
   -  In Retroarch, per-game saves can be enabled and loaded from /roms/dreamcast as <game name>.A1.bin files (A1, A2 etc). 
@@ -285,7 +287,10 @@ Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme retrorun retrorun
 Rom Folder: naomi \
 Extensions: .7z .7Z .ist .IST .zip .ZIP .bin .BIN .dat .DAT \
 Bios: naomi.zip (*need to be placed in a folder named dc within the bios folder*) \
-Notes: For retroarch emulation, the bios region will need to be set to Japan or the games won't load.  This can be done while loading a game by going to the retroarch menu, Options, Region, Japan.
+Notes: 
+- For retroarch emulation, the bios region will need to be set to Japan or the games won't load.  This can be done while loading a game by going to the retroarch menu, Options, Region, Japan.
+- Thanks to bignella for testing and compiling a list of the performance of various Naomi games using the retrorun32/flycast32 rumble emulator/core combination.  See [here](https://docs.google.com/spreadsheets/d/1Hr73Tx2uQS7L00rfh68lusGENYZDybkM3OitHLMQUPw/edit#gid=357082792).
+
 
 ### Neo Geo
 Emulator: (**lr-fbneo**) lr-fbalpha2012 \
@@ -398,7 +403,10 @@ Notes:
 Emulator: (**lr-pcsx-rearmed**) lr-duckstation \
 Rom Folder: psx \
 Extensions: .cue .CUE .img .IMG .mdf .MDF .pbp .PBP .toc .TOC .cbn .CBN .m3u .M3U .ccd .CCD .chd .CHD .zip .ZIP .7z .7Z .iso .ISO \
-Bios: psxonpsp660.bin, scph101.bin, scph7001.bin, scph5501.bin, scph1001.bin
+Bios: psxonpsp660.bin, scph101.bin, scph7001.bin, scph5501.bin, scph1001.bin \
+Notes: 
+- Rewind and Fast Forward capability should be disabled while playing PSX. Performance may suffer greatly otherwise.
+- It's been reported best performance is achieved using the psxonpsp660.bin bios.
 
 ### Playstation Portable (PSP)
 Emulator: (**ppsspp standalone**) ppsspp-go standalone lr-ppsspp \
