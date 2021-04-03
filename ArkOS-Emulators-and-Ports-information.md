@@ -367,7 +367,7 @@ Bios: See this link for more details.  https://docs.libretro.com/library/neko_pr
 ### PC
 Emulator: (**lr-dosbox_pure**) lr-dosbox \
 Rom Folder: dos \
-Extensions: .exe .EXE .com .COM .bat .BAT .conf .CONF .cue .CUE .iso .ISO .zip .ZIP \
+Extensions: .dosz .DOSZ .exe .EXE .com .COM .bat .BAT .conf .CONF .cue .CUE .iso .ISO .zip .ZIP \
 Bios: None
 
 ### PC Engine/TurboGraphx-16
