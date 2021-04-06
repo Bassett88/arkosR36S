@@ -22,6 +22,7 @@
 20. [How do I mount a USB drive for copying and moving files?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-mount-a-usb-drive-for-copying-and-moving-files)
 21. [Is it possible for Emulationstation to be fullscreen?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-is-it-possible-for-emulationstation-to-be-fullscreen)
 22. [How do I change the boot logo?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-change-the-boot-logo)
+23. [How does the low battery indicator Work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-does-the-low-battery-indicator-work)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -322,3 +323,8 @@ The image must meet the following criteria:
 - Must be of 24 bit depth
 - Must be rotated counterclockwise.
 - See [here](https://wiki.odroid.com/odroid_go_advance/application_note/bootlogo) for more info and examples.
+
+## Q. How does the low battery indicator Work?
+### A. The following will occur:
+- Screen brightness will lower then raise to previous set brightness every 30 seconds when battery life is less than or equal to 30 percent.
+- Screen brightness will lower then raise to previous set brightness every 5 seconds when battery life is less than or equal to 19 percent.
