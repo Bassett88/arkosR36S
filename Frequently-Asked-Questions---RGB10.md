@@ -324,7 +324,7 @@ The image must meet the following criteria:
 - Must be rotated counterclockwise.
 - See [here](https://wiki.odroid.com/odroid_go_advance/application_note/bootlogo) for more info and examples.
 
-##Q. How does the low battery indicator Work?
+## Q. How does the low battery indicator Work?
 ### A. The following will occur:
 - Screen brightness will lower then raise to previous set brightness every 30 seconds when battery life is less than or equal to 30 percent.
 - Screen brightness will lower then raise to previous set brightness every 5 seconds when battery life is less than or equal to 19 percent.
