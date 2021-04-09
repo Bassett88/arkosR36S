@@ -66,6 +66,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 -  Mac OS X users (Instructions are untested):
    -  Download and install the [ApplePi-Baker](http://www.tweaking4all.com/hardware/raspberry-pi/macosx-apple-pi-baker/) application if you don't have it already.
+        - **DO NOT USE BALENA ETCHER WITH THIS IMAGE.**  There has been reports of various strange issues and inconsistent performance using Etcher for this image.
    -  Download the compressed .7z image from from one of the links at bottom of this page.         
    -  Extract the image file from the downloaded .7z file with [The Unarchiver](http://unarchiver.c3.cx/) or [Keka](http://www.kekaosx.com/en/) or tool that can uncompress .7z files.
    -  Insert the SD card into your SD card reader.
@@ -99,11 +100,11 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 Download Links :
 
-**RG351P/RG351M [Announcement](https://github.com/christianhaitian/arkos/wiki/Announcement)** - [GDrive](https://drive.google.com/file/d/1UEcQffIgL7B2ctHPsi_GjnefzBHCq56j/view?usp=sharing) | [Mega](https://mega.nz/file/6YhUQbZB#YitN3AnKRmXsQMtbY-NAa4O676HXR4Tyg5q7IS9s6r8) (Updated 02/20/2021) MD5:FD32E11AA1A05B7D171529A682A686C2 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog) [RG351P - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P)
+**RG351P/RG351M [Announcement](https://github.com/christianhaitian/arkos/wiki/Announcement)** - [GDrive](https://drive.google.com/file/d/1UEcQffIgL7B2ctHPsi_GjnefzBHCq56j/view?usp=sharing) | [Mega](https://mega.nz/file/6YhUQbZB#YitN3AnKRmXsQMtbY-NAa4O676HXR4Tyg5q7IS9s6r8) (Updated 02/20/2021) MD5:FD32E11AA1A05B7D171529A682A686C2 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog) | [RG351P - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P)
 
-**OGA 1.0/RK2020** - [GDrive](https://drive.google.com/file/d/1pf8NgnsoGqJoNzkHbZ0U2u9U56v2Q3-R/view?usp=sharing) | [Mega](https://mega.nz/file/fdwFGCbR#C4naBJ_lqlV5Gp_4nJomhSLafOc-ETMEU1alEqYaZlo) (Updated 02/20/2021) MD5:DA3D6F6DC72467D7935D233D735AEB43 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog) [RK2020 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020)
+**OGA 1.0/RK2020** - [GDrive](https://drive.google.com/file/d/1pf8NgnsoGqJoNzkHbZ0U2u9U56v2Q3-R/view?usp=sharing) | [Mega](https://mega.nz/file/fdwFGCbR#C4naBJ_lqlV5Gp_4nJomhSLafOc-ETMEU1alEqYaZlo) (Updated 02/20/2021) MD5:DA3D6F6DC72467D7935D233D735AEB43 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog) | [RK2020 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020)
 
-**OGA 1.1/RGB10** - [GDrive](https://drive.google.com/file/d/13fA-MzXNExsvGRdwgt50penwUr4vHgd4/view?usp=sharing) | [Mega](https://mega.nz/file/PMoAAIiI#GDG4OqxZYak_xMh4yNDdANAtzaG667aoSJInyTtevtE) (Updated 02/20/2021) MD5:161B0216E9FAAC746DECAAB515F87253 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
+**OGA 1.1/RGB10** - [GDrive](https://drive.google.com/file/d/13fA-MzXNExsvGRdwgt50penwUr4vHgd4/view?usp=sharing) | [Mega](https://mega.nz/file/PMoAAIiI#GDG4OqxZYak_xMh4yNDdANAtzaG667aoSJInyTtevtE) (Updated 02/20/2021) MD5:161B0216E9FAAC746DECAAB515F87253 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) | [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
 
 ### Credits and Thanks
 Slaminger for the TheRA OS that helped inspire me to provide ArkOS \
