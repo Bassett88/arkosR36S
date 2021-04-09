@@ -25,6 +25,7 @@
 23. [How do I mount a USB drive for copying and moving files?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-mount-a-usb-drive-for-copying-and-moving-files)
 24. [Is it possible for Emulationstation to be fullscreen?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-is-it-possible-for-emulationstation-to-be-fullscreen)
 25. [How do I change the boot logo?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-change-the-boot-logo)
+26. [How does the low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-does-the-low-battery-indicator-work)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -369,3 +370,8 @@ The image must meet the following criteria:
 - See [here](https://wiki.odroid.com/odroid_go_advance/application_note/bootlogo) for more info and examples.
 
 If you don't want the logo to change on every boot, just deleted or rename the BMPs folder located in the fat32 boot partition.
+
+## Q. How does the low battery indicator work?
+### A. The following will occur:
+- The power led will turn red when battery life is less than 20 percent.
+- The power led will blink red every 1 second when battery life is less than 10 percent.
