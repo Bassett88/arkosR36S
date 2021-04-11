@@ -27,7 +27,7 @@
 25. [How does the low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-does-the-low-battery-indicator-work)
 
 ## Q. How do I configure my wifi connection in ArkOS?
-### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
+### A. See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
 - Go to the **Options** menu and select **WIFI**.  
 - Then hit the **R1** button to go to the **+** sign and click the A button to add your wifi details.  
 - Once completed, you can then verify that your wifi is connected by confirming that you see the wifi symbol located near the top right corner of the Emulationstation Menu.  You can also verify that you have a valid wireless connection by going to **Options** then **NETWORK INFO** and verify you have an assigned IP for your device.  
