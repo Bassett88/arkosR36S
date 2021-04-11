@@ -594,7 +594,7 @@ Instructions: Add Doom.wad file to /roms/ports/doom folder then start Doom from 
 ### Doom 2
 Instructions: Add Doom2.wad file to /roms/ports/doom2 folder then start Doom 2 from Ports in the emulationstation menu.    For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
 
-### EasyRPG (Soon to be deprecated as Pico-8 has been moved to the main system section)
+### EasyRPG (Soon to be deprecated as EasyRPG has been moved to the main system section)
 Instructions: Load game folders within the /roms/ports/easyrpg folder.  Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.
 
 ### Half-Life 1
