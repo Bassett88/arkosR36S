@@ -25,6 +25,7 @@
 23. [How do I mount a USB drive for copying and moving files?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-mount-a-usb-drive-for-copying-and-moving-files)
 24. [How do I change the boot logo?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-change-the-boot-logo)
 25. [How does the low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-does-the-low-battery-indicator-work)
+26. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
