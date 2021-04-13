@@ -165,7 +165,7 @@ Notes: In order to use prboom, you'll need prboom.wad in the /roms/doom folder. 
 ### Dreamcast
 Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme retrorun retrorun32 \
 Rom Folder: dreamcast \
-Extensions: ~~.7z .7Z~~ .gdi .GDI .cdi .CDI .cue .CUE \
+Extensions: ~~.7z .7Z~~ .gdi .GDI .cdi .CDI .cue .CUE .chd .CHD \
 Bios: dc_boot.bin, dc_flash.bin (*need to be placed in a folder named dc within the bios folder*) \
 Note: 
 -  Thanks to bignella for testing and compiling a list of the performance of various Dreamcast games using the retrorun32/flycast32 rumble emulator/core combination.  See [here](https://docs.google.com/spreadsheets/d/1Hr73Tx2uQS7L00rfh68lusGENYZDybkM3OitHLMQUPw/edit#gid=1744200840).
