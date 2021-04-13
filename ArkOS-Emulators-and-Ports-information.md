@@ -168,6 +168,7 @@ Rom Folder: dreamcast \
 Extensions: ~~.7z .7Z~~ .gdi .GDI .cdi .CDI .cue .CUE .chd .CHD \
 Bios: dc_boot.bin, dc_flash.bin (*need to be placed in a folder named dc within the bios folder*) \
 Note: 
+-  For best performance, .gdi files are usually best since they're uncompressed.
 -  Thanks to bignella for testing and compiling a list of the performance of various Dreamcast games using the retrorun32/flycast32 rumble emulator/core combination.  See [here](https://docs.google.com/spreadsheets/d/1Hr73Tx2uQS7L00rfh68lusGENYZDybkM3OitHLMQUPw/edit#gid=1744200840).
 -  These cores are currently not working with .7z extension.  No ETA on when this will be addressed at this time.  
 -  Saves are loaded from /roms/bios/dc/ as vmu_save_A1.bin files (A1, A2, B1, B2 etc) for retrorun and retrorun32.
