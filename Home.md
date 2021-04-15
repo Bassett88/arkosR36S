@@ -1,5 +1,8 @@
 <H1 align="center">
 Welcome to the ArkOS wiki </H1>
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=RC72LJ4SSERSU)
+
 <p align="center"><img width="200" height="100" src="https://github.com/christianhaitian/arkos/raw/main/devices/ArkOSLogoOreoTransparent.bmp">
 </p>
 <p align="center"><img width="300" height="200" src="https://github.com/christianhaitian/arkos/raw/main/pics/Systempic_1.JPG">
