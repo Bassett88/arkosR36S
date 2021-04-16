@@ -327,5 +327,6 @@ The image must meet the following criteria:
 ## Q. How does the low battery indicator work?
 ### A. The following will occur:
 - Screen brightness will lower then raise to previous set brightness every 30 seconds when battery life is less than or equal to 30 percent.
-- Screen brightness will lower then raise to previous set brightness every 5 seconds when battery life is less than or equal to 19 percent. \
-Note: You can turn this feature off by going to the Options/Advanced section in Emulationstation just above Retroarch and select DISABLE LOW BATTERY WARNING.
+- Screen brightness will lower then raise to previous set brightness every 5 seconds when battery life is less than or equal to 19 percent.
+
+**Note:** You can turn this feature off by going to the Options/Advanced section in Emulationstation just above Retroarch and select DISABLE LOW BATTERY WARNING.
