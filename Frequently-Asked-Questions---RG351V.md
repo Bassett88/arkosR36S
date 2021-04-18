@@ -26,7 +26,7 @@
 24. [How do I change the boot logo?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-change-the-boot-logo)
 25. [How does the low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-does-the-low-battery-indicator-work)
 26. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
-27. [How does the movie/video player work?]()
+27. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-does-the-movievideo-player-work)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. You will need to do the following:
@@ -391,6 +391,8 @@ If you don't want the logo to change on every boot, just deleted or rename the B
 ### A. Do the following:
 - Supported movie/video formats are .avi .mp4 .mpg
 - Supported movies/videos need to be loaded in the videos subfolder within the roms folder.
+- Up to 720p seems to perform fine with limited testing.
+- Support will be limited for this feature.  If a video/movie doesn't work on this, try a lower resolution or just use a more suitable player like a smartphone.
 
 Controls:
 - A: Pause
