@@ -31,7 +31,16 @@
 ### A. You will need to do the following:
 - Go to the **Options** menu and select **WIFI**.  
 - Then hit the **R1** button to go to the **+** sign and click the A button to add your wifi details.  
-- Once completed, you can then verify that your wifi is connected by confirming that you see the wifi symbol located near the top right corner of the Emulationstation Menu.  You can also verify that you have a valid wireless connection by going to **Options** then **NETWORK INFO** and verify you have an assigned IP for your device.  
+- Once completed, you can then verify that your wifi is connected by confirming that you see the wifi symbol located near the top right corner of the Emulationstation Menu.  You can also verify that you have a valid wireless connection by going to **Options** then **NETWORK INFO** and verify you have an assigned IP for your device.
+
+**Note:** If you have a password that has special characters not available through the Wifi menu option in the Options menu, you can configure your wifi device manually by doing the following:
+
+1. Press **Start**, scroll down to **Quit**, then select **Quit Emulationstation**.
+2. Connect a USB keyboard to your device and press **ALT+F2**.
+3. Login using the username of **ark** and password of **ark**.
+4. Then type **nmtui** to launch the graphical text based Network Manager utility.
+5. Click on **Edit a connection** then Add and follow the menu for configuring your connection.
+   - For more information on how to use this utility, check out the article available through this [link](https://www.tecmint.com/nmtui-configure-network-connection/)
 
 ## Q. How do I SSH into ArkOS?
 ### A. Verify that you completed the steps in [FAQ #1](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-configure-my-wifi-connection-in-arkos) above to configure your wireless connection.  You will then need to do the following:
