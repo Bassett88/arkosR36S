@@ -401,6 +401,6 @@ Controls:
 - R2: Seek to the next chapter or if there are no chapters, seek 10 minutes forward.
 - Dpad Left: Seek 1 second back
 - Dpad Right: Seek 1 second forward
-- Dpad Up: Seek 1 minute back
-- Dpad Down: Seek 1 minute forward
+- Dpad Up: Seek 1 minute forward
+- Dpad Down: Seek 1 minute back
 - Select+Start: Exit player
