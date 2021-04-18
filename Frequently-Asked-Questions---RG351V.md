@@ -388,7 +388,7 @@ If you don't want the logo to change on every boot, just deleted or rename the B
     * Do not overwrite the .sh files in the ports folder.  Doing so may cause your ports to no longer work.  If you do this by accident, just go to the Options section, Advanced then click on SWITCH TO MAIN SD FOR ROMS, then when ES reloads, go back to Options section, Advanced then click on SWITCH TO SD2 FOR ROMS.  This should fix the ports.sh files.
 
 ## Q. How does the movie/video player work?
-### A. Do the following:
+### A. The movie/video player is ffplay.  More information about ffplay is available in this [link](https://ffmpeg.org/ffplay.html)
 - Supported movie/video formats are .avi .mp4 .mpg
 - Supported movies/videos need to be loaded in the videos subfolder within the roms folder.
 - Up to 720p seems to perform fine with limited testing.
