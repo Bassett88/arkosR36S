@@ -26,6 +26,7 @@
 24. [How do I change the boot logo?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-change-the-boot-logo)
 25. [How does the low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-does-the-low-battery-indicator-work)
 26. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
+27. [How does the movie/video player work?]()
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. You will need to do the following:
@@ -386,3 +387,18 @@ If you don't want the logo to change on every boot, just deleted or rename the B
     * This process will NOT copy any of your roms, games and saves from the main SD card to the secondary card.  It will just create the structure for you.  You'll need to copy those yourself.  You can use File Manager from the Options menu to do this or copy them manually from your computer.
     * Do not overwrite the .sh files in the ports folder.  Doing so may cause your ports to no longer work.  If you do this by accident, just go to the Options section, Advanced then click on SWITCH TO MAIN SD FOR ROMS, then when ES reloads, go back to Options section, Advanced then click on SWITCH TO SD2 FOR ROMS.  This should fix the ports.sh files.
 
+## Q. How does the movie/video player work?
+### A. Do the following:
+- Supported movie/video formats are .avi .mp4 .mpg
+- Supported movies/videos need to be loaded in the videos subfolder within the roms folder.
+
+Controls:
+- A: Pause
+- X: Mute
+- L2: Seek to the previous chapter or if there are no chapters, seek 10 minutes back.
+- R2: Seek to the next chapter or if there are no chapters, seek 10 minutes forward.
+- Dpad Left: Seek 1 second back
+- Dpad Right: Seek 1 second forward
+- Dpad Up: Seek 1 minute back
+- Dpad Down: Seek 1 minute forward
+- Select+Start: Exit player
