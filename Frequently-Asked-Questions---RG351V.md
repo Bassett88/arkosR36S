@@ -392,7 +392,7 @@ If you don't want the logo to change on every boot, just deleted or rename the B
 - Supported movie/video formats are .avi .mp4 .mpg
 - Supported movies/videos need to be loaded in the videos subfolder within the roms folder.
 - Up to 720p seems to perform fine with limited testing.
-- Support will be limited for this feature.  If a video/movie doesn't work on this, try a lower resolution or just use a more suitable player like a smartphone.
+- Support will be limited for this feature.  If a video/movie doesn't work on this, try a lower resolution or just use a more suitable device like a smartphone.
 
 Controls:
 - A: Pause
