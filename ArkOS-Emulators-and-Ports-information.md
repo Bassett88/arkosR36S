@@ -19,13 +19,13 @@ Bios: panafz1.bin or panafz10.bin or panafz10-norsa.bin or panafz10e-anvil.bin o
 
 
 ### Amiga 
-Emulator: (**Amiberry**) lr-puae \
+Emulator: (**Amiberry**) lr-puae lr-uae4arm \
 Rom Folder: amiga \
 Extensions: .adf .ADF .hdf .HDF .lha .LHA \
 Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)
 
 ### Amiga CD32
-Emulator: lr-puae \
+Emulator: (**lr-puae**) lr-uae4arm \
 Rom Folder: amigacd32 \
 Extensions: .cue .CUE .ccd .CCD .lha .LHA .nrg .NRG .mds .MDS .iso .ISO .m3u .M3U \
 Bios: kick34005.A500 and kick40063.A600 and kick40068.A1200
@@ -262,6 +262,12 @@ Emulator: (**lr-genesis_plus_gx**) lr-picodrive \
 Rom Folder: mastersystem \
 Extensions: .7z .bin .sms .zip \
 Bios: bios_E.sms (optional), bios_U.sms (optional), bios_J.sms (optional)
+
+### Megadrive MSU
+Emulator: lr-genesis_plus_gx \
+Rom Folder: msumd \
+Extensions: .md .MD \
+Bios: bios_md.bin, bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin
 
 ### MSX
 Emulator: (**lr-bluemsx**) lr-fMSX \
@@ -542,6 +548,12 @@ Bios: None
 Emulator: lr-mednafen-vb (aka lr-beetle-vb) \
 Rom Folder: virtualboy \
 Extensions: .vb .VB .vboy .VBOY .zip .zip \
+Bios: None
+
+### Watara Supervision
+Emulator: lr-potator \
+Rom Folder: supervision
+Extensions: .bin .BIN .zip .ZIP \
 Bios: None
 
 ### WonderSwan
