@@ -23,6 +23,8 @@
 21. [Is it possible for Emulationstation to be fullscreen?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-is-it-possible-for-emulationstation-to-be-fullscreen)
 22. [How do I change the boot logo?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-change-the-boot-logo)
 23. [How does the low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-does-the-low-battery-indicator-work)
+24. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-does-the-movievideo-player-work)
+
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -340,3 +342,21 @@ The image must meet the following criteria:
 - Screen brightness will lower then raise to previous set brightness every 5 seconds when battery life is less than or equal to 19 percent.
 
 **Note:** You can turn this feature off by going to the Options/Advanced section in Emulationstation just above Retroarch and select DISABLE LOW BATTERY WARNING.
+
+## Q. How does the movie/video player work?
+### A. The movie/video player is ffplay.  More information about ffplay is available in this [link](https://ffmpeg.org/ffplay.html)
+- Supported movie/video formats are .avi .mp4 .mpg
+- Supported movies/videos need to be loaded in the videos subfolder within the roms folder.
+- Up to 720p seems to perform fine with limited testing.
+- Support will be limited for this feature.  If a video/movie doesn't work on this, try a lower resolution or just use a more suitable device like a smartphone.
+
+Controls:
+- A: Pause
+- X: Mute
+- L2: Seek to the previous chapter or if there are no chapters, seek 10 minutes back.
+- R2: Seek to the next chapter or if there are no chapters, seek 10 minutes forward.
+- Dpad Left: Seek 1 second back
+- Dpad Right: Seek 1 second forward
+- Dpad Up: Seek 1 minute forward
+- Dpad Down: Seek 1 minute back
+- Select+Start: Exit player
