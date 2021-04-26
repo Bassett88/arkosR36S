@@ -415,7 +415,7 @@ Notes:
 - Rewind and Fast Forward capability should be disabled while playing PSX. Performance may suffer greatly otherwise.
 - It's been reported best performance is achieved using the psxonpsp660.bin bios. 
 - Certain games (ex. Looney Tunes Sheep Rider, Jedi Power Battles and 2xtreme/espn extreme games) need to have SMC Checks disabled or games will eventually slow down and crash in the pcsx-rearmed core.  Retroarch Quick Menu > Options > (Speed Hack) Disable SMC check.
-- iS: Internal Section - Change PSX clock to 45 to get past the boot screen.
+- iS: Internal Section: Change PSX clock to 45 to get past the boot screen.
 - Parasite Eve Games: Change PSX Clock to 64 (100%) for one of the Parasite Eve games to get past certain sections.
 
 ### Playstation Portable (PSP)
