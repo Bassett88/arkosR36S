@@ -326,7 +326,7 @@ Extensions: .ngp .NGP .ngc .NGC .zip .ZIP \
 Bios: None
 
 ### Nintendo 64
-Emulator: (**lr-parallel-n64**) lr-mupen64plus_next lr-glupen64 mupen64plus(standalone) \
+Emulator: (**lr-parallel-n64**) lr-mupen64plus_next lr-mupen64plus mupen64plus(standalone) \
 Rom Folder: n64 \
 Extensions: .z64 .Z64 .n64 .N64 .v64 .V64 \
 Bios: None \
