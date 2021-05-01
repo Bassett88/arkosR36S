@@ -105,9 +105,9 @@ Download Links :
 
 **RG351P/RG351M [Announcement](https://github.com/christianhaitian/arkos/wiki/Announcement)** - [GDrive](https://drive.google.com/file/d/1HFHsqlDo1mwDCQWD6edIZSkuX6ERSq0c/view?usp=sharing) | [Mega](https://mega.nz/file/qJISHZrA#T5YlrUK4Igb-t0PNoTmAUiC7HnJs0NMNu44D6zYcxFE) (Updated 05/01/2021) MD5:DB9CEC16F8E09F9511799E8818178ECE [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog) | [RG351P - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P)
 
-**OGA 1.0/RK2020** - [GDrive](https://drive.google.com/file/d/1pf8NgnsoGqJoNzkHbZ0U2u9U56v2Q3-R/view?usp=sharing) | [Mega](https://mega.nz/file/fdwFGCbR#C4naBJ_lqlV5Gp_4nJomhSLafOc-ETMEU1alEqYaZlo) (Updated 02/20/2021) MD5:DA3D6F6DC72467D7935D233D735AEB43 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog) | [RK2020 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020)
+**OGA 1.0/RK2020** - [GDrive]() | [Mega]() (Updated 05/01/2021) MD5:306D7F765670111E316A40A1A12C7A8B [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog) | [RK2020 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020)
 
-**OGA 1.1/RGB10** - [GDrive](https://drive.google.com/file/d/13fA-MzXNExsvGRdwgt50penwUr4vHgd4/view?usp=sharing) | [Mega](https://mega.nz/file/PMoAAIiI#GDG4OqxZYak_xMh4yNDdANAtzaG667aoSJInyTtevtE) (Updated 02/20/2021) MD5:161B0216E9FAAC746DECAAB515F87253 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) | [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
+**OGA 1.1/RGB10** - [GDrive](https://drive.google.com/file/d/1SZfgzYUHMRwpVVsNsQY7rjh1q5dUu0vz/view?usp=sharing) | [Mega](https://mega.nz/file/PIpklDKD#pwcsHlcDFttdeFyyzv-Nrjl98S0lYVbuTHW4O4kT5pw) (Updated 05/01/2021) MD5:19E74C80A556526507FBD4E30028DFBE [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) | [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
 
 ### Credits and Thanks
 Slaminger for the TheRA OS that helped inspire me to provide ArkOS \
