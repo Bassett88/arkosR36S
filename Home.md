@@ -112,6 +112,7 @@ Download Links :
 ### Credits and Thanks
 Slaminger for the TheRA OS that helped inspire me to provide ArkOS \
 valadaa48 for various assistance and all his work on the original rk3326 device, the Odroid Go Advance. \
+OtherCrashOverride for the retrorun emulator ppsspp-go and other work. \
 luali for kernel and dtb for the RG351P, and various other assistance requests. \
 fewt for advice \
 npaladin2000 for donation of the RG351P device so I could release this OS on it. \
