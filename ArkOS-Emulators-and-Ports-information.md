@@ -654,7 +654,7 @@ Instructions: Rick Dangerous files are already included and ready to go.  Just s
 ### SDLPoP (Prince of Persia)
 Instructions: The game is an open-source port and is already included and ready to go.  Just start SDLPoP from Ports in the emulationstation menu.
 
-### Sonic 1 (RG351P/M and RG351V Only.  Coming soon to the RGB10, RK2020, and OGA 1.0/1.1)
+### Sonic 1
 Instructions: You much have a copy of the Sonic The Hedgehog Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract /assets/Data.rsdk.xmf.
 2. Rename the Data.rsdk.xmf to Data.rsdk.  Case is important!
@@ -662,7 +662,7 @@ Instructions: You much have a copy of the Sonic The Hedgehog Classic Android APK
 4. If all is well, you should be able to run Sonic 1 now.
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
 
-### Sonic 2 (RG351P/M and RG351V Only.  Coming soon to the RGB10, RK2020, and OGA 1.0/1.1)
+### Sonic 2
 Instructions: You much have a copy of the Sonic The Hedgehog 2 Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract /assets/Data.rsdk.xmf.
 2. Rename the Data.rsdk.xmf to Data.rsdk.  Case is important!
@@ -670,7 +670,7 @@ Instructions: You much have a copy of the Sonic The Hedgehog 2 Classic Android A
 4. If all is well, you should be able to run Sonic 2 now.
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
 
-### Sonic CD (RG351P/M and RG351V Only.  Coming soon to the RGB10, RK2020, and OGA 1.0/1.1)
+### Sonic CD
 Instructions: You much have a copy of the Sonic CD Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract Androind/obb/comm.sega.soniccd.classic/patch49.com.sega.soniccd.classic.obb.
 2. Rename the patch49.com.sega.soniccd.classic.obb to Data.rsdk.  Case is important!
