@@ -103,9 +103,9 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 Download Links :
 
-**RG351P/RG351M [Announcement](https://github.com/christianhaitian/arkos/wiki/Announcement)** - [GDrive](https://drive.google.com/file/d/1HFHsqlDo1mwDCQWD6edIZSkuX6ERSq0c/view?usp=sharing) | [Mega](https://mega.nz/file/qJISHZrA#T5YlrUK4Igb-t0PNoTmAUiC7HnJs0NMNu44D6zYcxFE) (Updated 05/01/2021) MD5:DB9CEC16F8E09F9511799E8818178ECE [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog) | [RG351P - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P)
+**RG351P/RG351M [Announcement](https://github.com/christianhaitian/arkos/wiki/Announcement)** - [GDrive]() | [Mega]() (Updated 05/01/2021) MD5:DB9CEC16F8E09F9511799E8818178ECE [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog) | [RG351P - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P)
 
-**OGA 1.0/RK2020** - [GDrive]() | [Mega]() (Updated 05/01/2021) MD5:306D7F765670111E316A40A1A12C7A8B [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog) | [RK2020 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020)
+**OGA 1.0/RK2020** - [GDrive](https://drive.google.com/file/d/1bhBRGGPO9UB7mS29rGDWBxp0bMntw1XA/view?usp=sharing) | [Mega](https://mega.nz/file/3NQhXaDK#ctRLZXPMBvsBoltuRr829MIEC7B9xio5kG60iexcPN0) (Updated 05/01/2021) MD5:306D7F765670111E316A40A1A12C7A8B [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog) | [RK2020 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020)
 
 **OGA 1.1/RGB10** - [GDrive](https://drive.google.com/file/d/1SZfgzYUHMRwpVVsNsQY7rjh1q5dUu0vz/view?usp=sharing) | [Mega](https://mega.nz/file/PIpklDKD#pwcsHlcDFttdeFyyzv-Nrjl98S0lYVbuTHW4O4kT5pw) (Updated 05/01/2021) MD5:19E74C80A556526507FBD4E30028DFBE [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) | [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
 
