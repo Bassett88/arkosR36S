@@ -103,7 +103,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 Download Links :
 
-**RG351P/RG351M [Announcement](https://github.com/christianhaitian/arkos/wiki/Announcement)** - [GDrive]() | [Mega]() (Updated 05/01/2021) MD5:DB9CEC16F8E09F9511799E8818178ECE [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog) | [RG351P - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P)
+**RG351P/RG351M [Announcement](https://github.com/christianhaitian/arkos/wiki/Announcement)** - [GDrive](https://drive.google.com/file/d/1HFHsqlDo1mwDCQWD6edIZSkuX6ERSq0c/view?usp=sharing) | [Mega](https://mega.nz/file/bMAllK5C#JFst8dJuN9Bqxx59xk0R2s5sIyS7xZa4X5gr0xu3OcU) (Updated 05/01/2021) MD5:397CE9322205E2042A62F54E770F949E [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog) | [RG351P - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P)
 
 **OGA 1.0/RK2020** - [GDrive](https://drive.google.com/file/d/1bhBRGGPO9UB7mS29rGDWBxp0bMntw1XA/view?usp=sharing) | [Mega](https://mega.nz/file/3NQhXaDK#ctRLZXPMBvsBoltuRr829MIEC7B9xio5kG60iexcPN0) (Updated 05/01/2021) MD5:306D7F765670111E316A40A1A12C7A8B [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog) | [RK2020 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020)
 
