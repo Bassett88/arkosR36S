@@ -28,6 +28,7 @@
 26. [How does the low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-does-the-low-battery-indicator-work)
 27. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-does-the-movievideo-player-work)
 28. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-where-are-game-saves-and-savestates-stored)
+29. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-where-do-i-put-psp-dlcs)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -410,3 +411,8 @@ Controls:
 ### A. Game saves and savestates are stored in the respective content folder for each system.
 
 Ex. GBA .srm files and .state files would be saved in /roms/gba.
+
+## Q. Where do I put PSP DLCs?
+### A. The same way as on a real PSP. /roms/psp/ppsspp/PSP/. 
+
+If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: place it in the GAME folder
