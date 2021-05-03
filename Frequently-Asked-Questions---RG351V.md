@@ -328,7 +328,7 @@ You can change the splash screen by uploading a new splash screen image in the /
 
 - Must be in .jpg format
 - Must be named loading.jpg.  The name is case sensitive!
-- Must be 480 pixels in width and 320 pixels in height.
+- Must be 640 pixels in width and 480 pixels in height.
 - Must be of 24 bit depth
 
 If you'd like to remove the splash screen all together, just rename the loading.jpg file to something else or simply delete it.
@@ -364,12 +364,8 @@ The image must meet the following criteria:
 
 - Must be in .bmp format
 - Must be named logo.bmp.  The name is case sensitive!
-- Must be 480 pixels in width and 320 pixels in height.
+- Must be 640 pixels in width and 480 pixels in height.
 - Must be of 24 bit depth
-- Must be rotated counterclockwise.
-- See [here](https://wiki.odroid.com/odroid_go_advance/application_note/bootlogo) for more info and examples.
-
-If you don't want the logo to change on every boot, just deleted or rename the BMPs folder located in the fat32 boot partition.
 
 ## Q. How does the low battery indicator work?
 ### A. The following will occur:
