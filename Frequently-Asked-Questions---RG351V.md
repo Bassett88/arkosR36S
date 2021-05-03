@@ -28,7 +28,7 @@
 26. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
 27. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-does-the-movievideo-player-work)
 28. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-where-are-game-saves-and-savestates-stored)
-29. [Where do I put PSP DLCs?]()
+29. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-where-do-i-put-psp-dlcs)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. You will need to do the following:
