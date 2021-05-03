@@ -27,6 +27,7 @@
 25. [How does the low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-does-the-low-battery-indicator-work)
 26. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
 27. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-does-the-movievideo-player-work)
+28. [Where are game saves and savestates stored?]()
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. You will need to do the following:
@@ -404,3 +405,8 @@ Controls:
 - Dpad Up: Seek 1 minute forward
 - Dpad Down: Seek 1 minute back
 - Select+Start: Exit player
+
+## Q. Where are game saves and savestates stored?
+### A. Game saves and savestates are stored in the respective content folder for each system.
+
+Ex. GBA .srm files and .state files would be saved in /roms/gba or /roms2/gba if you're using a second SD card for your roms.
