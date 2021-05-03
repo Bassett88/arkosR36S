@@ -11,7 +11,7 @@ ES-THEME-SUPER-RETRO-OGA \
 ES-THEME-SWITCH \
 ES-THEME-THERA_NTFS-CARBON
 
-For the RG351V, ArkOS comes witht he following themes preinstalled:
+For the RG351V, ArkOS comes with the following themes preinstalled:
 
 ES-THEME-ARKOS-CARBON \
 ES-THEME-FREEPLAY \
