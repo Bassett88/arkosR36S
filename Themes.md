@@ -1,4 +1,4 @@
-ArkOS comes with the following themes preinstalled:
+ArkOS comes with the following themes preinstalled for the 351P/M, OGA 1.0, OGA 1.1, RGB10, and RK2020:
 
 ES-THEME-DOSIRAKF \
 ES-THEME-EPICNOIR \
@@ -10,6 +10,15 @@ ES-THEME-NES-BOX \
 ES-THEME-SUPER-RETRO-OGA \
 ES-THEME-SWITCH \
 ES-THEME-THERA_NTFS-CARBON
+
+For the RG351V, ArkOS comes witht he following themes preinstalled:
+
+ES-THEME-ARKOS-CARBON \
+ES-THEME-FREEPLAY \
+ES-THEME-GBZ35-MOD \
+ES-THEME-MINIMAL \
+ES-THEME-NES-BOX \
+ES-THEME-SWITCH \
 
 ES-THEME-NES-BOX is the default theme you presented with on boot when you first boot into a freshly imaged SD card.
 
