@@ -28,6 +28,7 @@
 26. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
 27. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-does-the-movievideo-player-work)
 28. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-where-are-game-saves-and-savestates-stored)
+29. [Where do I put PSP DLCs?]()
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. You will need to do the following:
@@ -410,3 +411,10 @@ Controls:
 ### A. Game saves and savestates are stored in the respective content folder for each system.
 
 Ex. GBA .srm files and .state files would be saved in /roms/gba or /roms2/gba if you're using a second SD card for your roms.
+
+## Q. Where do I put PSP DLCs?
+### A. The same way as on a real PSP. /roms/psp/ppsspp/PSP/. 
+
+If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: place it in the GAME folder
+
+**Note**: Even if you're using a second SD card, DLCs should still go to the /roms/psp/ppsspp/PSP/ folder.
