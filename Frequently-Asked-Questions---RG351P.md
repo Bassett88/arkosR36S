@@ -405,3 +405,8 @@ Controls:
 - Dpad Up: Seek 1 minute forward
 - Dpad Down: Seek 1 minute back
 - Select+Start: Exit player
+
+## Q. Where are game saves and savestates stored?
+### A. Game saves and savestates are stored in the respective content folder for each system.
+
+Ex. GBA .srm files and .state files would be saved in /roms/gba.
