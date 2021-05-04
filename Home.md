@@ -107,7 +107,7 @@ Download Links :
 
 **OGA 1.0/RK2020** - [GDrive](https://drive.google.com/file/d/1bhBRGGPO9UB7mS29rGDWBxp0bMntw1XA/view?usp=sharing) | [Mega](https://mega.nz/file/3NQhXaDK#ctRLZXPMBvsBoltuRr829MIEC7B9xio5kG60iexcPN0) (Updated 05/03/2021) MD5:29ADDEAEBDB9F7101D068B00F27E0724 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog) | [RK2020 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020)
 
-**OGA 1.1/RGB10** - [GDrive](https://drive.google.com/file/d/1SZfgzYUHMRwpVVsNsQY7rjh1q5dUu0vz/view?usp=sharing) | [Mega](https://mega.nz/file/PIpklDKD#pwcsHlcDFttdeFyyzv-Nrjl98S0lYVbuTHW4O4kT5pw) (Updated 05/03/2021) MD5:EAC437297DF1E2A6296F07D37EB45573 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) | [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
+**OGA 1.1/RGB10** - [GDrive](https://drive.google.com/file/d/1SZfgzYUHMRwpVVsNsQY7rjh1q5dUu0vz/view?usp=sharing) | [Mega](https://mega.nz/file/2FwGhBbA#jw3Duhnw9emQYESgOyj99zyDvdF4AFWYjODR0tvCNaU) (Updated 05/03/2021) MD5:EAC437297DF1E2A6296F07D37EB45573 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) | [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
 
 ### Credits and Thanks
 Slaminger for the TheRA OS that helped inspire me to provide ArkOS \
