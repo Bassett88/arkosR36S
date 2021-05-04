@@ -597,12 +597,18 @@ Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder 
 ### Cave Story
 Instructions: Cave Story files are already included and ready to go.  Just start Cave Story from Ports in the emulationstation menu.
 
+### C-Dogs (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+Instructions: C-Dogs files are already included and ready to go.  Just start C-Dogs from Ports in the emulationstation menu.
+
 ### Commander Genius (Commander Keen)
 Instructions: Load your keen folders into the /roms/ports/cgenius/games folder.  As an example, the shareware version of Commander Keen 1 is included and is named Keen.  Then just start Commander Genius from Ports in the emulationstation menu.
 
 ### DevilutionX (Diablo 1) (RG351P/M Only)
 Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder; **make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support) \
 Important Note: It’s been reported that you must make sure you use the GOG version of diabdat.mpq with the newest patch_rt.mpq or you may experience a freeze of the game around level 20.
+
+### Dinothawr (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+Instructions: Dinothawr files are already included and ready to go.  Just start Dinothawr from Ports in the emulationstation menu.
 
 ### Doom 1 (Soon to be deprecated as Doom has been moved to the main system section.  Uses lzdoom which is a superior doom engine and even supports mods like Brutal Doom Lite!) 
 Instructions: Add Doom.wad file to /roms/ports/doom folder then start Doom from Ports in the emulationstation menu.  For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
@@ -637,6 +643,9 @@ Thanks to a community member by the name of fonzo, an alternative to these contr
 
 and you're controls will be as shown in the image below:
 ![fonzo mapping](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_halflife_fonzo.png)
+
+### Mr. Boom (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu.
 
 ### OpenTyrian
 Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in the Emulationstation.
@@ -678,6 +687,12 @@ Instructions: You much have a copy of the Sonic CD Classic Android APK then do t
 4. If all is well, you should be able to run Sonic CD now.
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
 *Note*: There seems to be an issue with being able to consistently exit Sonic CD through the menu like you can with Sonic 1 and 2.  You can exit Sonic CD by holding Select and pressing Start. (For the RGB10, you can use hold Minus and press Start.)
+
+### Super Mario War (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+Instructions: Super Mario War files are already included and ready to go.  Just start Super Mario War from Ports in the emulationstation menu.
+
+### SuperTux (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+Instructions: SuperTux files are already included and ready to go.  Just start SuperTux from Ports in the emulationstation menu.
 
 ### VVVVVV
 Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in the emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead.
