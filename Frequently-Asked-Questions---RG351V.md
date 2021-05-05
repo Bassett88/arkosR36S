@@ -374,8 +374,8 @@ The image must meet the following criteria:
 
 ## Q. How do I make use of the second sd slot for roms and games?
 ### A. Do the following:
-1. Make sure you have a micro sd card that is preformatted to Fat, Fat32, Exfat, or NTFS.
-    * For best performance, use Exfat or NTFS.
+1. Make sure you have a micro sd card that is preformatted to Exfat, EXT4, Fat, Fat32 or NTFS.
+    * For best performance, use EXT4, Exfat or NTFS.
 1. Go the Options section just after ScummVM and before Retroarch and click the A button.
 2. Click on Advanced.
 3. Then click on SWITCH TO SD2 FOR ROMS.
