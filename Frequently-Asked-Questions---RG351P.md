@@ -29,8 +29,8 @@
 27. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-does-the-movievideo-player-work)
 28. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-where-are-game-saves-and-savestates-stored)
 29. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-where-do-i-put-psp-dlcs)
-30. [Sleep keeps crashing my devices.  How do I address this?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-sleep-keeps-crashing-my-devices--how-do-i-address-this)
-31. [Can the center power LED be completely turned off via software?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#a-no--this-led-can-only-be-changed-from-green-to-red-and-back-again--it-can-not-be-completely-turned-off-via-software)
+30. [Sleep keeps crashing my devices.  How do I address this?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-sleep-keeps-crashing-my-devices--how-do-i-address-this)
+31. [Can the center power LED be completely turned off via software?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#a-no--this-led-can-only-be-changed-from-green-to-red-and-back-again--it-can-not-be-completely-turned-off-via-software)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
