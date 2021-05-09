@@ -30,6 +30,7 @@
 28. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-where-are-game-saves-and-savestates-stored)
 29. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-where-do-i-put-psp-dlcs)
 30. [Sleep keeps crashing my devices.  How do I address this?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-sleep-keeps-crashing-my-devices--how-do-i-address-this)
+31. [Can the center power LED be completely turned off via software?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#a-no--this-led-can-only-be-changed-from-green-to-red-and-back-again--it-can-not-be-completely-turned-off-via-software)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. You will need to do the following:
