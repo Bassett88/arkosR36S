@@ -29,7 +29,7 @@
 27. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-does-the-movievideo-player-work)
 28. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-where-are-game-saves-and-savestates-stored)
 29. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-where-do-i-put-psp-dlcs)
-30. [Sleep keeps crashing my devices.  How do I address this?]()
+30. [Sleep keeps crashing my devices.  How do I address this?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-sleep-keeps-crashing-my-devices--how-do-i-address-this)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. You will need to do the following:
@@ -424,3 +424,6 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 * Do not sleep the device while playing a video preview in Emulationstation or a screensaver video.  Best to be at the main system select screen then sleep the device.
 * If the device has a weak wifi signal, it will cause issues like this as well.  It's best to turn off wifi when not using it.  You can use F+L3 to toggle the wifi off (flashes the center led twice) or go to Options section>Advanced>Disable Wifi.
 * If and when you experience a crash from sleep, try a safe shutdown first using F + Tap Power.  If that doesn't work, you're only choice is a hard reset.
+
+## Q. Can the center power LED be completely turned off via software?
+### A. No.  This LED can only be changed from green to red and back again.  It can not be completely turned off via software.
