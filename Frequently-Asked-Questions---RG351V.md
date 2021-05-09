@@ -29,6 +29,7 @@
 27. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-does-the-movievideo-player-work)
 28. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-where-are-game-saves-and-savestates-stored)
 29. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-where-do-i-put-psp-dlcs)
+30. [Sleep keeps crashing my devices.  How do I address this?]()
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. You will need to do the following:
@@ -414,3 +415,12 @@ Ex. GBA .srm files and .state files would be saved in /roms/gba or /roms2/gba if
 If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: place it in the GAME folder
 
 **Note**: Even if you're using a second SD card, DLCs should still go to the /roms/psp/ppsspp/PSP/ folder.
+
+## Q. Sleep keeps crashing my devices.  How do I address this?
+### A. Using sleep mode on this device has some specific requirements that must be met or a crash/freeze is likely to happen:
+
+* Only sleep the device when you're in a retroarch based emulator or at the the Emulationstation menu.
+* Do not sleep the device when in any other system such as NDS, Retrorun, Daphne, standalone Mupen64plus, Amiberry, File Manager, video player, etc.
+* Do not sleep the device while playing a video preview in Emulationstation or a screensaver video.  Best to be at the main system select screen then sleep the device.
+* If the device has a weak wifi signal, it will cause issues like this as well.  It's best to turn off wifi when not using it.  You can use F+L3 to toggle the wifi off (flashes the center led twice) or go to Options section>Advanced>Disable Wifi.
+* If and when you experience a crash from sleep, try a safe shutdown first using F + Tap Power.  If that doesn't work, you're only choice is a hard reset.
