@@ -31,7 +31,7 @@
 29. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-where-do-i-put-psp-dlcs)
 30. [Sleep keeps crashing my devices.  How do I address this?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-sleep-keeps-crashing-my-devices--how-do-i-address-this)
 31. [Can the center power LED be completely turned off via software?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#a-no--this-led-can-only-be-changed-from-green-to-red-and-back-again--it-can-not-be-completely-turned-off-via-software)
-32. [I've added the roms to the appropriate folder, but once I the SD card inside the console it doesn't seem to find my roms.]()
+32. [I've added the roms to the appropriate folder, but once I the SD card inside the console it doesn't seem to find my roms.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-ive-added-the-roms-to-the-appropriate-folder-but-once-i-the-sd-card-inside-the-console-it-doesnt-seem-to-find-my-roms)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -436,4 +436,4 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 ### A. Check the following:
 * The roms are in the supported extension for the system per the [Emulators and Ports section](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information)
 * Try pressing start then go to **UI Settings** then **visible systems** and make sure to **select all**.
-* Try pressing start then go to **Advanced settings** and be sure **parse gamelists only** is off
+* Try pressing start then go to **Advanced settings** and be sure **parse gamelists only** is off.
