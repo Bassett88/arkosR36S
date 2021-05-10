@@ -26,7 +26,7 @@
 24. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-does-the-movievideo-player-work)
 25. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-where-are-game-saves-and-savestates-stored)
 26. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-where-do-i-put-psp-dlcs)
-27. [I've added the roms to the appropriate folder, but once I the SD card inside the console it doesn't seem to find my roms.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-ive-added-the-roms-to-the-appropriate-folder-but-once-i-the-sd-card-inside-the-console-it-doesnt-seem-to-find-my-roms)
+27. [I've added the roms to the appropriate folder, but once I put the SD card inside the console it doesn't seem to find my roms.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-ive-added-the-roms-to-the-appropriate-folder-but-once-i-put-the-sd-card-inside-the-console-it-doesnt-seem-to-find-my-roms)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -373,7 +373,7 @@ Ex. GBA .srm files and .state files would be saved in /roms/gba.
 
 If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: place it in the GAME folder
 
-## Q. I've added the roms to the appropriate folder, but once I the SD card inside the console it doesn't seem to find my roms.
+## Q. I've added the roms to the appropriate folder, but once I put the SD card inside the console it doesn't seem to find my roms.
 ### A. Check the following:
 * The roms are in the supported extension for the system per the [Emulators and Ports section](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information)
 * Try pressing start then go to **UI Settings** then **visible systems** and make sure to **select all**.
