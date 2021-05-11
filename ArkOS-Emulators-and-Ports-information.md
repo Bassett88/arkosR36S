@@ -644,6 +644,9 @@ Thanks to a community member by the name of fonzo, an alternative to these contr
 and you're controls will be as shown in the image below:
 ![fonzo mapping](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_halflife_fonzo.png)
 
+### Hydra Castle Labyrinth (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+Instructions: Hydra Castle Labyrinth files are already included and ready to go.  Just start Hydra Castle Labyrinth from Ports in the emulationstation menu.
+
 ### Mr. Boom (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
 Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu.
 
@@ -659,6 +662,17 @@ Notes: There's no support for music at this time until Libretro or the original 
 
 ### Rick Dangerous
 Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in the emulationstation menu.
+
+### Shovel Knight - Treasure Trove (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+Instructions: You must have a copy of Shovel Knight Treasure Trove for Linux.  You'll need the shovelknight folder:  
+1. Be sure the folder contains subfolders named 32, 64 and data.  There should also be a filed named shovelknight.
+2. Copy the shovelknight folder to the roms/ports folder on your device.
+3. For a guide and video of what to do, check out Retro Game Corps' video guide [here](https://retrogamecorps.com/2021/05/09/shovel-knight-treasure-trove-on-retro-handheld-devices/)
+4. The Shovel Knight.sh file included already will work fine, however, if you follow Retro Game Corp's video guide, be sure to not use the Shovel Knight.sh file from there if you're on a RK2020 or OGA.
+
+Notes: \
+Thanks to pitiSeb for box86 (https://github.com/ptitSeb/box86) \
+Thanks to JohnnyonFlame for gl4es and the the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
 
 ### SDLPoP (Prince of Persia)
 Instructions: The game is an open-source port and is already included and ready to go.  Just start SDLPoP from Ports in the emulationstation menu.
