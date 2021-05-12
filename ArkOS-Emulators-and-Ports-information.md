@@ -644,10 +644,10 @@ Thanks to a community member by the name of fonzo, an alternative to these contr
 and you're controls will be as shown in the image below:
 ![fonzo mapping](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_halflife_fonzo.png)
 
-### Hydra Castle Labyrinth (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+### Hydra Castle Labyrinth
 Instructions: Hydra Castle Labyrinth files are already included and ready to go.  Just start Hydra Castle Labyrinth from Ports in the emulationstation menu.
 
-### Mr. Boom (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+### Mr. Boom
 Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu.
 
 ### OpenTyrian
@@ -663,7 +663,7 @@ Notes: There's no support for music at this time until Libretro or the original 
 ### Rick Dangerous
 Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in the emulationstation menu.
 
-### Shovel Knight - Treasure Trove (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+### Shovel Knight - Treasure Trove
 Instructions: You must have a copy of Shovel Knight Treasure Trove for Linux.  You'll need the shovelknight folder:  
 1. Be sure the folder contains subfolders named 32, 64 and data.  There should also be a filed named shovelknight.
 2. Copy the shovelknight folder to the roms/ports folder on your device.
@@ -702,10 +702,10 @@ Instructions: You much have a copy of the Sonic CD Classic Android APK then do t
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
 *Note*: There seems to be an issue with being able to consistently exit Sonic CD through the menu like you can with Sonic 1 and 2.  You can exit Sonic CD by holding Select and pressing Start. (For the RGB10, you can use hold Minus and press Start.)
 
-### Super Mario War (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+### Super Mario War
 Instructions: Super Mario War files are already included and ready to go.  Just start Super Mario War from Ports in the emulationstation menu.
 
-### SuperTux (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+### SuperTux
 Instructions: SuperTux files are already included and ready to go.  Just start SuperTux from Ports in the emulationstation menu.
 
 ### VVVVVV
