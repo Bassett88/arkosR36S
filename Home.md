@@ -103,7 +103,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 Download Links :
 
-**RG351V** - [GDrive](https://drive.google.com/file/d/10XATO5HZFcS-higDYcs1IUjzzL8sC0iB/view?usp=sharing) | [Mega](https://mega.nz/file/qURxBQBS#hy6FGk6IixZmWW_HJwr1qBf7YQ8DepobQiHO4N8-3I0) (Updated 05/15/2021) MD5:DC4005E1EF82055D3F475A8F22EA3854 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog) | [RG351V - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V)
+**RG351V** - [GDrive](https://drive.google.com/file/d/10XATO5HZFcS-higDYcs1IUjzzL8sC0iB/view?usp=sharing) | [Mega](https://mega.nz/file/qURxBQBS#hy6FGk6IixZmWW_HJwr1qBf7YQ8DepobQiHO4N8-3I0) (Updated 05/15/2021) MD5:DC4005E1EF82055D3F475A8F22EA3854 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351V-changelog) | [RG351V - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V)
 
 **RG351P/RG351M [Announcement](https://github.com/christianhaitian/arkos/wiki/Announcement)** - [GDrive](https://drive.google.com/file/d/1HFHsqlDo1mwDCQWD6edIZSkuX6ERSq0c/view?usp=sharing) | [Mega](https://mega.nz/file/bMAllK5C#JFst8dJuN9Bqxx59xk0R2s5sIyS7xZa4X5gr0xu3OcU) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_RG351P_Final.7z.torrent) | (Updated 05/01/2021) MD5:397CE9322205E2042A62F54E770F949E [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog) | [RG351P - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P)
 
