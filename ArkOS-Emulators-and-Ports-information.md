@@ -267,7 +267,8 @@ Bios: bios_E.sms (optional), bios_U.sms (optional), bios_J.sms (optional)
 Emulator: lr-genesis_plus_gx \
 Rom Folder: msumd \
 Extensions: .md .MD \
-Bios: bios_md.bin, bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin
+Bios: bios_md.bin, bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin \
+Notes: If your games run without the music, try updating the genesis_plus_gx core to the latest version from the repo by going to Retroarch>core downloader>genesis_plus_gx.
 
 ### MSX
 Emulator: (**lr-bluemsx**) lr-fMSX \
