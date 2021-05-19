@@ -590,7 +590,10 @@ Bios: None
 # Ports
 
 ### 2048
-Instructions: 2048 files are already included and ready to go.  Just start 2048 from Ports in the the emulationstation menu.
+Instructions: 2048 files are already included and ready to go.  Just start 2048 from Ports in the emulationstation menu.
+
+### AM2R (RK2020, RGB10 and OGAs only.  RG351V, use Anberports by krishenriksen(kreal))
+Instructions: AM2R files are already included and ready to go.  Just start AM2R from Ports in the emulationstation menu.
 
 ### Cannonball (OutRun)
 Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder then start Cannonball from Ports in the emulationstation menu.  For exact naming of roms, view this [link](https://github.com/djyt/cannonball/blob/master/roms/roms.txt)
@@ -648,6 +651,9 @@ and you're controls will be as shown in the image below:
 ### Hydra Castle Labyrinth
 Instructions: Hydra Castle Labyrinth files are already included and ready to go.  Just start Hydra Castle Labyrinth from Ports in the emulationstation menu.
 
+### Maldita Castilla (RK2020, RGB10 and OGAs only.  RG351V, use Anberports by krishenriksen(kreal))
+Instructions: Maldita Castilla files are already included and ready to go.  Just start Maldita Castilla from ports in the emulationstation menu.
+
 ### Mr. Boom
 Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu.
 
@@ -703,11 +709,17 @@ Instructions: You much have a copy of the Sonic CD Classic Android APK then do t
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
 *Note*: There seems to be an issue with being able to consistently exit Sonic CD through the menu like you can with Sonic 1 and 2.  You can exit Sonic CD by holding Select and pressing Start. (For the RGB10, you can use hold Minus and press Start.)
 
+### Spelunky (RK2020, RGB10 and OGAs only.  RG351V, use Anberports by krishenriksen(kreal))
+Instructions: Spelunky files are already included and ready to go.  Just start Spelunky from Ports in the emulationstation menu.
+
 ### Super Mario War
 Instructions: Super Mario War files are already included and ready to go.  Just start Super Mario War from Ports in the emulationstation menu.
 
 ### SuperTux
 Instructions: SuperTux files are already included and ready to go.  Just start SuperTux from Ports in the emulationstation menu.
+
+### Undertale (RK2020, RGB10 and OGAs only.  RG351V, use Anberports by krishenriksen(kreal))
+Instructions: You'll need to provide your own Undertale Linux version assets.  You can purchase this from GoG for under $10.  If you purchase this from GoG, you'll need to download the Linux version and it will have a .sh extension.  Just change the .sh to .gz and use 7zip to open the file, then go to the \data\noarch\game\assets folder and copy all of it's contents to your /roms/ports/undertale/assets folder.  Then you should be able to launch Undertale from Ports in the emulationStation menu.
 
 ### VVVVVV
 Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in the emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead.
