@@ -601,7 +601,7 @@ Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder 
 ### Cave Story
 Instructions: Cave Story files are already included and ready to go.  Just start Cave Story from Ports in the emulationstation menu.
 
-### C-Dogs (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+### C-Dogs (RG351V, OGA, RGB10, RK2020 Only)
 Instructions: C-Dogs files are already included and ready to go.  Just start C-Dogs from Ports in the emulationstation menu.
 
 ### Commander Genius (Commander Keen)
@@ -611,7 +611,7 @@ Instructions: Load your keen folders into the /roms/ports/cgenius/games folder. 
 Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder; **make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support) \
 Important Note: It’s been reported that you must make sure you use the GOG version of diabdat.mpq with the newest patch_rt.mpq or you may experience a freeze of the game around level 20.
 
-### Dinothawr (RG351V Only - Coming soon to the OGA, RGB10, and RK2020)
+### Dinothawr (RG351V, OGA, RGB10, RK2020 Only)
 Instructions: Dinothawr files are already included and ready to go.  Just start Dinothawr from Ports in the emulationstation menu.
 
 ### Doom 1 (Soon to be deprecated as Doom has been moved to the main system section.  Uses lzdoom which is a superior doom engine and even supports mods like Brutal Doom Lite!) 
@@ -648,13 +648,13 @@ Thanks to a community member by the name of fonzo, an alternative to these contr
 and you're controls will be as shown in the image below:
 ![fonzo mapping](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_halflife_fonzo.png)
 
-### Hydra Castle Labyrinth
+### Hydra Castle Labyrinth (RG351V, OGA, RGB10, RK2020 Only)
 Instructions: Hydra Castle Labyrinth files are already included and ready to go.  Just start Hydra Castle Labyrinth from Ports in the emulationstation menu.
 
 ### Maldita Castilla (RK2020, RGB10 and OGAs only.  RG351V, use Anberports by krishenriksen(kreal))
 Instructions: Maldita Castilla files are already included and ready to go.  Just start Maldita Castilla from ports in the emulationstation menu.
 
-### Mr. Boom
+### Mr. Boom(RG351V, OGA, RGB10, RK2020 Only)
 Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu.
 
 ### OpenTyrian
@@ -670,7 +670,7 @@ Notes: There's no support for music at this time until Libretro or the original 
 ### Rick Dangerous
 Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in the emulationstation menu.
 
-### Shovel Knight - Treasure Trove
+### Shovel Knight - Treasure Trove (RG351V, OGA, RGB10, RK2020 Only)
 Instructions: You must have a copy of Shovel Knight Treasure Trove for Linux.  You'll need the shovelknight folder:  
 1. Be sure the folder contains subfolders named 32, 64 and data.  There should also be a filed named shovelknight.
 2. Copy the shovelknight folder to the roms/ports folder on your device.
@@ -712,10 +712,10 @@ Instructions: You much have a copy of the Sonic CD Classic Android APK then do t
 ### Spelunky (RK2020, RGB10 and OGAs only.  RG351V, use Anberports by krishenriksen(kreal))
 Instructions: Spelunky files are already included and ready to go.  Just start Spelunky from Ports in the emulationstation menu.
 
-### Super Mario War
+### Super Mario War (RG351V, OGA, RGB10, RK2020 Only)
 Instructions: Super Mario War files are already included and ready to go.  Just start Super Mario War from Ports in the emulationstation menu.
 
-### SuperTux
+### SuperTux (RG351V, OGA, RGB10, RK2020 Only)
 Instructions: SuperTux files are already included and ready to go.  Just start SuperTux from Ports in the emulationstation menu.
 
 ### Undertale (RK2020, RGB10 and OGAs only.  RG351V, use Anberports by krishenriksen(kreal))
