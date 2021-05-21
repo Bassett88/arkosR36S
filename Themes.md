@@ -33,4 +33,4 @@ Various themes can be easily added to the roms/themes folder by inserting your m
 1. Once in Emulationstation, hit the start button, then UI Settings, then Theme and select the theme you just loaded.  It should be named the same as the root folder name you added into your /roms/themes folder.
 
 For some themes especially tailored towards ArkOS, checkout the OGA Theme's gallery [here](https://github.com/Jetup13/Emulationstation-OGA-Theme-Gallery) \
-Want to be able to install theme themes directly on your unit and update them?  See JohnIrvine's ThemeMaster installer [here](https://github.com/JohnIrvine1433/ThemeMaster)
+Want to be able to install themes directly on your unit and update them?  See JohnIrvine's ThemeMaster installer [here](https://github.com/JohnIrvine1433/ThemeMaster)
