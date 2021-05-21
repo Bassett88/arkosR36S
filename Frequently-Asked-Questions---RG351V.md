@@ -32,6 +32,9 @@
 30. [Sleep keeps crashing my devices.  How do I address this?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-sleep-keeps-crashing-my-devices--how-do-i-address-this)
 31. [Can the center power LED be completely turned off via software?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#a-no--this-led-can-only-be-changed-from-green-to-red-and-back-again--it-can-not-be-completely-turned-off-via-software)
 32. [I've added the roms to the appropriate folder, but once I the SD card inside the console it doesn't seem to find my roms.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-ive-added-the-roms-to-the-appropriate-folder-but-once-i-put-the-sd-card-inside-the-console-it-doesnt-seem-to-find-my-roms)
+33. [How do I generate .m3u files for PS1 games in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
+34. [I have duplicate games showing for PS1.  How do I eliminate the duplicates?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-i-have-duplicate-games-showing-for-ps1--how-do-i-eliminate-the-duplicates)
+
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. You will need to do the following:
@@ -436,3 +439,21 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 * The roms are in the supported extension for the system per the [Emulators and Ports section](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information)
 * Try pressing start then go to **UI Settings** then **visible systems** and make sure to **select all**.
 * Try pressing start then go to **Advanced settings** and be sure **parse gamelists only** is off.
+
+## Q. How do I generate .m3u files for PS1 games in ArkOS?
+### A. Do the following:
+
+1. Load all of your ps1 .cue or .chd files into the /roms/psx folder.  
+   * Only .cue or .chd files are possible for creating .m3u files in ArkOS!
+   * If you wish, you can place your ps1 games within individual sub folders within the /roms/psx folder.  For example, you can put all of your Metal Gear Solid cue/bin or chds within /roms/psx/mgs folder and this tool will still work.
+   * Your multi disc games should have the word **Disc** as part of it description in order to properly generate a good m3u file.
+
+2. Go to the Options section in Emulationstation just above Retroarch and select **PS1 - Generate m3u files** and when completed, the screen will show what all m3u files were created.
+   * If you add additional multi disc games after running this tool, be sure to go to the Options section in Emulationstation just above Retroarch and select **PS1 - Delete m3u files** and then recreate them.  Failing to do so will create additional entries in existing m3u files that may cause issues.
+
+## Q. I have duplicate games showing for PS1.  How do I eliminate the duplicates?
+### A. This is most likely caused by having multiple .cue or .chd files for multi disk games.  Do the following:
+
+1. Be sure to follow the steps [here for generating .m3u files in ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
+2. Then go to the Options section in Emulationstation just above Retroarch and select **PS1 - Show only m3u files**.
+3. Emulationstation will restart and you should only have single entries for your multi disk games.
