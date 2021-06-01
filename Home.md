@@ -116,8 +116,8 @@ Slaminger for the TheRA OS that helped inspire me to provide ArkOS \
 valadaa48 for various assistance and all his work on the original rk3326 device, the Odroid Go Advance. \
 OtherCrashOverride for the retrorun emulator ppsspp-go and other work. \
 luali for kernel and dtb for the RG351P, and various other assistance requests. \
-shantigilbert for various assistance and great sources in [EmuElec](https://github.com/EmuELEC/EmuELEC/wiki) \
-fewt and the 351Elec team for various assistance and great sources in [351Elec](https://github.com/351ELEC/351ELEC/wiki) \
+shantigilbert for various assistance and great sources in [EmuELEC](https://github.com/EmuELEC/EmuELEC/wiki) \
+fewt and the 351Elec team for various assistance and great sources in [351ELEC](https://github.com/351ELEC/351ELEC/wiki) \
 npaladin2000 for donation of the RG351P device so I could release this OS on it. \
 RetroGameCorps for the youtube review \
 Emulation Dojo for youtube game play videos \
