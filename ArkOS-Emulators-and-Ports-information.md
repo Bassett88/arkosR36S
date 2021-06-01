@@ -1,6 +1,6 @@
 # Important Notes:
 
--  All retroarch emulator cores (ex. Those that start with lr in the front of the emulator names in the list below) have controller configurations setup automatically by Retroarch.  You can hit Select+X, then go to settings, controllers to review and change to your liking.
+-  All retroarch emulator cores (ex. Those that start with lr in the front of the emulator names in the list below) have controller configurations setup automatically by Retroarch.  You can hit (Designated retroarch hotkey)+X, then go to settings, controllers to review and change to your liking.
 -  Rom folders are located in either /roms when accessing the device via network or from the EASYROMS folder in Mac, Linux or Windows if accessing the micro SD card in a micro SD card reader directly on a PC.
 -  All bios files go into the bios folder located in the roms (EASYROMS) folder unless specifically stated otherwise in the emulators list below.
 -  Any systems listed below that have a standalone emulator will most likely not have controls that can be reconfigured.
