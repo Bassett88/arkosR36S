@@ -264,7 +264,7 @@ Extensions: .7z .bin .sms .zip \
 Bios: bios_E.sms (optional), bios_U.sms (optional), bios_J.sms (optional)
 
 ### Movie (video) Player
-Player: FFPlay \
+Player: FFplay \
 Folder: videos \
 Extensions: .mp4 .avi .mpeg .mkv
 Notes: Up to 720p seems to perform fine with limited testing.  Support will be limited for this feature. If a video/movie doesn't work on this, try a lower resolution or just use a more suitable device like a smartphone.
