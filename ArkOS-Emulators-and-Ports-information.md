@@ -17,9 +17,21 @@ Rom Folder: 3do \
 Extensions: .iso .ISO .bin .BIN .chd .CHD .cue .CUE \
 Bios: panafz1.bin or panafz10.bin or panafz10-norsa.bin or panafz10e-anvil.bin or panafz10e-anvil-norsa.bin or panafz1j.bin or panafz1j-norsa.bin or goldstar.bin or sanyotry.bin or 3do_arcade_saot.bin  See this link for more details. https://docs.libretro.com/library/opera/#bios
 
+### American Laser Games (Coming soon for RG351V, RGB10, RK2020, and OGA)
+Emulator: [hypseus-singe](https://github.com/DirtBagXon/hypseus-singe) standalone \
+Rom Folder: alg \
+Extensions: .alg .ALG \
+Bios: None \
+Notes: 
+1. Copy your American Laser Games (Singe 1) game folder into the roms/alg folder
+     - Make sure the game folder contains a framefile (usually gamename.txt file) and a .singe file
+2. Run the **Scan for New games** shortcut to create a proper shortcut for each of the game folders copied
+3. Restart emulationstation and launch your game form the menu.
+     - Some games like Ninja Hayate will take a while to launch.  Sometimes 10 minutes or more as it creates it's cache.  Once it's initial launch is complete, future launches are much quicker.
+     - Some Fan made singe games may run from this emulator as well.
 
 ### Amiga 
-Emulator: (**Amiberry**) lr-puae lr-uae4arm \
+Emulator: (**[Amiberry](https://github.com/midwan/amiberry)**) lr-puae lr-uae4arm \
 Rom Folder: amiga \
 Extensions: .adf .ADF .hdf .HDF .lha .LHA \
 Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)
@@ -149,14 +161,14 @@ Extensions: .zip .ZIP .7z .7Z .cue .CUE \
 Bios: None
 
 ### Daphne
-Emulator: hypseus standalone \
+Emulator: [hypseus](https://github.com/btolab/hypseus) standalone \
 Rom Folder: daphne \
 Extensions: .daphne .DAPHNE \
 Bios: None \
 Notes: Be aware that within the daphne folder is a roms folder.  That is not an error.  That folder is needed.  Your laserdisc .zip files should contain a "rom name".daphne folder that must be copied to the root daphne folder.  Make sure the "rom name".daphne folder contains a framefile ("rom name".txt) or it will not load.  Your laserdisc .zip files must be loaded into the daphne/roms folder.  If you're still having issues getting this to work, click [here](https://retrogamecorps.com/2021/01/20/guide-daphne-on-the-rg351p-and-rg350-devices/) for a great guide and video from Retro Game Corps.
 
 ### Doom
-Emulator: (**lzdoom standalone**) lr-prboom \
+Emulator: (**[lzdoom](https://github.com/christianhaitian/lzdoom) standalone**) lr-prboom \
 Rom Folder: doom \
 Extensions: .wad .WAD .sh .SH\
 Bios: None \
@@ -364,7 +376,7 @@ Extensions: .bin .BIN \
 Bios: o2rom.bin
 
 ### OpenBOR
-Emulator: OpenBOR Standalone \
+Emulator: [OpenBOR](https://github.com/christianhaitian/openbor) Standalone \
 Rom Folder: openbor \
 Extensions: .pak .PAK \
 Bios: none \
@@ -403,7 +415,7 @@ Extensions: .chd .CHD .zip .ZIP .cue .CUE .ccd .CCD .toc .TOC \
 Bios: pcfx.rom
 
 ### Pico-8
-Emulator: pico8-dyn \
+Emulator: [pico8-dyn](https://www.lexaloffle.com/games.php?page=updates) \
 Rom Folder: pico-8/carts \
 Extensions: .png .PNG .p8 .P8 \
 Bios: None \
@@ -426,14 +438,14 @@ Notes:
 - Parasite Eve Games: Change PSX Clock to 64 (100%) for one of the Parasite Eve games to get past certain sections.
 
 ### Playstation Portable (PSP)
-Emulator: (**ppsspp standalone**) ppsspp-go standalone lr-ppsspp \
+Emulator: (**[ppsspp](https://github.com/hrydgard/ppsspp) standalone**) [ppsspp-go](https://github.com/christianhaitian/ppsspp-go2) standalone lr-ppsspp \
 Rom Folder: psp \
 Extensions: .iso .ISO .cso .CSO .pbp .PBP \
 Bios: None
 Note: For lr-ppsspp, to correct some ui issues, you'll need to install the contents of this [assets](https://github.com/christianhaitian/rk2020/raw/master/ForThera/assets.7z) 7z compressed file to /roms/bios/PPSSPP folder.
 
 ### Playstation Portable (PSP) Minis
-Emulator: (**ppsspp standalone**) lr-ppsspp \
+Emulator: (**[ppsspp](https://github.com/hrydgard/ppsspp) standalone**) lr-ppsspp \
 Rom Folder: pspminis \
 Extensions: .iso .ISO .cso .CSO .pbp .PBP \
 Bios: None
@@ -445,7 +457,7 @@ Extensions: .min .MIN .zip .ZIP \
 Bios: bios.min (optional)
 
 ### ScummVM
-Emulator: (**lr-scummvm**) scummvm standalone \
+Emulator: (**lr-scummvm**) [scummvm](https://github.com/scummvm/scummvm) standalone \
 Rom Folder: scummvm \
 Extensions: .scummvm .SCUMMVM \
 Bios: None
@@ -487,7 +499,7 @@ Extensions: .dim .DIM .m3u .M3U \
 Bios: iplrom.dat, cgrom.dat, iplrom30.dat (optional), iplromco.dat (optional), iplromxv.dat (optional) (*need to be placed in a folder named keropi within the bios folder*)
 
 ### Solarus
-Emulator: solarus-run \
+Emulator: [solarus-run](https://gitlab.com/solarus-games/solarus) \
 Rom Folder: solarus \
 Extensions: .solarus .SOLARUS .zip .ZIP \
 Bios: None \
@@ -536,7 +548,7 @@ Extensions: .tic .TIC \
 Bios: None
 
 ### TI-99
-Emulator: ti99sim \
+Emulator: [ti99sim](https://github.com/christianhaitian/ti99sim) \
 Rom Folder: ti99 \
 Extensions: .ctg .CTG \
 Bios: ti-994a.ctg \
