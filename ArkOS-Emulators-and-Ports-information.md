@@ -25,7 +25,7 @@ Bios: None \
 Notes: 
 1. Copy your American Laser Games (Singe 1) game folder into the roms/alg folder
      - Make sure the game folder contains a framefile (usually gamename.txt file) and a .singe file
-2. Run the **Scan for New games** script to create a proper .alg file for each of the game folders copied
+2. Run the **Scan for New games** script to create a proper .alg dummy file for each of the game folders copied
 3. Restart emulationstation and launch your game form the menu.
      - Some games like Ninja Hayate will take a while to launch.  Sometimes 10 minutes or more as it creates it's cache.  Once it's initial launch is complete, future launches are much quicker.
      - Some Fan made singe games may run from this emulator as well.
