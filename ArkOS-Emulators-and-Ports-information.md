@@ -17,7 +17,7 @@ Rom Folder: 3do \
 Extensions: .iso .ISO .bin .BIN .chd .CHD .cue .CUE \
 Bios: panafz1.bin or panafz10.bin or panafz10-norsa.bin or panafz10e-anvil.bin or panafz10e-anvil-norsa.bin or panafz1j.bin or panafz1j-norsa.bin or goldstar.bin or sanyotry.bin or 3do_arcade_saot.bin  See this link for more details. https://docs.libretro.com/library/opera/#bios
 
-### American Laser Games (Coming soon for RG351V, RGB10, RK2020, and OGA)
+### American Laser Games
 Emulator: [hypseus-singe](https://github.com/DirtBagXon/hypseus-singe) standalone \
 Rom Folder: alg \
 Extensions: .alg .ALG \
