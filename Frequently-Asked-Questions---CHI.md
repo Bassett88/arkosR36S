@@ -106,7 +106,7 @@ If you need to be able to use a mouse for a particular game, do the following:
 - R2: Swap between dual screen and single screen view
 - Right Joystick: Move the stylus 
 - 1: Stylus tap
-- 2: Drastic menu
+- Home: Drastic menu
 
 To exit the emulator, do so through the Drastic menu.
 
