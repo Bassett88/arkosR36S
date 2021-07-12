@@ -625,7 +625,7 @@ Instructions: C-Dogs files are already included and ready to go.  Just start C-D
 ### Commander Genius (Commander Keen)
 Instructions: Load your keen folders into the /roms/ports/cgenius/games folder.  As an example, the shareware version of Commander Keen 1 is included and is named Keen.  Then just start Commander Genius from Ports in the emulationstation menu.
 
-### DevilutionX (Diablo 1) (RG351P/M Only)
+### DevilutionX (Diablo 1) (RG351P/M and Chi Only)
 Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder; **make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support) \
 Important Note: It’s been reported that you must make sure you use the GOG version of diabdat.mpq with the newest patch_rt.mpq or you may experience a freeze of the game around level 20.
 
@@ -638,7 +638,7 @@ Instructions: Add Doom.wad file to /roms/ports/doom folder then start Doom from 
 ### Doom 2
 Instructions: Add Doom2.wad file to /roms/ports/doom2 folder then start Doom 2 from Ports in the emulationstation menu.    For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
 
-### Half-Life 1 (RG351P/M Only)
+### Half-Life 1 (RG351P/M Only and Chi)
 Instructions: Only works with the full version of Half life 1.
 
 1. Copy the valve folder from your steam game folder or other source into /roms/ports/Half-Life.
