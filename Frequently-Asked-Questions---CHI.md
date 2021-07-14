@@ -166,7 +166,7 @@ To exit the system, hit the 1 and Start button.
 - SELECT: Select highlighted item. Selected items are displayed in red.
 - START: Open highlighted directory in destination panel. If a file is highlighted, open current directory in destination panel.
 
-**For 351Files (Newer File Manager)**
+**For 351Files (Newer File Manager with a builtin image viewer and text editing capabilities)**
 
 - D-pad: Move
 - L1/L2: Page up
