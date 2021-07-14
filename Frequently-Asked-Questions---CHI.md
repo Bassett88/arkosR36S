@@ -166,6 +166,17 @@ To exit the system, hit the 1 and Start button.
 - SELECT: Select highlighted item. Selected items are displayed in red.
 - START: Open highlighted directory in destination panel. If a file is highlighted, open current directory in destination panel.
 
+**For 351Files (Newer File Manager)**
+
+- D-pad: Move
+- L1/L2: Page up
+- R1/R2: Page down
+- A when a directory is selected: open directory 
+- A when a file is selected: view or edit file
+- B: Go to parent directory / cancel
+- Y: System actions: - Select all items - Select no items - Create new directory - Display disk information - Quit program
+- X: Select highlighted item
+
 ## Q. How do I change emulator cores in ArkOS?
 ### A. Do the following:
 For an entire system library:
@@ -349,7 +360,7 @@ Using the left joystick (NOT THE DPAD!) do up, up, down, down, left, right, left
 ## Q. How do I mount a USB drive for copying and moving files?
 ### A. Do the following:
 
-1. Plug in a USB drive that is formatted in Fat, Fat32, Exfat, or NTFS to one of the USB-C ports.
+1. Plug in a USB drive that is formatted in Fat, Fat32, Exfat, or NTFS to the USB-C port.
 2. While in Emulationstation, go to Options and select **USB Drive Mount**.
    * Note - Only the first available partition on the USB drive will be mounted!
 3. If the USB drive has been successfully mounted, you will see a notification on the screen that it's been mounted to /mnt/usbdrive.  If not, double check that you plugged in the drive correctly and that the file system on it is not corrupted and is one that is supported as listed in step 1 above.
@@ -378,8 +389,8 @@ The image must meet the following criteria:
 
 ## Q. How does the low battery indicator work?
 ### A. The following will occur:
-- The power led will turn red when battery life is less than 20 percent.
-- The power led will blink red every 1 second when battery life is less than 10 percent.
+- The blue led will turn red when battery life is less than 20 percent.
+- The blue led will blink red every 1 second when battery life is less than 10 percent.
 
 ## Q. How does the movie/video player work?
 ### A. The movie/video player is ffplay.  More information about ffplay is available in this [link](https://ffmpeg.org/ffplay.html)
