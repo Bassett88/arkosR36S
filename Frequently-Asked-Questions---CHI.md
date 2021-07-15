@@ -92,7 +92,7 @@ If you need to be able to use a mouse for a particular game, do the following:
 1. Hit right and scroll down to the Save button and hit the A button.  This will save this configuration as the default configuration for that particular game when it's loaded.
 
 **Daphne (Hypseus)**
-- Select: Coin
+- 1: Coin
 - Start: Start game
 - A: Button 1
 - B: Button 2
