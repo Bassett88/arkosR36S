@@ -103,7 +103,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 Download Links :
 
-**CHI** - Test release coming soon.  Stay tuned.
+**CHI** - [GDrive](https://drive.google.com/file/d/12AhdASB0sgIjaBIZctw2_QqMjrvhIrzO/view?usp=sharing) | [Mega](https://mega.nz/file/LJQFhQIb#O6qjoirJ4-ACMFCuvQT5f3AWM91ylwkXOqKkVJ6oFm8) (Updated 07/16/2021) MD5:4FCA7DBBEE4EA5ED28BF7BFAC503B73B [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/chi-changelog) | [CHI - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI)
 
 **RG351V** - [GDrive](https://drive.google.com/file/d/10XATO5HZFcS-higDYcs1IUjzzL8sC0iB/view?usp=sharing) | [Mega](https://mega.nz/file/qURxBQBS#hy6FGk6IixZmWW_HJwr1qBf7YQ8DepobQiHO4N8-3I0) (Updated 05/15/2021) MD5:DC4005E1EF82055D3F475A8F22EA3854 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351v-changelog) | [RG351V - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V)
 
