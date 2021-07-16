@@ -638,7 +638,7 @@ Instructions: Add Doom.wad file to /roms/ports/doom folder then start Doom from 
 ### Doom 2
 Instructions: Add Doom2.wad file to /roms/ports/doom2 folder then start Doom 2 from Ports in the emulationstation menu.    For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
 
-### Half-Life 1 (RG351P/M Only and Chi)
+### Half-Life 1 (RG351P/M Only)
 Instructions: Only works with the full version of Half life 1.
 
 1. Copy the valve folder from your steam game folder or other source into /roms/ports/Half-Life.
