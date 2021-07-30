@@ -120,7 +120,7 @@ To exit the system, hit the Start button then Option then select Shutdown or hit
 
 **For PPSSPP (PSP emulator)**
 
-- L2: PPSSPP Menu
+- Home: PPSSPP Menu
 
 To exit the emulator, do so through the PPSSPP menu or hit 1+Start.
 
