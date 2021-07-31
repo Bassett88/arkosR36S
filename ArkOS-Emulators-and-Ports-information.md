@@ -578,6 +578,13 @@ Rom Folder: supervision
 Extensions: .bin .BIN .zip .ZIP \
 Bios: None
 
+### Wolfenstein
+Emulator: (**[ecwolf](https://bitbucket.org/ecwolf/ecwolf)**) lr-ecwolf
+Rom Folder: wolf \
+Extensions: .wolf .WOLF \
+Bios: None
+Notes: Copy your Wolfenstein 3D, Spear of Destiny, or Super Noah's Ark 3D dos folder into the rom folder then run the **Scan_for_new_games.wolf** script from within Emulationstation to create the proper shortcuts for your games.
+
 ### WonderSwan
 Emulator: lr-mednafen-wswan (aka lr-beetle-wswan) \
 Rom Folder: wonderswan \
