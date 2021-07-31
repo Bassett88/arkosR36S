@@ -323,7 +323,8 @@ Emulator: (**lr-fbneo**) lr-fbalpha2012 \
 Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well) \
 Rom Folder: neogeo \
 Extensions: .zip .ZIP .7z .7Z \
-Bios: neogeo.zip
+Bios: neogeo.zip \
+Notes: Because neogeo roms can come in different formats (split or non-merged), it's recommended to keep the neogeo.zip bios in the /roms/bios and the /roms/neogeo folder to ensure best compatibility.
 
 ### Neo Geo CD
 Emulator: lr-neocd \
