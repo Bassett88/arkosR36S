@@ -172,7 +172,7 @@ Emulator: (**[lzdoom](https://github.com/christianhaitian/lzdoom) standalone**) 
 Rom Folder: doom \
 Extensions: .wad .WAD .sh .SH\
 Bios: None \
-Notes: In order to use prboom, you'll need prboom.wad in the /roms/doom folder.  You can copy it from the /roms/ports/doom folder to that location or simply download it from [here](https://github.com/christianhaitian/arkos/raw/main/12162020/prboom.wad) and put it in that location.
+Notes: In order to use prboom, you'll need prboom.wad in the /roms/doom folder.  You can copy it from the /roms/ports/doom folder to that location or simply download it from [here](https://github.com/christianhaitian/arkos/raw/main/12162020/prboom.wad) and put it in that location.  For information on additional doom loading capabilities (such as mods and deh files), check [here](https://github.com/plaidman/rgb10max/wiki/doom-loader)
 
 ### Dreamcast
 Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme retrorun retrorun32 \
@@ -196,9 +196,9 @@ Bios: None
 ### EasyRPG
 Emulator: lr-easyrpg \
 Rom Folder: easyrpg \
-Extensions: .ldb .LDB \
+Extensions: .easyrpg .EASYRPG (.ldb .LDB prior to 7/28/2021 update)\
 Bios: None \
-Notes: Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.
+Notes: Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.  As of 7/28/2021, you must run the Scan_for_new_games script to create the necessary shortcuts to load EASYRPG games.
 
 ### Famicom Disk System
 Emulator: (**lr-nestopia**) lr-fceumm \
