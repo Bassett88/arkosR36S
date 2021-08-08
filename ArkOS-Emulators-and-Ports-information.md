@@ -696,6 +696,9 @@ Notes: There's no support for music at this time until Libretro or the original 
 ### Rick Dangerous
 Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in the emulationstation menu.
 
+### Rocks 'N' Diamonds (RG351V, OGA, RGB10, RK2020 Only) (Coming Soon!)
+Instructions: Rocks 'N' Diamonds files are already included and ready to go.  Just start Rocks N Diamonds from Ports in the emulationstation menu.
+
 ### Shovel Knight - Treasure Trove (RG351V, OGA, RGB10, RK2020 Only)
 Instructions: You must have a copy of Shovel Knight Treasure Trove for Linux.  You'll need the shovelknight folder:  
 1. Be sure the folder contains subfolders named 32, 64 and data.  There should also be a filed named shovelknight.
@@ -711,7 +714,7 @@ Thanks to JohnnyonFlame for gl4es and the the necessary packaging to allow this 
 Instructions: The game is an open-source port and is already included and ready to go.  Just start SDLPoP from Ports in the emulationstation menu.
 
 ### Sonic 1
-Instructions: You much have a copy of the Sonic The Hedgehog Classic Android APK then do the following:
+Instructions: You must have a copy of the Sonic The Hedgehog Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract /assets/Data.rsdk.xmf.
 2. Rename the Data.rsdk.xmf to Data.rsdk.  Case is important!
 3. Copy the Data.rsdk file to the ports/sonic1 folder.
@@ -719,7 +722,7 @@ Instructions: You much have a copy of the Sonic The Hedgehog Classic Android APK
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
 
 ### Sonic 2
-Instructions: You much have a copy of the Sonic The Hedgehog 2 Classic Android APK then do the following:
+Instructions: You must have a copy of the Sonic The Hedgehog 2 Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract /assets/Data.rsdk.xmf.
 2. Rename the Data.rsdk.xmf to Data.rsdk.  Case is important!
 3. Copy the Data.rsdk file to the ports/sonic2 folder.
@@ -727,13 +730,19 @@ Instructions: You much have a copy of the Sonic The Hedgehog 2 Classic Android A
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
 
 ### Sonic CD
-Instructions: You much have a copy of the Sonic CD Classic Android APK then do the following:
+Instructions: You must have a copy of the Sonic CD Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract Androind/obb/comm.sega.soniccd.classic/patch49.com.sega.soniccd.classic.obb.
 2. Rename the patch49.com.sega.soniccd.classic.obb to Data.rsdk.  Case is important!
 3. Copy the Data.rsdk file to the ports/soniccd folder.
 4. If all is well, you should be able to run Sonic CD now.
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
 *Note*: There seems to be an issue with being able to consistently exit Sonic CD through the menu like you can with Sonic 1 and 2.  You can exit Sonic CD by holding Select and pressing Start. (For the RGB10, you can use hold Minus and press Start.)
+
+### SorR (Streets of Rage Remake) (RG351V, OGA, RGB10, RK2020 Only) (Coming Soon!)
+Instructions: You'll need to provide your own v5.1 (NOT VERSION 5.2 AS IT HAS SLOWDOWN ISSUES ON THIS SETUP) sorr.dat file, mod folder, and palettes folder:
+1. Obtain version 5.1 of SoRR.  You can use either the windows or linux/debian version it does not matter which.
+2. Extract them /roms/ports/sorr (For RG351V if using SD2, extract to /roms2/ports/sorr instead).  You should have a /mod folder, a /palettes folder, and SorR.dat file in this location in order for the game to work.
+3. Then go to Ports, and launch SorR
 
 ### Spelunky (RK2020, RGB10 and OGAs only.  RG351V, use Anberports by krishenriksen(kreal))
 Instructions: Spelunky files are already included and ready to go.  Just start Spelunky from Ports in the emulationstation menu.
