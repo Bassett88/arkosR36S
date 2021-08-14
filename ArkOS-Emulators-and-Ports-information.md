@@ -579,7 +579,7 @@ Rom Folder: supervision
 Extensions: .bin .BIN .zip .ZIP \
 Bios: None
 
-### Wolfenstein
+### Wolfenstein (CHi Only) (Coming soon for OGA, RG351V, RGB10, and RK2020)
 Emulator: (**[ecwolf](https://bitbucket.org/ecwolf/ecwolf)**) lr-ecwolf
 Rom Folder: wolf \
 Extensions: .wolf .WOLF \
@@ -759,5 +759,5 @@ Instructions: You'll need to provide your own Undertale Linux version assets.  Y
 ### VVVVVV
 Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in the emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead.
 
-### Wolfenstein 3D
+### Wolfenstein 3D (Soon to be deprecated as Wolfenstein will be moved to the main system section.)
 Instructions: Wolfenstein 3D shareware episode 1 is already included and ready to go.  You can add your own registered copy into the /roms/ports/ecwolf folder. 
