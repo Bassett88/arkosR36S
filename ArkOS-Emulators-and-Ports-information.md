@@ -634,7 +634,7 @@ Instructions: C-Dogs files are already included and ready to go.  Just start C-D
 Instructions: Load your keen folders into the /roms/ports/cgenius/games folder.  As an example, the shareware version of Commander Keen 1 is included and is named Keen.  Then just start Commander Genius from Ports in the emulationstation menu.
 
 ### DevilutionX (Diablo 1) (RG351P/M and Chi Only)
-Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder; **make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support) \
+Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder. **Make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support) \
 Important Note: It’s been reported that you must make sure you use the GOG version of diabdat.mpq with the newest patch_rt.mpq or you may experience a freeze of the game around level 20.
 
 ### Dinothawr (RG351V, OGA, RGB10, RK2020 Only)
