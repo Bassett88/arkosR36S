@@ -683,6 +683,9 @@ Instructions: Maldita Castilla files are already included and ready to go.  Just
 ### Mr. Boom(RG351V, OGA, RGB10, RK2020 Only)
 Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu.
 
+### OpenJazz (Jazz Jackrabbit)(RG351V, OGA, RGB10, RK2020 Only)(Coming Soon!)
+Instructions: Add the dos game files to the roms/ports/openjazz/gamedata/ folder then start OpenJazz from Ports in the emulationstation menu.
+
 ### OpenTyrian
 Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in the Emulationstation.
 
