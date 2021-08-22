@@ -130,7 +130,7 @@ To exit the system, hit the 1 and Start button.
 
 **For Mupen64plus standalone emulator**
 
-![](https://github.com/christianhaitian/arkos/raw/main/devices/CHI_mupen64_resized.jpg)  
+![](https://github.com/christianhaitian/arkos/raw/main/devices/chi_mupen64_resized_.jpg?raw=true)  
 
 - 1 + Start: Exit emulator
 - 1 + R1: Save State
