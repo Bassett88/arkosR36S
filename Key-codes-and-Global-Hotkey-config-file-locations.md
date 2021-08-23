@@ -18,9 +18,9 @@
 * R1 = 311
 * R2 = 707 = OGA F4
 
-# Global Hotkey config file locations:
+## Global Hotkey config file locations:
 
-# Useful for Mupen64plus key reassignment in ArkOS (/opt/mupen64plus/InputAutoCfg.ini) in the Go-Advance Gamepad section and modifying joystick events (ex. Quit emulator and save state hotkeys) in /home/ark/.config/mupen64plus.cfg
+### Useful for Mupen64plus key reassignment in ArkOS (/opt/mupen64plus/InputAutoCfg.ini) in the Go-Advance Gamepad section and modifying joystick events (ex. Quit emulator and save state hotkeys) in /home/ark/.config/mupen64plus.cfg
 
 * DPAD LEFT = 8
 * DPAD RIGHT = 9
@@ -56,9 +56,9 @@
 * Minus = 705 = OGA F2
 * Plus = 708 = OGA F5
 
-# Global Hotkey config file locations:
+## Global Hotkey config file locations:
 
-# Useful for Mupen64plus key reassignment in ArkOS (/opt/mupen64plus/InputAutoCfg.ini) in the Go-Advance Gamepad (rev 1.1) section and modifying joystick events (ex. Quit emulator and save state hotkeys) in /home/ark/.config/mupen64plus.cfg
+### Useful for Mupen64plus key reassignment in ArkOS (/opt/mupen64plus/InputAutoCfg.ini) in the Go-Advance Gamepad (rev 1.1) section and modifying joystick events (ex. Quit emulator and save state hotkeys) in /home/ark/.config/mupen64plus.cfg
 
 * DPAD LEFT = 10
 * DPAD RIGHT = 11
@@ -97,9 +97,9 @@
 * 1 = 704 = OGA F1
 * 2 = 705 = OGA F2
 
-# Global Hotkey config file locations:
+## Global Hotkey config file locations:
 
-# Useful for Mupen64plus key reassignment in ArkOS (/opt/mupen64plus/InputAutoCfg.ini) in the gameforce_gamepad section and modifying joystick events (ex. Quit emulator and save state hotkeys) in /home/ark/.config/mupen64plus.cfg
+### Useful for Mupen64plus key reassignment in ArkOS (/opt/mupen64plus/InputAutoCfg.ini) in the gameforce_gamepad section and modifying joystick events (ex. Quit emulator and save state hotkeys) in /home/ark/.config/mupen64plus.cfg
 
 * DPAD LEFT = 12
 * DPAD RIGHT = 13
@@ -138,9 +138,7 @@
 * R2 = 315
 * R3 = 313
 
-# Global Hotkey config file locations:
-
-* ArkOS = /usr/local/bin/oga_events.py (Modify f3 = 313 to your preferred key code as listed above)
+## Global Hotkey config file locations:
 
 ### Useful for Mupen64plus key reassignment in ArkOS (/opt/mupen64plus/InputAutoCfg.ini) in the OpenSimHardware OSH PB Controller section and modifying joystick events (ex. Quit emulator and save state hotkeys) in /home/ark/.config/mupen64plus.cfg
 
@@ -188,9 +186,7 @@ Right Analog Axis Configuration mappings
 * R2 = 315
 * F = 313
 
-# Global Hotkey config file locations:
-
-* ArkOS = /usr/local/bin/oga_events.py (Modify f3 = 313 to your preferred key code as listed above)
+## Global Hotkey config file locations:
 
 ### Useful for Mupen64plus key reassignment in ArkOS (/opt/mupen64plus/InputAutoCfg.ini) in the OpenSimHardware OSH PB Controller section and modifying joystick events (ex. Quit emulator and save state hotkeys) in /home/ark/.config/mupen64plus.cfg
 
