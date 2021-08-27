@@ -680,10 +680,32 @@ Instructions: Hydra Castle Labyrinth files are already included and ready to go.
 ### Maldita Castilla (RK2020, RGB10 and OGAs only.  RG351V, use Anberports by krishenriksen(kreal))
 Instructions: Maldita Castilla files are already included and ready to go.  Just start Maldita Castilla from ports in the emulationstation menu.
 
+### Moonlight Nvidia Gamestreaming App (Available through PortMaster)
+Instructions: PC Requirements and setup as follows:
+
+PC Requirements: \
+A PC with an Nvidia 600 GPU or newer \
+[GeForce Experience app](https://www.nvidia.com/en-us/geforce/geforce-experience/)
+
+1. You'll need to make sure your streaming PC and your rk3326 device with ArkOS are connected to the same network.
+2. When you launch Moonlight from the ports menu, you'll be presented with a menu with 2 options, Start Streaming and settings.  You'll want to go to settings first and choose the pair option.
+3. You'll be presented with a screen asking for the name or IP address of your PC with the Nvidia Geforce Experience app installed.
+4. Once you hit the ok button, you should be presented with a pairing dialog box on your PC.
+5. Enter the 4 digit PIN displayed on your device into the pairing dialog box and hit ok.
+6. By default, Moonlight is setup to stream Steam from your PC.  There are other options available such as Dolphin if you have that installed and configured on your PC.
+
+Notes:
+* To ensure that you have controls in your games while streaming, be sure to disconnect any game controllers from your PC and reboot your PC before you start your streaming session.
+* More information about Moonlight is available [here](https://github.com/moonlight-stream/moonlight-docs/wiki).
+* If you experience issues with the setup and launching menu functioning correctly, hitting start may resolve it or simply force close the port using the usual exit hotkey on ArkOS for your device (RGB10 = Minus + Start, RK2020/RG351P/M/V = Select+Start,  Chi = 1 + Start). 
+* For those that don't have an Nvidia vide card, there's an alternative PC client called Sunshine: https://github.com/loki-47-6F-64/sunshine.  I haven't tested it so I don't know how well it will work but there's been reports that it seems to work well.
+* To exit Moonlight when complete, simply use the exit hotkey for your device to get out of the app.
+* If you experience issues reconnecting to your PC, go to settings in the Moonlight app and unpair the PC then do another pair again.
+
 ### Mr. Boom(RG351V, OGA, RGB10, RK2020 Only)
 Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu.
 
-### OpenJazz (Jazz Jackrabbit)(RG351V, OGA, RGB10, RK2020 Only)(Coming Soon!)
+### OpenJazz (Jazz Jackrabbit)(Available through PortMaster)
 Instructions: Add the dos game files to the roms/ports/openjazz/gamedata/ folder then start OpenJazz from Ports in the emulationstation menu.
 
 ### OpenTyrian
@@ -699,7 +721,7 @@ Notes: There's no support for music at this time until Libretro or the original 
 ### Rick Dangerous
 Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in the emulationstation menu.
 
-### Rocks 'N' Diamonds (RG351V, OGA, RGB10, RK2020 Only) (Coming Soon!)
+### Rocks 'N' Diamonds (Available through PortMaster)
 Instructions: Rocks 'N' Diamonds files are already included and ready to go.  Just start Rocks N Diamonds from Ports in the emulationstation menu.
 
 ### Shovel Knight - Treasure Trove (RG351V, OGA, RGB10, RK2020 Only)
@@ -735,13 +757,14 @@ Instructions: You must have a copy of the Sonic The Hedgehog 2 Classic Android A
 ### Sonic CD
 Instructions: You must have a copy of the Sonic CD Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract Androind/obb/comm.sega.soniccd.classic/patch49.com.sega.soniccd.classic.obb.
+   * This file may have a different number such as patch56 or higher which should also work as well.
 2. Rename the patch49.com.sega.soniccd.classic.obb to Data.rsdk.  Case is important!
 3. Copy the Data.rsdk file to the ports/soniccd folder.
 4. If all is well, you should be able to run Sonic CD now.
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
 *Note*: There seems to be an issue with being able to consistently exit Sonic CD through the menu like you can with Sonic 1 and 2.  You can exit Sonic CD by holding Select and pressing Start. (For the RGB10, you can use hold Minus and press Start.)
 
-### SorR (Streets of Rage Remake) (RG351V, OGA, RGB10, RK2020 Only) (Coming Soon!)
+### SorR (Streets of Rage Remake)(Available through PortMaster)
 Instructions: You'll need to provide your own v5.1 (NOT VERSION 5.2 AS IT HAS SLOWDOWN ISSUES ON THIS SETUP) sorr.dat file, mod folder, and palettes folder:
 1. Obtain version 5.1 of SoRR.  You can use either the windows or linux/debian version it does not matter which.
 2. Extract them /roms/ports/sorr (For RG351V if using SD2, extract to /roms2/ports/sorr instead).  You should have a /mod folder, a /palettes folder, and SorR.dat file in this location in order for the game to work.
