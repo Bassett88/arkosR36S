@@ -698,7 +698,7 @@ Notes:
 * To ensure that you have controls in your games while streaming, be sure to disconnect any game controllers from your PC and reboot your PC before you start your streaming session.
 * More information about Moonlight is available [here](https://github.com/moonlight-stream/moonlight-docs/wiki).
 * If you experience issues with the setup and launching menu functioning correctly, hitting start may resolve it or simply force close the port using the usual exit hotkey on ArkOS for your device (RGB10 = Minus + Start, RK2020/RG351P/M/V = Select+Start,  Chi = 1 + Start). 
-* For those that don't have an Nvidia vide card, there's an alternative PC client called Sunshine: https://github.com/loki-47-6F-64/sunshine.  I haven't tested it so I don't know how well it will work but there's been reports that it seems to work well.
+* For those that don't have an Nvidia vide card, there's an alternative PC client called [Sunshine](https://github.com/loki-47-6F-64/sunshine).  I haven't tested it so I don't know how well it will work but there's been reports that it seems to work well.
 * To exit Moonlight when complete, simply use the exit hotkey for your device to get out of the app.
 * If you experience issues reconnecting to your PC, go to settings in the Moonlight app and unpair the PC then do another pair again.
 
