@@ -691,7 +691,7 @@ A PC with an Nvidia 600 GPU or newer \
 2. When you launch Moonlight from the ports menu, you'll be presented with a menu with 2 options, Start Streaming and settings.  You'll want to go to settings first and choose the pair option.
 3. You'll be presented with a screen asking for the name or IP address of your PC with the Nvidia Geforce Experience app installed.
 4. Once you hit the ok button, you should be presented with a pairing dialog box on your PC.
-5. Enter the 4 digit PIN displayed on your device into the pairing dialog box and hit ok.
+5. Enter the 4 digit PIN displayed on your device into the pairing dialog box and click the Connect button.
 6. By default, Moonlight is setup to stream Steam from your PC.  There are other options available such as Dolphin if you have that installed and configured on your PC.
 
 Notes:
