@@ -762,7 +762,7 @@ Instructions: You must have a copy of the Sonic CD Classic Android APK then do t
 2. Rename the patch49.com.sega.soniccd.classic.obb to Data.rsdk.  Case is important!
 3. Copy the Data.rsdk file to the ports/soniccd folder.
 4. If all is well, you should be able to run Sonic CD now.
-5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
+5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM). \
 *Note*: There seems to be an issue with being able to consistently exit Sonic CD through the menu like you can with Sonic 1 and 2.  You can exit Sonic CD by holding Select and pressing Start. (For the RGB10, you can use hold Minus and press Start.)
 
 ### SorR (Streets of Rage Remake)(Available through PortMaster)
