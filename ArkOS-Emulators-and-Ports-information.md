@@ -461,7 +461,8 @@ Bios: bios.min (optional)
 Emulator: (**lr-scummvm**) [scummvm](https://github.com/scummvm/scummvm) standalone \
 Rom Folder: scummvm \
 Extensions: .scummvm .SCUMMVM \
-Bios: None
+Bios: None \
+Notes: You can use the Scan for new games feature in the system folder to create the .scummvm dummy files so the games can show up on the menu.  You can also just click on menu in the system folder to go straight into ScummVM’s interface and load your games there.
 
 ### Sega 32X
 Emulator: lr-picodrive \
