@@ -2,14 +2,14 @@
 
 Since ArkOS is based on Ubuntu 19.10 for Arm, there process is different from a typical full open source software build.  Below describes the process.
 
-* The base ubuntu 19.10 image can be downloaded from here: https://wiki.odroid.com/odroid_go_advance/os_image/ubuntu_es#v11. \
-* The mali gpu driver from https://oph.mdrjr.net/meveric/pool/go2/libm/libmali-rk/libmali-rk-bifrost-g31-rxp0-wayland-gbm_1.7-2+deb10_arm64.deb \
-* The sdl2 package from https://www.areascout.at/libsdl2-2.0-0_2.0.10+dfsg1-1ubuntu1_arm64.deb \
-* For the kernel, that is dependent on the device you're targeting: \
-  * [Click here for the RG351P/M](https://github.com/lualiliu/RG351P-linux) - You can build it following the instructions [here](https://github.com/christianhaitian/linux/blob/rg351/README) \
-  * [Click here for the RG351V](https://github.com/christianhaitian/linux/tree/rg351) - You can build it following the instructions [here](https://github.com/christianhaitian/linux/blob/rg351/README) \
-  * [Click here for the OGA/RK2020/RGB10](https://github.com/christianhaitian/linux/tree/odroidgoA-4.4.y) - You can build it following the instructions [here](https://github.com/christianhaitian/linux/blob/odroidgoA-4.4.y/README) \
-  * [Click here for the Chi](https://github.com/shantigilbert/hardkernel-linux/tree/GameForce-Chi) - You can build it following the instructions [here](https://github.com/christianhaitian/linux/blob/odroidgoA-4.4.y/README).  Instead of `make odroidgoa_tweaked_defconfig` do `make gameforce_defconfig` \
+* The base ubuntu 19.10 image can be downloaded from [here](https://wiki.odroid.com/odroid_go_advance/os_image/ubuntu_es#v11).
+* The mali gpu driver from [here](https://oph.mdrjr.net/meveric/pool/go2/libm/libmali-rk/libmali-rk-bifrost-g31-rxp0-wayland-gbm_1.7-2+deb10_arm64.deb) 
+* The sdl2 package from [here](https://www.areascout.at/libsdl2-2.0-0_2.0.10+dfsg1-1ubuntu1_arm64.deb)
+* For the kernel, that is dependent on the device you're targeting:
+  * [Click here for the RG351P/M](https://github.com/lualiliu/RG351P-linux) - You can build it following the instructions [here](https://github.com/christianhaitian/linux/blob/rg351/README)
+  * [Click here for the RG351V](https://github.com/christianhaitian/linux/tree/rg351) - You can build it following the instructions [here](https://github.com/christianhaitian/linux/blob/rg351/README)
+  * [Click here for the OGA/RK2020/RGB10](https://github.com/christianhaitian/linux/tree/odroidgoA-4.4.y) - You can build it following the instructions [here](https://github.com/christianhaitian/linux/blob/odroidgoA-4.4.y/README)
+  * [Click here for the Chi](https://github.com/shantigilbert/hardkernel-linux/tree/GameForce-Chi) - You can build it following the instructions [here](https://github.com/christianhaitian/linux/blob/odroidgoA-4.4.y/README).  Instead of `make odroidgoa_tweaked_defconfig` do `make gameforce_defconfig`
 
 The rest I add via scripted updates from here:
 * [RG351P/M](https://github.com/christianhaitian/arkos/blob/main/Update-RG351P.sh)
