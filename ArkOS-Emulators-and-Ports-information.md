@@ -585,7 +585,9 @@ Emulator: (**[ecwolf](https://bitbucket.org/ecwolf/ecwolf)**) lr-ecwolf
 Rom Folder: wolf \
 Extensions: .wolf .WOLF \
 Bios: None
-Notes: Copy your Wolfenstein 3D, Spear of Destiny, or Super Noah's Ark 3D dos folder into the rom folder then run the **Scan_for_new_games.wolf** script from within Emulationstation to create the proper shortcuts for your games.
+Notes: \
+1. Copy your Wolfenstein 3D, Spear of Destiny, or Super Noah's Ark 3D dos folder into the rom folder then run the **Scan_for_new_games.wolf** script from within Emulationstation to create the proper shortcuts for your games.
+2. If while using the Retroarch ecwolf core you find you can't start Wolfenstein, make sure there's only one .exe in the Wolfenstein dos folder.  Files like catalog.exe should be deleted from this folder.
 
 ### WonderSwan
 Emulator: lr-mednafen-wswan (aka lr-beetle-wswan) \
@@ -790,5 +792,5 @@ Instructions: You'll need to provide your own Undertale Linux version assets.  Y
 ### VVVVVV
 Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in the emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead.
 
-### Wolfenstein 3D (Soon to be deprecated as Wolfenstein will be moved to the main system section.)
+### Wolfenstein 3D (Soon to be deprecated as Wolfenstein has been moved to the main system section.  Makes use of the [ecwolf](https://bitbucket.org/ecwolf/ecwolf) standalone and still supports the use of the libretro ecwolf core as well.)
 Instructions: Wolfenstein 3D shareware episode 1 is already included and ready to go.  You can add your own registered copy into the /roms/ports/ecwolf folder. 
