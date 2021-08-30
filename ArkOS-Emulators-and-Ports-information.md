@@ -580,7 +580,7 @@ Rom Folder: supervision
 Extensions: .bin .BIN .zip .ZIP \
 Bios: None
 
-### Wolfenstein (CHi Only) (Coming soon for OGA, RG351V, RGB10, and RK2020)
+### Wolfenstein
 Emulator: (**[ecwolf](https://bitbucket.org/ecwolf/ecwolf)**) lr-ecwolf
 Rom Folder: wolf \
 Extensions: .wolf .WOLF \
@@ -619,7 +619,7 @@ Bios: None
 ### 2048
 Instructions: 2048 files are already included and ready to go.  Just start 2048 from Ports in the emulationstation menu.
 
-### AM2R (RK2020, RGB10 and OGAs only.  RG351V, use Anberports by krishenriksen(kreal))
+### AM2R (RK2020, RGB10, OGA and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: AM2R files are already included and ready to go.  Just start AM2R from Ports in the emulationstation menu.
 
 ### Cannonball (OutRun)
@@ -628,13 +628,16 @@ Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder 
 ### Cave Story
 Instructions: Cave Story files are already included and ready to go.  Just start Cave Story from Ports in the emulationstation menu.
 
+### Cave Story (evo) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Install through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster) and start Cave Story-Evo from Ports in the emulationstation menu.
+
 ### C-Dogs (RG351V, OGA, RGB10, RK2020 Only)
 Instructions: C-Dogs files are already included and ready to go.  Just start C-Dogs from Ports in the emulationstation menu.
 
 ### Commander Genius (Commander Keen)
 Instructions: Load your keen folders into the /roms/ports/cgenius/games folder.  As an example, the shareware version of Commander Keen 1 is included and is named Keen.  Then just start Commander Genius from Ports in the emulationstation menu.
 
-### DevilutionX (Diablo 1) (RG351P/M and Chi Only)
+### DevilutionX (Diablo 1) (RG351P/M, Chi and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder. **Make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support) \
 Important Note: It’s been reported that you must make sure you use the GOG version of diabdat.mpq with the newest patch_rt.mpq or you may experience a freeze of the game around level 20.
 
@@ -672,16 +675,16 @@ Thanks to a community member by the name of fonzo, an alternative to these contr
 [autoexec.cfg](https://github.com/christianhaitian/arkos/raw/main/devices/autoexec.cfg)
 [keyboard.cfg](https://github.com/christianhaitian/arkos/raw/main/devices/keyboard.cfg)
 
-and you're controls will be as shown in the image below:
+and you're controls will be as shown in the image below: \
 ![fonzo mapping](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_halflife_fonzo.png)
 
 ### Hydra Castle Labyrinth (RG351V, OGA, RGB10, RK2020 Only)
 Instructions: Hydra Castle Labyrinth files are already included and ready to go.  Just start Hydra Castle Labyrinth from Ports in the emulationstation menu.
 
-### Maldita Castilla (RK2020, RGB10 and OGAs only.  RG351V, use Anberports by krishenriksen(kreal))
+### Maldita Castilla (RK2020, RGB10, OGA and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Maldita Castilla files are already included and ready to go.  Just start Maldita Castilla from ports in the emulationstation menu.
 
-### Moonlight Nvidia Gamestreaming App (Available through PortMaster)
+### Moonlight Nvidia Gamestreaming App (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: PC Requirements and setup as follows:
 
 PC Requirements: \
@@ -703,10 +706,10 @@ Notes:
 * To exit Moonlight when complete, simply use the exit hotkey for your device to get out of the app.
 * If you experience issues reconnecting to your PC, go to settings in the Moonlight app and unpair the PC then do another pair again.
 
-### Mr. Boom(RG351V, OGA, RGB10, RK2020 Only)
+### Mr. Boom(RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu.
 
-### OpenJazz (Jazz Jackrabbit)(Available through PortMaster)
+### OpenJazz (Jazz Jackrabbit)(Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Add the dos game files to the roms/ports/openjazz/gamedata/ folder then start OpenJazz from Ports in the emulationstation menu.
 
 ### OpenTyrian
@@ -722,7 +725,7 @@ Notes: There's no support for music at this time until Libretro or the original 
 ### Rick Dangerous
 Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in the emulationstation menu.
 
-### Rocks 'N' Diamonds (Available through PortMaster)
+### Rocks 'N' Diamonds (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Rocks 'N' Diamonds files are already included and ready to go.  Just start Rocks N Diamonds from Ports in the emulationstation menu.
 
 ### Shovel Knight - Treasure Trove (RG351V, OGA, RGB10, RK2020 Only)
@@ -765,20 +768,20 @@ Instructions: You must have a copy of the Sonic CD Classic Android APK then do t
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM). \
 *Note*: There seems to be an issue with being able to consistently exit Sonic CD through the menu like you can with Sonic 1 and 2.  You can exit Sonic CD by holding Select and pressing Start. (For the RGB10, you can hold Minus and press Start.  For the Chi, you can hold the 1 key and press Start.)
 
-### SorR (Streets of Rage Remake)(Available through PortMaster)
+### SorR (Streets of Rage Remake)(Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to provide your own sorr.dat file, mod folder, and palettes folder:
 1. Obtain version 5.1 of SoRR.  You can use either the windows or linux/debian version it does not matter which.
 2. Extract them /roms/ports/sorr (For RG351V if using SD2, extract to /roms2/ports/sorr instead).  You should have a /mod folder, a /palettes folder, and SorR.dat file in this location in order for the game to work.
 3. Then go to Ports, and launch SorR \
 *Note*: If you experience a slowdown in gameplay after sometime, force exit the game (You can use the normal force exit hotkey combination for your device), then start the game again and it will start from the beginning of the last stage you were on and be full speed for a few more stages.  It's the best workaround for the issue for now until someone can figure out and resolve the root cause of the slowdown.
 
-### Spelunky (RK2020, RGB10 and OGAs only.  RG351V, use Anberports by krishenriksen(kreal))
+### Spelunky (RK2020, RGB10, OGA, and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Spelunky files are already included and ready to go.  Just start Spelunky from Ports in the emulationstation menu.
 
 ### Super Mario War (RG351V, OGA, RGB10, RK2020 Only)
 Instructions: Super Mario War files are already included and ready to go.  Just start Super Mario War from Ports in the emulationstation menu.
 
-### SuperTux (RG351V, OGA, RGB10, RK2020 Only)
+### SuperTux (RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: SuperTux files are already included and ready to go.  Just start SuperTux from Ports in the emulationstation menu.
 
 ### Undertale (RK2020, RGB10 and OGAs only.  RG351V, use Anberports by krishenriksen(kreal))
