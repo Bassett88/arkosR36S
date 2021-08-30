@@ -237,7 +237,7 @@ Extensions: .bin .BIN .gg .GG .zip .ZIP .7z .7Z \
 Bios: bios.gg (optional)
 
 ### Genesis/Megadrive
-Emulator: (**lr-genesis_plus_gx**) lr-picodrive \
+Emulator: (**lr-genesis_plus_gx**) lr-genesis_plus_gx_wide lr-picodrive \
 Rom Folder: megadrive or genesis \
 Extensions: .mdx .MDX .md .MD .smd .SMD .gen .GEN .bin .BIN .zip .ZIP .7z .7Z \
 Bios: bios_MD.bin (optional)
