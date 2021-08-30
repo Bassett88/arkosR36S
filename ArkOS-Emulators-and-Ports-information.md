@@ -680,7 +680,7 @@ Thanks to a community member by the name of fonzo, an alternative to these contr
 and you're controls will be as shown in the image below: \
 ![fonzo mapping](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_halflife_fonzo.png)
 
-### Hydra Castle Labyrinth (RG351V, OGA, RGB10, RK2020 Only)
+### Hydra Castle Labyrinth (RG351V, OGA, RGB10, RK2020 Only and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Hydra Castle Labyrinth files are already included and ready to go.  Just start Hydra Castle Labyrinth from Ports in the emulationstation menu.
 
 ### Maldita Castilla (RK2020, RGB10, OGA and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
