@@ -3,7 +3,9 @@
 Since ArkOS is based on Ubuntu 19.10 for Arm, the process is different from a typical fully open source software build.  Below describes the process:
 
 * The base ubuntu 19.10 image can be downloaded from [here](https://wiki.odroid.com/odroid_go_advance/os_image/ubuntu_es#v11).  Mirror available [here](https://mega.nz/file/2c5xnAjT#bXgmSEjGsD982yqafodIrjW1mPtDw2hkLaf-7xuSSWQ).
-* The mali gpu driver from [here](https://oph.mdrjr.net/meveric/pool/go2/libm/libmali-rk/libmali-rk-bifrost-g31-rxp0-wayland-gbm_1.7-2+deb10_arm64.deb) 
+* The mali gpu driver from [here](https://dn.odroid.com/RK3326/ODROID-GO-Advance/rk3326_r13p0_gbm_with_vulkan_and_cl.zip).  Mirror available [here](https://mega.nz/file/aEZGjBSZ#Ip5BZQZs98GDWloqeyrzMgGVN9CFyXrCUKuBmCwSMlg)
+  * `sudo cp libmali.so_rk3326_gbm_arm64_r13p0_with_vulkan_and_cl  /usr/local/lib/aarch64-linux-gnu/libmali-bifrost-g31-rxp0-gbm.so`
+  * `sudo cp libmali.so_rk3326_gbm_arm32_r13p0_with_vulkan_and_cl  /usr/local/lib/arm-linux-gnueabihf/libmali-bifrost-g31-rxp0-gbm.so`
 * The sdl2 package from [here](https://www.areascout.at/libsdl2-2.0-0_2.0.10+dfsg1-1ubuntu1_arm64.deb)  Mirror available [here](https://mega.nz/file/GYgVGIKa#IJiMQO_d-kQYAQzIyvEbG0hy62xr4jzoTXuuFdUC8dU)
 * For the kernel, that is dependent on the device you're targeting:
   * [Click here for the RG351P/M](https://github.com/lualiliu/RG351P-linux) - You can build it following the instructions [here](https://github.com/christianhaitian/linux/blob/rg351/README)
