@@ -1,6 +1,6 @@
 ## Looking to build ArkOS from scratch?
 
-Since ArkOS is based on Ubuntu 19.10 for Arm, there process is different from a typical full open source software build.  Below describes the process.
+Since ArkOS is based on Ubuntu 19.10 for Arm, the process is different from a typical fully open source software build.  Below describes the process:
 
 * The base ubuntu 19.10 image can be downloaded from [here](https://wiki.odroid.com/odroid_go_advance/os_image/ubuntu_es#v11).
 * The mali gpu driver from [here](https://oph.mdrjr.net/meveric/pool/go2/libm/libmali-rk/libmali-rk-bifrost-g31-rxp0-wayland-gbm_1.7-2+deb10_arm64.deb) 
