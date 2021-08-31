@@ -26,6 +26,8 @@ Sources I modified myself are available through my github account [here](https:/
 
 Many of my sources have been modified to support my build process.  My process involves the use of both 32bit and 64bit ARM debian based chroots within an Ubuntu Mate 20.04 Oracle VirtualBox based VM I utilize.  You can download the prebuilt VM either through this [Mega](https://mega.nz/file/3dIkHTRZ#s2DOkT8nrCRCaXVyng3KQdrixolgxarqplitLt8Ta8c) or [Google Drive](https://drive.google.com/file/d/1_6SLtNurqeUafKrbBM2Ba0fTWyZkGAGi/view?usp=sharing) link.
 
+More info about this VM is available [here](https://forum.odroid.com/viewtopic.php?p=306185#p306185).
+
 ## To create debian based chroots in a Linux environment.
 ### These instructions are based on a Ubuntu 16 or newer install or VM.
 
