@@ -707,6 +707,7 @@ Notes:
 * For those that don't have an Nvidia vide card, there's an alternative PC client called [Sunshine](https://github.com/loki-47-6F-64/sunshine).  I haven't tested it so I don't know how well it will work but there's been reports that it seems to work well.
 * To exit Moonlight when complete, simply use the exit hotkey for your device to get out of the app.
 * If you experience issues reconnecting to your PC, go to settings in the Moonlight app and unpair the PC then do another pair again.
+* There has been an instance where Moonlight would not work with a PC unless the HDMI connection was removed from the PC to a TV.
 
 ### Mr. Boom(RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu.
