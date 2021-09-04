@@ -622,7 +622,8 @@ Bios: None
 Instructions: 2048 files are already included and ready to go.  Just start 2048 from Ports in the emulationstation menu.
 
 ### AM2R (RK2020, RGB10, OGA and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: AM2R files are already included and ready to go.  Just start AM2R from Ports in the emulationstation menu.
+Instructions: AM2R files are already included and ready to go.  Just start AM2R from Ports in the emulationstation menu. \
+Note: **For the PortMaster version, it's using an updated version that requires the android apk.  You'll need to source your own am2r android apk and place it into the ports/am2r/gamedata folder.  Make sure it is named am2r.apk.  If need be, just rename the am2r apk you source to am2r.apk.  The name is case sensitive!**
 
 ### Cannonball (OutRun)
 Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder then start Cannonball from Ports in the emulationstation menu.  For exact naming of roms, view this [link](https://github.com/djyt/cannonball/blob/master/roms/roms.txt)
