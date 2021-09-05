@@ -658,6 +658,7 @@ Instructions: You'll need to add your own full version duke3d.grp and duke.rts D
 
 ### Freedom Planet (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You must have a copy of Freedom Planet for Linux.  You'll need the contents of the Freedom.Planet/game folder to be copied into the freedomplanet/gamedata folder of your sd card.  Be sure the freedomplanet/gamedata folder on you sd card contains subfolders named bin32, bin64, Data, runtime.  There should also be a filed named Assets.dat in freedomplanet/gamedata as well.  Then run Freedom Planet from the Emulationstation ports menu.
+Note: This game can take a minute or two to initially load.
 
 ### Half-Life 1 (RG351P/M Only)
 Instructions: Only works with the full version of Half life 1.
