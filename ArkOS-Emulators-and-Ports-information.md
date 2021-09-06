@@ -637,7 +637,7 @@ Instructions: Install through [PortMaster](https://github.com/christianhaitian/a
 ### C-Dogs (RG351V, OGA, RGB10, RK2020 Only)
 Instructions: C-Dogs files are already included and ready to go.  Just start C-Dogs from Ports in the emulationstation menu.
 
-### Commander Genius (Commander Keen)
+### Commander Genius (Commander Keen) (also Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Load your keen folders into the /roms/ports/cgenius/games folder.  As an example, the shareware version of Commander Keen 1 is included and is named Keen.  Then just start Commander Genius from Ports in the emulationstation menu.
 
 ### DevilutionX (Diablo 1) (RG351P/M, Chi and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
@@ -726,14 +726,14 @@ Instructions: Add the dos game files to the roms/ports/openjazz/gamedata/ folder
 ### OpenTyrian
 Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in the Emulationstation.
 
-### Quake 1
+### Quake 1 (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Add .pak files to /roms/ports/quake/quakepaks then start Quake from Ports in the emulationstation menu
 
 ### Quake 2
 Instructions: Add .pak files to /roms/ports/quake2/baseq2 then start Quake 2 from Ports in the emulationstation menu. \
 Notes: There's no support for music at this time until Libretro or the original developer of that emulator fixes this.
 
-### Rick Dangerous
+### Rick Dangerous (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in the emulationstation menu.
 
 ### Rocks 'N' Diamonds (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
@@ -751,10 +751,10 @@ Notes: \
 Thanks to pitiSeb for box86 (https://github.com/ptitSeb/box86) \
 Thanks to JohnnyonFlame for gl4es and the the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
 
-### SDLPoP (Prince of Persia)
+### SDLPoP (Prince of Persia) (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: The game is an open-source port and is already included and ready to go.  Just start SDLPoP from Ports in the emulationstation menu.
 
-### Sonic 1
+### Sonic 1 (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You must have a copy of the Sonic The Hedgehog Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract /assets/Data.rsdk.xmf.
 2. Rename the Data.rsdk.xmf to Data.rsdk.  Case is important!
@@ -762,7 +762,7 @@ Instructions: You must have a copy of the Sonic The Hedgehog Classic Android APK
 4. If all is well, you should be able to run Sonic 1 now.
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
 
-### Sonic 2
+### Sonic 2 (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You must have a copy of the Sonic The Hedgehog 2 Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract /assets/Data.rsdk.xmf.
 2. Rename the Data.rsdk.xmf to Data.rsdk.  Case is important!
@@ -770,7 +770,7 @@ Instructions: You must have a copy of the Sonic The Hedgehog 2 Classic Android A
 4. If all is well, you should be able to run Sonic 2 now.
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
 
-### Sonic CD
+### Sonic CD (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You must have a copy of the Sonic CD Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract Androind/obb/comm.sega.soniccd.classic/patch49.com.sega.soniccd.classic.obb.
    * This file may have a different number such as patch56 or higher which should also work as well.
@@ -790,7 +790,7 @@ Instructions: You'll need to provide your own sorr.dat file, mod folder, and pal
 ### Spelunky (RK2020, RGB10, OGA, and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Spelunky files are already included and ready to go.  Just start Spelunky from Ports in the emulationstation menu.
 
-### Super Mario War (RG351V, OGA, RGB10, RK2020 Only)
+### Super Mario War (RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Super Mario War files are already included and ready to go.  Just start Super Mario War from Ports in the emulationstation menu.
 
 ### SuperTux (RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
