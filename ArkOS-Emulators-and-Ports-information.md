@@ -744,7 +744,8 @@ Instructions: You must have a copy of Shovel Knight Treasure Trove for Linux.  Y
 1. Be sure the folder contains subfolders named 32, 64 and data.  There should also be a filed named shovelknight.
 2. Copy the shovelknight folder to the roms/ports folder on your device.
 3. For a guide and video of what to do, check out Retro Game Corps' video guide [here](https://retrogamecorps.com/2021/05/09/shovel-knight-treasure-trove-on-retro-handheld-devices/)
-4. The Shovel Knight.sh file included already will work fine, however, if you follow Retro Game Corp's video guide, be sure to not use the Shovel Knight.sh file from there if you're on a RK2020 or OGA. \
+4. The Shovel Knight.sh file included already will work fine, however, if you follow Retro Game Corp's video guide, be sure to not use the Shovel Knight.sh file from there if you're on a RK2020 or OGA.
+
 Notes: **For PortMaster version, copy your Shovel Knight Treasure Trove for Linux folder to the ports/shovelknight/gamedata folder.  You should have ports/shovelknight/gamedata/shovelknight folder structure with additional subfolders such as 32, 64, and data within ports/shovelknight/gamedata/shovelknight.  Once done, just run Shovel Knight.sh.  DO NOT OVERWRITE THE Shovel Knight.sh file already included with the one from Retro Game Corp's video or it may not work correctly.  If you do this, just reinstall Shovel Knight from PortMaster.**
 
 Notes: \
