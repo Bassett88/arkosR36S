@@ -713,9 +713,11 @@ Notes:
 * More information about Moonlight is available [here](https://github.com/moonlight-stream/moonlight-docs/wiki).
 * If you experience issues with the setup and launching menu functioning correctly, hitting start may resolve it or simply force close the port using the usual exit hotkey on ArkOS for your device (RGB10 = Minus + Start, RK2020/RG351P/M/V = Select+Start,  Chi = 1 + Start). 
 * For those that don't have an Nvidia vide card, there's an alternative PC client called [Sunshine](https://github.com/loki-47-6F-64/sunshine).  I haven't tested it so I don't know how well it will work but there's been reports that it seems to work well.
-* To exit Moonlight when complete, simply use the exit hotkey for your device to get out of the app.
+* To exit Moonlight when complete, you can press Select+Start+L1+R1 or simply use the exit hotkey for your device to get out of the app.
 * If you experience issues reconnecting to your PC, go to settings in the Moonlight app and unpair the PC then do another pair again.
 * There has been an instance where Moonlight would not work with a PC unless the HDMI connection was removed from the PC to a TV.
+* You can add more apps for streaming by editing the Moonlight.sh file and adding more apps between lines 167 and 173.  Be aware that the entries are case sensitive.
+* Mouse control is only possible using the Rockchip platform in settings.  That is only possible on the OGA, OGS, RGB10, and the RK2020 at this time.  Holding start for about 2 - 3 seconds while using the Rockchip platform will switch to mouse mode.  Hold Start for about 2 - 3 seconds again to switch back to gamepad controls.
 
 ### Mr. Boom(RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu.
