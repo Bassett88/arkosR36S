@@ -628,7 +628,7 @@ Note: **For the PortMaster version, it's using an updated version that requires 
 ### Cannonball (OutRun)
 Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder then start Cannonball from Ports in the emulationstation menu.  For exact naming of roms, view this [link](https://github.com/djyt/cannonball/blob/master/roms/roms.txt)
 
-### Cave Story
+### Cave Story (also Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Cave Story files are already included and ready to go.  Just start Cave Story from Ports in the emulationstation menu.
 
 ### Cave Story (evo) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
