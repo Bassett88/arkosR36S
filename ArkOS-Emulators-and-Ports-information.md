@@ -634,7 +634,7 @@ Instructions: Cave Story files are already included and ready to go.  Just start
 ### Cave Story (evo) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Install through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster) and start Cave Story-Evo from Ports in the emulationstation menu.
 
-### C-Dogs (RG351V, OGA, RGB10, RK2020 Only)
+### C-Dogs (RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: C-Dogs files are already included and ready to go.  Just start C-Dogs from Ports in the emulationstation menu.
 
 ### Commander Genius (Commander Keen) (also Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
@@ -725,7 +725,7 @@ Instructions: Mr. Boom files are already included and ready to go.  Just start M
 ### OpenJazz (Jazz Jackrabbit)(Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Add the dos game files to the roms/ports/openjazz/gamedata/ folder then start OpenJazz from Ports in the emulationstation menu.
 
-### OpenTyrian
+### OpenTyrian (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in the Emulationstation.
 
 ### Quake 1 (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
@@ -802,7 +802,7 @@ Instructions: SuperTux files are already included and ready to go.  Just start S
 ### Undertale (RK2020, RGB10, OGAs and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to provide your own Undertale Linux version assets.  You can purchase this from GoG for under $10.  If you purchase this from GoG, you'll need to download the Linux version and it will have a .sh extension.  Just change the .sh to .gz and use 7zip to open the file, then go to the \data\noarch\game\assets folder and copy all of it's contents to your /roms/ports/undertale/assets folder.  Then you should be able to launch Undertale from Ports in the emulationStation menu.
 
-### VVVVVV
+### VVVVVV (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in the emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead.
 
 ### Wolfenstein 3D (Soon to be deprecated as Wolfenstein has been moved to the main system section.  Makes use of the [ecwolf](https://bitbucket.org/ecwolf/ecwolf) standalone and still supports the use of the libretro ecwolf core as well.)
