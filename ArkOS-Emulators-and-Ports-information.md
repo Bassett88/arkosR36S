@@ -743,7 +743,7 @@ Instructions: Rocks 'N' Diamonds files are already included and ready to go.  Ju
 
 ### Shovel Knight - Treasure Trove (RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You must have a copy of Shovel Knight Treasure Trove for Linux.  You'll need the shovelknight folder:  
-1. Be sure the folder contains subfolders named 32, 64 and data.  There should also be a filed named shovelknight.
+1. Be sure the folder contains subfolders named 32, 64 and data.  There should also be a filed named ShovelKnight.
 2. Copy the shovelknight folder to the roms/ports folder on your device.
 3. For a guide and video of what to do, check out Retro Game Corps' video guide [here](https://retrogamecorps.com/2021/05/09/shovel-knight-treasure-trove-on-retro-handheld-devices/)
 4. The Shovel Knight.sh file included already will work fine, however, if you follow Retro Game Corp's video guide, be sure to not use the Shovel Knight.sh file from there if you're on a RK2020 or OGA.
