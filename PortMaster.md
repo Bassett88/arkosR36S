@@ -1,10 +1,10 @@
 ## What is PortMaster?
 
-PortMaster is a simple tool that allows you to download various game ports that are available for ArkOS.  ~~It may be compatible with TheRA and RetroOZ as well but this has not been tested as of this time.~~  A number of ports have been tested and confirmed working with TheRA and RetroOZ.  Ports such as Freedom Planet and Maldita Castilla will be working for TheRA soon.  
+PortMaster is a simple tool that allows you to download various game ports that are available for ArkOS.  A number of ports have been tested and confirmed working with TheRA and RetroOZ.  Ports such as Freedom Planet and Maldita Castilla will be working for TheRA soon.  
 
 One of the goals of PortMaster is to not install or upgrade any existing OS libraries for any ports.  Any of the ports that need a particular non standard library are maintained within the ports' folder and made available specifically to that port during execution.
 
-Most of the the ports available through PortMaster have been configured to launch with proper controls for the Gameforce Chi, Powkiddy RGB10, Anbernic RG351P/M/V, RK2020 and the Odroid Go Advance units.  ~~Controls for the Odroid Go Super and the Powkiddy RGB10 Max are also included but have not been tested with some or many of these ports.~~ 
+Most of the the ports available through PortMaster have been configured to launch with proper controls for the Gameforce Chi, Powkiddy RGB10, Anbernic RG351P/M/V, RK2020 and the Odroid Go Advance units.  Controls for the Odroid Go Super and the Powkiddy RGB10 Max are also included and have been tested but not as much as the 3.5" RK3326 devices. 
 
 ## How do I install PortMaster?
 
@@ -21,3 +21,7 @@ No.  You can simply go to the ports folder on the ArkOS github (https://github.c
 ## If there are updates to Ports, how will that work?
 
 Just run PortMaster and reinstall the port.  This should install the latest port related files if they've been updated in PortMaster.  In most cases, it should not impact any existing game data you had to provide or existing saves unless the updated port made changes to the port backend that impacts previous saves.
+
+## How can I contribute to add adding ports to PortMaster?
+
+See the packaging documentation [here](https://github.com/christianhaitian/arkos/blob/main/ports/docs/packaging.md) for more info on this.
