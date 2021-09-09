@@ -22,6 +22,6 @@ No.  You can simply go to the ports folder on the ArkOS github (https://github.c
 
 Just run PortMaster and reinstall the port.  This should install the latest port related files if they've been updated in PortMaster.  In most cases, it should not impact any existing game data you had to provide or existing saves unless the updated port made changes to the port backend that impacts previous saves.
 
-## How can I contribute to add adding ports to PortMaster?
+## How can I help add ports to PortMaster?
 
-See the packaging documentation [here](https://github.com/christianhaitian/arkos/blob/main/ports/docs/packaging.md) for more info on this.
+See the packaging documentation [here](https://github.com/christianhaitian/arkos/blob/main/ports/docs/packaging.md) for more info on this.  Once you're port packaging has met these minimum requirements, you can either submit an issue requesting the additional of this port with the port package attached or contact me on the [RGHandhelds](https://discord.gg/Jd2azKX) discord for further review and advisement.
