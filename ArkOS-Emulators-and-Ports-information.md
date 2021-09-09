@@ -618,7 +618,7 @@ Bios: None
 
 # Ports
 
-### 2048
+### 2048 (also Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: 2048 files are already included and ready to go.  Just start 2048 from Ports in the emulationstation menu.
 
 ### AM2R (RK2020, RGB10, OGA and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
@@ -644,7 +644,7 @@ Instructions: Load your keen folders into the /roms/ports/cgenius/games folder. 
 Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder. **Make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support) \
 Important Note: It’s been reported that you must make sure you use the GOG version of diabdat.mpq with the newest patch_rt.mpq or you may experience a freeze of the game around level 20.
 
-### Dinothawr (RG351V, OGA, RGB10, RK2020 Only)
+### Dinothawr (RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Dinothawr files are already included and ready to go.  Just start Dinothawr from Ports in the emulationstation menu.
 
 ### Doom 1 (Soon to be deprecated as Doom has been moved to the main system section.  Uses lzdoom which is a superior doom engine and even supports mods like Brutal Doom Lite!) 
