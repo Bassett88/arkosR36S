@@ -1,8 +1,10 @@
 ## What is PortMaster?
 
-PortMaster is a simple tool that allows you to download various game ports that are available for ArkOS.  It may be compatible with TheRA and RetroOZ as well but this has not been tested as of this time.
+PortMaster is a simple tool that allows you to download various game ports that are available for ArkOS.  ~~It may be compatible with TheRA and RetroOZ as well but this has not been tested as of this time.~~  A number of ports have been tested and confirmed working with TheRA and RetroOZ.  Ports such as Freedom Planet and Maldita Castilla will be working for TheRA soon.  
 
-Most of the the ports available through PortMaster have been configured to launch with proper controls for the Gameforce Chi, Powkiddy RGB10, Anbernic RG351V, RK2020 and the Odroid Go Advance units.  Controls for the Odroid Go Super and the Powkiddy RGB10 Max are also included but have not been tested with some or many of these ports.
+One of the goals of PortMaster is to not install or upgrade any existing OS libraries for any ports.  Any of the ports that need a particular non standard library are maintained within the ports' folder and made available specifically to that port during execution.
+
+Most of the the ports available through PortMaster have been configured to launch with proper controls for the Gameforce Chi, Powkiddy RGB10, Anbernic RG351P/M/V, RK2020 and the Odroid Go Advance units.  ~~Controls for the Odroid Go Super and the Powkiddy RGB10 Max are also included but have not been tested with some or many of these ports.~~ 
 
 ## How do I install PortMaster?
 
