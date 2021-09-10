@@ -1,6 +1,6 @@
 ## What is PortMaster?
 
-PortMaster is a simple tool that allows you to download various game ports that are available for ArkOS.  A number of ports have been tested and confirmed working with TheRA and RetroOZ.  Ports such as Freedom Planet and Maldita Castilla will be working for TheRA soon.  
+PortMaster is a simple tool that allows you to download various game ports that are available for ArkOS, RetroOZ, and TheRA.  A number of ports have been tested and confirmed working with TheRA and RetroOZ.  Ports such as Freedom Planet and Maldita Castilla will be working for TheRA soon.  
 
 One of the goals of PortMaster is to not install or upgrade any existing OS libraries for any ports.  Any of the ports that need a particular non standard library are maintained within the ports' folder and made available specifically to that port during execution.
 
