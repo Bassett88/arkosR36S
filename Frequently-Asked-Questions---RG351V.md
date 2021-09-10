@@ -131,6 +131,10 @@ To exit the system, hit the Start button then Option then select Shutdown or hit
 
 To exit the emulator, do so through the PPSSPP menu or hit Select+Start.
 
+**For Retrorun based emulation (Atomiswave, Dreamcast, and Naomi)**
+
+- For performance reasons, this minimal frontend is launched in 320x240 resolution by default on this unit.  To launch a game in 640x480, just hold the A button while launching your rom.  You should see a message on the screen that says "640x480 enabled" and your game will load in this higher resolution.  
+
 **For Solarus**
 
 To exit the system, hit the Select and Start button.
