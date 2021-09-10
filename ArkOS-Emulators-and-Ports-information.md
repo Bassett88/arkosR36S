@@ -55,6 +55,13 @@ Rom Folder: arcade \
 Extensions: .zip .ZIP .7z .7Z .cue .CUE \
 Bios: pgm.zip (for PGM games only like Knights of Valour and DoDonPachi)
 
+### Astrocade (Coming Soon)
+Emulator: lr-mess \
+Rom Folder: astrocde \
+Extensions: .7z .7Z .bin .BIN .cue .CUE \
+Bios: astrocde.zip (must be in the roms/astrocde folder.  **NOT THE BIOS FOLDER!**) \
+Notes: Because this uses the mess emulator, there's a little more involved in getting the games to run in which the rom must be named exactly as shown in the bios/mame/hash/astrocde.xml file.  For example, The Incredible Wizard rom must be named wizard.bin.  If it is zipped, it must be named wizard.zip.
+
 ### Atomiswave
 Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme retrorun retrorun32 \
 Rom Folder: atomiswave \
