@@ -632,6 +632,9 @@ Instructions: 2048 files are already included and ready to go.  Just start 2048 
 Instructions: AM2R files are already included and ready to go.  Just start AM2R from Ports in the emulationstation menu. \
 Note: **For the PortMaster version, it's using an updated version that requires the android apk.  You'll need to source your own am2r android apk and place it into the ports/am2r/gamedata folder.  Make sure it is named am2r.apk.  If need be, just rename the am2r apk you source to am2r.apk.  The name is case sensitive!**
 
+### Blood (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You'll need to add your own full version Blood 1.21 files to the ports/Blood folder.  Then just start Blood from Ports in the Emulationstation.
+
 ### Blues Brothers (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Includes the demo files. You can add your own full game Amiga or Dos files to the ports/bluesbrothers/gamedata folder..  Then just start Blues Brothers from Ports in the Emulationstation menu.
 
@@ -830,14 +833,11 @@ Instructions: SuperTux files are already included and ready to go.  Just start S
 ### Tomb Raider 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions:  Just add your steam or gog Tomb Raider 1 files to the ports/tombraider1 folder.  Then you should be able to launch Tomb Raider 1 from Ports in the emulationStation menu.
 
-### Tomb Raider 2 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions:  Just add your steam or gog Tomb Raider 2 files to the ports/tombraider2 folder.  Then you should be able to launch Tomb Raider 2 from Ports in the emulationStation menu.
-
-### Tomb Raider 3 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions:  Just add your steam or gog Tomb Raider 3 files to the ports/tombraider3 folder.  Then you should be able to launch Tomb Raider 3 from Ports in the emulationStation menu.
-
 ### Undertale (RK2020, RGB10, OGAs and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to provide your own Undertale Linux version assets.  You can purchase this from GoG for under $10.  If you purchase this from GoG, you'll need to download the Linux version and it will have a .sh extension.  Just change the .sh to .gz and use 7zip to open the file, then go to the \data\noarch\game\assets folder and copy all of it's contents to your /roms/ports/undertale/assets folder.  Then you should be able to launch Undertale from Ports in the emulationstation menu.
+
+### Ur-Quan Masters (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Ur-Quan Masters files are already included and ready to go.  Just start UQM from Ports in the emulationstation menu.
 
 ### VVVVVV (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in the emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead.
