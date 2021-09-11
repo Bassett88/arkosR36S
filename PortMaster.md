@@ -24,4 +24,4 @@ Just run PortMaster and reinstall the port.  This should install the latest port
 
 ## How can I help add ports to PortMaster?
 
-See the packaging documentation [here](https://github.com/christianhaitian/PortMaster/blob/main/docs/packaging.md) for more info on this.  Once you're port packaging has met these minimum requirements, you can either submit an issue requesting the additional of this port with the port package attached or contact me on the [RGHandhelds](https://discord.gg/Jd2azKX) discord for further review and advisement.
+See the packaging documentation [here](https://github.com/christianhaitian/PortMaster/blob/main/docs/packaging.md) for more info on this.  Once you're port packaging has met these minimum requirements, you can either submit a Pull Request of this port or contact me on the [RGHandhelds](https://discord.gg/Jd2azKX) discord for further review and advisement.
