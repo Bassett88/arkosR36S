@@ -369,7 +369,8 @@ Bios: None
 Emulator: drastic standalone \
 Rom Folder: nds \
 Extensions: .zip .ZIP .nds .NDS \
-Bios: nds_bios_arm7.bin (optional), nds_bios_arm9.bin (optional), nds_firmware.bin (optional)
+Bios: nds_bios_arm7.bin (optional), nds_bios_arm9.bin (optional), nds_firmware.bin (optional) \
+Notes: Save files must have an extension of .dsv and they go in the nds/backup folder.  They must be named similarly to the rom.
 
 ### Nintendo Entertainment System (NES)/Famicom
 Emulator: (**lr-nestopia**) lr-fceumm \
