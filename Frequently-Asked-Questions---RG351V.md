@@ -34,6 +34,7 @@
 32. [I've added the roms to the appropriate folder, but once I the SD card inside the console it doesn't seem to find my roms.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-ive-added-the-roms-to-the-appropriate-folder-but-once-i-put-the-sd-card-inside-the-console-it-doesnt-seem-to-find-my-roms)
 33. [How do I generate .m3u files for PS1 games in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
 34. [I have duplicate games showing for PS1.  How do I eliminate the duplicates?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-i-have-duplicate-games-showing-for-ps1--how-do-i-eliminate-the-duplicates)
+35. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-what-is-bart-and-how-do-i-access-it)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
@@ -461,3 +462,13 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 1. Be sure to follow the steps [here for generating .m3u files in ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
 2. Then go to the Options section in Emulationstation just above Retroarch and select **PS1 - Show only m3u files**.
 3. Emulationstation will restart and you should only have single entries for your multi disk games.
+
+## Q. What is BaRT and how do I access it?
+### A. BaRT is short for Boot and Recovery Tool.  It allows the following:
+* You can switch to a Retroarch only interface on boot.
+* If Emulationstation doesn't load due to a bad configuration of the es_systems.cfg file, you can load BaRT and
+  * Connect to Wifi
+  * Enable remote services to handle recovery tasks,
+  * Load 351Files for file management needs
+  * Drop into terminal mode by connecting a keyboard and hitting alt+f2.
+* To access BaRT, just hold the B button while booting and in a few seconds, you should be presented with the Boot and Recovery Tools screen similar to this: ![](https://raw.githubusercontent.com/christianhaitian/arkos/main/pics/BaRT.jpg)
