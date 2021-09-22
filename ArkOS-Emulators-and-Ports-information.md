@@ -55,10 +55,10 @@ Rom Folder: arcade \
 Extensions: .zip .ZIP .7z .7Z .cue .CUE \
 Bios: pgm.zip (for PGM games only like Knights of Valour and DoDonPachi)
 
-### Astrocade (Coming Soon)
+### Astrocade
 Emulator: lr-mess \
 Rom Folder: astrocde \
-Extensions: .7z .7Z .bin .BIN .cue .CUE \
+Extensions: .7z .7Z .bin .BIN .zip .ZIP \
 Bios: astrocde.zip (must be in the roms/astrocde folder.  **NOT THE BIOS FOLDER!**) \
 Notes: Because this uses the mess emulator, there's a little more involved in getting the games to run in which the rom must be named exactly as shown in the bios/mame/hash/astrocde.xml file.  For example, The Incredible Wizard rom must be named wizard.bin.  If it is zipped, it must be named wizard.zip.
 
@@ -206,6 +206,12 @@ Rom Folder: easyrpg \
 Extensions: .easyrpg .EASYRPG (.ldb .LDB prior to 7/28/2021 update)\
 Bios: None \
 Notes: Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.  As of 7/28/2021, you must run the Scan_for_new_games script to create the necessary shortcuts to load EASYRPG games.
+
+### Fairchild Channel F
+Emulator: lr-freechaf \
+Rom Folder: channelf \
+Extensions: .bin .BIN .rom .ROM .chf .CHF .zip .ZIP \
+Bios: sl31253.bin and sl31254.bin and sl90025.bin
 
 ### Famicom Disk System
 Emulator: (**lr-nestopia**) lr-fceumm \
