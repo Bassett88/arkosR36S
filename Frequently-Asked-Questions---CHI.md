@@ -434,6 +434,7 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 ## Q. What is BaRT and how do I access it?
 ### A. BaRT is short for Boot and Recovery Tool.  It allows the following:
 * You can switch to a Retroarch only interface on boot.
+  * In this mode, no additional tools or standalone emulators are accessible.  This means no NDS, no standalone PSP, no TI99.  To enable remote services, you must do so through BaRT.  To use a File Manager, you must do so through BaRT.  Of course, you can always just switch back to Emulationstation anytime as well and access these standalone emulators and tools.
 * If Emulationstation doesn't load due to a bad configuration of the es_systems.cfg file, you can load BaRT and
   * Connect to Wifi
   * Enable remote services to handle recovery tasks,
