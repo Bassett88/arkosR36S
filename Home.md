@@ -103,7 +103,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 Download Links :
 
-**CHI** - [GDrive]() | [Mega]() (Updated 09/23/2021) MD5:AADBF8454E70120A0F01385A55004EC6 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/chi-changelog) | [CHI - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI)
+**CHI** - [GDrive]() | [Mega](https://mega.nz/file/rMJCUDpL#1SYPsKTMCc_YF6xspbBq7kpj2khRVmQ0KTflrvxPy3c) (Updated 09/23/2021) MD5:AADBF8454E70120A0F01385A55004EC6 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/chi-changelog) | [CHI - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI)
 
 **RG351V** - [GDrive](https://drive.google.com/file/d/19QYVbC3RzPDF_0CGGFl8JKkTonfTIh_n/view?usp=sharing) | [Mega](https://mega.nz/file/uV5UEB5Y#PU42GTHCu4_x3tNWLrayFbAXZcY6Y3imG5-6os0LJTs) (Updated 09/23/2021) MD5:9733FB8A986BFC945217607E02EB28D2 [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351v-changelog) | [RG351V - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V)
 
