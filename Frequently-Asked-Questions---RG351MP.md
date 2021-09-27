@@ -29,9 +29,12 @@
 27. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-does-the-movievideo-player-work)
 28. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-where-are-game-saves-and-savestates-stored)
 29. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-where-do-i-put-psp-dlcs)
-30. [Sleep keeps crashing my devices.  How do I address this?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-sleep-keeps-crashing-my-devices--how-do-i-address-this)
-31. [Can the power LED be completely turned off via software?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#a-no--this-led-can-only-be-changed-from-green-to-red-and-back-again--it-can-not-be-completely-turned-off-via-software)
-32. [I've added the roms to the appropriate folder, but once I the SD card inside the console it doesn't seem to find my roms.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-ive-added-the-roms-to-the-appropriate-folder-but-once-i-put-the-sd-card-inside-the-console-it-doesnt-seem-to-find-my-roms)
+30. [Can the power LED be completely turned off via software?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#a-no--this-led-can-only-be-changed-from-green-to-red-and-back-again--it-can-not-be-completely-turned-off-via-software)
+31. [I've added the roms to the appropriate folder, but once I the SD card inside the console it doesn't seem to find my roms.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-ive-added-the-roms-to-the-appropriate-folder-but-once-i-put-the-sd-card-inside-the-console-it-doesnt-seem-to-find-my-roms)
+32. [How do I generate .m3u files for PS1 games in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
+33. [I have duplicate games showing for PS1.  How do I eliminate the duplicates?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-i-have-duplicate-games-showing-for-ps1--how-do-i-eliminate-the-duplicates)
+34. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-what-is-bart-and-how-do-i-access-it)
+
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
@@ -429,15 +432,6 @@ Ex. GBA .srm files and .state files would be saved in /roms/gba.
 
 If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: place it in the GAME folder
 
-## Q. Sleep keeps crashing my devices.  How do I address this?
-### A. Using sleep mode on this device has some specific requirements that must be met or a crash/freeze is likely to happen:
-
-* Only sleep the device when you're in a retroarch based emulator or at the the Emulationstation menu.
-* Do not sleep the device when in any other system such as NDS, Retrorun, Daphne, standalone Mupen64plus, Amiberry, File Manager, video player, etc.
-* Do not sleep the device while playing a video preview in Emulationstation or a screensaver video.  Best to be at the main system select screen then sleep the device.
-* If the device has a weak wifi signal, it will cause issues like this as well.  It's best to turn off wifi when not using it.  You can use F+L3 to toggle the wifi off (flashes the center led twice) or go to Options section>Advanced>Disable Wifi.
-* If and when you experience a crash from sleep, try a safe shutdown first using F + Tap Power.  If that doesn't work, you're only choice is a hard reset.
-
 ## Q. Can the power LED be completely turned off via software?
 ### A. No.  This LED can only be changed from green to red and back again.  It can not be completely turned off via software.
 
@@ -446,3 +440,32 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 * The roms are in the supported extension for the system per the [Emulators and Ports section](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information)
 * Try pressing start then go to **UI Settings** then **visible systems** and make sure to **select all**.
 * Try pressing start then go to **Advanced settings** and be sure **parse gamelists only** is off.
+
+## Q. How do I generate .m3u files for PS1 games in ArkOS?
+### A. Do the following:
+
+1. Load all of your ps1 .cue or .chd files into the /roms/psx folder.  
+   * Only .cue or .chd files are possible for creating .m3u files in ArkOS!
+   * If you wish, you can place your ps1 games within individual sub folders within the /roms/psx folder.  For example, you can put all of your Metal Gear Solid cue/bin or chds within /roms/psx/mgs folder and this tool will still work.
+   * Your multi disc games should have the word **Disc** as part of it description in order to properly generate a good m3u file.
+
+2. Go to the Options section in Emulationstation just above Retroarch and select **PS1 - Generate m3u files** and when completed, the screen will show what all m3u files were created.
+   * If you add additional multi disc games after running this tool, be sure to go to the Options section in Emulationstation just above Retroarch and select **PS1 - Delete m3u files** and then recreate them.  Failing to do so will create additional entries in existing m3u files that may cause issues.
+
+## Q. I have duplicate games showing for PS1.  How do I eliminate the duplicates?
+### A. This is most likely caused by having multiple .cue or .chd files for multi disk games.  Do the following:
+
+1. Be sure to follow the steps [here for generating .m3u files in ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
+2. Then go to the Options section in Emulationstation just above Retroarch and select **PS1 - Show only m3u files**.
+3. Emulationstation will restart and you should only have single entries for your multi disk games.
+
+## Q. What is BaRT and how do I access it?
+### A. BaRT is short for Boot and Recovery Tool.  It allows the following:
+* You can switch to a Retroarch only interface on boot.
+  * In this mode, no additional tools or standalone emulators are accessible.  This means no NDS, no standalone PSP, no TI99.  To enable remote services, you must do so through BaRT.  To use a File Manager, you must do so through BaRT.  Of course, you can always just switch back to Emulationstation anytime as well and access these standalone emulators and tools.
+* If Emulationstation doesn't load due to a bad configuration of the es_systems.cfg file, you can load BaRT and
+  * Connect to Wifi
+  * Enable remote services to handle recovery tasks,
+  * Load 351Files for file management needs
+  * Drop into terminal mode by connecting a keyboard and hitting alt+f2.
+* To access BaRT, just hold the B button while booting and in a few seconds, you should be presented with the Boot and Recovery Tools screen similar to this: ![](https://raw.githubusercontent.com/christianhaitian/arkos/main/pics/BaRT.jpg)
