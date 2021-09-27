@@ -632,10 +632,10 @@ Bios: None
 
 # Ports
 
-### 2048 (also Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
+### 2048 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: 2048 files are already included and ready to go.  Just start 2048 from Ports in the emulationstation menu.
 
-### AM2R (RK2020, RGB10, OGA and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### AM2R (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: AM2R files are already included and ready to go.  Just start AM2R from Ports in the emulationstation menu. \
 Note: **For the PortMaster version, it's using an updated version that requires the android apk.  You'll need to source your own am2r android apk and place it into the ports/am2r/gamedata folder.  Make sure it is named am2r.apk.  If need be, just rename the am2r apk you source to am2r.apk.  The name is case sensitive!**
 
@@ -645,33 +645,27 @@ Instructions: You'll need to add your own full version Blood 1.21 files to the p
 ### Blues Brothers (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Includes the demo files. You can add your own full game Amiga or Dos files to the ports/bluesbrothers/gamedata folder..  Then just start Blues Brothers from Ports in the Emulationstation menu.
 
-### Cannonball (OutRun)
+### Cannonball (OutRun) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder then start Cannonball from Ports in the emulationstation menu.  For exact naming of roms, view this [link](https://github.com/djyt/cannonball/blob/master/roms/roms.txt)
 
-### Cave Story (also Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
+### Cave Story (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Cave Story files are already included and ready to go.  Just start Cave Story from Ports in the emulationstation menu.
 
 ### Cave Story (evo) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Install through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster) and start Cave Story-Evo from Ports in the emulationstation menu.
 
-### C-Dogs (RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### C-Dogs (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: C-Dogs files are already included and ready to go.  Just start C-Dogs from Ports in the emulationstation menu.
 
-### Commander Genius (Commander Keen) (also Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Commander Genius (Commander Keen) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Load your keen folders into the /roms/ports/cgenius/games folder.  As an example, the shareware version of Commander Keen 1 is included and is named Keen.  Then just start Commander Genius from Ports in the emulationstation menu.
 
-### DevilutionX (Diablo 1) (RG351P/M, Chi and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### DevilutionX (Diablo 1) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder. **Make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support) \
 Important Note: It’s been reported that you must make sure you use the GOG version of diabdat.mpq with the newest patch_rt.mpq or you may experience a freeze of the game around level 20.
 
-### Dinothawr (RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Dinothawr (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Dinothawr files are already included and ready to go.  Just start Dinothawr from Ports in the emulationstation menu.
-
-### Doom 1 (Soon to be deprecated as Doom has been moved to the main system section.  Uses lzdoom which is a superior doom engine and even supports mods like Brutal Doom Lite!) 
-Instructions: Add Doom.wad file to /roms/ports/doom folder then start Doom from Ports in the emulationstation menu.  For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
-
-### Doom 2
-Instructions: Add Doom2.wad file to /roms/ports/doom2 folder then start Doom 2 from Ports in the emulationstation menu.    For music, separate mp3 files need to be included in the same directory as the wad.  view this [link](https://www.reddit.com/r/vitahacks/comments/4y30ui/howto_use_mp3_music_with_prboom_or_at_least_doom_1/) for more information.
 
 ### Duke Nukem 3D (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own full version duke3d.grp and duke.rts Duke Nukem 3D Atomic files to the ports/rednukem/gamedata folder.  Then just start Duke Nukem 3D from Ports in the Emulationstation.
@@ -714,10 +708,10 @@ and you're controls will be as shown in the image below: \
 ### Heart of Darkness (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Just add your own Heart of Darkness game files to the ports/hode/gamedata folder.  Then Just start Heart of Darkness from Ports in the emulationstation menu.
 
-### Hydra Castle Labyrinth (RG351V, OGA, RGB10, RK2020 Only and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Hydra Castle Labyrinth (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Hydra Castle Labyrinth files are already included and ready to go.  Just start Hydra Castle Labyrinth from Ports in the emulationstation menu.
 
-### Maldita Castilla (RK2020, RGB10, OGA and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Maldita Castilla (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Maldita Castilla files are already included and ready to go.  Just start Maldita Castilla from ports in the emulationstation menu.
 
 ### Moonlight Nvidia Gamestreaming App (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
@@ -745,7 +739,7 @@ Notes:
 * You can add more apps for streaming by editing the Moonlight.sh file and adding more apps between lines 167 and 173.  Be aware that the entries are case sensitive.
 * Mouse control is only possible using the Rockchip platform in settings.  That is only possible on the OGA, OGS, RGB10, and the RK2020 at this time.  Holding start for about 2 - 3 seconds while using the Rockchip platform will switch to mouse mode.  Hold Start for about 2 - 3 seconds again to switch back to gamepad controls.
 
-### Mr. Boom(RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Mr. Boom (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu.
 
 ### NAM (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
@@ -754,23 +748,23 @@ Instructions: You'll need to add your own full version NAM.GRP and NAM.RTS and .
 ### OpenJazz (Jazz Jackrabbit)(Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Add the dos game files to the roms/ports/openjazz/gamedata/ folder then start OpenJazz from Ports in the emulationstation menu.
 
-### OpenTyrian (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### OpenTyrian (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in the Emulationstation.
 
 ### Prehistorik 2 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Includes the demo files. You can add your own full game Dos files to the ports/prehistorik2/gamedata folder.  Then just start Prehistorik 2 from Ports in the Emulationstation menu.
 
-### Quake 1 (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Quake 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Add .pak files to /roms/ports/quake/quakepaks then start Quake from Ports in the emulationstation menu
 
-### Quake 2
+### Quake 2 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Add .pak files to /roms/ports/quake2/baseq2 then start Quake 2 from Ports in the emulationstation menu. \
 Notes: There's no support for music at this time until Libretro or the original developer of that emulator fixes this.
 
-### RAWGL
+### RAWGL (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Includes the Out of this World demo files. You can add your own full game files to the ports/rawgl/gamedata/ folder. See this [link](https://github.com/cyxx/rawgl#supported-versions] for more supported files info.  Then just start RAWGL from Ports in the emulationstation menu.
 
-### Rick Dangerous (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Rick Dangerous (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in the emulationstation menu.
 
 ### Redneck Rampage 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
@@ -782,7 +776,7 @@ Instructions: You'll need to add your own full version REDNECK.GRP and REDNECK.R
 ### Rocks 'N' Diamonds (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Rocks 'N' Diamonds files are already included and ready to go.  Just start Rocks N Diamonds from Ports in the emulationstation menu.
 
-### Shovel Knight - Treasure Trove (RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Shovel Knight - Treasure Trove (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: You must have a copy of Shovel Knight Treasure Trove for Linux.  You'll need the shovelknight folder:  
 1. Be sure the folder contains subfolders named 32, 64 and data.  There should also be a filed named ShovelKnight.
 2. Copy the shovelknight folder to the roms/ports folder on your device.
@@ -795,10 +789,10 @@ Notes: \
 Thanks to pitiSeb for box86 (https://github.com/ptitSeb/box86) \
 Thanks to JohnnyonFlame for gl4es and the the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
 
-### SDLPoP (Prince of Persia) (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### SDLPoP (Prince of Persia) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: The game is an open-source port and is already included and ready to go.  Just start SDLPoP from Ports in the emulationstation menu.
 
-### Sonic 1 (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Sonic 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: You must have a copy of the Sonic The Hedgehog Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract /assets/Data.rsdk.xmf.
 2. Rename the Data.rsdk.xmf to Data.rsdk.  Case is important!
@@ -806,7 +800,7 @@ Instructions: You must have a copy of the Sonic The Hedgehog Classic Android APK
 4. If all is well, you should be able to run Sonic 1 now.
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
 
-### Sonic 2 (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Sonic 2 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: You must have a copy of the Sonic The Hedgehog 2 Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract /assets/Data.rsdk.xmf.
 2. Rename the Data.rsdk.xmf to Data.rsdk.  Case is important!
@@ -814,7 +808,7 @@ Instructions: You must have a copy of the Sonic The Hedgehog 2 Classic Android A
 4. If all is well, you should be able to run Sonic 2 now.
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
 
-### Sonic CD (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Sonic CD (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: You must have a copy of the Sonic CD Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract Androind/obb/comm.sega.soniccd.classic/patch49.com.sega.soniccd.classic.obb.
    * This file may have a different number such as patch56 or higher which should also work as well.
@@ -831,29 +825,26 @@ Instructions: You'll need to provide your own sorr.dat file, mod folder, and pal
 3. Then go to Ports, and launch SorR \
 *Note*: If you experience a slowdown in gameplay after sometime, force exit the game (You can use the normal force exit hotkey combination for your device), then start the game again and it will start from the beginning of the last stage you were on and be full speed for a few more stages.  It's the best workaround for the issue for now until someone can figure out and resolve the root cause of the slowdown.
 
-### Spelunky (RK2020, RGB10, OGA, and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Spelunky (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Spelunky files are already included and ready to go.  Just start Spelunky from Ports in the emulationstation menu.
 
-### Super Mario War (RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Super Mario War (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: Super Mario War files are already included and ready to go.  Just start Super Mario War from Ports in the emulationstation menu.
 
-### SuperTux (RG351V, OGA, RGB10, RK2020 and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### SuperTux (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: SuperTux files are already included and ready to go.  Just start SuperTux from Ports in the emulationstation menu.
 
 ### Tomb Raider 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions:  Just add your steam or gog Tomb Raider 1 files to the ports/tombraider1 folder.  Then you should be able to launch Tomb Raider 1 from Ports in the emulationStation menu.
 
-### Undertale (RK2020, RGB10, OGAs and [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### Undertale (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: You'll need to provide your own Undertale Linux version assets.  You can purchase this from GoG for under $10.  If you purchase this from GoG, you'll need to download the Linux version and it will have a .sh extension.  Just change the .sh to .gz and use 7zip to open the file, then go to the \data\noarch\game\assets folder and copy all of it's contents to your /roms/ports/undertale/assets folder.  Then you should be able to launch Undertale from Ports in the emulationstation menu.
 
 ### Ur-Quan Masters (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Ur-Quan Masters files are already included and ready to go.  Just start UQM from Ports in the emulationstation menu.
 
-### VVVVVV (also available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### VVVVVV (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster)
 Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in the emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead.
-
-### Wolfenstein 3D (Soon to be deprecated as Wolfenstein has been moved to the main system section.  Makes use of the [ecwolf](https://bitbucket.org/ecwolf/ecwolf) standalone and still supports the use of the libretro ecwolf core as well.)
-Instructions: Wolfenstein 3D shareware episode 1 is already included and ready to go.  You can add your own registered copy into the /roms/ports/ecwolf folder. 
 
 ### World War II GI (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own full version WW2GI.GRP and WW2DI.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-WWII/gamedata folder.  Then yo should be able to launch World War II GI from Ports in the emulationstation menu.
