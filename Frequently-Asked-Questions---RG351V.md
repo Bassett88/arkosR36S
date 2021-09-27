@@ -394,7 +394,6 @@ The image must meet the following criteria:
     * Existing roms folders, roms, bios, and games on this sd card will NOT be overwritten during this process.
     * Once ArkOS is setup to use the second sd slot for roms and games, your main sd card and your roms sd card must be in the unit for ArkOS to boot.
     * This process will NOT copy any of your roms, games and saves from the main SD card to the secondary card.  It will just create the structure for you.  You'll need to copy those yourself.  You can use File Manager from the Options menu to do this or copy them manually from your computer.
-    * Do not overwrite the .sh files in the ports folder.  Doing so may cause your ports to no longer work.  If you do this by accident, just go to the Options section, Advanced then click on SWITCH TO MAIN SD FOR ROMS, then when ES reloads, go back to Options section, Advanced then click on SWITCH TO SD2 FOR ROMS.  This should fix the ports.sh files.
 
 ## Q. How does the movie/video player work?
 ### A. The movie/video player is ffplay.  More information about ffplay is available in this [link](https://ffmpeg.org/ffplay.html)
