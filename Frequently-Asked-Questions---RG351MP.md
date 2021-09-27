@@ -30,11 +30,11 @@
 28. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-where-are-game-saves-and-savestates-stored)
 29. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-where-do-i-put-psp-dlcs)
 30. [Sleep keeps crashing my devices.  How do I address this?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-sleep-keeps-crashing-my-devices--how-do-i-address-this)
-31. [Can the center power LED be completely turned off via software?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#a-no--this-led-can-only-be-changed-from-green-to-red-and-back-again--it-can-not-be-completely-turned-off-via-software)
+31. [Can the power LED be completely turned off via software?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#a-no--this-led-can-only-be-changed-from-green-to-red-and-back-again--it-can-not-be-completely-turned-off-via-software)
 32. [I've added the roms to the appropriate folder, but once I the SD card inside the console it doesn't seem to find my roms.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-ive-added-the-roms-to-the-appropriate-folder-but-once-i-put-the-sd-card-inside-the-console-it-doesnt-seem-to-find-my-roms)
 
 ## Q. How do I configure my wifi connection in ArkOS?
-### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
+### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  You then will need to do the following:
 - Go to the **Options** menu and select **WIFI**.  
 - Then hit the **R1** button to go to the **+** sign and click the A button to add your wifi details.  
 - Once completed, you can then verify that your wifi is connected by confirming that you see the wifi symbol located near the top right corner of the Emulationstation Menu.  You can also verify that you have a valid wireless connection by going to **Options** then **NETWORK INFO** and verify you have an assigned IP for your device.  
@@ -438,7 +438,7 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 * If the device has a weak wifi signal, it will cause issues like this as well.  It's best to turn off wifi when not using it.  You can use F+L3 to toggle the wifi off (flashes the center led twice) or go to Options section>Advanced>Disable Wifi.
 * If and when you experience a crash from sleep, try a safe shutdown first using F + Tap Power.  If that doesn't work, you're only choice is a hard reset.
 
-## Q. Can the center power LED be completely turned off via software?
+## Q. Can the power LED be completely turned off via software?
 ### A. No.  This LED can only be changed from green to red and back again.  It can not be completely turned off via software.
 
 ## Q. I've added the roms to the appropriate folder, but once I put the SD card inside the console it doesn't seem to find my roms.
