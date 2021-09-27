@@ -34,6 +34,7 @@
 32. [How do I generate .m3u files for PS1 games in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
 33. [I have duplicate games showing for PS1.  How do I eliminate the duplicates?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-i-have-duplicate-games-showing-for-ps1--how-do-i-eliminate-the-duplicates)
 34. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-what-is-bart-and-how-do-i-access-it)
+35. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
@@ -392,12 +393,8 @@ The image must meet the following criteria:
 
 - Must be in .bmp format
 - Must be named logo.bmp.  The name is case sensitive!
-- Must be 480 pixels in width and 320 pixels in height.
+- Must be 640 pixels in width and 480 pixels in height.
 - Must be of 24 bit depth
-- Must be rotated counterclockwise.
-- See [here](https://wiki.odroid.com/odroid_go_advance/application_note/bootlogo) for more info and examples.
-
-If you don't want the logo to change on every boot, just deleted or rename the BMPs folder located in the fat32 boot partition.
 
 ## Q. How does the low battery indicator work?
 ### A. The following will occur:
@@ -469,3 +466,15 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
   * Load 351Files for file management needs
   * Drop into terminal mode by connecting a keyboard and hitting alt+f2.
 * To access BaRT, just hold the B button while booting and in a few seconds, you should be presented with the Boot and Recovery Tools screen similar to this: ![](https://raw.githubusercontent.com/christianhaitian/arkos/main/pics/BaRT.jpg)
+
+## Q. How do I make use of the second sd slot for roms and games?
+### A. Do the following:
+1. Make sure you have a micro sd card that is preformatted to Exfat, EXT4, Fat, Fat32 or NTFS.
+    * For best performance, use EXT4, Exfat or NTFS.
+1. Go the Options section just after ScummVM and before Retroarch and click the A button.
+2. Click on Advanced.
+3. Then click on SWITCH TO SD2 FOR ROMS.
+4. If a preformatted micro sd card has been found, it will be mounted and the system will setup the appropriate roms folders on it if they don't exist already.
+    * Existing roms folders, roms, bios, and games on this sd card will NOT be overwritten during this process.
+    * Once ArkOS is setup to use the second sd slot for roms and games, your main sd card and your roms sd card must be in the unit for ArkOS to boot.
+    * This process will NOT copy any of your roms, games and saves from the main SD card to the secondary card.  It will just create the structure for you.  You'll need to copy those yourself.  You can use File Manager from the Options menu to do this or copy them manually from your computer.
