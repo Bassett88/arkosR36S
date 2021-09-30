@@ -6,5 +6,7 @@
 
 [RG351V](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351v-changelog)
 
+[RG351MP](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351mp-changelog)
+
 [RK2020/OGA 1.0](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog)
 
