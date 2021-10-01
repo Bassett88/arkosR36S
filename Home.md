@@ -109,6 +109,9 @@ Download Links :
 **RG351V** - [GDrive](https://drive.google.com/file/d/17qlI5ytuVdSznlLeksf8pwbPiBrd3pdf/view?usp=sharing) | [Mega](https://mega.nz/file/LYAw1bDb#Vczwms6YGsQlreM-HTmvtVGcTxdT-Pvdub4wM_49Ri8) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_RG351V_v2.0_09262021.7z.torrent) (Updated 09/26/2021) MD5:FA3A5081D61AB8176F268E257F63434E 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351v-changelog) | [RG351V - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V)
 
+**RG351MP (Test Release)** (**Will not work for the the RG351P or RG351M!**) - [GDrive](https://drive.google.com/file/d/1iRGotglxeqiAAUChE_lIvWmwvhUeh0mt/view?usp=sharing) | [Mega](https://mega.nz/file/nFJgmLgA#il82b4JQOUaqQCLZcVkZ3ZUZoG_Na2lnvdOLuUOeaJI) (Updated 09/30/2021) MD5:E9DE8F2C3998D53DBCD5B9D216BE82AA 
+ | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351mp-changelog) | [RG351MP - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351MP)
+
 **RG351P/RG351M (**Will not work for the the RG351MP!**) [Announcement](https://github.com/christianhaitian/arkos/wiki/Announcement)** - [GDrive](https://drive.google.com/file/d/1HFHsqlDo1mwDCQWD6edIZSkuX6ERSq0c/view?usp=sharing) | [Mega](https://mega.nz/file/bMAllK5C#JFst8dJuN9Bqxx59xk0R2s5sIyS7xZa4X5gr0xu3OcU) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_RG351P_Final.7z.torrent) | (Updated 05/01/2021) MD5:397CE9322205E2042A62F54E770F949E 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog) | [RG351P - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P)
 
