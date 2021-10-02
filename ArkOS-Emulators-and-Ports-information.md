@@ -773,6 +773,9 @@ Instructions: You'll need to add your own full version REDNECK.GRP and REDNECK.R
 ### Redneck Rampage 2 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own full version REDNECK.GRP and REDNECK.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-redneck2/gamedata folder.  Then you should be able to start Redneck Rampage Rides Again from the emulationstation menu.
 
+### Return to Castle Wolfenstein (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You'll need to add your own pak0.pk3, sp_pak1.pk3, sp_pak2.pk3, and sp_pak3.pk3 to the ports/iortcw/main folder.  The Steam version seems to work best as it's patched for Linux use already.  Then you should be able to start Return to Castle Wolfenstein from the emulationstation menu.
+
 ### Rocks 'N' Diamonds (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Rocks 'N' Diamonds files are already included and ready to go.  Just start Rocks N Diamonds from Ports in the emulationstation menu.
 
