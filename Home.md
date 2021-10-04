@@ -13,9 +13,10 @@ Welcome to the ArkOS wiki </H1>
 </p>
 
 The overarching goals of ArkOS is as follows:
-1. Ease of use 
+1. Highly customizable 
 1. Performance
 1. Online Updates (Won't require SD card reflashing unless there are major structural changes like file system changes.)
+1. Ease of use
 
 This OS came about from an initial port of TheRA to support a roms folder on a NTFS partition so that the management of roms could be done by simply putting you SD card into an appropriate card reader on a Windows 10 computer.  Through various upgrades and tweaks overtime, it has diverged significantly from TheRA and it's time to rebrand this distro.  With suggestions provided by community members, ArkOS was chosen.  Short for **Another rk3326 Operating System**.
 
