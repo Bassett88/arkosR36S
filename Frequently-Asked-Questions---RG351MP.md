@@ -81,7 +81,22 @@
 ### A. Try turning on the RGA Scaling feature.  There is a small difference from Bilinear filtering in that this feature does subpixel scaling instead of just smoothing (may look blurry) as bilinear filtering does.  This feature can be turned on while in game by going to the retroarch menu, then settings, then video, then scrolling down to the RGA Scaling option and hit A to turn it on.  The screen will blank for a few seconds and come back.  See if it improves the picture for you.
 
 ## Q. What are the global event keys and emulator event keys in ArkOS?
-### A. ![](https://github.com/christianhaitian/arkos/raw/main/devices/rg351mp_hotkeys.jpg)  
+### A. See hotkey information below
+
+**Global Hotkey: Right Thumbstick (R3)**
+
+R3 and Dpad Up = Brightness Up          Power (Short Press) = Put device to sleep \
+R3 and Dpad Down = Brightness Down      R3 and Power = Safely shutdown device
+
+**Retroarch Hotkey: Select**
+
+Select and X or L1+R1+Start+Select = In-game Menu \
+Select and R1 = Save state or current game \
+Select and L1 = Load state of current game \
+Select and A = Pause current game emulation \
+Select and B = Reset current game emulation \
+Select and Start = Exit Game/Retroarch (go back to Emulationstation)
+
   - Be aware that there's a known issue with retroarch in which using the menu combination key of Select+X to close the menu while in game may cause the retroarch hotkeys to stop functioning.  This is caused by an issue in which the search box may come up in the menu but is hidden because the retroarch menu disappears as you go back to the game.  The  workaround available is that you can hit L1+R1+Start+Select to open the menu and exit the search dialog with the start button in order to restore the retroarch hotkeys.  Select+X function will return.  More information about this issue available from this libretro forum [link](https://forums.libretro.com/t/rare-hotkey-issue-on-windows-10-retroarch-pc/21311/3).
 
 **Amiberry**
