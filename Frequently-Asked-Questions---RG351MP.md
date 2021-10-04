@@ -89,8 +89,8 @@ R3 and Dpad Up = Brightness Up \
 R3 and Dpad Down = Brightness Down \
 R3 and Volume Up =  Brightness Up (Can be held for continuous brightness increase) \
 R3 and Volume Down = Brightness Down (Can be held for continuous brightness decrease) \
-Power (Short Press) = Put device to sleep \
-R3 and Power = Safely shutdown device
+R3 and Power = Safely shutdown device \
+Power (Short Press) = Put device to sleep
 
 **Retroarch Hotkey: Select**
 
