@@ -752,7 +752,8 @@ Notes:
 * If you experience issues reconnecting to your PC, go to settings in the Moonlight app and unpair the PC then do another pair again.
 * There has been an instance where Moonlight would not work with a PC unless the HDMI connection was removed from the PC to a TV.
 * You can add more apps for streaming by editing the Moonlight.sh file and adding more apps between lines 167 and 173.  Be aware that the entries are case sensitive.
-* Mouse control is only possible using the Rockchip platform in settings.  That is only possible on the OGA, OGS, RGB10, and the RK2020 at this time.  Holding start for about 2 - 3 seconds while using the Rockchip platform will switch to mouse mode.  Hold Start for about 2 - 3 seconds again to switch back to gamepad controls. \
+* Mouse control is only possible using the Rockchip platform in settings.  That is only possible on the OGA, OGS, RGB10, and the RK2020 at this time.  Holding start for about 2 - 3 seconds while using the Rockchip platform will switch to mouse mode.  Hold Start for about 2 - 3 seconds again to switch back to gamepad controls.
+
 Notes: Thanks to the [moonlight-stream] team for creating this solution that makes it possible.  Also thanks to [AreaScout](https://github.com/AreaScout/moonlight-embedded) for the necessary modifications that make this possible to run on the rk3326 platform.
 
 ### Mr. Boom (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
@@ -763,13 +764,15 @@ Instructions: You'll need to add your own full version NAM.GRP and NAM.RTS and .
 Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the Rednukem engine that makes this possible.  Also thanks to [romadu](https://github.com/romadu/NBlood) for the porting work for the rk3326 platform.
 
 ### OpenJazz (Jazz Jackrabbit)(Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Add the dos game files to the roms/ports/openjazz/gamedata/ folder then start OpenJazz from Ports in the emulationstation menu.
+Instructions: Add the dos game files to the roms/ports/openjazz/gamedata/ folder then start OpenJazz from Ports in the emulationstation menu. \
+Notes: Thanks to [AlisterT](https://github.com/AlisterT/openjazz) for creating the opensource port that makes this possible.  Also thanks to [Jetup13](https://github.com/Jetup13/openjazz-oga) for the porting work for the rk3326 platform.
 
 ### OpenTyrian (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in the Emulationstation.
 
 ### Prehistorik 2 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Includes the demo files. You can add your own full game Dos files to the ports/prehistorik2/gamedata folder.  Then just start Prehistorik 2 from Ports in the Emulationstation menu.
+Instructions: Includes the demo files. You can add your own full game Dos files to the ports/prehistorik2/gamedata folder.  Then just start Prehistorik 2 from Ports in the Emulationstation menu. \
+Notes: Thanks to [cyxx](https://github.com/cyxx/blues) for the Blues Brothers engine that makes this possible.  Also thanks to [Jetup13](https://github.com/Jetup13/blues-oga) for the porting work for the rk3326 platform.
 
 ### Quake 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Add .pak files to /roms/ports/quake/quakepaks then start Quake from Ports in the emulationstation menu
@@ -779,7 +782,8 @@ Instructions: Add .pak files to /roms/ports/quake2/baseq2 then start Quake 2 fro
 Notes: There's no support for music at this time until Libretro or the original developer of that emulator fixes this.
 
 ### RAWGL (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Includes the Out of this World demo files. You can add your own full game files to the ports/rawgl/gamedata/ folder. See this [link](https://github.com/cyxx/rawgl#supported-versions] for more supported files info.  Then just start RAWGL from Ports in the emulationstation menu.
+Instructions: Includes the Out of this World demo files. You can add your own full game files to the ports/rawgl/gamedata/ folder. See this [link](https://github.com/cyxx/rawgl#supported-versions] for more supported files info.  Then just start RAWGL from Ports in the emulationstation menu. \
+Notes: Thanks to [cyxx](https://github.com/cyxx/rawgl) for the rawgl engine that makes this possible.  Also thanks to [Jetup13](https://github.com/Jetup13/rawgl-oga) for the porting work for the rk3326 platform.
 
 ### Redneck Rampage 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own full version REDNECK.GRP and REDNECK.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-redneck1/gamedata folder.  Then you should be able to start Redneck Rampage from the emulationstation menu. \
