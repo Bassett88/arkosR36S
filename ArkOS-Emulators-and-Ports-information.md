@@ -675,9 +675,11 @@ Instructions: You'll need to add your own full version STUFF.DAT, DEMO.VCR and B
 
 ### Freedom Planet (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You must have a copy of Freedom Planet for Linux.  You'll need the contents of the Freedom.Planet/game folder to be copied into the freedomplanet/gamedata folder of your sd card.  Be sure the freedomplanet/gamedata folder on you sd card contains subfolders named bin32, bin64 and Data.  The runtime folder and the run.sh file is not needed and should be left out or it will cause a double entry for Freedom Planet in the ports section of Emulationstation.  There should also be a filed named Assets.dat in freedomplanet/gamedata as well.  Then run Freedom Planet from the Emulationstation ports menu.
-Note: This game can take a minute or two to initially load.
+Note: This game can take a minute or two to initially load. \
+Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
+Thanks to JohnnyonFlame for gl4es and the the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
 
-### Half-Life 1 (RG351P/M Only)
+### Half-Life 1 (RG351P/M Only) 
 Instructions: Only works with the full version of Half life 1.
 
 1. Copy the valve folder from your steam game folder or other source into /roms/ports/Half-Life.
@@ -703,7 +705,8 @@ Thanks to a community member by the name of fonzo, an alternative to these contr
 [keyboard.cfg](https://github.com/christianhaitian/arkos/raw/main/devices/keyboard.cfg)
 
 and you're controls will be as shown in the image below: \
-![fonzo mapping](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_halflife_fonzo.png)
+![fonzo mapping](https://github.com/christianhaitian/arkos/raw/main/devices/rg351p_halflife_fonzo.png) \
+Note: Thanks to [Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs) for the engine used for this port.
 
 ### Heart of Darkness (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Just add your own Heart of Darkness game files to the ports/hode/gamedata folder.  Then Just start Heart of Darkness from Ports in the emulationstation menu.
@@ -712,7 +715,8 @@ Instructions: Just add your own Heart of Darkness game files to the ports/hode/g
 Instructions: Hydra Castle Labyrinth files are already included and ready to go.  Just start Hydra Castle Labyrinth from Ports in the emulationstation menu.
 
 ### Maldita Castilla (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Maldita Castilla files are already included and ready to go.  Just start Maldita Castilla from ports in the emulationstation menu.
+Instructions: Maldita Castilla files are already included and ready to go.  Just start Maldita Castilla from ports in the emulationstation menu. \
+Notes: Thanks to [Locomalito](https://locomalito.com/maldita_castilla.php) for creating this game and make it available for free.
 
 ### Moonlight Nvidia Gamestreaming App (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: PC Requirements and setup as follows:
@@ -789,7 +793,7 @@ Instructions: You must have a copy of Shovel Knight Treasure Trove for Linux.  Y
 Notes: **For PortMaster version, copy your Shovel Knight Treasure Trove for Linux folder to the ports/shovelknight/gamedata folder.  You should have ports/shovelknight/gamedata/shovelknight folder structure with additional subfolders such as 32, 64, and data within ports/shovelknight/gamedata/shovelknight.  Once done, just run Shovel Knight.sh.  DO NOT OVERWRITE THE Shovel Knight.sh file already included with the one from Retro Game Corp's video or it may not work correctly.  If you do this, just reinstall Shovel Knight from PortMaster.**
 
 Notes: \
-Thanks to pitiSeb for box86 (https://github.com/ptitSeb/box86) \
+Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
 Thanks to JohnnyonFlame for gl4es and the the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
 
 ### SDLPoP (Prince of Persia) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
