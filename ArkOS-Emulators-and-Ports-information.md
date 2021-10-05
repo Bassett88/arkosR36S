@@ -637,13 +637,16 @@ Instructions: 2048 files are already included and ready to go.  Just start 2048 
 
 ### AM2R (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: AM2R files are already included and ready to go.  Just start AM2R from Ports in the emulationstation menu. \
-Note: **For the PortMaster version, it's using an updated version that requires the android apk.  You'll need to source your own am2r android apk and place it into the ports/am2r/gamedata folder.  Make sure it is named am2r.apk.  If need be, just rename the am2r apk you source to am2r.apk.  The name is case sensitive!**
+Note: **For the PortMaster version, it's using an updated version that requires the android apk.  You'll need to source your own am2r android apk and place it into the ports/am2r/gamedata folder.  Make sure it is named am2r.apk.  If need be, just rename the am2r apk you source to am2r.apk.  The name is case sensitive!** \
+Notes: Thanks to JohnnyonFlame for the [droidports](https://github.com/JohnnyonFlame/droidports) loader that makes this possible.
 
 ### Blood (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: You'll need to add your own full version Blood 1.21 files to the ports/Blood folder.  Then just start Blood from Ports in the Emulationstation.
+Instructions: You'll need to add your own full version Blood 1.21 files to the ports/Blood folder.  Then just start Blood from Ports in the Emulationstation. \
+Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the NBlood engine that makes this possible.  Also thanks to [romadu](https://github.com/romadu/NBlood) for the porting work for the rk3326 platform.
 
 ### Blues Brothers (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Includes the demo files. You can add your own full game Amiga or Dos files to the ports/bluesbrothers/gamedata folder..  Then just start Blues Brothers from Ports in the Emulationstation menu.
+Instructions: Includes the demo files. You can add your own full game Amiga or Dos files to the ports/bluesbrothers/gamedata folder..  Then just start Blues Brothers from Ports in the Emulationstation menu. \
+Notes: Thanks to [cyxx](https://github.com/cyxx/blues) for the Blues Brothers engine that makes this possible.  Also thanks to [Jetup13](https://github.com/Jetup13/blues-oga) for the porting work for the rk3326 platform.
 
 ### Cannonball (OutRun) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder then start Cannonball from Ports in the emulationstation menu.  For exact naming of roms, view this [link](https://github.com/djyt/cannonball/blob/master/roms/roms.txt)
@@ -652,7 +655,8 @@ Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder 
 Instructions: Cave Story files are already included and ready to go.  Just start Cave Story from Ports in the emulationstation menu.
 
 ### Cave Story (evo) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Install through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster) and start Cave Story-Evo from Ports in the emulationstation menu.
+Instructions: Install through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster) and start Cave Story-Evo from Ports in the emulationstation menu. \
+Notes: Thanks to the [NXEngine](https://github.com/nxengine/nxengine-evo) team for the NXEngine Evo engine that makes this possible.
 
 ### C-Dogs (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: C-Dogs files are already included and ready to go.  Just start C-Dogs from Ports in the emulationstation menu.
