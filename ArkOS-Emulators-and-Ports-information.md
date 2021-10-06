@@ -869,7 +869,7 @@ Notes: Thanks to [mmatyas](https://github.com/mmatyas/supermariowar) for continu
 
 ### SuperTux (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: SuperTux files are already included and ready to go.  Just start SuperTux from Ports in the emulationstation menu. \
-Notes: Thanks to [SuperTux](https://github.com/SuperTux/supertux) team and contributors for creating and making this game what it is today.
+Notes: Thanks to the [SuperTux](https://github.com/SuperTux/supertux) team and contributors for creating and making this game what it is today.
 
 ### Tomb Raider 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions:  Just add your steam or gog Tomb Raider 1 files to the ports/tombraider1 folder.  Then you should be able to launch Tomb Raider 1 from Ports in the emulationStation menu.
