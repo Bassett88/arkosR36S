@@ -865,8 +865,11 @@ Instructions: Super Mario War files are already included and ready to go.  Just 
     - Be aware that if playing over internet, the unit with the smw server started must have port forwarding on that wifi or wired router's configuration for UDP 12521 to point to the internal IP of the unit running the smw server.  If this is not done, Internet based players may not be able to join the smw server.
 1. Once connected, a room must be created with a name.  With the PortMaster setup, the x and y button can be used to just name the room x or y so the room can be setup and all players can enter the room and start playing.
 
+Notes: Thanks to [mmatyas](https://github.com/mmatyas/supermariowar) for continuing the work originally started by Samuele Poletto and then Florian Hufsky to make this game what it is today.
+
 ### SuperTux (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: SuperTux files are already included and ready to go.  Just start SuperTux from Ports in the emulationstation menu.
+Instructions: SuperTux files are already included and ready to go.  Just start SuperTux from Ports in the emulationstation menu. \
+Notes: Thanks to [SuperTux](https://github.com/SuperTux/supertux) team and contributors for creating and making this game what it is today.
 
 ### Tomb Raider 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions:  Just add your steam or gog Tomb Raider 1 files to the ports/tombraider1 folder.  Then you should be able to launch Tomb Raider 1 from Ports in the emulationStation menu.
