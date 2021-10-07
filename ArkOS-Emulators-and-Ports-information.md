@@ -471,6 +471,12 @@ Rom Folder: pokemonmini \
 Extensions: .min .MIN .zip .ZIP \
 Bios: bios.min (optional)
 
+### Satellaview (Coming Soon)
+Emulator: lr-snes9x \
+Rom Folder: satellaview \
+Extensions: .bs .BS .sfc .SFC .smc .SMC .zip .ZIP .7z .7Z \
+Bios: BS-X.bin
+
 ### ScummVM
 Emulator: (**lr-scummvm**) [scummvm](https://github.com/scummvm/scummvm) standalone \
 Rom Folder: scummvm \
