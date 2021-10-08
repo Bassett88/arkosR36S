@@ -819,7 +819,7 @@ Notes: **For PortMaster version, copy your Shovel Knight Treasure Trove for Linu
 
 Notes: \
 Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
-Thanks to JohnnyonFlame for gl4es and the the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
+Thanks to JohnnyonFlame for gl4es and the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
 
 ### SDLPoP (Prince of Persia) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: The game is an open-source port and is already included and ready to go.  Just start SDLPoP from Ports in the emulationstation menu.
@@ -882,12 +882,16 @@ Instructions:  Just add your steam or gog Tomb Raider 1 files to the ports/tombr
 
 ### Undertale (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to provide your own Undertale Linux version assets.  You can purchase this from GoG for under $10.  If you purchase this from GoG, you'll need to download the Linux version and it will have a .sh extension.  Just change the .sh to .gz and use 7zip to open the file, then go to the \data\noarch\game\assets folder and copy all of it's contents to your /roms/ports/undertale/assets folder.  Then you should be able to launch Undertale from Ports in the emulationstation menu.
+Notes: Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
+Thanks to JohnnyonFlame for the necessary modification to allow this game to run on ArkOS.
 
 ### Ur-Quan Masters (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Ur-Quan Masters files are already included and ready to go.  Just start UQM from Ports in the emulationstation menu.
+Notes: Thanks to [avolkov, luminescent, mcmartin and meep-eep](https://sourceforge.net/p/sc2/uqm/ci/main/tree/) for the creation and continued updates of this engine.
 
 ### VVVVVV (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in the emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead.
+Notes: Thanks to [Terry Cavanagh](https://github.com/TerryCavanagh/VVVVVV) and other authors and contributors for the creation and continued updates of this game.
 
 ### World War II GI (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own full version WW2GI.GRP and WW2DI.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-WWII/gamedata folder.  Then yo should be able to launch World War II GI from Ports in the emulationstation menu. \
