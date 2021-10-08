@@ -806,14 +806,17 @@ Instructions: You'll need to add your own pak0.pk3, sp_pak1.pk3, sp_pak2.pk3, an
 Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in the emulationstation menu.
 
 ### Rocks 'N' Diamonds (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Rocks 'N' Diamonds files are already included and ready to go.  Just start Rocks N Diamonds from Ports in the emulationstation menu.
+Instructions: Rocks 'N' Diamonds files are already included and ready to go.  Just start Rocks N Diamonds from Ports in the emulationstation menu. \
+Notes: Thanks to [Artsoft Entertainment](https://git.artsoft.org/rocksndiamonds.git/) for creating this game and making it available for free.
 
 ### Shovel Knight - Treasure Trove (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You must have a copy of Shovel Knight Treasure Trove for Linux.  You'll need the shovelknight folder:  
 1. Be sure the folder contains subfolders named 32, 64 and data.  There should also be a filed named ShovelKnight.
 2. Copy the shovelknight folder to the roms/ports folder on your device.
 3. For a guide and video of what to do, check out Retro Game Corps' video guide [here](https://retrogamecorps.com/2021/05/09/shovel-knight-treasure-trove-on-retro-handheld-devices/)
-4. The Shovel Knight.sh file included already will work fine, however, if you follow Retro Game Corp's video guide, be sure to not use the Shovel Knight.sh file from there if you're on a RK2020 or OGA.
+4. The Shovel Knight.sh file included already will work fine, however, if you follow Retro Game Corp's video guide, be sure to not use the Shovel Knight.sh file from there if you're on a RK2020 or OGA. \
+Notes: Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
+Thanks to JohnnyonFlame for gl4es and the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
 
 Notes: **For PortMaster version, copy your Shovel Knight Treasure Trove for Linux folder to the ports/shovelknight/gamedata folder.  You should have ports/shovelknight/gamedata/shovelknight folder structure with additional subfolders such as 32, 64, and data within ports/shovelknight/gamedata/shovelknight.  Once done, just run Shovel Knight.sh.  DO NOT OVERWRITE THE Shovel Knight.sh file already included with the one from Retro Game Corp's video or it may not work correctly.  If you do this, just reinstall Shovel Knight from PortMaster.**
 
@@ -822,7 +825,8 @@ Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
 Thanks to JohnnyonFlame for gl4es and the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
 
 ### SDLPoP (Prince of Persia) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: The game is an open-source port and is already included and ready to go.  Just start SDLPoP from Ports in the emulationstation menu.
+Instructions: The game is an open-source port and is already included and ready to go.  Just start SDLPoP from Ports in the emulationstation menu. \
+Notes: Thanks to [NagyD](https://github.com/NagyD/SDLPoP) for the open-source port of this game which makes this possible.
 
 ### Sonic 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You must have a copy of the Sonic The Hedgehog Classic Android APK then do the following:
@@ -830,7 +834,8 @@ Instructions: You must have a copy of the Sonic The Hedgehog Classic Android APK
 2. Rename the Data.rsdk.xmf to Data.rsdk.  Case is important!
 3. Copy the Data.rsdk file to the ports/sonic1 folder.
 4. If all is well, you should be able to run Sonic 1 now.
-5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
+5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM). \
+Notes: Thanks to [Rubberduckycooly](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) for the decompilation work that makes this possible.
 
 ### Sonic 2 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You must have a copy of the Sonic The Hedgehog 2 Classic Android APK then do the following:
@@ -838,7 +843,8 @@ Instructions: You must have a copy of the Sonic The Hedgehog 2 Classic Android A
 2. Rename the Data.rsdk.xmf to Data.rsdk.  Case is important!
 3. Copy the Data.rsdk file to the ports/sonic2 folder.
 4. If all is well, you should be able to run Sonic 2 now.
-5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
+5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM). \
+Notes: Thanks to [Rubberduckycooly](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) for the decompilation work that makes this possible.
 
 ### Sonic CD (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You must have a copy of the Sonic CD Classic Android APK then do the following:
@@ -848,17 +854,22 @@ Instructions: You must have a copy of the Sonic CD Classic Android APK then do t
 3. Copy the Data.rsdk file to the ports/soniccd folder.
 4. If all is well, you should be able to run Sonic CD now.
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM). \
-*Note*: There seems to be an issue with being able to consistently exit Sonic CD through the menu like you can with Sonic 1 and 2.  You can exit Sonic CD by holding Select and pressing Start. (For the RGB10, you can hold Minus and press Start.  For the Chi, you can hold the 1 key and press Start.)
+*Note*: There seems to be an issue with being able to consistently exit Sonic CD through the menu like you can with Sonic 1 and 2.  You can exit Sonic CD by holding Select and pressing Start. (For the RGB10, you can hold Minus and press Start.  For the Chi, you can hold the 1 key and press Start.) \
+Notes: Thanks to [Rubberduckycooly](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation) for the decompilation work that makes this possible.
 
 ### SorR (Streets of Rage Remake)(Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to provide your own sorr.dat file, mod folder, and palettes folder:
 1. Obtain any version of SorR.  You can use either the windows or linux/debian version it does not matter which.
 2. Extract them /roms/ports/sorr (For RG351V if using SD2, extract to /roms2/ports/sorr instead).  You should have a /mod folder, a /palettes folder, and SorR.dat file in this location in order for the game to work.
 3. Then go to Ports, and launch SorR \
-*Note*: If you experience a slowdown in gameplay after sometime, force exit the game (You can use the normal force exit hotkey combination for your device), then start the game again and it will start from the beginning of the last stage you were on and be full speed for a few more stages.  It's the best workaround for the issue for now until someone can figure out and resolve the root cause of the slowdown.
+*Note*: ~~If you experience a slowdown in gameplay after sometime, force exit the game (You can use the normal force exit hotkey combination for your device), then start the game again and it will start from the beginning of the last stage you were on and be full speed for a few more stages.  It's the best workaround for the issue for now until someone can figure out and resolve the root cause of the slowdown.~~ [Fixed as of 10/6/2021]
+Notes: Thanks to [josebagar](https://gitlab.com/josebagar/bennugd-monolithic) for the update to the bennugd-monolithic that made this possible. \
+Thanks to [isage](https://github.com/isage/sorr-vita) for the slow down fix that benefits this platform.
 
 ### Spelunky (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Spelunky files are already included and ready to go.  Just start Spelunky from Ports in the emulationstation menu.
+Notes: Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
+Thanks to [yancharkin](https://github.com/yancharkin/SpelunkyClassicHD) for the updated source build.
 
 ### Super Mario War (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Super Mario War files are already included and ready to go.  Just start Super Mario War from Ports in the emulationstation menu.
@@ -879,6 +890,7 @@ Notes: Thanks to the [SuperTux](https://github.com/SuperTux/supertux) team and c
 
 ### Tomb Raider 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions:  Just add your steam or gog Tomb Raider 1 files to the ports/tombraider1 folder.  Then you should be able to launch Tomb Raider 1 from Ports in the emulationStation menu.
+Notes: Thanks to [XProger](https://github.com/XProger/OpenLara) for the OpenLara engine that makes this possible.
 
 ### Undertale (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to provide your own Undertale Linux version assets.  You can purchase this from GoG for under $10.  If you purchase this from GoG, you'll need to download the Linux version and it will have a .sh extension.  Just change the .sh to .gz and use 7zip to open the file, then go to the \data\noarch\game\assets folder and copy all of it's contents to your /roms/ports/undertale/assets folder.  Then you should be able to launch Undertale from Ports in the emulationstation menu.
