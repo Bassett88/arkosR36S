@@ -760,7 +760,7 @@ Notes:
 * You can add more apps for streaming by editing the Moonlight.sh file and adding more apps between lines 167 and 173.  Be aware that the entries are case sensitive.
 * Mouse control is only possible using the Rockchip platform in settings.  That is only possible on the OGA, OGS, RGB10, and the RK2020 at this time.  Holding start for about 2 - 3 seconds while using the Rockchip platform will switch to mouse mode.  Hold Start for about 2 - 3 seconds again to switch back to gamepad controls.
 
-Notes: Thanks to the [moonlight-stream] team for creating this solution that makes it possible.  Also thanks to [AreaScout](https://github.com/AreaScout/moonlight-embedded) for the necessary modifications that make this possible to run on the rk3326 platform.
+Notes: Thanks to the [moonlight-stream](https://github.com/moonlight-stream/moonlight-embedded) team for creating this solution that makes it possible.  Also thanks to [AreaScout](https://github.com/AreaScout/moonlight-embedded) for the necessary modifications that make this possible to run on the rk3326 platform.
 
 ### Mr. Boom (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu.
@@ -774,7 +774,8 @@ Instructions: Add the dos game files to the roms/ports/openjazz/gamedata/ folder
 Notes: Thanks to [AlisterT](https://github.com/AlisterT/openjazz) for creating the opensource port that makes this possible.  Also thanks to [Jetup13](https://github.com/Jetup13/openjazz-oga) for the porting work for the rk3326 platform.
 
 ### OpenTyrian (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in the Emulationstation.
+Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in the Emulationstation. \
+Notes: Thanks to the [OpenTyrian Team](https://github.com/opentyrian/opentyrian) and contributors for the open-source port that makes this possible.
 
 ### Prehistorik 2 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Includes the demo files. You can add your own full game Dos files to the ports/prehistorik2/gamedata folder.  Then just start Prehistorik 2 from Ports in the Emulationstation menu. \
@@ -814,7 +815,8 @@ Instructions: You must have a copy of Shovel Knight Treasure Trove for Linux.  Y
 1. Be sure the folder contains subfolders named 32, 64 and data.  There should also be a filed named ShovelKnight.
 2. Copy the shovelknight folder to the roms/ports folder on your device.
 3. For a guide and video of what to do, check out Retro Game Corps' video guide [here](https://retrogamecorps.com/2021/05/09/shovel-knight-treasure-trove-on-retro-handheld-devices/)
-4. The Shovel Knight.sh file included already will work fine, however, if you follow Retro Game Corp's video guide, be sure to not use the Shovel Knight.sh file from there if you're on a RK2020 or OGA. \
+4. The Shovel Knight.sh file included already will work fine, however, if you follow Retro Game Corp's video guide, be sure to not use the Shovel Knight.sh file from there if you're on a RK2020 or OGA.
+
 Notes: Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
 Thanks to JohnnyonFlame for gl4es and the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
 
@@ -834,7 +836,8 @@ Instructions: You must have a copy of the Sonic The Hedgehog Classic Android APK
 2. Rename the Data.rsdk.xmf to Data.rsdk.  Case is important!
 3. Copy the Data.rsdk file to the ports/sonic1 folder.
 4. If all is well, you should be able to run Sonic 1 now.
-5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM). \
+5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
+
 Notes: Thanks to [Rubberduckycooly](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) for the decompilation work that makes this possible.
 
 ### Sonic 2 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
@@ -843,7 +846,8 @@ Instructions: You must have a copy of the Sonic The Hedgehog 2 Classic Android A
 2. Rename the Data.rsdk.xmf to Data.rsdk.  Case is important!
 3. Copy the Data.rsdk file to the ports/sonic2 folder.
 4. If all is well, you should be able to run Sonic 2 now.
-5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM). \
+5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM).
+
 Notes: Thanks to [Rubberduckycooly](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) for the decompilation work that makes this possible.
 
 ### Sonic CD (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
@@ -854,7 +858,8 @@ Instructions: You must have a copy of the Sonic CD Classic Android APK then do t
 3. Copy the Data.rsdk file to the ports/soniccd folder.
 4. If all is well, you should be able to run Sonic CD now.
 5. For a video of what to do, check out Retro Game Corps' video guide [here](https://www.youtube.com/watch?v=iu_8ub7NYZM). \
-*Note*: There seems to be an issue with being able to consistently exit Sonic CD through the menu like you can with Sonic 1 and 2.  You can exit Sonic CD by holding Select and pressing Start. (For the RGB10, you can hold Minus and press Start.  For the Chi, you can hold the 1 key and press Start.) \
+*Note*: There seems to be an issue with being able to consistently exit Sonic CD through the menu like you can with Sonic 1 and 2.  You can exit Sonic CD by holding Select and pressing Start. (For the RGB10, you can hold Minus and press Start.  For the Chi, you can hold the 1 key and press Start.)
+
 Notes: Thanks to [Rubberduckycooly](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation) for the decompilation work that makes this possible.
 
 ### SorR (Streets of Rage Remake)(Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
@@ -863,6 +868,7 @@ Instructions: You'll need to provide your own sorr.dat file, mod folder, and pal
 2. Extract them /roms/ports/sorr (For RG351V if using SD2, extract to /roms2/ports/sorr instead).  You should have a /mod folder, a /palettes folder, and SorR.dat file in this location in order for the game to work.
 3. Then go to Ports, and launch SorR \
 *Note*: ~~If you experience a slowdown in gameplay after sometime, force exit the game (You can use the normal force exit hotkey combination for your device), then start the game again and it will start from the beginning of the last stage you were on and be full speed for a few more stages.  It's the best workaround for the issue for now until someone can figure out and resolve the root cause of the slowdown.~~ [Fixed as of 10/6/2021]
+
 Notes: Thanks to [josebagar](https://gitlab.com/josebagar/bennugd-monolithic) for the update to the bennugd-monolithic that made this possible. \
 Thanks to [isage](https://github.com/isage/sorr-vita) for the slow down fix that benefits this platform.
 
@@ -889,20 +895,20 @@ Instructions: SuperTux files are already included and ready to go.  Just start S
 Notes: Thanks to the [SuperTux](https://github.com/SuperTux/supertux) team and contributors for creating and making this game what it is today.
 
 ### Tomb Raider 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions:  Just add your steam or gog Tomb Raider 1 files to the ports/tombraider1 folder.  Then you should be able to launch Tomb Raider 1 from Ports in the emulationStation menu.
+Instructions:  Just add your steam or gog Tomb Raider 1 files to the ports/tombraider1 folder.  Then you should be able to launch Tomb Raider 1 from Ports in the emulationStation menu. \
 Notes: Thanks to [XProger](https://github.com/XProger/OpenLara) for the OpenLara engine that makes this possible.
 
 ### Undertale (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: You'll need to provide your own Undertale Linux version assets.  You can purchase this from GoG for under $10.  If you purchase this from GoG, you'll need to download the Linux version and it will have a .sh extension.  Just change the .sh to .gz and use 7zip to open the file, then go to the \data\noarch\game\assets folder and copy all of it's contents to your /roms/ports/undertale/assets folder.  Then you should be able to launch Undertale from Ports in the emulationstation menu.
+Instructions: You'll need to provide your own Undertale Linux version assets.  You can purchase this from GoG for under $10.  If you purchase this from GoG, you'll need to download the Linux version and it will have a .sh extension.  Just change the .sh to .gz and use 7zip to open the file, then go to the \data\noarch\game\assets folder and copy all of it's contents to your /roms/ports/undertale/assets folder.  Then you should be able to launch Undertale from Ports in the emulationstation menu. \
 Notes: Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
 Thanks to JohnnyonFlame for the necessary modification to allow this game to run on ArkOS.
 
 ### Ur-Quan Masters (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Ur-Quan Masters files are already included and ready to go.  Just start UQM from Ports in the emulationstation menu.
+Instructions: Ur-Quan Masters files are already included and ready to go.  Just start UQM from Ports in the emulationstation menu. \
 Notes: Thanks to [avolkov, luminescent, mcmartin and meep-eep](https://sourceforge.net/p/sc2/uqm/ci/main/tree/) for the creation and continued updates of this engine.
 
 ### VVVVVV (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in the emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead.
+Instructions: The free Make and Play Edition data.zip file is already included.  Just start VVVVVV from Ports in the emulationstation menu.  You can also add your own purchased copy of the data.zip from your VVVVVV into the /roms/ports/VVVVVV folder if you prefer that version instead. \
 Notes: Thanks to [Terry Cavanagh](https://github.com/TerryCavanagh/VVVVVV) and other authors and contributors for the creation and continued updates of this game.
 
 ### World War II GI (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
