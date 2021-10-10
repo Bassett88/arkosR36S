@@ -231,6 +231,10 @@ Per game:
    *  In Emulationstation, press START then go to Sound Settings > Frontend Music > ON.
    *  Go back out of the start menu and enjoy!
 
+**Important Note** If your .mp3 music file(s) are not playing, it's mostly likely an issue with the .mp3 files your using.  To test and confirm it works on your installation, try the free public domain one on your unit from the link below.  If it works, then this confirms that the issue is with your .mp3 file(s). This has been a common issue with music downloaded or converted from YouTube. \
+
+[Clandestine Operative by Stargazer Jazz provided by freesoundtrackmusic.com](https://github.com/christianhaitian/arkos/raw/main/pdmusic/clandestine_operative-stargazer_jazz_CLIP.mp3)
+
 ## Q. How do I enable rumble(vibration) in pscx_rearmed?
 ### A. Do the following:
 
