@@ -471,7 +471,7 @@ Rom Folder: pokemonmini \
 Extensions: .min .MIN .zip .ZIP \
 Bios: bios.min (optional)
 
-### Satellaview (Coming Soon)
+### Satellaview
 Emulator: lr-snes9x \
 Rom Folder: satellaview \
 Extensions: .bs .BS .sfc .SFC .smc .SMC .zip .ZIP .7z .7Z \
