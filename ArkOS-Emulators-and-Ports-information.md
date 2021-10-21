@@ -655,7 +655,7 @@ Instructions: Includes the demo files. You can add your own full game Amiga or D
 Notes: Thanks to [cyxx](https://github.com/cyxx/blues) for the Blues Brothers engine that makes this possible.  Also thanks to [Jetup13](https://github.com/Jetup13/blues-oga) for the porting work for the rk3326 platform.
 
 ### Cannonball (OutRun) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball folder then start Cannonball from Ports in the emulationstation menu.  For exact naming of roms, view this [link](https://github.com/djyt/cannonball/blob/master/roms/roms.txt)
+Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball/gamedata folder then start Cannonball from Ports in the emulationstation menu.  For exact naming of roms, view this [link](https://github.com/djyt/cannonball/blob/master/roms/roms.txt)
 
 ### Cave Story (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Cave Story files are already included and ready to go.  Just start Cave Story from Ports in the emulationstation menu.
