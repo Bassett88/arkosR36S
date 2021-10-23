@@ -900,7 +900,8 @@ Notes: Thanks to [XProger](https://github.com/XProger/OpenLara) for the OpenLara
 
 ### Undertale (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to provide your own Undertale Linux version assets.  You can purchase this from GoG for under $10.  If you purchase this from GoG, you'll need to download the Linux version and it will have a .sh extension.  Just change the .sh to .gz and use 7zip to open the file, then go to the \data\noarch\game\assets folder and copy all of it's contents to your /roms/ports/undertale/assets folder.  Then you should be able to launch Undertale from Ports in the emulationstation menu. \
-Notes: Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
+Notes: It's been reported that version 1.0.8 seems to work best with this setup. \
+Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
 Thanks to JohnnyonFlame for the necessary modification to allow this game to run on ArkOS.
 
 ### Ur-Quan Masters (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
