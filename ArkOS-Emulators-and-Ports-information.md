@@ -694,6 +694,10 @@ Note: This game can take a minute or two to initially load. \
 Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
 Thanks to JohnnyonFlame for gl4es and the the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
 
+### Free Heroes of Might and Magic II (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Just add the data and maps folders from your full version GOG Heroes of Might and Magic II directory or download the demo files from [here](https://archive.org/download/HeroesofMightandMagicIITheSuccessionWars_1020/h2demo.zip) to the ports/fheroes2 folder or just launch Fheroes2 from the ports menu in Emulationstation and it will download the demo files and install them automatically.  Make sure to have wifi on for this to work! \
+Notes: Thanks to [Ihar Hubchyk](https://github.com/ihhub/fheroes2) for the Free Heroes of Might and Magic II engine that makes this possible.  Also thanks to romadu for the porting work for the rk3326 platform.
+
 ### Half-Life 1 (RG351P/M Only) 
 Instructions: Only works with the full version of Half life 1.
 
