@@ -727,6 +727,10 @@ Note: Thanks to [Xash3D-FWGS](https://github.com/FWGS/xash3d-fwgs) for the engin
 Instructions: Just add your own Heart of Darkness game files to the ports/hode/gamedata folder.  Then Just start Heart of Darkness from Ports in the emulationstation menu. \
 Notes: Thanks to [usineur](https://github.com/usineur/hode) for the hode engine that makes this possible.  Also thanks to [Jetup13](https://github.com/Jetup13/hode-vs-oga) for the porting work for the rk3326 platform.
 
+### Hurrican (Turrican) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Just add the data and lang folders from [here](https://github.com/drfiemost/Hurrican/archive/refs/heads/master.zip) to the ports/hurrican folder or just launch Hurrican from the ports menu in Emulationstation and it will download the files and install them automatically.  Make sure to have wifi on for this to work! \
+Notes: Thanks to [thrimbor](https://github.com/thrimbor/Hurrican) for the Hurrican engine that makes this possible.  Also thanks to [romadu](https://github.com/romadu/Hurrican) for the porting work for the rk3326 platform.
+
 ### Hydra Castle Labyrinth (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Hydra Castle Labyrinth files are already included and ready to go.  Just start Hydra Castle Labyrinth from Ports in the emulationstation menu. \
 Notes: Thanks to [ptitSeb](https://github.com/ptitSeb/hydracastlelabyrinth) for the SDL port of this game that makes this possible on this platform.
