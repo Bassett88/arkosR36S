@@ -688,15 +688,15 @@ Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the Rednukem e
 Instructions: You'll need to add your own full version STUFF.DAT, DEMO.VCR and BOOK.MOV files to the ports/Exhumed folder.  Then just start Exhumed from Ports in the Emulationstation. \
 Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the PCExhumed engine that makes this possible.  Also thanks to [romadu](https://github.com/romadu/NBlood) for the porting work for the rk3326 platform.
 
+### Free Heroes of Might and Magic II (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Just add the data and maps folders from your full version GOG Heroes of Might and Magic II directory or download the demo files from [here](https://archive.org/download/HeroesofMightandMagicIITheSuccessionWars_1020/h2demo.zip) to the ports/fheroes2 folder or just launch Fheroes2 from the ports menu in Emulationstation and it will download the demo files and install them automatically.  Make sure to have wifi on for this to work! \
+Notes: Thanks to [Ihar Hubchyk](https://github.com/ihhub/fheroes2) for the Free Heroes of Might and Magic II engine that makes this possible.  Also thanks to romadu for the porting work for the rk3326 platform.
+
 ### Freedom Planet (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You must have a copy of Freedom Planet for Linux.  You'll need the contents of the Freedom.Planet/game folder to be copied into the freedomplanet/gamedata folder of your sd card.  Be sure the freedomplanet/gamedata folder on you sd card contains subfolders named bin32, bin64 and Data.  The runtime folder and the run.sh file is not needed and should be left out or it will cause a double entry for Freedom Planet in the ports section of Emulationstation.  There should also be a filed named Assets.dat in freedomplanet/gamedata as well.  Then run Freedom Planet from the Emulationstation ports menu. \
 Note: This game can take a minute or two to initially load. \
 Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
 Thanks to JohnnyonFlame for gl4es and the the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
-
-### Free Heroes of Might and Magic II (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Just add the data and maps folders from your full version GOG Heroes of Might and Magic II directory or download the demo files from [here](https://archive.org/download/HeroesofMightandMagicIITheSuccessionWars_1020/h2demo.zip) to the ports/fheroes2 folder or just launch Fheroes2 from the ports menu in Emulationstation and it will download the demo files and install them automatically.  Make sure to have wifi on for this to work! \
-Notes: Thanks to [Ihar Hubchyk](https://github.com/ihhub/fheroes2) for the Free Heroes of Might and Magic II engine that makes this possible.  Also thanks to romadu for the porting work for the rk3326 platform.
 
 ### Half-Life 1 (RG351P/M Only) 
 Instructions: Only works with the full version of Half life 1.
