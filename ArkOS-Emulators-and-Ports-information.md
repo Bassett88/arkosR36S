@@ -301,7 +301,7 @@ Extensions: .md .MD \
 Bios: bios_md.bin, bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin \
 Notes: If your games run without the music, try updating the genesis_plus_gx core to the latest version from the repo by going to Retroarch>core downloader>genesis_plus_gx.
 
-### MegaDuck (Coming soon)
+### Mega Duck (Coming soon)
 Emulator: (**lr-sameduck**) lr-mess \
 Rom Folder: megaduck \
 Extensions: .bin .BIN .zip .ZIP .7z .7Z \
