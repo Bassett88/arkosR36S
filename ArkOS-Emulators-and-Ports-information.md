@@ -895,6 +895,10 @@ Instructions: You'll need to provide your own sorr.dat file, mod folder, and pal
 Notes: Thanks to [josebagar](https://gitlab.com/josebagar/bennugd-monolithic) for the update to the bennugd-monolithic that made this possible. \
 Thanks to [isage](https://github.com/isage/sorr-vita) for the slow down fix that benefits this platform.
 
+### Space Cadet Pinball (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Just add your own Space Cadet Pinball PINBALL.DAT files and sound files to the spacecadetpinball folder.  Then start Space Cadet Pinball from Ports in the emulationstation menu. \
+Notes: Thanks to [Muzychenko Andrey](https://github.com/k4zmu2a/SpaceCadetPinball) for the reversed engineering work of this.  Also thanks to [Jetup](https://github.com/Jetup13/SpaceCadetPinball) and [romadu](https://github.com/romadu/SpaceCadetPinball) for the porting work for the rk3326 platform.
+
 ### Spelunky (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Spelunky files are already included and ready to go.  Just start Spelunky from Ports in the emulationstation menu.
 Notes: Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
