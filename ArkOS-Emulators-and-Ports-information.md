@@ -829,6 +829,10 @@ Notes: Thanks to [icculus](https://icculus.org/rott/) for the source port of thi
 Instructions: Rocks 'N' Diamonds files are already included and ready to go.  Just start Rocks N Diamonds from Ports in the emulationstation menu. \
 Notes: Thanks to [Artsoft Entertainment](https://git.artsoft.org/rocksndiamonds.git/) for creating this game and making it available for free.
 
+### Shadow Warrior (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You must add your own full version SW.GRP and SW.RTS Shadow Warrior files to the ports/shadow-warrior folder.  More information about the installation along with how to include music is available [here](https://www.jonof.id.au/jfsw/readme.html#install) \
+Notes: Thanks to [Jonathon Fowler](https://github.com/jonof/jfsw) for the source port of Ken Silverman's build engine.  Also thanks to romadu for the porting work for the rk3326 platform.
+
 ### Shovel Knight - Treasure Trove (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You must have a copy of Shovel Knight Treasure Trove for Linux.  You'll need the shovelknight folder:  
 1. Be sure the folder contains subfolders named 32, 64 and data.  There should also be a filed named ShovelKnight.
