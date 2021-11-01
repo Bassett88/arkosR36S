@@ -790,6 +790,10 @@ Notes: Thanks to the [moonlight-stream](https://github.com/moonlight-stream/moon
 Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu. \
 Notes: Thanks to [Javanaise](https://github.com/Javanaise/mrboom-libretro) for creating this clone for libretro/retroarch and thanks to [Libretro](https://github.com/libretro/mrboom-libretro) for officially incorporating this as a retroarch core.
 
+### nKaruga
+Instructions: nKaruga files are already included and ready to go.  Just start nKaruga from Ports in the emulationstation menu. \
+Notes: Thanks to [matrefeytontias](https://github.com/matrefeytontias/nKaruga) for creating this game.  Thanks to [gameblabla](https://github.com/gameblabla/nKaruga) for the additional work on this game.  Also thanks to jetup for the packaging work for the rk3326 platform.
+
 ### NAM (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own full version NAM.GRP and NAM.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-redneck1/gamedata folder.  Then you should be able to start NAM from the emulationstation menu. \
 Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the Rednukem engine that makes this possible.  Also thanks to [romadu](https://github.com/romadu/NBlood) for the porting work for the rk3326 platform.
