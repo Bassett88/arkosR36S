@@ -680,7 +680,7 @@ Notes: Thanks to [cxong](https://github.com/cxong/cdogs-sdl) for this SDL build 
 
 ### Commander Genius (Commander Keen) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Load your keen folders into the /roms/ports/cgenius/games folder.  As an example, the shareware version of Commander Keen 1 is included and is named Keen.  Then just start Commander Genius from Ports in the emulationstation menu. \
-Notes: Thanks to [gerstrong](https://github.com/gerstrong/Commander-Genius) and others related for the development of this port that makes this possible.
+Notes: Thanks to [Gerhard Stein](https://github.com/gerstrong/Commander-Genius) and others related for the development of this port that makes this possible.
 
 ### DevilutionX (Diablo 1) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder. **Make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support) \
