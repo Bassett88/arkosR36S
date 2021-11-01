@@ -646,7 +646,8 @@ Bios: None
 # Ports
 
 ### 2048 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: 2048 files are already included and ready to go.  Just start 2048 from Ports in the emulationstation menu.
+Instructions: 2048 files are already included and ready to go.  Just start 2048 from Ports in the emulationstation menu. \
+Notes: Thanks to [Gabriel Cirulli](http://gabrielecirulli.github.io/2048/) for creating this game and thanks to [Libretro](https://github.com/libretro/libretro-2048) for porting this as a retroarch core.
 
 ### AM2R (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: AM2R files are already included and ready to go.  Just start AM2R from Ports in the emulationstation menu. \
@@ -662,10 +663,12 @@ Instructions: Includes the demo files. You can add your own full game Amiga or D
 Notes: Thanks to [cyxx](https://github.com/cyxx/blues) for the Blues Brothers engine that makes this possible.  Also thanks to [Jetup13](https://github.com/Jetup13/blues-oga) for the porting work for the rk3326 platform.
 
 ### Cannonball (OutRun) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball/gamedata folder then start Cannonball from Ports in the emulationstation menu.  For exact naming of roms, view this [link](https://github.com/djyt/cannonball/blob/master/roms/roms.txt)
+Instructions: Add the OutRun Revision B ROMs into /roms/ports/cannonball/gamedata folder then start Cannonball from Ports in the emulationstation menu.  For exact naming of roms, view this [link](https://github.com/djyt/cannonball/blob/master/roms/roms.txt) \
+Notes: Thanks to [djyt](https://github.com/djyt/cannonball) for creating the engine for this OutRun arcade game and thanks to [Libretro](https://github.com/libretro/cannonball) for adding this as a retroarch core.
 
 ### Cave Story (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Cave Story files are already included and ready to go.  Just start Cave Story from Ports in the emulationstation menu.
+Instructions: Cave Story files are already included and ready to go.  Just start Cave Story from Ports in the emulationstation menu. \
+Notes: Thanks to [Libretro](https://github.com/libretro/nxengine-libretro) for porting this as a retroarch core.
 
 ### Cave Story (evo) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Install through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster) and start Cave Story-Evo from Ports in the emulationstation menu. \
@@ -685,7 +688,8 @@ Important Note: It’s been reported that you must make sure you use the GOG ver
 Notes: Thanks to the [diasurgical](https://github.com/diasurgical/devilutionX) team for the source port that makes this possible.
 
 ### Dinothawr (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Dinothawr files are already included and ready to go.  Just start Dinothawr from Ports in the emulationstation menu.
+Instructions: Dinothawr files are already included and ready to go.  Just start Dinothawr from Ports in the emulationstation menu. \
+Notes: Thanks to [Themaister](https://github.com/Themaister/Dinothawr) for creating this game and thanks to [Libretro](https://github.com/libretro/Dinothawr) for adding this as a retroarch core.
 
 ### Duke Nukem 3D (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own full version duke3d.grp and duke.rts Duke Nukem 3D Atomic files to the ports/rednukem/gamedata folder.  Then just start Duke Nukem 3D from Ports in the Emulationstation. \
@@ -778,7 +782,8 @@ Notes:
 Notes: Thanks to the [moonlight-stream](https://github.com/moonlight-stream/moonlight-embedded) team for creating this solution that makes it possible.  Also thanks to [AreaScout](https://github.com/AreaScout/moonlight-embedded) for the necessary modifications that make this possible to run on the rk3326 platform.
 
 ### Mr. Boom (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu.
+Instructions: Mr. Boom files are already included and ready to go.  Just start Mr. Boom from Ports in the emulationstation menu. \
+Notes: Thanks to [Javanaise](https://github.com/Javanaise/mrboom-libretro) for creating this clone for libretro/retroarch and thanks to [Libretro](https://github.com/libretro/mrboom-libretro) for officially incorporating this as a retroarch core.
 
 ### NAM (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own full version NAM.GRP and NAM.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-redneck1/gamedata folder.  Then you should be able to start NAM from the emulationstation menu. \
@@ -797,11 +802,12 @@ Instructions: Includes the demo files. You can add your own full game Dos files 
 Notes: Thanks to [cyxx](https://github.com/cyxx/blues) for the Blues Brothers engine that makes this possible.  Also thanks to [Jetup13](https://github.com/Jetup13/blues-oga) for the porting work for the rk3326 platform.
 
 ### Quake 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Add .pak files to /roms/ports/quake/quakepaks then start Quake from Ports in the emulationstation menu
+Instructions: Add .pak files to /roms/ports/quake/quakepaks then start Quake from Ports in the emulationstation menu. \
+Notes: Thanks to [Libretro](https://github.com/libretro/tyrquake) for adding this as a retroarch core.
 
 ### Quake 2 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Add .pak files to /roms/ports/quake2/baseq2 then start Quake 2 from Ports in the emulationstation menu. \
-Notes: There's no support for music at this time until Libretro or the original developer of that emulator fixes this.
+Notes: Thanks to the [Yamagi Quake II team](https://github.com/yquake2/yquake2) for developing this client and [romadu](https://github.com/romadu/yquake2) for the porting work for the rk3326 platform.
 
 ### RAWGL (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Includes the Out of this World demo files. You can add your own full game files to the ports/rawgl/gamedata/ folder. See this [link](https://github.com/cyxx/rawgl#supported-versions] for more supported files info.  Then just start RAWGL from Ports in the emulationstation menu. \
@@ -816,10 +822,12 @@ Instructions: You'll need to add your own full version REDNECK.GRP and REDNECK.R
 Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the Rednukem engine that makes this possible.  Also thanks to [romadu](https://github.com/romadu/NBlood) for the porting work for the rk3326 platform.
 
 ### Return to Castle Wolfenstein (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: You'll need to add your own pak0.pk3, sp_pak1.pk3, sp_pak2.pk3, and sp_pak3.pk3 to the ports/iortcw/main folder.  The Steam version seems to work best as it's patched for Linux use already.  Then you should be able to start Return to Castle Wolfenstein from the emulationstation menu.
+Instructions: You'll need to add your own pak0.pk3, sp_pak1.pk3, sp_pak2.pk3, and sp_pak3.pk3 to the ports/iortcw/main folder.  The Steam version seems to work best as it's patched for Linux use already.  Then you should be able to start Return to Castle Wolfenstein from the emulationstation menu. \
+Notes: Thanks to [Donny Springer, Zack Middleton, James Canete and other contributors](https://github.com/iortcw/iortcw) for this engine.  Also thanks to romadu for the porting work for the rk3326 platform.
 
 ### Rick Dangerous (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in the emulationstation menu.
+Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in the emulationstation menu. \
+Notes: Thanks to [r-type](https://github.com/r-type/xrick-libretro) for creating this libretro/retroarch core and thanks to [Libretro](https://github.com/libretro/xrick-libretro) for officially incorporating this as a retroarch core.
 
 ### Rise of the Triad (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Demo files are already included.  You can also add your full version files to the ports/rott folder.  Just start ROTT from Ports in emulationstation menu. \
