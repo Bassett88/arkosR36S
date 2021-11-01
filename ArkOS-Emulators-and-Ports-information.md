@@ -650,6 +650,10 @@ Bios: None
 Instructions: 2048 files are already included and ready to go.  Just start 2048 from Ports in the emulationstation menu. \
 Notes: Thanks to [Gabriel Cirulli](http://gabrielecirulli.github.io/2048/) for creating this game and thanks to [Libretro](https://github.com/libretro/libretro-2048) for porting this as a retroarch core.
 
+### Abuse (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: The game is public domain so the files are already included and ready to go.  Just start Abuse from Ports in the emulationstation menu. \
+Notes: Thanks to Jonathan Clark, Dave Taylor and the rest of the Crack Dot Com team for making this 2D game and releasing it as public domain.  Thanks to [Xenoveritas](https://github.com/Xenoveritas/abuse) for porting it so that it's easier to build.  Also thanks to [romadu](https://github.com/romadu/abuse) for the porting work for the rk3326 platform.
+
 ### AM2R (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: AM2R files are already included and ready to go.  Just start AM2R from Ports in the emulationstation menu. \
 Note: **For the PortMaster version, it's using an updated version that requires the android apk.  You'll need to source your own am2r android apk and place it into the ports/am2r/gamedata folder.  Make sure it is named am2r.apk.  If need be, just rename the am2r apk you source to am2r.apk.  The name is case sensitive!** \
