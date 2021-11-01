@@ -60,7 +60,7 @@ Emulator: lr-mess \
 Rom Folder: astrocde \
 Extensions: .7z .7Z .bin .BIN .zip .ZIP \
 Bios: astrocde.zip (must be in the roms/astrocde folder.  **NOT THE BIOS FOLDER!**) \
-Notes: Because this uses the mess emulator, there's a little more involved in getting the games to run in which the rom must be named exactly as shown in the bios/mame/hash/astrocde.xml file.  For example, The Incredible Wizard rom must be named wizard.bin.  If it is zipped, it must be named wizard.zip.
+Notes: Because this uses the mess emulator, there's a little more work involved in getting the games to run in which the rom must be named exactly as shown in the bios/mame/hash/[astrocde.xml](https://github.com/libretro/mame/blob/master/hash/astrocde.xml) file.  For example, The Incredible Wizard rom must be named wizard.bin.  If it is zipped, it must be named wizard.zip.
 
 ### Atomiswave
 Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme retrorun retrorun32 \
@@ -306,7 +306,7 @@ Emulator: (**lr-sameduck**) lr-mess \
 Rom Folder: megaduck \
 Extensions: .bin .BIN .zip .ZIP .7z .7Z \
 Bios: None \
-Notes: If you want to use the mess core, there's a little more involved in getting the games to run in which the rom must be named exactly as shown as the software name in the bios/mame/hash/megaduck.xml file.  For example, Arctic Zone rom must be named arczone.bin.  If it is zipped, it must be named arczone.zip.
+Notes: If you want to use the mess core, there's a little more work involved in getting the games to run in which the rom must be named exactly as shown as the software name in the bios/mame/hash/[megaduck.xml](https://github.com/libretro/mame/blob/master/hash/megaduck.xml) file.  For example, Arctic Zone rom must be named arczone.bin.  If it is zipped, it must be named arczone.zip.
 
 ### MSX
 Emulator: (**lr-bluemsx**) lr-fMSX \
