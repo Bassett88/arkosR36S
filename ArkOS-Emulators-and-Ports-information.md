@@ -402,7 +402,7 @@ Emulator: [OpenBOR](https://github.com/christianhaitian/openbor) Standalone \
 Rom Folder: openbor \
 Extensions: .pak .PAK \
 Bios: none \
-Notes: RG351P Limitations--It is not possible to use the joystick within OpenBOR. \
+Notes: RG351P/M/V Limitations--It is not possible to use the joystick within OpenBOR. \
 Only the gamepad, Start, A, B, X, Y, L1, and R1 buttons are assignable.  DO NOT enable the gamepad within the options menu \
 or you may experience control issues!
 
@@ -443,9 +443,10 @@ Extensions: .png .PNG .p8 .P8 \
 Bios: None \
 Notes: 
 -  Add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to /roms/pico-8 folder and add your .png and/or .p8 game files to /roms/pico-8/carts folder then start pico-8 from pico-8 emulationstation menu.
--  If you'd like to access splore to download and update games online while in Pico-8, create a blank text file named zzzsplore.p8 in /roms/pico-8/carts and launch zzzsplore from the pico-8 system menu in emulationstation
+-  If you'd like to access splore to download and update games online while in Pico-8, create a blank text file named zzzsplore.p8 in /roms/pico-8/carts and launch zzzsplore from the pico-8 system menu in emulationstation.
 -  By default, pico-8 games will load in a 1:1 aspect ratio.  You can also load games in full screen and pixel perfect aspect ratios as well by changing the default emulator setting.  See [here](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-change-emulator-cores-in-arkos) for information on how to change the default emulator.
--  ***Be careful to not delete the existing sdl_controllers.txt file in the /roms/pico-8 folder or you will not have any controls in pico-8!***
+- You can exit pico-8 at any time by pressing the select and start buttons (RG351 and RK2020 devices) or 1 and Start buttons (Chi) or Minus and Start buttons (RGB10).
+-  ***Be careful to not delete or alter the existing sdl_controllers.txt file in the /roms/pico-8 folder or you will not have any controls in pico-8!***
 
 ### Playstation 1 (PSX)
 Emulator: (**lr-pcsx-rearmed**) lr-duckstation \
@@ -485,7 +486,7 @@ Extensions: .bs .BS .sfc .SFC .smc .SMC .zip .ZIP .7z .7Z \
 Bios: BS-X.bin
 
 ### ScummVM
-Emulator: (**lr-scummvm**) [scummvm](https://github.com/scummvm/scummvm) standalone \
+Emulator: (**[scummvm](https://github.com/scummvm/scummvm) standalone**) lr-scummvm \
 Rom Folder: scummvm \
 Extensions: .scummvm .SCUMMVM \
 Bios: None \
@@ -532,7 +533,7 @@ Emulator: [solarus-run](https://gitlab.com/solarus-games/solarus) \
 Rom Folder: solarus \
 Extensions: .solarus .SOLARUS .zip .ZIP \
 Bios: None \
-Notes:  The analog stick is inverted in Solarus games due to limitations of Solarus.  Games for Solarus usually allow the ability to reassign controller preferences from within games.  Solarus doesn't natively support the ability to exit the emulator from a controller.  For use in Arkos, a daemon is included that watches for the select and start buttons to be pressed simultaneously and kills the solarus-run process so return back to Emulationstation.  If you put the system to sleep while in a Solarus game, upon wake, the daemon may not work anymore.  If that's the case, try to press R3+Power button to safely shutdown the system.  If all else fails, you can hit the bottom reset button but limit the use of that when possible or data corruption can occur.
+Notes:  The analog stick is inverted in Solarus games due to limitations of Solarus.  Games for Solarus usually allow the ability to reassign controller preferences from within games.  Solarus doesn't natively support the ability to exit the emulator from a controller.  For use in Arkos, a daemon is included that watches for the select and start buttons (RG351 and RK2020 devices) or 1 and Start button (Chi) or Minus and Start button (RGB10) to be pressed simultaneously and kills the solarus-run process so return back to Emulationstation.  If you lose the ability to control the game and to force quit, just do a safe shutdown of the system using the appropriate global hotkey for your system.  If all else fails, you can hit the bottom reset button but limit the use of that when possible or data corruption can occur.
 
 ### SuFami Turbo
 Emulator: (**lr-snes9x2010**) lr-snes9x lr-snes9x2002 lr-snes9x2005 \
