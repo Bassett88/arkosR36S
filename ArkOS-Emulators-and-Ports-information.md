@@ -687,6 +687,10 @@ Notes: Thanks to [cxong](https://github.com/cxong/cdogs-sdl) for this SDL build 
 Instructions: Load your keen folders into the /roms/ports/cgenius/games folder.  As an example, the shareware version of Commander Keen 1 is included and is named Keen.  Then just start Commander Genius from Ports in the emulationstation menu. \
 Notes: Thanks to [Gerhard Stein](https://github.com/gerstrong/Commander-Genius) and others related for the development of this port that makes this possible.
 
+### CorsixTH (Theme Hospital) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Load your Theme Hospital files into the ports/corsixth/HOSP folder.  As an example, the demo files of Theme Hospital is already included.  Then start CorsixTH from Ports in the emulationstation menu. \
+Notes: Thanks to [CorsixTH](https://github.com/CorsixTH/CorsixTH) team for creating this clone of Theme Hospital.  Also thanks to jetup and romadu for the porting work for the rk3326 platform.
+
 ### DevilutionX (Diablo 1) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Copy diabdat.mpq from your CD or GoG installation (or extract it from the GoG installer) into /roms/ports/devilution folder. **Make sure diabdat.mpq is all lowercase!**.  **Do not delete the gamecontrollerdb.txt file in the /roms/ports/devilution folder or there will be no controller support in the game!**  For controls, see [here](https://github.com/diasurgical/devilutionX#controller-support) \
 Important Note: It’s been reported that you must make sure you use the GOG version of diabdat.mpq with the newest patch_rt.mpq or you may experience a freeze of the game around level 20. \
