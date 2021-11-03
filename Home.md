@@ -143,6 +143,7 @@ WadaKatsu for testing and feedback \
 Rex for testing and feedback \
 TadMSTR for testing and feedback \
 RayLancer for bootlogo design, testing and feedback \
+animeware for feedback and support \
 silt247 for the Cannonball, Cave Story, Doom 1 and Doom 2 ports package
 
 I may have missed others and will update this area as I become aware.
