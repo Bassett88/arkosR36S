@@ -659,6 +659,10 @@ Instructions: AM2R files are already included and ready to go.  Just start AM2R 
 Note: **For the PortMaster version, it's using an updated version that requires the android apk.  You'll need to source your own am2r android apk and place it into the ports/am2r/gamedata folder.  Make sure it is named am2r.apk.  If need be, just rename the am2r apk you source to am2r.apk.  The name is case sensitive!** \
 Notes: Thanks to JohnnyonFlame for the [droidports](https://github.com/JohnnyonFlame/droidports) loader that makes this possible.
 
+### Blobby Volley 2 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Blobby Volley 2 files are already included and ready to go.  Just start Blobby Volley 2 from Ports in the emulationstation menu. \
+Notes: Thanks to [Daniel Knobe, Jonathan Sieber, Sven Rech, Erik Schultheis, Silvio Mummert, New beach image and other contributors](https://github.com/danielknobe/blobbyvolley2) for creating this game and making available for free.  Also thanks to [Cebion and romadu](https://github.com/romadu/blobbyvolley2) for the porting work for the rk3326 platform.
+
 ### Blood (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own full version Blood 1.21 files to the ports/Blood folder.  Then just start Blood from Ports in the Emulationstation. \
 Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the NBlood engine that makes this possible.  Also thanks to [romadu](https://github.com/romadu/NBlood) for the porting work for the rk3326 platform.
