@@ -50,9 +50,9 @@
 * Select = 704 = OGA F1
 * Start = 709 = OGA F6
 * L1 = 310
-* L2 = 706 = OGA F3
+* L2 = 312
 * R1 = 311
-* R2 = 707 = OGA F4
+* R2 = 313
 * Minus = 705 = OGA F2
 * Plus = 708 = OGA F5
 
@@ -71,9 +71,9 @@
 * X = 2
 * Y = 3
 * L1 = 4
-* L2 = 14
+* L2 = 6
 * R1 = 5
-* R2 = 15
+* R2 = 7
 * Minus = 13
 * Plus = 16
 
