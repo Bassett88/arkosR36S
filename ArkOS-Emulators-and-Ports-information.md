@@ -822,6 +822,10 @@ Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the Rednukem e
 Instructions: Add the dos game files to the roms/ports/openjazz/gamedata/ folder then start OpenJazz from Ports in the emulationstation menu. \
 Notes: Thanks to [AlisterT](https://github.com/AlisterT/openjazz) for creating the opensource port that makes this possible.  Also thanks to [Jetup13](https://github.com/Jetup13/openjazz-oga) for the porting work for the rk3326 platform.
 
+### OpenOMF (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: OpenOMF files are already included and ready to go.  Just start Openomf from Ports in the emulationstation menu. \
+Notes: Thanks to [omf2097 team](https://github.com/omf2097/openomf) for creating this opensource port.  Also thanks to Cebion for the porting work for the rk3326 platform.
+
 ### OpenTyrian (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: OpenTyrian 2.1 files are already included as they were made freeware sometime ago.  Just start OpenTyrian from Ports in the Emulationstation. \
 Notes: Thanks to the [OpenTyrian Team](https://github.com/opentyrian/opentyrian) and contributors for the open-source port that makes this possible.
