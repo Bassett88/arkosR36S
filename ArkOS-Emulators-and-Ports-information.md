@@ -671,6 +671,10 @@ Notes: Thanks to [Boris I. Bendovsky](https://github.com/bibendovsky/bstone) for
 Instructions: Blobby Volley 2 files are already included and ready to go.  Just start Blobby Volley 2 from Ports in the emulationstation menu. \
 Notes: Thanks to [Daniel Knobe, Jonathan Sieber, Sven Rech, Erik Schultheis, Silvio Mummert, New beach image and other contributors](https://github.com/danielknobe/blobbyvolley2) for creating this game and making available for free.  Also thanks to [Cebion and romadu](https://github.com/romadu/blobbyvolley2) for the porting work for the rk3326 platform.
 
+### Block Attack (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Block Attack files are already included and ready to go.  Just start Block Attack from Ports in the emulationstation menu. \
+Notes: Thanks to [Poul Sander and contributors](https://github.com/blockattack/blockattack-game) for creating this game and making it available for free.  Also, thanks to Cebion for the porting work for the rk3326 platform.
+
 ### Blood (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own full version Blood 1.21 files to the ports/Blood folder.  Then just start Blood from Ports in the Emulationstation. \
 Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the NBlood engine that makes this possible.  Also thanks to [romadu](https://github.com/romadu/NBlood) for the porting work for the rk3326 platform.
