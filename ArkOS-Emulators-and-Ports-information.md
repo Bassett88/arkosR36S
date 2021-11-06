@@ -659,6 +659,14 @@ Instructions: AM2R files are already included and ready to go.  Just start AM2R 
 Note: **For the PortMaster version, it's using an updated version that requires the android apk.  You'll need to source your own am2r android apk and place it into the ports/am2r/gamedata folder.  Make sure it is named am2r.apk.  If need be, just rename the am2r apk you source to am2r.apk.  The name is case sensitive!** \
 Notes: Thanks to JohnnyonFlame for the [droidports](https://github.com/JohnnyonFlame/droidports) loader that makes this possible.
 
+### Blake Stone Aliens of Gold (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Includes the shareware files.  You can also add your own full version Blake Stone Aliens of Gold files to the ports/bstone-aog/gamedata/alien_of_gold folder.  Just start Blake Stone - Aliens of Gold from Ports in the emulationstation menu. \
+Notes: Thanks to [Boris I. Bendovsky](https://github.com/bibendovsky/bstone) for creating this unofficial source port.  Also thanks to Cebion and romadu for the porting work for the rk3326 platform.
+
+### Blake Stone Planet Strike (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You'll need to add your own full version Blake Stone Planet Strike files to the ports/bstone-ps/gamedata/planet_strike folder.  Just start Blake Stone - Planet Strike from Ports in the emulationstation menu. \
+Notes: Thanks to [Boris I. Bendovsky](https://github.com/bibendovsky/bstone) for creating this unofficial source port.  Also thanks to Cebion and romadu for the porting work for the rk3326 platform.
+
 ### Blobby Volley 2 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Blobby Volley 2 files are already included and ready to go.  Just start Blobby Volley 2 from Ports in the emulationstation menu. \
 Notes: Thanks to [Daniel Knobe, Jonathan Sieber, Sven Rech, Erik Schultheis, Silvio Mummert, New beach image and other contributors](https://github.com/danielknobe/blobbyvolley2) for creating this game and making available for free.  Also thanks to [Cebion and romadu](https://github.com/romadu/blobbyvolley2) for the porting work for the rk3326 platform.
