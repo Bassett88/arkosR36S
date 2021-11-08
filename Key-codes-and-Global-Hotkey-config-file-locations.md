@@ -50,9 +50,9 @@
 * Select = 704 = OGA F1
 * Start = 709 = OGA F6
 * L1 = 310
-* L2 = 312
+* RGB10:L2 = 706 | OGA 1.1:L2 = 312
 * R1 = 311
-* R2 = 313
+* RGB10:L2 = 707 | OGA 1.1:L2 = 313
 * Minus = 705 = OGA F2
 * Plus = 708 = OGA F5
 
