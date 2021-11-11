@@ -539,7 +539,8 @@ Notes:  The analog stick is inverted in Solarus games due to limitations of Sola
 Emulator: (**lr-snes9x2010**) lr-snes9x lr-snes9x2002 lr-snes9x2005 \
 Rom Folder: sufami \
 Extensions: .smc .SMC .zip .ZIP .7z .7Z \
-Bios: None
+Bios: STBIOS.bin \
+Notes: For multi-cart Sufami Turbo games, you must first run each game individually to create sram files for them. Then the multi-link will function correctly.  See [Libretro’s documentation](https://docs.libretro.com/library/snes9x/#bs-x-and-sufami-turbo) for more info.
 
 ### Super Game Boy
 Emulator: lr-mgba \
