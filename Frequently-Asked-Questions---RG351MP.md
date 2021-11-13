@@ -38,7 +38,7 @@
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
-### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  It's also been reported that this [TP-Link Archer T2U AC600](https://www.amazon.com/gp/product/B07PB1X4CN/) unit works very well with ArkOS.  It's inexpensive and supports 2.4GHz and 5GHz wireless signals. You then will need to do the following:
+### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  It's also been reported that this [TP-Link Archer T2U Nano AC600](https://www.amazon.com/gp/product/B07PB1X4CN/) unit works very well with ArkOS.  It's inexpensive and supports 2.4GHz and 5GHz wireless signals. You then will need to do the following:
 - Go to the **Options** menu and select **WIFI**.  
 - Then hit the **R1** button to go to the **+** sign and click the A button to add your wifi details.  
 - Once completed, you can then verify that your wifi is connected by confirming that you see the wifi symbol located near the top right corner of the Emulationstation Menu.  You can also verify that you have a valid wireless connection by going to **Options** then **NETWORK INFO** and verify you have an assigned IP for your device.  
