@@ -73,7 +73,8 @@ Note: Thanks to bignella for testing and compiling a list of the performance of 
 Emulator: lr-atari800 \
 Rom Folder: atari800 \
 Extensions: .atr .ATR .rom .ROM .zip .ZIP \
-Bios: ATARIOSA.ROM and ATARIOSB.ROM and ATARIBAS.ROM
+Bios: ATARIOSA.ROM and ATARIOSB.ROM and ATARIBAS.ROM \
+Note: .rom seems to have issues with the libretro atari800 as of 11/13/2021.  .atr still work as well as .zip files containing .atr and .xex seem to work for the most part.
 
 ### Atari 2600
 Emulator: lr-stella \
