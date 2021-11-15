@@ -1,11 +1,11 @@
 ## Key Codes
 ### Useful for reassigning use of buttons for OS based events (such as Global Hotkeys)
 
-[RK2020/OGA 1.0](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rk2020oga-10)
-[RGB10/OGA 1.1](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rgb10oga-11)
-[Gameforce Chi](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#chi)
-[RG351P/RG351M](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg351pm)
-[RG351MP](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg351mp)
+[RK2020/OGA 1.0](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rk2020oga-10) \
+[RGB10/OGA 1.1](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rgb10oga-11) \
+[Gameforce Chi](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#chi) \
+[RG351P/RG351M](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg351pm) \
+[RG351MP](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg351mp) \
 [RG351V](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg351v)
 
 
