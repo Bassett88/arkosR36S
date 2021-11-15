@@ -209,3 +209,51 @@ Right Analog Axis Configuration mappings
 Left Analog Axis Configuration mappings
 * X Axis = axis(0+,0-)
 * Y Axis = axis(1+,1-)
+
+# RG351MP
+
+* DPAD Up = 544
+* DPAD Down = 545
+* DPAD Left = 546
+* DPAD Right = 547
+* A = 305
+* B = 304
+* X = 307
+* Y = 308
+* Select = 704
+* Start = 705
+* L1 = 310
+* L2 = 312
+* L3 = 706
+* R1 = 311
+* R2 = 313
+* R3 = 707
+
+## Global Hotkey config file locations:
+
+### Useful for Mupen64plus key reassignment in ArkOS (/opt/mupen64plus/InputAutoCfg.ini) in the ODROID Go Super Gamepad section and modifying joystick events (ex. Quit emulator and save state hotkeys) in /home/ark/.config/mupen64plus.cfg
+
+* DPAD LEFT = 10
+* DPAD RIGHT = 11
+* DPAD UP = 8
+* DPAD DOWN = 9
+* START = 13
+* SELECT = 12
+* A = 1
+* B = 0
+* X = 2
+* Y = 3
+* L1 = 4
+* L2 = 6
+* L3 = 14
+* R1 = 5
+* R2 = 7
+* R3 = 15 \
+Left Analog Axis Configuration mappings
+* X Axis = axis(0+,0-)
+* Y Axis = axis(1+,1-) \
+Right Analog Axis Configuration mappings
+* Left = axis(2-)
+* Right = axis(2+)
+* Down = axis(3+)
+* Up = axis(3-)
