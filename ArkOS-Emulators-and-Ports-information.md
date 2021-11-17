@@ -788,7 +788,7 @@ Instructions: You must have a copy of Iconoclasts for Linux.
 Then just start Iconoclast from Ports in the emulationstation menu. \
 Notes:  **This game is best played on devices with a 640x480 screen resolution or higher!** \
 
-Thanks to [JohnnyonFlame](https://github.com/JohnnyonFlame/BoxofPatches) for the porting work and the the necessary packaging to allow this game to run on the rk3326 platform. 
+Thanks to JohnnyonFlame for [gl4es](https://github.com/ptitSeb/gl4es/pull/362) and the [necessary packaging](https://github.com/JohnnyonFlame/BoxofPatches) to allow this game to run on the rk3326 platform. 
 
 ### Maldita Castilla (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Maldita Castilla files are already included and ready to go.  Just start Maldita Castilla from ports in the emulationstation menu. \
