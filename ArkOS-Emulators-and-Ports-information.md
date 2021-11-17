@@ -777,6 +777,19 @@ Notes: Thanks to [thrimbor](https://github.com/thrimbor/Hurrican) for the Hurric
 Instructions: Hydra Castle Labyrinth files are already included and ready to go.  Just start Hydra Castle Labyrinth from Ports in the emulationstation menu. \
 Notes: Thanks to [ptitSeb](https://github.com/ptitSeb/hydracastlelabyrinth) for the SDL port of this game that makes this possible on this platform.
 
+### Iconoclasts (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You must have a copy of Iconoclasts for Linux.
+- For **Steam** or **Preinstalled GOG**:
+   - Copy data into the ports/iconoclasts/gamedata folder
+   - Be sure the folder contains subfolders named 32, 64 and data
+- Alternatively, from GOG's self-installer:
+   - Rename the installer (e.g. `iconoclasts_1_15_chinese_24946.sh`) extension from .sh to .gz
+   - Then use 7zip to open the installer and grab the contents of the game folder (bin32, bin64, data and Assets.dat) and place it in the ports/iconoclasts/gamedata folder \
+Then just start Iconoclast from Ports in the emulationstation menu. \
+Notes:  **This game is best played on devices with a 640x480 screen resolution or higher!** \
+
+Thanks to [JohnnyonFlame](https://github.com/JohnnyonFlame/BoxofPatches) for the porting work and the the necessary packaging to allow this game to run on the rk3326 platform. 
+
 ### Maldita Castilla (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Maldita Castilla files are already included and ready to go.  Just start Maldita Castilla from ports in the emulationstation menu. \
 Notes: Thanks to [Locomalito](https://locomalito.com/maldita_castilla.php) for creating this game and make it available for free.
