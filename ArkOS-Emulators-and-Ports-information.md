@@ -833,6 +833,10 @@ Notes: Thanks to [matrefeytontias](https://github.com/matrefeytontias/nKaruga) f
 Instructions: You'll need to add your own full version NAM.GRP and NAM.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-redneck1/gamedata folder.  Then you should be able to start NAM from the emulationstation menu. \
 Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the Rednukem engine that makes this possible.  Also thanks to [romadu](https://github.com/romadu/NBlood) for the porting work for the rk3326 platform.
 
+### OpenClaw (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: OpenClaw files are already included and ready to go.  Just start Openclaw from Ports in the emulationstation menu. \
+Notes: Thanks to [Petr Jašíček](https://github.com/pjasicek/OpenClaw) for creating the opensource port that makes this possible.  Also thanks to Cebion for the porting work for the rk3326 platform.
+
 ### OpenJazz (Jazz Jackrabbit)(Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Add the dos game files to the roms/ports/openjazz/gamedata/ folder then start OpenJazz from Ports in the emulationstation menu. \
 Notes: Thanks to [AlisterT](https://github.com/AlisterT/openjazz) for creating the opensource port that makes this possible.  Also thanks to [Jetup13](https://github.com/Jetup13/openjazz-oga) for the porting work for the rk3326 platform.
