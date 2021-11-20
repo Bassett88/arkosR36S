@@ -790,6 +790,10 @@ Notes:  **This game is best played on devices with a 640x480 screen resolution o
 
 Thanks to JohnnyonFlame for [gl4es](https://github.com/ptitSeb/gl4es/pull/362) and the [necessary packaging](https://github.com/JohnnyonFlame/BoxofPatches) to allow this game to run on the rk3326 platform. 
 
+### Invaders (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You need to provide 4 roms (invaders.e, invaders.f, invaders.g, invaders.h) from a MAME 0.78 invaders.zip romset to the invaders/inv1 folder.  The MAME2003 version should work as well. Then start Invaders from Ports in the emulationstation menu. \
+Notes: Thanks to [loadzero](https://github.com/loadzero/si78c) for the memory accurate reimplementation of this game.  Also thanks to romadu for the packaging for portmaster.
+
 ### Maldita Castilla (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Maldita Castilla files are already included and ready to go.  Just start Maldita Castilla from ports in the emulationstation menu. \
 Notes: Thanks to [Locomalito](https://locomalito.com/maldita_castilla.php) for creating this game and make it available for free.
@@ -876,6 +880,10 @@ Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the Rednukem e
 ### Return to Castle Wolfenstein (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own pak0.pk3, sp_pak1.pk3, sp_pak2.pk3, and sp_pak3.pk3 to the ports/iortcw/main folder.  The Steam version seems to work best as it's patched for Linux use already.  Then you should be able to start Return to Castle Wolfenstein from the emulationstation menu. \
 Notes: Thanks to [Donny Springer, Zack Middleton, James Canete and other contributors](https://github.com/iortcw/iortcw) for this engine.  Also thanks to [JohnnyonFlame](https://github.com/JohnnyonFlame/handheld-iortcw) for the porting work for the rk3326 platform and romadu for the packaging for portmaster.
+
+### RVGL (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Necessary files will be downloaded and installed upon initial launch while connected to the internet.  Just start RVGL from Ports in the emulationstation menu. You can also manually download the needed files from [Re-Volt I/O](https://re-volt.io/downloads/misc)\
+Notes: Thanks to the [RV Team](https://rvgl.re-volt.io/) for this cross-platform rewrite / port of Re-Volt.  Also thanks to romadu for the packaging for portmaster.
 
 ### Rick Dangerous (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Rick Dangerous files are already included and ready to go.  Just start Rick Dangerous from Ports in the emulationstation menu. \
