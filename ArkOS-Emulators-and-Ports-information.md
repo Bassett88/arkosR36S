@@ -792,7 +792,7 @@ Thanks to JohnnyonFlame for [gl4es](https://github.com/ptitSeb/gl4es/pull/362) a
 
 ### Invaders (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You need to provide 4 roms (invaders.e, invaders.f, invaders.g, invaders.h) from a MAME 0.78 invaders.zip romset to the invaders/inv1 folder.  The MAME2003 version should work as well. Then start Invaders from Ports in the emulationstation menu. \
-Notes: Thanks to [loadzero](https://github.com/loadzero/si78c) for the memory accurate reimplementation of this game.  Also thanks to romadu for the packaging for portmaster.
+Notes: Thanks to [loadzero](https://github.com/loadzero/si78c) for the memory accurate reimplementation of this game.  Also thanks to [romadu](https://github.com/romadu/si78c) for the porting work for the rk3326 platform and packaging for portmaster.
 
 ### Maldita Castilla (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Maldita Castilla files are already included and ready to go.  Just start Maldita Castilla from ports in the emulationstation menu. \
@@ -965,13 +965,17 @@ Notes: Thanks to [Muzychenko Andrey](https://github.com/k4zmu2a/SpaceCadetPinbal
 
 ### Spelunky (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Spelunky files are already included and ready to go.  Just start Spelunky from Ports in the emulationstation menu.
-Notes: Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
+Notes: Thanks to [ptitSeb](https://github.com/ptitSeb/box86) for box86. \
 Thanks to [yancharkin](https://github.com/yancharkin/SpelunkyClassicHD) for the updated source build.
+
+### (Coming Soon) SRB2 (Sonic Robo Blast 2) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Sonic Robo Blast 2 files are already included and ready to go.  Just start SRB2 from Ports in the emulationstation menu. \
+Notes: Thanks to [Sonic Team Junior](https://github.com/STJr/SRB2) for creating this opensource fan game.  Also thanks to romadu for the packaging for portmaster.
 
 ### Super Mario War (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Super Mario War files are already included and ready to go.  Just start Super Mario War from Ports in the emulationstation menu.
 
-**Netplay**: There's a netplay feature available with the portmaster version that support network play between multiple units.  According to the author ([mmatyas](https://github.com/mmatyas/supermariowar/blob/master/docs/netplay.md)) of this feature, it is very much experimental so performance will vary depending on a a number of factors not limited to network latency, connection quality (2.4Ghz vs 5Ghz, vs Wired connection) and if attempting to play over Internet, lag and disconnects.  To use this feature: you can do the following:
+**Netplay**: There's a netplay feature available with the portmaster version that supports network play between multiple units.  According to the author ([mmatyas](https://github.com/mmatyas/supermariowar/blob/master/docs/netplay.md)) of this feature, it is very much experimental so performance will vary depending on a a number of factors not limited to network latency, connection quality (2.4Ghz vs 5Ghz, vs Wired connection) and if attempting to play over Internet, lag and disconnects.  To use this feature: you can do the following:
 
 1. One of players has to run the server.  This can be done from the netplay menu provided when you launch Super Mario War from the PortMaster version.
 1. Server IPs can be added from the netplay menu from within settings.  The netplay menu will allow you to easily set Server 1 as your internal IP address, Server 2 as your external IP address.  You can also set alternative addresses for these servers as well.
