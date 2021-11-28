@@ -614,7 +614,7 @@ Bios: None
 Emulator: (**[ecwolf](https://bitbucket.org/ecwolf/ecwolf)**) lr-ecwolf
 Rom Folder: wolf \
 Extensions: .wolf .WOLF \
-Bios: None
+Bios: None \
 Notes: \
 1. Copy your Wolfenstein 3D, Spear of Destiny, or Super Noah's Ark 3D dos folder into the wolf rom folder.  Make sure you add them as their own subfolder within the wolf roms folder. Run the **Scan_for_new_games.wolf** script from within Emulationstation to create the proper shortcuts for your games.
 2. If while using the Retroarch ecwolf core you find you can't start Wolfenstein, make sure there's only one .exe in the Wolfenstein dos subfolder.  Files like catalog.exe should be deleted from this subfolder.
