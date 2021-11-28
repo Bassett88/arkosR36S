@@ -23,18 +23,17 @@
 21. [How do I turn on the accessibility features of Retroarch?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-turn-on-the-text-to-speech-accessibility-feature-of-retroarch)
 22. [How do I get out of kiosk or kid UI mode?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-get-out-of-kiosk-or-kid-ui-mode)
 23. [How do I mount a USB drive for copying and moving files?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-mount-a-usb-drive-for-copying-and-moving-files)
-24. [Is it possible for Emulationstation to be fullscreen?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-is-it-possible-for-emulationstation-to-be-fullscreen)
-25. [How do I change the boot logo?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-change-the-boot-logo)
-26. [How does the low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-does-the-low-battery-indicator-work)
-27. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-does-the-movievideo-player-work)
-28. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-where-are-game-saves-and-savestates-stored)
-29. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-where-do-i-put-psp-dlcs)
-30. [Can the power LED be completely turned off via software?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#a-no--this-led-can-only-be-changed-from-green-to-red-and-back-again--it-can-not-be-completely-turned-off-via-software)
-31. [I've added the roms to the appropriate folder, but once I the SD card inside the console it doesn't seem to find my roms.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-ive-added-the-roms-to-the-appropriate-folder-but-once-i-put-the-sd-card-inside-the-console-it-doesnt-seem-to-find-my-roms)
-32. [How do I generate .m3u files for PS1 games in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
-33. [I have duplicate games showing for PS1.  How do I eliminate the duplicates?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-i-have-duplicate-games-showing-for-ps1--how-do-i-eliminate-the-duplicates)
-34. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-what-is-bart-and-how-do-i-access-it)
-35. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
+24. [How do I change the boot logo?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-change-the-boot-logo)
+25. [How does the low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-does-the-low-battery-indicator-work)
+26. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-does-the-movievideo-player-work)
+27. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-where-are-game-saves-and-savestates-stored)
+28. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-where-do-i-put-psp-dlcs)
+29. [Can the power LED be completely turned off via software?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#a-no--this-led-can-only-be-changed-from-green-to-red-and-back-again--it-can-not-be-completely-turned-off-via-software)
+30. [I've added the roms to the appropriate folder, but once I the SD card inside the console it doesn't seem to find my roms.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-ive-added-the-roms-to-the-appropriate-folder-but-once-i-put-the-sd-card-inside-the-console-it-doesnt-seem-to-find-my-roms)
+31. [How do I generate .m3u files for PS1 games in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
+32. [I have duplicate games showing for PS1.  How do I eliminate the duplicates?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-i-have-duplicate-games-showing-for-ps1--how-do-i-eliminate-the-duplicates)
+33. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-what-is-bart-and-how-do-i-access-it)
+34. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
@@ -398,17 +397,6 @@ Using the left joystick (NOT THE DPAD!) do up, up, down, down, left, right, left
 3. If the USB drive has been successfully mounted, you will see a notification on the screen that it's been mounted to /mnt/usbdrive.  If not, double check that you plugged in the drive correctly and that the file system on it is not corrupted and is one that is supported as listed in step 1 above.
 4. You can now use File Manager to navigate to /mnt/usbdrive to access the mounted USB drive to copy and/or move files between it and ArkOS.
 5. When you're done copying and/or moving files within File Manager, be sure to go back to to Options and select **USB Drive Unmount** before unplugging your drive or you may risk corrupting the USB drive's file system.
-
-## Q. Is it possible for Emulationstation to be fullscreen?
-### A. Starting with the 02/27/2021 update for Arkos, You can switch to another version of Emulationstation that is fullscreen by doing the following:
-
-1. Go to the Options Section just after ScummVM and before Retroarch and click the A button.
-2. Click on Advanced.
-3. Then click on ES FULLSCREEN.
-
-Notes:
-- If you ever want to switch back to the original Emulationstation, repeat steps 1 and 2 above and then click on ES HEADER.
-- With the Fullscreen version, battery life information and wifi status is available from the start menu.
 
 ## Q. How do I change the boot logo?
 ### A. The boot logo is located in the fat32 boot partition.  It is named logo.bmp.  
