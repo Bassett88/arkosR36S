@@ -659,7 +659,8 @@ Notes: Thanks to Jonathan Clark, Dave Taylor and the rest of the Crack Dot Com t
 ### AM2R (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: AM2R files are already included and ready to go.  Just start AM2R from Ports in the emulationstation menu. \
 Note: **For the PortMaster version, it's using an updated version that requires the android apk.  You'll need to source your own am2r android apk and place it into the ports/am2r/gamedata folder.  Make sure it is named am2r.apk.  If need be, just rename the am2r apk you source to am2r.apk.  The name is case sensitive!** \
-Notes: Thanks to JohnnyonFlame for the [droidports](https://github.com/JohnnyonFlame/droidports) loader that makes this possible.
+Notes: Thanks to JohnnyonFlame for the [droidports](https://github.com/JohnnyonFlame/droidports) loader that makes this possible. \
+You can donate towards JohnnyonFlame's work [here](https://ko-fi.com/johnnyonflame)
 
 ### Blake Stone Aliens of Gold (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Includes the shareware files.  You can also add your own full version Blake Stone Aliens of Gold files to the ports/bstone-aog/gamedata/alien_of_gold folder.  Just start Blake Stone - Aliens of Gold from Ports in the emulationstation menu. \
@@ -734,7 +735,8 @@ Notes: Thanks to [Ihar Hubchyk](https://github.com/ihhub/fheroes2) for the Free 
 Instructions: You must have a copy of Freedom Planet for Linux.  You'll need the contents of the Freedom.Planet/game folder to be copied into the freedomplanet/gamedata folder of your sd card.  Be sure the freedomplanet/gamedata folder on you sd card contains subfolders named bin32, bin64 and Data.  The runtime folder and the run.sh file is not needed and should be left out or it will cause a double entry for Freedom Planet in the ports section of Emulationstation.  There should also be a filed named Assets.dat in freedomplanet/gamedata as well.  Then run Freedom Planet from the Emulationstation ports menu. \
 Note: This game can take a minute or two to initially load. \
 Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
-Thanks to JohnnyonFlame for gl4es and the the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
+Thanks to JohnnyonFlame for gl4es and the the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks) \
+You can donate towards JohnnyonFlame's work [here](https://ko-fi.com/johnnyonflame)
 
 ### Half-Life 1 (RG351P/M Only) 
 Instructions: Only works with the full version of Half life 1.
@@ -788,7 +790,8 @@ Instructions: You must have a copy of Iconoclasts for Linux.
 Then just start Iconoclast from Ports in the emulationstation menu. \
 Notes:  **This game is best played on devices with a 640x480 screen resolution or higher!** \
 
-Thanks to JohnnyonFlame for [gl4es](https://github.com/ptitSeb/gl4es/pull/362) and the [necessary packaging](https://github.com/JohnnyonFlame/BoxofPatches) to allow this game to run on the rk3326 platform. 
+Thanks to JohnnyonFlame for [gl4es](https://github.com/ptitSeb/gl4es/pull/362) and the [necessary packaging](https://github.com/JohnnyonFlame/BoxofPatches) to allow this game to run on the rk3326 platform. \
+You can donate towards JohnnyonFlame's work [here](https://ko-fi.com/johnnyonflame)
 
 ### Invaders (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You need to provide 4 roms (invaders.e, invaders.f, invaders.g, invaders.h) from a MAME 0.78 invaders.zip romset to the invaders/inv1 folder.  The MAME2003 version should work as well. Then start Invaders from Ports in the emulationstation menu. \
@@ -879,7 +882,8 @@ Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the Rednukem e
 
 ### Return to Castle Wolfenstein (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own pak0.pk3, sp_pak1.pk3, sp_pak2.pk3, sp_pak3.pk3 and sp_pak4.pk3 to the ports/iortcw/main folder.  The Steam version seems to work best as it's patched for Linux use already.  Then you should be able to start Return to Castle Wolfenstein from the emulationstation menu. \
-Notes: Thanks to [Donny Springer, Zack Middleton, James Canete and other contributors](https://github.com/iortcw/iortcw) for this engine.  Also thanks to [JohnnyonFlame](https://github.com/JohnnyonFlame/handheld-iortcw) for the porting work for the rk3326 platform and romadu for the packaging for portmaster.
+Notes: Thanks to [Donny Springer, Zack Middleton, James Canete and other contributors](https://github.com/iortcw/iortcw) for this engine.  Also thanks to [JohnnyonFlame](https://github.com/JohnnyonFlame/handheld-iortcw) for the porting work for the rk3326 platform and romadu for the packaging for portmaster. \
+You can donate towards JohnnyonFlame's work [here](https://ko-fi.com/johnnyonflame)
 
 ### RVGL (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Necessary files will be downloaded and installed upon initial launch while connected to the internet.  Just start RVGL from Ports in the emulationstation menu. You can also manually download the needed files from [Re-Volt I/O](https://re-volt.io/downloads/misc)\
@@ -906,12 +910,12 @@ Instructions: You must have a copy of Shovel Knight Treasure Trove for Linux.  Y
 1. Be sure the folder contains subfolders named 32, 64 and data.  There should also be a filed named ShovelKnight.
 2. Copy the shovelknight folder to the roms/ports folder on your device.
 3. For a guide and video of what to do, check out Retro Game Corps' video guide [here](https://retrogamecorps.com/2021/05/09/shovel-knight-treasure-trove-on-retro-handheld-devices/)
-4. The Shovel Knight.sh file included already will work fine, however, if you follow Retro Game Corp's video guide, be sure to not use the Shovel Knight.sh file from there if you're on a RK2020 or OGA.
 
 Notes: **For PortMaster version, copy your Shovel Knight Treasure Trove for Linux folder to the ports/shovelknight/gamedata folder.  You should have ports/shovelknight/gamedata/shovelknight folder structure with additional subfolders such as 32, 64, and data within ports/shovelknight/gamedata/shovelknight.  Once done, just run Shovel Knight.sh.  DO NOT OVERWRITE THE Shovel Knight.sh file already included with the one from Retro Game Corp's video or it may not work correctly.  If you do this, just reinstall Shovel Knight from PortMaster.**
 
 Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
-Thanks to JohnnyonFlame for gl4es and the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks)
+Thanks to JohnnyonFlame for gl4es and the necessary packaging to allow this game to run on ArkOS. (https://github.com/JohnnyonFlame/gl4es/tree/sk_hacks) \
+You can donate towards JohnnyonFlame's work [here](https://ko-fi.com/johnnyonflame)
 
 ### SDLPoP (Prince of Persia) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: The game is an open-source port and is already included and ready to go.  Just start SDLPoP from Ports in the emulationstation menu. \
@@ -997,7 +1001,8 @@ Notes: Thanks to [XProger](https://github.com/XProger/OpenLara) for the OpenLara
 Instructions: You'll need to provide your own Undertale Linux version assets.  You can purchase this from GoG for under $10.  If you purchase this from GoG, you'll need to download the Linux version and it will have a .sh extension.  Just change the .sh to .gz and use 7zip to open the file, then go to the \data\noarch\game\assets folder and copy all of it's contents to your /roms/ports/undertale/assets folder.  Then you should be able to launch Undertale from Ports in the emulationstation menu. \
 Notes: It's been reported that version 1.0.8 seems to work best with this setup. \
 Thanks to ptitSeb for box86 (https://github.com/ptitSeb/box86) \
-Thanks to JohnnyonFlame for the necessary modification to allow this game to run on ArkOS.
+Thanks to JohnnyonFlame for the necessary modification to allow this game to run on ArkOS. \
+You can donate towards JohnnyonFlame's work [here](https://ko-fi.com/johnnyonflame)
 
 ### Ur-Quan Masters (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Ur-Quan Masters files are already included and ready to go.  Just start UQM from Ports in the emulationstation menu. \
