@@ -937,6 +937,10 @@ You can donate towards JohnnyonFlame's work [here](https://ko-fi.com/johnnyonfla
 Instructions: The game is an open-source port and is already included and ready to go.  Just start SDLPoP from Ports in the emulationstation menu. \
 Notes: Thanks to [NagyD](https://github.com/NagyD/SDLPoP) for the open-source port of this game which makes this possible.
 
+### Ski Jump 3 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Ski Jump 3 files are already included and ready to go.  Just start Skijump3 from Ports in the emulationstation menu. \
+Notes: Thanks to [suomipelit](https://github.com/suomipelit/skijump3-sdl) for creating this SDL2 ports.  Also thanks to cebion for the porting work for the rk3326 platform.
+
 ### Sonic 1 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You must have a copy of the Sonic The Hedgehog Classic Android APK then do the following:
 1. Using 7Zip, open the apk and extract /assets/Data.rsdk.xmf.
