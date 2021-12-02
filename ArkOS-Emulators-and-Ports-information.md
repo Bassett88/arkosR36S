@@ -662,6 +662,10 @@ Note: **For the PortMaster version, it's using an updated version that requires 
 Notes: Thanks to JohnnyonFlame for the [droidports](https://github.com/JohnnyonFlame/droidports) loader that makes this possible. \
 You can donate towards JohnnyonFlame's work [here](https://ko-fi.com/johnnyonflame)
 
+### Bermuda Syndrome (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You will need the original files of the PC release or PC demo copied to the ports/bermuda/DATA folder.  Then just start Bermuda Syndrome.sh from Ports in the Emulationstation. \
+Notes: Thanks to [cyxx](https://github.com/cyxx/bermuda) for the Bermuda Syndrome engine reimplementation that makes this possible.  Also thanks to [jetup](https://github.com/Jetup13/bermuda-oga) for the porting work for the rk3326 platform.
+
 ### Blake Stone Aliens of Gold (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Includes the shareware files.  You can also add your own full version Blake Stone Aliens of Gold files to the ports/bstone-aog/gamedata/alien_of_gold folder.  Just start Blake Stone - Aliens of Gold from Ports in the emulationstation menu. \
 Notes: Thanks to [Boris I. Bendovsky](https://github.com/bibendovsky/bstone) for creating this unofficial source port.  Also thanks to Cebion and romadu for the porting work for the rk3326 platform.
@@ -726,6 +730,10 @@ Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the Rednukem e
 ### Exhumed (aka PowerSlave) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own full version STUFF.DAT, DEMO.VCR and BOOK.MOV files to the ports/Exhumed folder.  Then just start Exhumed from Ports in the Emulationstation. \
 Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the PCExhumed engine that makes this possible.  Also thanks to [romadu](https://github.com/romadu/NBlood) for the porting work for the rk3326 platform.
+
+### F2bgl (Fade to Black) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You will need the original files of the PC release or PC demo copied to the ports/f2bgl folder.  Then just start F2bgl.sh from Ports in the Emulationstation. \
+Notes: Thanks to [cyxx](https://github.com/cyxx/f2bgl) for the Fade to Black engine reimplementation that makes this possible.  Also thanks to romadu for the porting work for the rk3326 platform.
 
 ### Free Heroes of Might and Magic II (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Just add the data and maps folders from your full version GOG Heroes of Might and Magic II directory or download the demo files from [here](https://archive.org/download/HeroesofMightandMagicIITheSuccessionWars_1020/h2demo.zip) to the ports/fheroes2 folder or just launch Fheroes2 from the ports menu in Emulationstation and it will download the demo files and install them automatically.  Make sure to have wifi on for this to work! \
@@ -880,6 +888,10 @@ Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the Rednukem e
 Instructions: You'll need to add your own full version REDNECK.GRP and REDNECK.RTS and .CON files and optionally CD audio tracks as OGG file in the format trackXX.ogg (where XX is the track number) to the ports/rednukem-redneck2/gamedata folder.  Then you should be able to start Redneck Rampage Rides Again from the emulationstation menu. \
 Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the Rednukem engine that makes this possible.  Also thanks to [romadu](https://github.com/romadu/NBlood) for the porting work for the rk3326 platform.
 
+### Reminiscence (Flashback) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You will need the original files of the PC version copied to ports/reminiscence/gamedata folder.  Then you should be able to start REminiscence from the Ports section in the emulationstation menu. \
+Notes: Thanks to [Alex Chermenin](https://github.com/chermenin/REminiscence) for the Reminiscence engine that makes this possible.  Also thanks to [Jetup](https://github.com/Jetup13/REminiscence-oga) and romadu for the porting work for the rk3326 platform.
+
 ### Return to Castle Wolfenstein (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own pak0.pk3, sp_pak1.pk3, sp_pak2.pk3, sp_pak3.pk3 and sp_pak4.pk3 to the ports/iortcw/main folder.  The Steam version seems to work best as it's patched for Linux use already.  Then you should be able to start Return to Castle Wolfenstein from the emulationstation menu. \
 Notes: Thanks to [Donny Springer, Zack Middleton, James Canete and other contributors](https://github.com/iortcw/iortcw) for this engine.  Also thanks to [JohnnyonFlame](https://github.com/JohnnyonFlame/handheld-iortcw) for the porting work for the rk3326 platform and romadu for the packaging for portmaster. \
@@ -972,9 +984,13 @@ Instructions: Spelunky files are already included and ready to go.  Just start S
 Notes: Thanks to [ptitSeb](https://github.com/ptitSeb/box86) for box86. \
 Thanks to [yancharkin](https://github.com/yancharkin/SpelunkyClassicHD) for the updated source build.
 
-### (Coming Soon) SRB2 (Sonic Robo Blast 2) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+### SRB2 (Sonic Robo Blast 2) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Sonic Robo Blast 2 files are already included and ready to go.  Just start SRB2 from Ports in the emulationstation menu. \
 Notes: Thanks to [Sonic Team Junior](https://github.com/STJr/SRB2) for creating this opensource fan game.  Also thanks to romadu for the packaging for portmaster.
+
+### SRB2Kart (Sonic Robo Blast 2 Kart) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Sonic Robo Blast 2 files are already included and ready to go.  Just start Sonic Robo Blast 2 Kart from Ports in the emulationstation menu. \
+Notes: Thanks to [Sonic Team Junior](https://github.com/STJr/Kart-Public) for creating this opensource fan game.  Also thanks to romadu for the packaging for portmaster.
 
 ### Super Mario War (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Super Mario War files are already included and ready to go.  Just start Super Mario War from Ports in the emulationstation menu.
