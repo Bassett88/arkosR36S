@@ -909,6 +909,10 @@ Notes: Thanks to [r-type](https://github.com/r-type/xrick-libretro) for creating
 Instructions: Demo files are already included.  You can also add your full version files to the ports/rott folder.  Just start ROTT from Ports in emulationstation menu. \
 Notes: Thanks to [icculus](https://icculus.org/rott/) for the source port of this game.  Also thanks to romadu for the porting work for the rk3326 platform.
 
+### Rigel Engine (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You'll need to add your own full game files to the ports/RigelEngine/ folder.  Then just start RigelEngine from Ports in emulationstation menu. \
+Notes: Thanks to [Lethal Guitar](https://github.com/lethal-guitar/RigelEngine) for the source port of this game.  Also thanks to romadu for the porting work for the rk3326 platform.
+
 ### Rocks 'N' Diamonds (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Rocks 'N' Diamonds files are already included and ready to go.  Just start Rocks N Diamonds from Ports in the emulationstation menu. \
 Notes: Thanks to [Artsoft Entertainment](https://git.artsoft.org/rocksndiamonds.git/) for creating this game and making it available for free.
