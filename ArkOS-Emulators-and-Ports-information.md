@@ -993,11 +993,11 @@ Notes: Thanks to [ptitSeb](https://github.com/ptitSeb/box86) for box86. \
 Thanks to [yancharkin](https://github.com/yancharkin/SpelunkyClassicHD) for the updated source build.
 
 ### SRB2 (Sonic Robo Blast 2) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Sonic Robo Blast 2 files are already included and ready to go.  Just start SRB2 from Ports in the emulationstation menu. \
+Instructions: Sonic Robo Blast 2 files are already included and ready to go.  Just start SRB2 from Ports in the emulationstation menu.  To use mods and addons for SRB2, just add the relevant files to ports/SRB2/conf/.srb2/addons and load them using Add Ons menu item while in the game.  \
 Notes: Thanks to [Sonic Team Junior](https://github.com/STJr/SRB2) for creating this opensource fan game.  Also thanks to romadu for the packaging for portmaster.
 
 ### SRB2Kart (Sonic Robo Blast 2 Kart) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Sonic Robo Blast 2 files are already included and ready to go.  Just start Sonic Robo Blast 2 Kart from Ports in the emulationstation menu. \
+Instructions: Sonic Robo Blast 2 files are already included and ready to go.  Just start Sonic Robo Blast 2 Kart from Ports in the emulationstation menu.  To use mods and addons for SRB2, just add the relevant files to ports/srb2kart/.srb2kart and load them using Add Ons menu item while in the game.\
 Notes: Thanks to [Sonic Team Junior](https://github.com/STJr/Kart-Public) for creating this opensource fan game.  Also thanks to romadu for the packaging for portmaster.
 
 ### Super Mario War (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
