@@ -652,13 +652,13 @@ Bios: None
 Instructions: 2048 files are already included and ready to go.  Just start 2048 from Ports in the emulationstation menu. \
 Notes: Thanks to [Gabriel Cirulli](http://gabrielecirulli.github.io/2048/) for creating this game and thanks to [Libretro](https://github.com/libretro/libretro-2048) for porting this as a retroarch core.
 
-### Aleph-One (Marathon/Marathon 2/Marathon Infinity) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Data files need to be downloaded from [here](https://alephone.lhowon.org/scenarios.html) and stored in the appropriate sub-folder of ports/alephone/gamedata, for example with Marathon Infinity, extract the file so you have three subfolders ports/alephone/gamedata/Marathon Infinity/Physics Models, ports/alephone/gamedata/Marathon Infinity/Plugins and ports/alephone/gamedata/Marathon Infinity/Scripts plus the Map.imgA, Images.sceA, Shapes.shpA, Sounds.sndA and Music.ogg files.  Then just start Marathon, Marathon 2 or Marathon Infinity from Ports in the emulationstation menu. \
-Notes: Thanks to the [Aleph-One-Marathon Team](https://github.com/Aleph-One-Marathon/alephone) for creating this opensource engine.  Also thanks to romadu for the porting work for the rk3326 platform.
-
 ### Abuse (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: The game is public domain so the files are already included and ready to go.  Just start Abuse from Ports in the emulationstation menu. \
 Notes: Thanks to Jonathan Clark, Dave Taylor and the rest of the Crack Dot Com team for making this 2D game and releasing it as public domain.  Thanks to [Xenoveritas](https://github.com/Xenoveritas/abuse) for porting it so that it's easier to build.  Also thanks to [romadu](https://github.com/romadu/abuse) for the porting work for the rk3326 platform.
+
+### Aleph-One (Marathon/Marathon 2/Marathon Infinity) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: Data files need to be downloaded from [here](https://alephone.lhowon.org/scenarios.html) and stored in the appropriate sub-folder of ports/alephone/gamedata, for example with Marathon Infinity, extract the file so you have three subfolders ports/alephone/gamedata/Marathon Infinity/Physics Models, ports/alephone/gamedata/Marathon Infinity/Plugins and ports/alephone/gamedata/Marathon Infinity/Scripts plus the Map.imgA, Images.sceA, Shapes.shpA, Sounds.sndA and Music.ogg files.  Then just start Marathon, Marathon 2 or Marathon Infinity from Ports in the emulationstation menu. \
+Notes: Thanks to the [Aleph-One-Marathon Team](https://github.com/Aleph-One-Marathon/alephone) for creating this opensource engine.  Also thanks to romadu for the porting work for the rk3326 platform.
 
 ### AM2R (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: AM2R files are already included and ready to go.  Just start AM2R from Ports in the emulationstation menu. \
