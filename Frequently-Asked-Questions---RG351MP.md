@@ -121,7 +121,7 @@ If you need to be able to use a mouse for a particular game, do the following:
 - A: Button 1
 - B: Button 2
 - Y: Button 3
-- R2: Pause
+- R1: Pause
 - Select+Start: Exit Daphne
 
 **American Laser Games (Hypseus-singe)**
