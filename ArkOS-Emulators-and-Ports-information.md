@@ -735,6 +735,10 @@ Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the Rednukem e
 Instructions: You'll need to add your own full version STUFF.DAT, DEMO.VCR and BOOK.MOV files to the ports/Exhumed folder.  Then just start Exhumed from Ports in the Emulationstation. \
 Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the PCExhumed engine that makes this possible.  Also thanks to [romadu](https://github.com/romadu/NBlood) for the porting work for the rk3326 platform.
 
+### Exult (aka Ultima 7) (Coming soon to [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You'll need A copy of the black gate and/or serpent isle added to ports/exult/data/blackgate and/or ports/exult/data/serpentisle.  If done correctly there will be a ports/exult/data/blackgate/static and ports/exult/data/serpentisle/static folder.  Then just start Exult-keyring or Exult-nokeyring from Ports in the Emulationstation. \
+Notes: Thanks to the [Exult Team](https://github.com/exult/exult) for the Exult engine that makes this possible.  Also thanks to nl255 for the porting work for the rk3326 platform.
+
 ### F2bgl (Fade to Black) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You will need the original files of the PC release or PC demo copied to the ports/f2bgl folder.  Then just start F2bgl.sh from Ports in the Emulationstation. \
 Notes: Thanks to [cyxx](https://github.com/cyxx/f2bgl) for the Fade to Black engine reimplementation that makes this possible.  Also thanks to romadu for the porting work for the rk3326 platform.
