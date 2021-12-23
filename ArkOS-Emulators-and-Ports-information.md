@@ -180,7 +180,8 @@ Emulator: (**[lzdoom](https://github.com/christianhaitian/lzdoom) standalone**) 
 Rom Folder: doom \
 Extensions: .wad .WAD .sh .SH .doom .Doom \
 Bios: None \
-Notes: In order to use prboom, you'll need prboom.wad in the /roms/doom folder.  You can copy it from the /roms/ports/doom folder to that location or simply download it from [here](https://github.com/christianhaitian/arkos/raw/main/12162020/prboom.wad) and put it in that location.  For information on additional doom loading capabilities (such as mods and deh files), check [here](https://github.com/plaidman/rgb10max/wiki/doom-loader) \
+Notes: In order to use prboom, you'll need prboom.wad in the /roms/doom folder.  You can copy it from the /roms/ports/doom folder to that location or simply download it from [here](https://github.com/christianhaitian/arkos/raw/main/12162020/prboom.wad) and put it in that location. \
+For information on additional doom loading capabilities (such as mods and deh files), check [here](https://github.com/plaidman/rgb10max/wiki/doom-loader) \
 You can load IWADs using .doom files.  See [here](https://github.com/plaidman/rgb10max/wiki/doom-loader#format-of-doom-files-in-romsdoom) for more info.
 
 ### Dreamcast
