@@ -33,7 +33,7 @@ Notes:
 ### Amiga 
 Emulator: (**[Amiberry](https://github.com/midwan/amiberry)**) lr-puae lr-uae4arm \
 Rom Folder: amiga \
-Extensions: .adf .ADF .hdf .HDF .lha .LHA \
+Extensions: .adf .ADF .hdf .HDF .lha .LHA .zip .ZIP \
 Bios: kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)
 
 ### Amiga CD32
@@ -45,12 +45,12 @@ Bios: kick34005.A500 and kick40063.A600 and kick40068.A1200
 ### Amstrad CPC
 Emulator: (**lr-crocods**) lr-cap32 \
 Rom Folder: amstradcpc \
-Extensions: .cpc .CPC .dsk .DSK .zip .ZIP \
+Extensions: .cpc .CPC .dsk .DSK .zip .ZIP .7z .7Z \
 Bios: None
 
 ### Arcade
-Emulator: (**lr-fbneo**) fbalpha2012 fbalpha2016 fbalpha2018 \
-Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well) \
+Emulator: (**lr-fbneo**) lr-fbalpha2012 lr-fbalpha2016 lr-fbalpha2018 lr-mame (Current) \
+Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well). Mame required rom set version: MAME 0.235 \
 Rom Folder: arcade \
 Extensions: .zip .ZIP .7z .7Z .cue .CUE \
 Bios: pgm.zip (for PGM games only like Knights of Valour and DoDonPachi)
@@ -72,20 +72,20 @@ Note: Thanks to bignella for testing and compiling a list of the performance of 
 ### Atari 800
 Emulator: lr-atari800 \
 Rom Folder: atari800 \
-Extensions: .atr .ATR .rom .ROM .zip .ZIP \
+Extensions: .atr .ATR .rom .ROM .zip .ZIP .7z .7Z \
 Bios: ATARIOSA.ROM and ATARIOSB.ROM and ATARIBAS.ROM \
 Note: .rom seems to have issues with the libretro atari800 as of 11/13/2021.  .atr still work as well as .zip files containing .atr and .xex seem to work for the most part.
 
 ### Atari 2600
 Emulator: lr-stella \
 Rom Folder: atari2600 \
-Extensions: .a26 .A26 .bin .BIN .zip .ZIP \
+Extensions: .a26 .A26 .bin .BIN .zip .ZIP .7z .7Z \
 Bios: None
 
 ### Atari 5200
 Emulator: lr-atari800 \
 Rom Folder: atari5200 \
-Extensions: .a52 .A52 .zip .ZIP \
+Extensions: .a52 .A52 .zip .ZIP .7z .7Z \
 Bios: 5200.rom and ATARIBAS.ROM
 
 ### Atari 7800
@@ -101,7 +101,7 @@ Extensions: .j64 .J64 .jag .JAG .rom .ROM .abs .ABS .cof .COF .bin .BIN .prg .PR
 Bios: None
 
 ### Atari Lynx
-Emulator: (**lr-handy**) lr-mednafen_lynx \
+Emulator: (**lr-handy**) lr-mednafen_lynx .7z .7Z \
 Rom Folder: atarilynx \
 Extensions: .lnx .LNX .zip .ZIP \
 Bios: lynxboot.img (optional)
@@ -118,10 +118,10 @@ Rom Folder: atarixegs \
 Extensions: .bin .BIN .rom .ROM .xex .XEX .zip .ZIP  \
 Bios: ATARIXL.ROM and ATARIBAS.ROM 
 
-### Coleco
+### Colecovision
 Emulator: lr-bluemsx  \
 Rom Folder: coleco \
-Extensions: .rom .ROM .ri .RI .mx1 .MX1 .mx2 .MX2 .col .COL .dsk .DSK .cas .CAS .sg .SG .sc .SC .m3u .M3U .zip .ZIP \
+Extensions: .rom .ROM .ri .RI .mx1 .MX1 .mx2 .MX2 .col .COL .dsk .DSK .cas .CAS .sg .SG .sc .SC .m3u .M3U .zip .ZIP .7z .7Z \
 Bios: coleco.rom (Verified working MD5:2C66F5911E5B42B8EBE113403548EEE7) \
 Notes: The blueMSX core requires the 'Databases' and 'Machines' folders from a full installation of blueMSX. \
 You can download the 'Databases' and 'Machines' folders from [an official full standalone blueMSX emulator](http://bluemsx.msxblue.com/download.html) installation. \
@@ -137,7 +137,7 @@ Bios: None
 ### Commodore 64/VIC-20/PET
 Emulator: lr-vice_x64 \
 Rom Folder: c64 \
-Extensons: .d64 .D64 .zip .ZIP .7z .7Z .t64 .T64 .crt .CRT \
+Extensons: .d64 .D64 .zip .ZIP .7z .7Z .t64 .T64 .crt .CRT .prg .PRG .nib .NIB .tap .TAP \
 Bios: None
 
 ### Commodore 128
@@ -178,9 +178,10 @@ Notes: Be aware that within the daphne folder is a roms folder.  That is not an 
 ### Doom
 Emulator: (**[lzdoom](https://github.com/christianhaitian/lzdoom) standalone**) lr-prboom \
 Rom Folder: doom \
-Extensions: .wad .WAD .sh .SH\
+Extensions: .wad .WAD .sh .SH .doom .Doom \
 Bios: None \
-Notes: In order to use prboom, you'll need prboom.wad in the /roms/doom folder.  You can copy it from the /roms/ports/doom folder to that location or simply download it from [here](https://github.com/christianhaitian/arkos/raw/main/12162020/prboom.wad) and put it in that location.  For information on additional doom loading capabilities (such as mods and deh files), check [here](https://github.com/plaidman/rgb10max/wiki/doom-loader)
+Notes: In order to use prboom, you'll need prboom.wad in the /roms/doom folder.  You can copy it from the /roms/ports/doom folder to that location or simply download it from [here](https://github.com/christianhaitian/arkos/raw/main/12162020/prboom.wad) and put it in that location.  For information on additional doom loading capabilities (such as mods and deh files), check [here](https://github.com/plaidman/rgb10max/wiki/doom-loader) \
+You can load IWADs using .doom files.  See [here](https://github.com/plaidman/rgb10max/wiki/doom-loader#format-of-doom-files-in-romsdoom) for more info.
 
 ### Dreamcast
 Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme retrorun retrorun32 \
@@ -204,7 +205,7 @@ Bios: None
 ### EasyRPG
 Emulator: lr-easyrpg \
 Rom Folder: easyrpg \
-Extensions: .easyrpg .EASYRPG (.ldb .LDB prior to 7/28/2021 update)\
+Extensions: .easyrpg .EASYRPG .zip .ZIP (.ldb .LDB prior to 7/28/2021 update) \
 Bios: None \
 Notes: Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.  As of 7/28/2021, you must run the Scan_for_new_games script to create the necessary shortcuts to load EASYRPG games.
 
@@ -253,7 +254,7 @@ Bios: bios.gg (optional)
 ### Genesis/Megadrive
 Emulator: (**lr-genesis_plus_gx**) lr-genesis_plus_gx_wide lr-picodrive \
 Rom Folder: megadrive or genesis \
-Extensions: .68k .68K .mdx .MDX .md .MD .smd .SMD .gen .GEN .bin .BIN .zip .ZIP .7z .7Z \
+Extensions: .68k .68K .mdx .MDX .md .MD .sgd .SGD .smd .SMD .gen .GEN .bin .BIN .zip .ZIP .7z .7Z \
 Bios: bios_MD.bin (optional)
 
 ### Intellivision
@@ -310,9 +311,9 @@ Bios: None \
 Notes: If you want to use the mess core, there's a little more work involved in getting the games to run in which the rom must be named exactly as shown as the software name in the bios/mame/hash/[megaduck.xml](https://github.com/libretro/mame/blob/master/hash/megaduck.xml) file.  For example, Arctic Zone rom must be named arczone.bin.  If it is zipped, it must be named arczone.zip.
 
 ### MSX
-Emulator: (**lr-bluemsx**) lr-fMSX \
+Emulator: (**lr-bluemsx**) lr-fMSX [OpenMSX](https://github.com/openMSX/openMSX) \
 Rom Folder: msx \
-Extensions: .cas .CAS .dsk .DSK .mx1 .MX1 .mx2 .MX2 .rom .ROM .zip .ZIP \
+Extensions: .cas .CAS .dsk .DSK .mx1 .MX1 .mx2 .MX2 .rom .ROM .zip .ZIP .7z .7Z \
 Bios: See this link for more details. https://docs.libretro.com/library/fmsx/#bios
 Notes: The blueMSX core requires the 'Databases' and 'Machines' folders from a full installation of blueMSX. \
 You can download the 'Databases' and 'Machines' folders from [an official full standalone blueMSX emulator](http://bluemsx.msxblue.com/download.html) installation. \
@@ -320,14 +321,15 @@ Get blueMSXv282full.zip near the bottom of the page. \
 Move/Copy the 'Databases' and 'Machines' Folders to the bios folder.
 
 ### MSX2
-Emulator: (**lr-bluemsx**) lr-fMSX \
+Emulator: (**lr-bluemsx**) lr-fMSX [OpenMSX](https://github.com/openMSX/openMSX) \
 Rom Folder: msx2 \
-Extensions: .cas .CAS .dsk .DSK .mx1 .MX1 .mx2 .MX2 .rom .ROM .zip .ZIP \
+Extensions: .cas .CAS .dsk .DSK .mx1 .MX1 .mx2 .MX2 .rom .ROM .zip .ZIP .7z .7Z \
 Bios: See this link for more details. https://docs.libretro.com/library/fmsx/#bios
 Notes: The blueMSX core requires the 'Databases' and 'Machines' folders from a full installation of blueMSX. \
 You can download the 'Databases' and 'Machines' folders from [an official full standalone blueMSX emulator](http://bluemsx.msxblue.com/download.html) installation. \
 Get blueMSXv282full.zip near the bottom of the page. \
-Move/Copy the 'Databases' and 'Machines' Folders to the bios folder.
+Move/Copy the 'Databases' and 'Machines' Folders to the bios folder. \
+Notes: Not all extensions are compatible with the OpenMSX emulator
 
 ### Naomi
 Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme retrorun retrorun32 \
@@ -343,7 +345,7 @@ Notes:
 Emulator: (**lr-fbneo**) lr-fbalpha2012 \
 Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well) \
 Rom Folder: neogeo \
-Extensions: .zip .ZIP .7z .7Z \
+Extensions: .zip .ZIP .7z .7Z .7z .7Z \
 Bios: neogeo.zip \
 Notes: Because neogeo roms can come in different formats (split or non-merged), it's recommended to keep the neogeo.zip bios in the /roms/bios and the /roms/neogeo folder to ensure best compatibility.
 
@@ -357,13 +359,13 @@ Note: More information available [here](https://github.com/libretro/neocd_libret
 ### Neo Geo Pocket
 Emulator: lr-mednafen-ngp (aka lr-beetle-ngp) \
 Rom Folder: ngp \
-Extensions: .ngp .NGP .ngc .NGC .zip .ZIP \
+Extensions: .ngp .NGP .ngc .NGC .zip .ZIP .7z .7Z \
 Bios: None
 
 ### Neo Geo Pocket Color
 Emulator: lr-mednafen-ngp (aka lr-beetle-ngp) \
 Rom Folder: ngpc \
-Extensions: .ngp .NGP .ngc .NGC .zip .ZIP \
+Extensions: .ngp .NGP .ngc .NGC .zip .ZIP .7z .7Z \
 Bios: None
 
 ### Nintendo 64
@@ -389,7 +391,7 @@ Notes: Save files must have an extension of .dsv and they go in the nds/backup f
 ### Nintendo Entertainment System (NES)/Famicom
 Emulator: (**lr-nestopia**) lr-fceumm \
 Rom Folder: nes or famicom \
-Extensions: .nes .NES .zip .ZIP \
+Extensions: .nes .NES .zip .ZIP .7z .7Z \
 Bios: None
 
 ### Odyssey2
@@ -422,7 +424,7 @@ Bios: None
 ### PC Engine/TurboGraphx-16
 Emulator: (**lr-mednafen-pce-fast**) lr-mednafen-pce lr-mednafen-supergrafx \
 Rom Folder: pcengine or turbographx \
-Extensions: .pce .PCE .chd .CHD .zip .ZIP \
+Extensions: .pce .PCE .chd .CHD .zip .ZIP .7z .7Z \
 Bios: None
 
 ### PC Engine CD/TurboGraphx CD
@@ -595,29 +597,34 @@ Bios: None
 ### Vectrex
 Emulator: lr-vecx \
 Rom Folder: vectrex \
-Extensions: .vec .VEC .zip .ZIP \
+Extensions: .vec .VEC .zip .ZIP .7z .7Z \
 Bios: None
 
 ### Virtual Boy
 Emulator: lr-mednafen-vb (aka lr-beetle-vb) \
 Rom Folder: virtualboy \
-Extensions: .vb .VB .vboy .VBOY .zip .zip \
+Extensions: .vb .VB .vboy .VBOY .zip .zip .7z .7Z \
 Bios: None
 
 ### Watara Supervision
 Emulator: lr-potator \
 Rom Folder: supervision
-Extensions: .bin .BIN .zip .ZIP \
+Extensions: .bin .BIN .zip .ZIP .7z .7Z \
 Bios: None
 
 ### Wolfenstein
 Emulator: (**[ecwolf](https://bitbucket.org/ecwolf/ecwolf)**) lr-ecwolf
 Rom Folder: wolf \
-Extensions: .wolf .WOLF \
+Extensions: .wolf .WOLF .ecwolf .ECWOLF \
 Bios: None \
 Notes: \
 1. Copy your Wolfenstein 3D, Spear of Destiny, or Super Noah's Ark 3D dos folder into the wolf rom folder.  Make sure you add them as their own subfolder within the wolf roms folder. Run the **Scan_for_new_games.wolf** script from within Emulationstation to create the proper shortcuts for your games.
-2. If while using the Retroarch ecwolf core you find you can't start Wolfenstein, make sure there's only one .exe in the Wolfenstein dos subfolder.  Files like catalog.exe should be deleted from this subfolder.
+2. If while using the Retroarch ecwolf core you find you can't start Wolfenstein, make sure there's only one .exe in the Wolfenstein dos subfolder.  Files like catalog.exe should be deleted from this subfolder. \
+You can create text .ecwolf files to load mods.  For example, to load the 37 1/2 Encounter mod, you can create a 37.5.ecwolf file in your roms/wolf or roms2/wolf folder and it should contain the following: \
+DATA=WL6 \
+PK3_1=/roms/wolf/37_1_2_Encounter.pk3 \
+PK3_2=/roms/wolf/macmus.pk3 \
+If you using 2 sd cards for the RG351V or RG351MP, replace roms with roms2.
 
 ### WonderSwan
 Emulator: lr-mednafen-wswan (aka lr-beetle-wswan) \
