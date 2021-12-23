@@ -619,8 +619,8 @@ Extensions: .wolf .WOLF .ecwolf .ECWOLF \
 Bios: None \
 Notes: \
 1. Copy your Wolfenstein 3D, Spear of Destiny, or Super Noah's Ark 3D dos folder into the wolf rom folder.  Make sure you add them as their own subfolder within the wolf roms folder. Run the **Scan_for_new_games.wolf** script from within Emulationstation to create the proper shortcuts for your games.
-2. If while using the Retroarch ecwolf core you find you can't start Wolfenstein, make sure there's only one .exe in the Wolfenstein dos subfolder.  Files like catalog.exe should be deleted from this subfolder. \
-You can create text .ecwolf files to load mods.  For example, to load the 37 1/2 Encounter mod, you can create a 37.5.ecwolf file in your roms/wolf or roms2/wolf folder and it should contain the following: \
+2. If while using the Retroarch ecwolf core you find you can't start Wolfenstein, make sure there's only one .exe in the Wolfenstein dos subfolder.  Files like catalog.exe should be deleted from this subfolder.
+3. You can create text .ecwolf files to load mods.  For example, to load the 37 1/2 Encounter mod, you can create a 37.5.ecwolf file in your roms/wolf or roms2/wolf folder and it should contain the following: \
 DATA=WL6 \
 PK3_1=/roms/wolf/37_1_2_Encounter.pk3 \
 PK3_2=/roms/wolf/macmus.pk3 \
