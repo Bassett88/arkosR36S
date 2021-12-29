@@ -38,7 +38,7 @@ More info about this VM is available [here](https://forum.odroid.com/viewtopic.p
 
 install Prereqs:
 
-`sudo apt update`
+`sudo apt update` \
 `sudo apt install -y build-essential debootstrap binfmt-support qemu-user-static`
 
 Then install armhf and arm64 chroots:
