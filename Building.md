@@ -47,14 +47,41 @@ Then install armhf and arm64 chroots:
 
 `sudo qemu-debootstrap --arch arm64 buster /mnt/data/arm64 http://deb.debian.org/debian/`
 
-To get into chroots:
+
+***
+**Optional Note** \
+You can choose to use the newer Bullseye debian stable for your chroots which has a newer gcc, however there's an extra step needed to get the arm64 version going.
+
+Per [this post](https://forum.armbian.com/topic/16740-debootstrap-base-system-second-stage-failed/?do=findComment&comment=130687), you'll need to refresh qemu-user-static using a docker command.  To do this, do the following after installing the prereqs noted above.:
+
+`sudo apt install -y apt-transport-https ca-certificates curl software-properties-common` \
+`curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -` \
+`sudo add-apt-repository "deb [arch=$(dpkg --print-architecture)] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"` \
+`sudo apt install docker-ce -y` \
+`sudo docker run --rm --privileged multiarch/qemu-user-static --reset -p yes`
+
+Then install armhf and arm64 chroots:
+
+`sudo qemu-debootstrap --arch armhf bullseye /mnt/data/armhf http://deb.debian.org/debian/`
+
+`sudo qemu-debootstrap --arch arm64 bullseye /mnt/data/arm64 http://deb.debian.org/debian/`
+
+If the arm64 fails to complete due to a "Failure trying to run:  /sbin/ldconfig" error, then do the following: \
+`sudo rm -rf /mnt/data/arm64` \
+`docker run --rm --privileged multiarch/qemu-user-static --reset -p yes` \
+`sudo qemu-debootstrap --arch arm64 bullseye /mnt/data/arm64 http://deb.debian.org/debian/` \
+The install of the arm64 chroot should complete now.
+
+***
+
+## To get into chroots:
 
 For 32 bit Arm environment: \
-`sudo chroot /mnt/data/armhf/`
+`sudo chroot /mnt/data/armhf/` \
 or create a Arm32 shortcut on the desktop gui and click on Arm32 shortcut on desktop
 
-For 64 bit Arm environment
-`sudo chroot /mnt/data/arm64/`
+For 64 bit Arm environment: \
+`sudo chroot /mnt/data/arm64/` \
 or create a Arm64 shortcut on the desktop gui and click on Arm64 shortcut on desktop
 
 Helpful tools to install in both environments for RK3326 app builds
