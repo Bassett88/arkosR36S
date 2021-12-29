@@ -65,14 +65,14 @@ Helpful tools to install in both environments for RK3326 app builds
 
 `pip3 install meson`
 
-`git clone https://github.com/mesonbuild/meson.git`
+`git clone https://github.com/mesonbuild/meson.git` \
 `ln -s /meson/meson.py /usr/bin/meson`
 
 libgo2 development headers:
 
-`git clone https://github.com/OtherCrashOverride/libgo2.git`
-`cd libgo2`
-`mkdir -p /usr/include/go2`
+`git clone https://github.com/OtherCrashOverride/libgo2.git` \
+`cd libgo2` \
+`mkdir -p /usr/include/go2` \
 `cp src/*.h /usr/include/go2/`
 
 ## Docker option
