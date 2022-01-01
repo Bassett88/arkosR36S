@@ -95,10 +95,26 @@ Helpful tools to install in both environments for RK3326 app builds
 `git clone https://github.com/mesonbuild/meson.git` \
 `ln -s /meson/meson.py /usr/bin/meson`
 
-libgo2 development headers:
+Compile and install librga and copy it's headers to appropriate folders:
+
+`git clone https://github.com/rockchip-linux/linux-rga.git -b master` \
+`cd linux-rga` \
+`meson build && cd build` \
+`meson compile` \
+`cp librga.so* /usr/lib/aarch64-linux-gnu/` for arm32 chroot or `cp librga.so* /usr/lib/arm-linux-gnueabihf/` for arm64 chroot <---Ignore the error of not copying a librga folder as it's not needed. \
+`mkdir /usr/local/include/rga` \
+`cp drmrga.h /usr/local/include/rga/` \
+`cp rga.h /usr/local/include/rga/` \
+`cp RgaApi.h /usr/local/include/rga/` \
+`cp RockchipRgaMacro.h /usr/local/include/rga/`
+
+libgo2 install and development headers:
 
 `git clone https://github.com/OtherCrashOverride/libgo2.git` \
 `cd libgo2` \
+`premake4 gmake` \
+`make` \
+`cp libgo2.so* /usr/lib/aarch64-linux-gnu/` for arm32 chroot or `cp libgo2.so* /usr/lib/arm-linux-gnueabihf/` for arm64 chroot \
 `mkdir -p /usr/include/go2` \
 `cp src/*.h /usr/include/go2/`
 
