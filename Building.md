@@ -102,6 +102,7 @@ Compile and install librga and copy it's headers to appropriate folders:
 `meson build && cd build` \
 `meson compile` \
 `cp librga.so* /usr/lib/aarch64-linux-gnu/` for arm32 chroot or `cp librga.so* /usr/lib/arm-linux-gnueabihf/` for arm64 chroot <---Ignore the error of not copying a librga folder as it's not needed. \
+`cd ..` \
 `mkdir /usr/local/include/rga` \
 `cp drmrga.h /usr/local/include/rga/` \
 `cp rga.h /usr/local/include/rga/` \
