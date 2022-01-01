@@ -114,9 +114,9 @@ libgo2 install and development headers:
 `cd libgo2` \
 `premake4 gmake` \
 `make` \
-`cp libgo2.so* /usr/lib/aarch64-linux-gnu/` for arm32 chroot or `cp libgo2.so* /usr/lib/arm-linux-gnueabihf/` for arm64 chroot \
+`cp libgo2.so* /usr/lib/aarch64-linux-gnu/` for arm64 chroot or `cp libgo2.so* /usr/lib/arm-linux-gnueabihf/` for arm32 chroot \
 `mkdir -p /usr/include/go2` \
-`cp src/*.h /usr/include/go2/`
+`cp -L src/*.h /usr/include/go2/`
 
 ## Docker option
 There's also a docker available created by MrRatBurn.  It's designed to build apps compatible with RetroOZ, however, RetroOZ is a fork of ArkOS so it should work for most if not all app builds for ArkOS as well.  You can find more information about it [here](https://github.com/rangeli/retrooz_dev_docker)
