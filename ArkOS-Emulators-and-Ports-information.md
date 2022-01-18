@@ -892,6 +892,10 @@ Notes: Thanks to [Libretro](https://github.com/libretro/tyrquake) for adding thi
 Instructions: Add .pak files to /roms/ports/quake2/baseq2 then start Quake 2 from Ports in the emulationstation menu. \
 Notes: Thanks to the [Yamagi Quake II team](https://github.com/yquake2/yquake2) for developing this client and [romadu](https://github.com/romadu/yquake2) for the porting work for the rk3326 platform.
 
+### Quake 3 (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You need to add your own full game pak files and product key to the ports/quake3/baseq3 folder then start Quake 3 from Ports in the emulationstation menu. \
+Notes: Thanks to [Eugene C.](https://github.com/ec-/Quake3e) for developing this updated engine and [brooksytech](https://github.com/brooksytech/Quake3e) for the porting work for the rk3326 platform.
+
 ### RAWGL (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Includes the Out of this World demo files. You can add your own full game files to the ports/rawgl/gamedata/ folder. See this [link](https://github.com/cyxx/rawgl#supported-versions] for more supported files info.  Then just start RAWGL from Ports in the emulationstation menu. \
 Notes: Thanks to [cyxx](https://github.com/cyxx/rawgl) for the rawgl engine that makes this possible.  Also thanks to [Jetup13](https://github.com/Jetup13/rawgl-oga) for the porting work for the rk3326 platform.
