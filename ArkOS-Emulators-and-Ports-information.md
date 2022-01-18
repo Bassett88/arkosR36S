@@ -723,7 +723,7 @@ Instructions: Load your keen folders into the /roms/ports/cgenius/games folder. 
 Notes: Thanks to [Gerhard Stein](https://github.com/gerstrong/Commander-Genius) and others related for the development of this port that makes this possible.
 
 ### CorsixTH (Theme Hospital) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
-Instructions: Load your Theme Hospital files into the ports/corsixth/HOSP folder.  As an example, the demo files of Theme Hospital is already included.  Then start CorsixTH from Ports in the emulationstation menu. \
+Instructions: Load your Theme Hospital files into the ports/corsixth/HOSP folder.  As an example, the demo files of Theme Hospital is already included.  If you plan to use a full GOG version of the assets,there's a file `HOSP/DATAM/DEMO.DAT` that needs to be deleted when full game files are added or the port will be confused about whether what version is played, and erroneously checks the GOG files as invalid file sizes. See this [issue](https://github.com/CorsixTH/CorsixTH/issues/2092) for more information.  Then start CorsixTH from Ports in the emulationstation menu. \
 Notes: Thanks to [CorsixTH](https://github.com/CorsixTH/CorsixTH) team for creating this clone of Theme Hospital.  Also thanks to jetup and romadu for the porting work for the rk3326 platform.
 
 ### DevilutionX (Diablo 1) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
