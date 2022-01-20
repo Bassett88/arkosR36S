@@ -413,7 +413,7 @@ or you may experience control issues!
 ### PC98
 Emulator: (**lr-nekop2**) lr-nekop2kai(Coming Soon) \
 Rom Folder: pc98 \
-Extensions: .d88 .D88 .hdi .HDI .zip .ZIP \
+Extensions: .d88 .D88 .fdi .FDI .hdi .HDI .zip .ZIP \
 Bios: See this link for more details.  https://docs.libretro.com/library/neko_project_ii_kai/#bios
 
 ### PC
