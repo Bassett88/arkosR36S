@@ -98,6 +98,7 @@ Helpful tools to install in both environments for RK3326 app builds
 Compile and install librga and copy it's headers to appropriate folders:
 
 `git clone https://github.com/rockchip-linux/linux-rga.git -b master` \
+`git checkout 1fc02d56d97041c86f01bc1284b7971c6098c5fb` <--- If this is not done, you may get `c_RkRgaBlit failed` or `c_RkRgaColorFill failed.` errors. \
 `cd linux-rga` \
 `meson build && cd build` \
 `meson compile` \
