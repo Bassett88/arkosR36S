@@ -68,7 +68,7 @@ Then install armhf and arm64 chroots:
 
 If the arm64 fails to complete due to a "Failure trying to run:  /sbin/ldconfig" error, then do the following: \
 `sudo rm -rf /mnt/data/arm64` \
-`docker run --rm --privileged multiarch/qemu-user-static --reset -p yes` \
+`sudo docker run --rm --privileged multiarch/qemu-user-static --reset -p yes` \
 `sudo qemu-debootstrap --arch arm64 bullseye /mnt/data/arm64 http://deb.debian.org/debian/` \
 The install of the arm64 chroot should complete now.
 
