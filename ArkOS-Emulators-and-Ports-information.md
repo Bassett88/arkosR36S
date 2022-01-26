@@ -508,7 +508,7 @@ Extensions: .bin .BIN .chd .CHD .cue .CUE .iso .ISO \
 Bios: bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin
 
 ### Sega Saturn
-Emulator: (**lr-yabasanshiro**) lr-yabause [yabasanshiro standalone](https://github.com/devmiyax/yabause/tree/pi4/yabause/src/retro_arena) \
+Emulator: (**lr-yabasanshiro**) lr-yabause standalone ([yabasanshiro](https://github.com/devmiyax/yabause/tree/pi4/yabause/src/retro_arena)) \
 Rom Folder: saturn \
 Extensions: .img .IMG .cue .CUE .chd .CHD .iso .ISO .m3u .M3U \
 Bios: saturn_bios.bin (Optional)
