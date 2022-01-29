@@ -27,7 +27,8 @@ The rest I add via scripted updates from here:
 * [RGB10/OGA 1.1](https://github.com/christianhaitian/arkos/blob/main/Update-RGB10.sh)
 * [CHI](https://github.com/christianhaitian/arkos/blob/main/Update-CHI.sh)
 
-Sources I modified myself are available through my github account [here](https://github.com/christianhaitian).
+Sources I modified myself are available through my github account [here](https://github.com/christianhaitian). \
+Many of the recipes I use to build various emulators, libretro cores, and other tools are [here](https://github.com/christianhaitian/rk3326_core_builds)
 
 Many of my sources have been modified to support my build process.  My process involves the use of both 32bit and 64bit ARM debian based chroots within an Ubuntu Mate 20.04 Oracle VirtualBox based VM I utilize.  You can download the prebuilt VM either through this [Mega](https://mega.nz/file/3dIkHTRZ#s2DOkT8nrCRCaXVyng3KQdrixolgxarqplitLt8Ta8c) or [Google Drive](https://drive.google.com/file/d/1_6SLtNurqeUafKrbBM2Ba0fTWyZkGAGi/view?usp=sharing) link.
 
