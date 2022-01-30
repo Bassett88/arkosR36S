@@ -5,7 +5,12 @@ Welcome to the ArkOS wiki </H1>
 
 <p align="center"><img width="200" height="100" src="https://github.com/christianhaitian/arkos/raw/main/devices/ArkOSLogoOreoTransparent.bmp">
 </p>
-<p align="center"><img width="540" height="380" src="https://github.com/christianhaitian/arkos/raw/main/pics/gamemix.gif">
+
+<p align="center"><img width="270" height="340" src="https://github.com/christianhaitian/arkos/raw/main/pics/RG351V_Arkos.jpg">
+</p>
+<p align="center"><img width="355" height="180" src="https://github.com/christianhaitian/arkos/raw/main/pics/RGB10_Arkos.jpg"><img width="240" height="180" src="https://github.com/christianhaitian/arkos/raw/main/pics/gamemix.gif"><img width="355" height="180" src="https://github.com/christianhaitian/arkos/raw/main/pics/Chi_Arkos.jpg">
+</p>
+<p align="center"><img width="355" height="180" src="https://github.com/christianhaitian/arkos/raw/main/pics/OGA_Arkos.jpg">
 </p>
 
 The overarching goals of ArkOS is as follows:
