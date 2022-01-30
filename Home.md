@@ -130,7 +130,7 @@ shantigilbert for various assistance and great sources in [EmuELEC](https://gith
 fewt and the 351Elec team for various assistance and great sources in [351ELEC](https://github.com/351ELEC/351ELEC/wiki) \
 npaladin2000 for donation of the RG351P device so I could release this OS on it. \
 [RetroGameCorps](https://retrogamecorps.com/) for the youtube review \
-Emulation Dojo for youtube game play videos \
+[Emulation Dojo](https://www.youtube.com/channel/UCsAO6HXaLZnfyv326c78gtQ) for youtube game play videos \
 That One (Seong) for assistance with libretro core updates and lzdoom port \
 BadBrent for advice \
 RadioMan for testing and feedback \
