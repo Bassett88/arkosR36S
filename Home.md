@@ -30,7 +30,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 -  Retroarch is the primary frontend for Libretro emulators which the majority of the emulators in this OS make use of.
 -  Remote access services (SSH and Samba) are disabled by default for security and reduced resource usage.  They can be enabled by going to **Options** and selecting **Enable Remote Services** from the Emulationstation menu.
 -  Stability tweak for RTL8188 and RTL8812/RTL8811 wireless chipsets.  (Disabled USB and wireless chip power saving in the 8812 and 8192 drivers which causes wifi drops on these chipsets.)
--  ArkBrowser powered by [FileBrowser](https://github.com/filebrowser/filebrowser) for managing roms via a web browser.
+-  ArkOS Browser powered by [FileBrowser](https://github.com/filebrowser/filebrowser) for managing roms via a web browser.
 -  Optimized kernel and very few running backend OS services to maximize resources for emulation performance.
 -  [Pico-8](https://www.lexaloffle.com/pico-8.php) support.  Just add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to the /roms/pico-8 folder and add your .png game files to /roms/pico-8/carts folder then load your pico-8 from the Pico-8 system in the Emulationstation menu.
 -  All game saves (in-game and save states) are located in respective rom folders.
