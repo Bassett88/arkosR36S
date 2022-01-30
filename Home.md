@@ -27,6 +27,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
   - Allows for core changes per system and per game. See FAQ for more information about this.
   - Much faster load speed especially with large game libraries versus the regular Emulationstation frontend install.
   - Supports more themes like EmuElec's carbon theme.
+-  Retroarch is the primary frontend for Libretro emulators which the majority of the emulators in this OS make use of.
 -  Remote access services (SSH and Samba) are disabled by default for security.  They can be enabled by going to **Options** and selecting **Enable Remote Services** from the Emulationstation menu.
 -  Stability tweak for RTL8188 and RTL8812/RTL8811 wireless chipsets.  (Disabled USB and wireless chip power saving in the 8812 and 8192 drivers which causes wifi drops on these chipsets.)
 -  Optimized kernel and very few running backend OS services to maximize resources for emulation performance.
@@ -120,14 +121,15 @@ Download Links :
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) | [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
 
 ### Credits and Thanks
-Slaminger for the TheRA OS that helped inspire me to provide ArkOS \
+Slaminger for the [TheRA](https://techtoytinker.com/theretroarena) OS that helped inspire me to provide ArkOS \
+[Libretro](https://www.libretro.com/) for the great open source emulators and retroarch frontend \
 valadaa48 for various assistance and all his work on the original rk3326 device, the Odroid Go Advance. \
 OtherCrashOverride for the retrorun emulator ppsspp-go and other work. \
 luali for kernel and dtb for the RG351P, and various other assistance requests. \
 shantigilbert for various assistance and great sources in [EmuELEC](https://github.com/EmuELEC/EmuELEC/wiki) \
 fewt and the 351Elec team for various assistance and great sources in [351ELEC](https://github.com/351ELEC/351ELEC/wiki) \
 npaladin2000 for donation of the RG351P device so I could release this OS on it. \
-RetroGameCorps for the youtube review \
+[RetroGameCorps](https://retrogamecorps.com/) for the youtube review \
 Emulation Dojo for youtube game play videos \
 That One (Seong) for assistance with libretro core updates and lzdoom port \
 BadBrent for advice \
