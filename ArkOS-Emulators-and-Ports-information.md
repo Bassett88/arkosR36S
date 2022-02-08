@@ -1020,6 +1020,14 @@ Notes: Thanks to [Sonic Team Junior](https://github.com/STJr/SRB2) for creating 
 Instructions: Sonic Robo Blast 2 files are already included and ready to go.  Just start Sonic Robo Blast 2 Kart from Ports in the emulationstation menu.  To use mods and addons for SRB2, just add the relevant files to ports/srb2kart/.srb2kart and load them using Add Ons menu item while in the game.\
 Notes: Thanks to [Sonic Team Junior](https://github.com/STJr/Kart-Public) for creating this opensource fan game.  Also thanks to romadu for the packaging for portmaster.
 
+### Star Wars Jedi Knight - Jedi Academy (RG552 Only) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You need to add your own full game pak files to the ports/JediAcademy/base folder.  Then you should be able to launch Star Wars Jedi Knight - Jedi Academy from Ports in the emulationStation menu. \
+Notes: Thanks to [JACoders](https://github.com/JACoders/OpenJK) for the opensource engine.  Also thanks to [brooksytech](https://github.com/brooksytech/OpenJK-RG552) for the porting and packaging for portmaster.
+
+### Star Wars Jedi Knight II - Jedi Outcast (RG552 Only) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You need to add your own full game pak files to the ports/JediOutcast/base folder.  Then you should be able to launch Star Wars Jedi Knight - Jedi Outcast from Ports in the emulationStation menu. \
+Notes: Thanks to [JACoders](https://github.com/JACoders/OpenJK) for the opensource engine.  Also thanks to [brooksytech](https://github.com/brooksytech/OpenJK-RG552) for the porting and packaging for portmaster.
+
 ### Super Mario War (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: Super Mario War files are already included and ready to go.  Just start Super Mario War from Ports in the emulationstation menu.
 
