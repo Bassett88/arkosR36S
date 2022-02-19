@@ -735,6 +735,10 @@ Notes: Thanks to the [diasurgical](https://github.com/diasurgical/devilutionX) t
 Instructions: Dinothawr files are already included and ready to go.  Just start Dinothawr from Ports in the emulationstation menu. \
 Notes: Thanks to [Themaister](https://github.com/Themaister/Dinothawr) for creating this game and thanks to [Libretro](https://github.com/libretro/Dinothawr) for adding this as a retroarch core.
 
+### Doom 3 (RG552 Only) (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
+Instructions: You need to add your own full game pak files to the ports/doom3/base folder. Then you should be able to launch Doom3 from Ports in the emulationStation menu.
+Notes: Thanks to [Gabriel Cuvillier](https://github.com/gabrielcuvillier/d3wasm) for the d3wasm engine. Also thanks to brooksytech for the porting and packaging for portmaster.
+
 ### Duke Nukem 3D (Available through [PortMaster](https://github.com/christianhaitian/arkos/wiki/PortMaster))
 Instructions: You'll need to add your own full version DUKE3D.GRP and DUKE.RTS Duke Nukem 3D Atomic files to the ports/rednukem/gamedata folder.  Then just start Duke Nukem 3D from Ports in the Emulationstation. \
 Notes: Thanks to [Nukeykt](https://github.com/nukeykt/NBlood) for the Rednukem engine that makes this possible.  Also thanks to [romadu](https://github.com/romadu/NBlood) for the porting work for the rk3326 platform.
