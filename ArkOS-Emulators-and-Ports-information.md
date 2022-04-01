@@ -222,4 +222,4 @@
 <br/>
 
 Seriously, click here instead. 👍🏾 
-[Emulators and Ports Info](https://github.com/christianhaitian/PortMaster/wiki/Home/281cbe26d67746ff13a8a3fc85029899ebe698d7)
+[Emulators and Ports Info](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information/4894421cad92748c80bbe6a375f5cc210b2e883c)
