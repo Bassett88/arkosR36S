@@ -40,7 +40,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 **For global and emulator hotkey information, check FAQ #6 in the Frequently Asked Questions for the specific rk3326 device you have on the right of this page.**
 
-# Disclaimer:
+# Disclaimer
 **Support for this OS is made on a best effort basis and is subject to change at anytime.  I make no guarantee on support or capabilities of this image.  Use at your own risk!  I do not provide support or condone the use of preloaded images.**
 
 # Instructions for loading
