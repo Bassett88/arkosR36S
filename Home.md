@@ -102,7 +102,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
    -  Insert the SD card back into your rk3326 device and power it on if you removed it to load your roms or reboot you device and enjoy!
    -  (**Tip**) There are additional updates that are made available from time to time.  You can apply them by going to the options menu and clicking on Update.  Make sure you're wifi adapter is plugged in and connected to your wireless network.  You must have a reliable internet connection for these online updates to complete successfully when available.
 
-# Download Links :
+## Download Links :
 
 **CHI** - [GDrive](https://drive.google.com/file/d/1X0GkpIru4n8XNAR13JJdS_GH6a7wU8wa/view?usp=sharing) | [Mega](https://mega.nz/file/rMJCUDpL#1SYPsKTMCc_YF6xspbBq7kpj2khRVmQ0KTflrvxPy3c) | [China Server](http://portmaster.hopto.org/releases/arkos/ArkOS_CHI_v2.0_09232021.7z) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_CHI_v2.0_09232021.7z.torrent) (Updated 09/23/2021) MD5:AADBF8454E70120A0F01385A55004EC6 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/chi-changelog) | [CHI - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI)
@@ -121,7 +121,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **OGA 1.1/RGB10** - [GDrive](https://drive.google.com/file/d/1yi2PeUfoCqiprhQFJkPpk6IsGtWdxRVs/view?usp=sharing) | [Mega](https://mega.nz/file/TU40zJTT#y795MhnUPr0c17nSUAPSuWNk8FcLVP8CXnahTKo-c_M) | [China Server](http://portmaster.hopto.org/releases/arkos/ArkOS_RGB10_v2.0_09222021.7z) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_RGB10_v2.0_09222021.7z.torrent) (Updated 09/22/2021) MD5:415530218681BEA036E01374A85A50E7 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) | [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
 
-### Credits and Thanks
+# Credits and Thanks
 Slaminger for the [TheRA](https://techtoytinker.com/theretroarena) OS that helped inspire me to provide ArkOS \
 [Libretro](https://www.libretro.com/) for the great open source emulators and retroarch frontend \
 valadaa48 for various assistance and all his work on the original rk3326 device, the Odroid Go Advance. \
