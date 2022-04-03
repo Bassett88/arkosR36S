@@ -152,7 +152,9 @@ I may have missed others and will update this area as I become aware.
 Like my work on this?  Want to say thank you?  Buy me a cup of tea. :) \
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=RC72LJ4SSERSU)
 
+### Connect
 For questions, comments and feedback related to this distro or RK3326 devices in general, find us on Discord using this [link](https://discord.gg/wurh4WM)
 
+### Reviews
 [![ArkOS Image](https://retrogamecorps.files.wordpress.com/2020/11/arkos-thumbnail.png?w=720)](https://youtu.be/YBYMKrf775o)
 [![ArkOS Image](https://i.ytimg.com/vi/CB505_0avG8/hqdefault.jpg)](https://youtu.be/CB505_0avG8)
