@@ -27,6 +27,8 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
   - Allows for core changes per system and per game. See FAQ for more information about this.
   - Much faster load speed especially with large game libraries versus the regular Emulationstation frontend install.
   - Supports more themes like EmuElec's carbon theme available through JohnIrvine's [ThemeMaster](https://github.com/JohnIrvine1433/ThemeMaster).
+- Option to use Retroarch as the main frontend by holding the B button during boot and selecting Retroarch while in the Boot and Recovery Tool menu (BaRT).
+  - In this mode, no additional tools or standalone emulators are accessible. This means no NDS, no standalone PSP, no TI99. To enable remote services, you must do so through BaRT. To use a File Manager, you must do so through BaRT. Of course, you can always just switch back to Emulationstation anytime as well and access these standalone emulators and tools.
 -  Retroarch is the primary frontend for Libretro emulators which the majority of the emulators in this OS make use of.
 -  Remote access services (SSH and Samba) are disabled by default for security and reduced resource usage.  They can be enabled by going to **Options** and selecting **Enable Remote Services** from the Emulationstation menu.
 -  Stability tweak for RTL8188 and RTL8812/RTL8811 wireless chipsets.  (Disabled USB and wireless chip power saving in the 8812 and 8192 drivers which causes wifi drops on these chipsets.)
