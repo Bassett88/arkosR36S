@@ -201,6 +201,20 @@ To exit the system, hit the Select and Start button.
 - SELECT: Select highlighted item. Selected items are displayed in red.
 - START: Open highlighted directory in destination panel. If a file is highlighted, open current directory in destination panel.
 
+**For Mednafen based emulators**
+
+- Select + A: Pause emulation
+- Select + B: Reset emulation
+- Select + X: Enable Rewinding
+- Select + Y: Toggle FPS display (from top to bottom, the display format is: virtual, rendered, blitted)
+- Select + Dpad Left: Decrement selected save state slot
+- Select + Dpad Right: Increment selected save state slot
+- Select + R1: Save State
+- Select + L1: Load State
+- Select + R2: Fast Forward emulation
+- Select + L2: Rewind emulation (if rewinding is enabled first)
+- Select + Start: Exit emulator
+
 ## Q. How do I change emulator cores in ArkOS?
 ### A. Do the following:
 For an entire system library:
