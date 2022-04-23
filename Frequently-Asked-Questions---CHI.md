@@ -181,6 +181,20 @@ To exit the system, hit the 1 and Start button.
 - Y: System actions: - Select all items - Select no items - Create new directory - Display disk information - Quit program
 - X: Select highlighted item
 
+**For Mednafen based emulators**
+
+- 1 + A: Pause emulation
+- 1 + B: Reset emulation
+- 1 + X: Enable Rewinding
+- 1 + Y: Toggle FPS display (from top to bottom, the display format is: virtual, rendered, blitted)
+- 1 + Dpad Left: Decrement selected save state slot
+- 1 + Dpad Right: Increment selected save state slot
+- 1 + R1: Save State
+- 1 + L1: Load State
+- 1 + R2: Fast Forward emulation
+- 1 + L2: Rewind emulation (if rewinding is enabled first)
+- 1 + Start: Exit emulator
+
 ## Q. How do I change emulator cores in ArkOS?
 ### A. Do the following:
 For an entire system library:
