@@ -166,6 +166,20 @@ To exit the system, hit the Minus and Start button.
 
 **Note**: Key assignments are used from the default retroarch32 configuration.  If the default key assignments are changed in retroarch32, it will change the key assignments for File Manager as well!
 
+**For Mednafen based emulators**
+
+- Minus + A: Pause emulation
+- Minus + B: Reset emulation
+- Minus + X: Enable Rewinding
+- Minus + Y: Toggle FPS display (from top to bottom, the display format is: virtual, rendered, blitted)
+- Minus + Dpad Left: Decrement selected save state slot
+- Minus + Dpad Right: Increment selected save state slot
+- Minus + R1: Save State
+- Minus + L1: Load State
+- Minus + R2: Fast Forward emulation
+- Minus + L2: Rewind emulation (if rewinding is enabled first)
+- Minus + Start: Exit emulator
+
 ## Q. How do I change emulator cores in ArkOS?
 ### A. Do the following:
 For an entire system library:
