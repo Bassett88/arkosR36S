@@ -102,9 +102,9 @@ Extensions: .j64 .J64 .jag .JAG .rom .ROM .abs .ABS .cof .COF .bin .BIN .prg .PR
 Bios: None
 
 ### Atari Lynx
-Emulator: (**lr-handy**) lr-mednafen_lynx .7z .7Z \
+Emulator: (**lr-handy**) lr-mednafen_lynx [Mednafen](https://mednafen.github.io/) \
 Rom Folder: atarilynx \
-Extensions: .lnx .LNX .zip .ZIP \
+Extensions: .7z .7Z .lnx .LNX .zip .ZIP \
 Bios: lynxboot.img (optional)
 
 ### Atari ST
@@ -218,19 +218,19 @@ Extensions: .bin .BIN .rom .ROM .chf .CHF .zip .ZIP \
 Bios: sl31253.bin and sl31254.bin and sl90025.bin
 
 ### Famicom Disk System
-Emulator: (**lr-nestopia**) lr-fceumm \
+Emulator: (**lr-nestopia**) lr-fceumm [Mednafen](https://mednafen.github.io/) \
 Rom Folder: fds \
 Extensions: .nes .NES .unif .UNIF .unf .UNF .fds .FDS .zip .ZIP .7z .7Z \
 Bios: disksys.rom
 
 ### Game Boy
-Emulator: (**lr-gambatte**) lr-mgba lr-tgbdual \
+Emulator: (**lr-gambatte**) lr-mgba lr-tgbdual [Mednafen](https://mednafen.github.io/) \
 Rom Folder: gb \
 Extensions: .gb .GB .gbc .GBC .dmg .DMG .zip .ZIP .7z .7Z \
 Bios: gb_bios.bin (optional)
 
 ### Game Boy Advance
-Emulator: (**lr-mgba**) lr-vbam lr-vba_next lr-gpsp \
+Emulator: (**lr-mgba**) lr-vbam lr-vba_next lr-gpsp [Mednafen](https://mednafen.github.io/) \
 Rom Folder: gba \
 Extensions: .gb .GB .gbc .GBC .gba .GBA .zip .ZIP .7z .7Z \
 Bios: gba_bios.bin (required for lr-gpsp optional for other cores), gb_bios.bin (optional), gbc_bios.bin (optional), sgb_bios.bin (optional)
@@ -242,19 +242,19 @@ Extensions: .mgw .MGW \
 Bios: None
 
 ### Game Boy Color
-Emulator: (**lr-gambatte**) lr-mgba lr-tgbdual \
+Emulator: (**lr-gambatte**) lr-mgba lr-tgbdual [Mednafen](https://mednafen.github.io/) \
 Rom Folder: gbc \
 Extensions: .gb .GB .gbc .GBC .dmg .DMG .zip .ZIP .7z .7Z \
 Bios: gbc_bios.bin (optional)
 
 ### Game Gear
-Emulator: lr-genesis_plus_gx \
+Emulator: lr-genesis_plus_gx [Mednafen](https://mednafen.github.io/) \
 Rom Folder: gamegear \
 Extensions: .bin .BIN .gg .GG .zip .ZIP .7z .7Z \
 Bios: bios.gg (optional)
 
 ### Genesis/Megadrive
-Emulator: (**lr-genesis_plus_gx**) lr-genesis_plus_gx_wide lr-picodrive \
+Emulator: (**lr-genesis_plus_gx**) lr-genesis_plus_gx_wide lr-picodrive [Mednafen](https://mednafen.github.io/) \
 Rom Folder: megadrive or genesis \
 Extensions: .68k .68K .mdx .MDX .md .MD .sgd .SGD .smd .SMD .gen .GEN .bin .BIN .zip .ZIP .7z .7Z \
 Bios: bios_MD.bin (optional)
@@ -287,7 +287,7 @@ Required Rom Set version: MAME 0.139 \
 Bios: None
 
 ### Master System
-Emulator: (**lr-genesis_plus_gx**) lr-picodrive \
+Emulator: (**lr-genesis_plus_gx**) lr-picodrive [Mednafen](https://mednafen.github.io/) \
 Rom Folder: mastersystem \
 Extensions: .7z .bin .sms .zip \
 Bios: bios_E.sms (optional), bios_U.sms (optional), bios_J.sms (optional)
@@ -359,13 +359,13 @@ Bios: (000-lo.lo or ng-lo.rom) and (neocd_f.rom or neocd.bin or uni-bioscd.rom) 
 Note: More information available [here](https://github.com/libretro/neocd_libretro#required-bios-files)
 
 ### Neo Geo Pocket
-Emulator: lr-mednafen-ngp (aka lr-beetle-ngp) \
+Emulator: lr-mednafen-ngp (aka lr-beetle-ngp) [Mednafen](https://mednafen.github.io/) \
 Rom Folder: ngp \
 Extensions: .ngp .NGP .ngc .NGC .zip .ZIP .7z .7Z \
 Bios: None
 
 ### Neo Geo Pocket Color
-Emulator: lr-mednafen-ngp (aka lr-beetle-ngp) \
+Emulator: lr-mednafen-ngp (aka lr-beetle-ngp) [Mednafen](https://mednafen.github.io/) \
 Rom Folder: ngpc \
 Extensions: .ngp .NGP .ngc .NGC .zip .ZIP .7z .7Z \
 Bios: None
@@ -391,7 +391,7 @@ Bios: nds_bios_arm7.bin (optional), nds_bios_arm9.bin (optional), nds_firmware.b
 Notes: Save files must have an extension of .dsv and they go in the nds/backup folder.  They must be named similarly to the rom.
 
 ### Nintendo Entertainment System (NES)/Famicom
-Emulator: (**lr-nestopia**) lr-fceumm \
+Emulator: (**lr-nestopia**) lr-fceumm [Mednafen](https://mednafen.github.io/) \
 Rom Folder: nes or famicom \
 Extensions: .nes .NES .zip .ZIP .7z .7Z \
 Bios: None
@@ -424,13 +424,13 @@ Extensions: .dosz .DOSZ .exe .EXE .com .COM .bat .BAT .conf .CONF .cue .CUE .iso
 Bios: None
 
 ### PC Engine/TurboGraphx-16
-Emulator: (**lr-mednafen-pce-fast**) lr-mednafen-pce lr-mednafen-supergrafx \
+Emulator: (**lr-mednafen-pce-fast**) lr-mednafen-pce lr-mednafen-supergrafx [Mednafen](https://mednafen.github.io/) \
 Rom Folder: pcengine or turbographx \
 Extensions: .pce .PCE .chd .CHD .zip .ZIP .7z .7Z \
 Bios: None
 
 ### PC Engine CD/TurboGraphx CD
-Emulator: (**lr-mednafen-pce-fast**) lr-mednafen-pce lr-mednafen-supergrafx \
+Emulator: (**lr-mednafen-pce-fast**) lr-mednafen-pce lr-mednafen-supergrafx [Mednafen](https://mednafen.github.io/) \
 Rom Folder: pcenginecd or turbografxcd \
 Extensions: .pce .PCE .ccd .CCD .iso .ISO .img .IMG .chd .CHD .cue .CUE \
 Bios: syscard3.pce
@@ -559,7 +559,7 @@ Extensions: .pce .PCE .sgx .SGX .cue .CUE .ccd .CCD .chd .CHD .zip .ZIP .7z .7Z 
 Bios: syscard3.pce
 
 ### Super Nintendo Entertainment System (SNES)/Super Famicom (SFC)
-Emulator: (**lr-snes9x**) lr-snes9x2010 lr-snes9x2002 lr-snes9x2005 \
+Emulator: (**lr-snes9x**) lr-snes9x2010 lr-snes9x2002 lr-snes9x2005 [Mednafen](https://mednafen.github.io/) \
 Rom Folder: snes or sfc \
 Extensions: .sfc .SFC .smc .SMC .zip .ZIP .7z .7Z \
 Bios: None
@@ -602,7 +602,7 @@ Extensions: .vec .VEC .zip .ZIP .7z .7Z \
 Bios: None
 
 ### Virtual Boy
-Emulator: lr-mednafen-vb (aka lr-beetle-vb) \
+Emulator: lr-mednafen-vb (aka lr-beetle-vb) [Mednafen](https://mednafen.github.io/) \
 Rom Folder: virtualboy \
 Extensions: .vb .VB .vboy .VBOY .zip .zip .7z .7Z \
 Bios: None
@@ -634,7 +634,7 @@ Extensions: .ws .WS .pc2 .PC2 .zip .ZIP .7z .7Z \
 Bios: None
 
 ### WonderSwan Color
-Emulator: lr-mednafen-wswan (aka lr-beetle-wswan) \
+Emulator: lr-mednafen-wswan (aka lr-beetle-wswan) [Mednafen](https://mednafen.github.io/) \
 Rom Folder: wonderswancolor \
 Extensions: .wsc .WSC .pc2 .PC2 .zip .ZIP .7z .7Z \
 Bios: None
