@@ -11,11 +11,11 @@
 
 # Emulators
 
-### 3DO
+### 3DO (Best on the RG503)
 Emulator: lr-opera \
 Rom Folder: 3do \
 Extensions: .iso .ISO .bin .BIN .chd .CHD .cue .CUE \
-Bios: panafz1.bin or panafz10.bin or panafz10-norsa.bin or panafz10e-anvil.bin or panafz10e-anvil-norsa.bin or panafz1j.bin or panafz1j-norsa.bin or goldstar.bin or sanyotry.bin or 3do_arcade_saot.bin  See this link for more details. https://docs.libretro.com/library/opera/#bios
+Bios: panafz1.bin or panafz10.bin or panafz10-norsa.bin or panafz10e-anvil.bin or panafz10e-anvil-norsa.bin or panafz1j.bin or panafz1j-norsa.bin or goldstar.bin or sanyotry.bin or 3do_arcade_saot.bin  See this link for more details: https://docs.libretro.com/library/opera/#bios
 
 ### American Laser Games
 Emulator: [hypseus-singe](https://github.com/DirtBagXon/hypseus-singe) standalone \
@@ -118,6 +118,12 @@ Emulator: lr-atari800 \
 Rom Folder: atarixegs \
 Extensions: .bin .BIN .rom .ROM .xex .XEX .zip .ZIP  \
 Bios: ATARIXL.ROM and ATARIBAS.ROM 
+
+### CDi (RG503 Only!)
+Emulator: lr-same_cdi \
+Rom Folder: cdimono1 \
+Extensions: .iso .ISO .chd .CHD \
+Bios: cdibios.zip and cdimono1.zip and cdimono2 to be placed in bios/same_cdi/bios folder.  See this link for more details: https://docs.libretro.com/library/same_cdi/#bios
 
 ### Colecovision
 Emulator: lr-bluemsx  \
@@ -580,6 +586,12 @@ Bios: None
 Emulator: lr-tic80 \
 Rom Folder: tic80 \
 Extensions: .tic .TIC \
+Bios: None
+
+### Tiger LCD Games (RG503 Only!)
+Emulator: lr-mame \
+Rom Folder: tigerlcd \
+Extensions: .zeip .ZIP \
 Bios: None
 
 ### TI-99
