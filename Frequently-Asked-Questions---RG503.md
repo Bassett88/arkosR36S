@@ -187,6 +187,20 @@ To exit the system, hit the Select and Start button.
 - Select: Key P (Usually Pause)
 - Select + Start: Exit emulator
 
+**For Yabasanshiro standalone emulator**
+
+- A: C
+- B: B
+- X: X
+- Y: A
+- L1: Y
+- R1: Z
+- L2: L
+- R2: R
+- Start: Start
+- Select: Emulator Menu
+- Select + Start: Exit emulator
+
 **For File Manager**
 
 - D-pad: Move
