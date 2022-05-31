@@ -109,6 +109,9 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **CHI** - [GDrive](https://drive.google.com/file/d/1X0GkpIru4n8XNAR13JJdS_GH6a7wU8wa/view?usp=sharing) | [Mega](https://mega.nz/file/rMJCUDpL#1SYPsKTMCc_YF6xspbBq7kpj2khRVmQ0KTflrvxPy3c) | [China Server](http://portmaster.hopto.org/releases/arkos/ArkOS_CHI_v2.0_09232021.7z) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_CHI_v2.0_09232021.7z.torrent) (Updated 09/23/2021) MD5:AADBF8454E70120A0F01385A55004EC6 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/chi-changelog) | [CHI - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI)
 
+**RG503** Test Image - [GDrive](https://drive.google.com/file/d/1bQKtb64_I-HpJg6xGMTEmPX0JgOzQeQV/view?usp=sharing) | [Mega](https://mega.nz/file/eZRjHTJQ#WeyoFkvwh6ibUdBTEbznXl9wtfaeBBTPUUwstw7weO4) (Updated 05/30/2022) MD5:4F54B00648BDAD92E3E7D3483A54049B 
+ | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg503-changelog) | [RG503 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503)
+
 **RG351V** - [GDrive](https://drive.google.com/file/d/17qlI5ytuVdSznlLeksf8pwbPiBrd3pdf/view?usp=sharing) | [Mega](https://mega.nz/file/LYAw1bDb#Vczwms6YGsQlreM-HTmvtVGcTxdT-Pvdub4wM_49Ri8) | [China Server](http://portmaster.hopto.org/releases/arkos/ArkOS_RG351V_v2.0_09262021.7z) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_RG351V_v2.0_09262021.7z.torrent) (Updated 09/26/2021) MD5:FA3A5081D61AB8176F268E257F63434E 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351v-changelog) | [RG351V - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V)
 
