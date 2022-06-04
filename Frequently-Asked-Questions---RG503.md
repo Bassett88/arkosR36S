@@ -321,7 +321,7 @@ Per game:
 
 **Note: Some rumble(vibration) supporting games may require that vibration be turned on from its options or settings menu from in game to work as well.**
 
-## Q. How do I enable rumble(vibration) in parallel_n64? [5/30/2022 - Not yet available for the RG503]
+## Q. How do I enable rumble(vibration) in parallel_n64?
 ### A. Do the following:
 
    * Launch a rumble supporting N64 game.  Check this [link](https://nintendo.fandom.com/wiki/List_of_Nintendo_64_games_with_Rumble_Pak_support) for a list of known titles that support rumble.
