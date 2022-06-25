@@ -23,18 +23,17 @@
 21. [How do I turn on the accessibility features of Retroarch?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-how-do-i-turn-on-the-text-to-speech-accessibility-feature-of-retroarch)
 22. [How do I get out of kiosk or kid UI mode?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-how-do-i-get-out-of-kiosk-or-kid-ui-mode)
 23. [How do I mount a USB drive for copying and moving files?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-how-do-i-mount-a-usb-drive-for-copying-and-moving-files)
-24. [How do I change the boot logo?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-how-do-i-change-the-boot-logo)
 25. [How does the low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-how-does-the-low-battery-indicator-work)
 26. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-how-does-the-movievideo-player-work)
 27. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-where-are-game-saves-and-savestates-stored)
 28. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-where-do-i-put-psp-dlcs)
 29. [Can the power LED be completely turned off via software?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#a-no--this-led-can-only-be-changed-from-green-to-red-and-back-again--it-can-not-be-completely-turned-off-via-software)
-30. [I've added the roms to the appropriate folder, but once I the SD card inside the console it doesn't seem to find my roms.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-ive-added-the-roms-to-the-appropriate-folder-but-once-i-put-the-sd-card-inside-the-console-it-doesnt-seem-to-find-my-roms)
+30. [I've added the roms to the appropriate folder, but once I put the SD card inside the console it doesn't seem to find my roms.](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-ive-added-the-roms-to-the-appropriate-folder-but-once-i-put-the-sd-card-inside-the-console-it-doesnt-seem-to-find-my-roms)
 31. [How do I generate .m3u files for PS1 games in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
 32. [I have duplicate games showing for PS1.  How do I eliminate the duplicates?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-i-have-duplicate-games-showing-for-ps1--how-do-i-eliminate-the-duplicates)
 33. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-what-is-bart-and-how-do-i-access-it)
 34. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
-
+35. [How do I use the HDMI port?]
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Do the following:
@@ -85,6 +84,8 @@
 
 R3 and Dpad Up = Brightness Up \
 R3 and Dpad Down = Brightness Down \
+R3 and Dpad Right = Volume Up \
+R3 and Dpad Left = Volume Down \
 R3 and Volume Up =  Brightness Up (Can be held for continuous brightness increase) \
 R3 and Volume Down = Brightness Down (Can be held for continuous brightness decrease) \
 R3 and Power = Safely shutdown device \
@@ -98,8 +99,6 @@ Select and L1 = Load state of current game \
 Select and A = Pause current game emulation \
 Select and B = Reset current game emulation \
 Select and Start = Exit Game/Retroarch (go back to Emulationstation)
-
-  ~~- Be aware that there's a known issue with retroarch in which using the menu combination key of Select+X to close the menu while in game may cause the retroarch hotkeys to stop functioning.  This is caused by an issue in which the search box may come up in the menu but is hidden because the retroarch menu disappears as you go back to the game.  The  workaround available is that you can hit L1+R1+Start+Select to open the menu and exit the search dialog with the start button in order to restore the retroarch hotkeys.  Select+X function will return.  More information about this issue available from this libretro forum [link](https://forums.libretro.com/t/rare-hotkey-issue-on-windows-10-retroarch-pc/21311/3).~~ [Mitigated](https://github.com/christianhaitian/rk3326_core_builds/blob/main/patches/retroarch-patch-0004-disable_search.patch) as of 12/23/2021
 
 **Amiberry**
 
@@ -425,15 +424,6 @@ Using the left joystick (NOT THE DPAD!) do up, up, down, down, left, right, left
 4. You can now use File Manager to navigate to /mnt/usbdrive to access the mounted USB drive to copy and/or move files between it and ArkOS.
 5. When you're done copying and/or moving files within File Manager, be sure to go back to to Options and select **USB Drive Unmount** before unplugging your drive or you may risk corrupting the USB drive's file system.
 
-## Q. How do I change the boot logo? **[5/30/2022 - Not possible to do on the RG503 at this time]**
-### A. The boot logo is located in the fat32 boot partition.  It is named logo.bmp.  
-The image must meet the following criteria: 
-
-- Must be in .bmp format
-- Must be named logo.bmp.  The name is case sensitive!
-- Must be 640 pixels in width and 480 pixels in height.
-- Must be of 24 bit depth
-
 ## Q. How does the low battery indicator work?
 ### A. The following will occur:
 - The power led will turn red when battery life is less than 20 percent.
@@ -445,6 +435,7 @@ The image must meet the following criteria:
 - Supported movies/videos need to be loaded in the videos subfolder within the roms folder.
 - Up to 720p seems to perform fine with limited testing.
 - Support will be limited for this feature.  If a video/movie doesn't work on this, try a lower resolution or just use a more suitable device like a smartphone.
+**Note:** Kodi is also available on this unit.  You can just press the start button and select *Kodi Media Center* to load it.  You can also quick exit Kodi by just holding the select key then pressing the start button.
 
 Controls:
 - A: Pause
@@ -516,3 +507,13 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
     * Existing roms folders, roms, bios, and games on this sd card will NOT be overwritten during this process.
     * Once ArkOS is setup to use the second sd slot for roms and games, your main sd card and your roms sd card must be in the unit for ArkOS to boot.
     * This process will NOT copy any of your roms, games and saves from the main SD card to the secondary card.  It will just create the structure for you.  You'll need to copy those yourself.  You can use File Manager from the Options menu to do this or copy them manually from your computer.
+
+## Q. How do I use the HDMI port?
+### A. With the unit powered off, plug the device into your HDMI TV or monitor.  Then power the device on.
+* You must have a compatible mini HDMI cable.  There have been reports that some HDMI cables don't work correctly with this unit.  Make sure you have one that is relatively new and of known good quality.
+
+## Q. Can I use external controllers with this unit?
+### A. Yes.  Bluetooth and USB controllers should work with the unit.  For bluetooth controllers, make sure to go to Bluetooth in the options system section just before Retroarch and run it.  It will start the Bluetooth connection manager.  Put your bluetooth controller into pairing mode and select **Connect to new Bluetooth device** and add your bluetooth device.
+**Notes:** 
+* Be sure to setup your external controller in Emulationstation by hitting start then **Configure Input**.  This will allow your external controller to navigate the Emulationstation menu and Retroarch based emulators
+* When using an external controller, only Retroarch based emulators will be automatically setup on setup through Emulationstation.  External emulators such as standalone mupen64plus, PPSSPP, and SCUMMVM may need additional manual setup via SSH.
