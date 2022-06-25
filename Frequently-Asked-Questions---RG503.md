@@ -40,7 +40,7 @@
 ### A. Do the following:
 - Go to the **Options** menu and select **WIFI**.  
 - Then click the A button on **Connect to new Wifi connection" to select your ssid and provide your credentials.
-- Once completed, you can then verify that your wifi is connected by pressing the start button and reviewing the **SSID:** info at the bottom of the menu.  You can also verify that you have a valid wireless connection by going to **Options** then **Wifi** then **Current Network Info** and verify you have an assigned IP for your device.  
+- Once completed, you can then verify that your wifi is connected by pressing the start button and reviewing the **SSID:** info at the bottom of the menu.  You can also verify that you have a valid wireless connection by pressing start and looking at the bottom of menu next to **Distro Version** or by going to **Options** then **Wifi** then **Current Network Info** and verify you have an assigned IP for your device.
 
 **Note:** If you have a password that has special characters not available through the Wifi menu option in the Options menu, you can configure your wifi device manually by doing the following:
 
@@ -90,7 +90,8 @@ R3 and Dpad Left = Volume Down \
 R3 and Volume Up =  Brightness Up (Can be held for continuous brightness increase) \
 R3 and Volume Down = Brightness Down (Can be held for continuous brightness decrease) \
 R3 and Power = Safely shutdown device \
-Power (Short Press) = Put device to sleep
+Power (Short Press) = Put device to sleep \
+F = Bluetooth On/Off
 
 **Retroarch Hotkey: Select**
 
