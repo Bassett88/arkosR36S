@@ -332,12 +332,19 @@ Move/Copy the 'Databases' and 'Machines' Folders to the bios folder.
 Emulator: (**lr-bluemsx**) lr-fMSX [OpenMSX](https://github.com/openMSX/openMSX) \
 Rom Folder: msx2 \
 Extensions: .cas .CAS .dsk .DSK .mx1 .MX1 .mx2 .MX2 .rom .ROM .zip .ZIP .7z .7Z \
-Bios: See this link for more details. https://docs.libretro.com/library/fmsx/#bios
-Notes: The blueMSX core requires the 'Databases' and 'Machines' folders from a full installation of blueMSX. \
+Bios: See this link for more details. https://docs.libretro.com/library/fmsx/#bios \
+Notes: Not all extensions are compatible with the OpenMSX emulator. \
+The blueMSX core requires the 'Databases' and 'Machines' folders from a full installation of blueMSX. \
 You can download the 'Databases' and 'Machines' folders from [an official full standalone blueMSX emulator](http://bluemsx.msxblue.com/download.html) installation. \
 Get blueMSXv282full.zip near the bottom of the page. \
-Move/Copy the 'Databases' and 'Machines' Folders to the bios folder. \
-Notes: Not all extensions are compatible with the OpenMSX emulator
+Move/Copy the 'Databases' and 'Machines' Folders to the bios folder.
+
+For playing Snatcher and SD Snatcher using lr-bluemsx: you need to edit the bios/Machines/MSX2+/config.ini and do the following: \
+After line: 
+`0 2 2 2 78 "Machines/Shared Roms/MSX2PMUS.rom" ""` \
+Add the following:
+`2 0 2 16 56 "Machines/Shared Roms/MSX2PMUS.rom" ""` \
+Thanks to Consty for this tip.
 
 ### Naomi
 Emulator: (**lr-flycast**) lr-flycast_xtreme lr-reicast_xtreme retrorun retrorun32 \
