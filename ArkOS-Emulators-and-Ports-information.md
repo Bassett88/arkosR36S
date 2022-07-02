@@ -339,8 +339,8 @@ You can download the 'Databases' and 'Machines' folders from [an official full s
 Get blueMSXv282full.zip near the bottom of the page. \
 Move/Copy the 'Databases' and 'Machines' Folders to the bios folder.
 
-For playing Snatcher and SD Snatcher using lr-bluemsx: you need to edit the bios/Machines/MSX2+/config.ini and do the following: \
-After line: 
+For playing Snatcher and SD Snatcher using lr-bluemsx you need to edit the bios/Machines/MSX2+/config.ini and do the following: \
+After this line: 
 `0 2 2 2 78 "Machines/Shared Roms/MSX2PMUS.rom" ""` \
 Add the following:
 `2 0 2 16 56 "Machines/Shared Roms/MSX2PMUS.rom" ""` \
