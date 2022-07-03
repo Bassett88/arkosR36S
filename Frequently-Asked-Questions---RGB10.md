@@ -30,7 +30,7 @@
 28. [How do I generate .m3u files for PS1 games in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
 29. [I have duplicate games showing for PS1.  How do I eliminate the duplicates?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-i-have-duplicate-games-showing-for-ps1--how-do-i-eliminate-the-duplicates)
 30. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-what-is-bart-and-how-do-i-access-it)
-31. [The analog stick is reversed on the RGB10s.  How do I fix it?]
+31. [The analog stick is reversed on the RGB10s.  How do I fix it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-the-analog-stick-is-reversed-on-the-rgb10s--how-do-i-fix-it)
 32. [The L2 and R2 buttons on my OGA 1.1(BE) unit are not functional.  How do I fix it?]
 
 ## Q. How do I configure my wifi connection in ArkOS?
