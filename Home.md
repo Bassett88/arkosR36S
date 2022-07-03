@@ -133,8 +133,11 @@ valadaa48 for various assistance and all his work on the original rk3326 device,
 OtherCrashOverride for the retrorun emulator ppsspp-go and other work. \
 luali for kernel and dtb for the RG351P, and various other assistance requests. \
 shantigilbert for various assistance and great sources in [EmuELEC](https://github.com/EmuELEC/EmuELEC/wiki) \
-fewt and the 351Elec team for various assistance and great sources in [351ELEC](https://github.com/351ELEC/351ELEC/wiki) \
-npaladin2000 for donation of the RG351P device so I could release this OS on it. \
+AmberElec team for various assistance and great sources in [AmberELEC](https://amberelec.org/) \
+fewt and the JelOS team for various assistance and great sources in [JelOS](https://github.com/JustEnoughLinuxOS/distribution/wiki) \
+[Anbernic](https://anbernic.com/) for providing hardware to developers like myself so I could release this OS on them \
+[GameForce](https://gameforce.fun/) for providing the Chi hardware to developers like myself so I could release this OS on it \
+npaladin2000 for donation of the RG351P device so I could release this OS on it \
 [RetroGameCorps](https://retrogamecorps.com/) for the youtube review \
 [Emulation Dojo](https://www.youtube.com/channel/UCsAO6HXaLZnfyv326c78gtQ) for youtube game play videos \
 That One (Seong) for assistance with libretro core updates and lzdoom port \
@@ -146,7 +149,7 @@ Tiduscrying for ArkOS logo, themes, testing and feedback \
 plex for testing and feedback \
 WadaKatsu for testing and feedback \
 Rex for testing and feedback \
-TadMSTR for testing and feedback \
+TadMSTR for testing, feedback and torrent seeding \
 RayLancer for bootlogo design, testing and feedback \
 animeware for feedback and support \
 silt247 for the Cannonball, Cave Story, Doom 1 and Doom 2 ports package
