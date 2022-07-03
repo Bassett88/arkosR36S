@@ -154,7 +154,8 @@ Rex for testing and feedback \
 TadMSTR for testing, feedback and torrent seeding \
 RayLancer for bootlogo design, testing and feedback \
 animeware for feedback and support \
-silt247 for the Cannonball, Cave Story, Doom 1 and Doom 2 ports package
+silt247 for the Cannonball, Cave Story, Doom 1 and Doom 2 ports package \
+Last but not least, the emulation community as whole for embracing this work!
 
 I may have missed others and will update this area as I become aware.
 
