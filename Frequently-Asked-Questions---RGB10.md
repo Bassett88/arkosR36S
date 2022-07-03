@@ -30,6 +30,8 @@
 28. [How do I generate .m3u files for PS1 games in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
 29. [I have duplicate games showing for PS1.  How do I eliminate the duplicates?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-i-have-duplicate-games-showing-for-ps1--how-do-i-eliminate-the-duplicates)
 30. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-what-is-bart-and-how-do-i-access-it)
+31. [The analog stick is reversed on the RGB10s.  How do I fix it?]
+32. [The L2 and R2 buttons on my OGA 1.1(BE) unit are not functional.  How do I fix it?]
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  It's also been reported that this [TP-Link Archer T2U Nano AC600](https://www.amazon.com/gp/product/B07PB1X4CN/) unit works very well with ArkOS.  It's inexpensive and supports 2.4GHz and 5GHz wireless signals.  I personally used this [EDUP Nano USB 650Mbps](https://www.amazon.com/dp/B089QL35T2/) unit and it works very well with ArkOS.  It also is very inexpensive and supports 2.4Ghz and 5GHz wireless signals.  You then will need to do the following:
@@ -428,3 +430,9 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
   * Load 351Files for file management needs
   * Drop into terminal mode by connecting a keyboard and hitting alt+f2.
 * To access BaRT, just hold the B button while booting and in a few seconds, you should be presented with the Boot and Recovery Tools screen similar to this: ![](https://raw.githubusercontent.com/christianhaitian/arkos/main/pics/BaRT.jpg)
+
+## Q. The analog stick is reversed on the RGB10s.  How do I fix it?
+### A. Load BaRT by holding the B button while booting your RGB10s.  Then scroll down and select **Set controls to RGB10s mode** with the A button.  Your unit will then reboot.  Your analog stick should now function in the correctly.
+
+## Q. The L2 and R2 buttons on my OGA 1.1(BE) unit are not functional.  How do I fix it?
+### A. Load BaRT by holding the B button while booting your RGB10s.  Then scroll down and select **Set controls to OGA 1.1(BE) mode** with the A button.  Your unit will then reboot.  Your L2 and R2 buttons should now function in the correctly.
