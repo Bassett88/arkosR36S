@@ -106,13 +106,13 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 ## Download Links
 
-**CHI** - [GDrive]() | [Mega]() | [Torrent]() (Updated 07/02/2022) MD5:146CE4BB4CE10C584A2830E2226B4DC3 
+**CHI** - [GDrive](https://drive.google.com/file/d/1H3XxL-suFV_dgU905_YA0wjKrZaTkKyI/view?usp=sharing) | [Mega](https://mega.nz/file/yQAxGSQY#gU75i4h0TJkgczeacpz4kTEk1RM7Z-359REbqL2SxnE) | [Torrent]() (Updated 07/02/2022) MD5:146CE4BB4CE10C584A2830E2226B4DC3 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/chi-changelog) | [CHI - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI)
 
 **RG503** - [GDrive](https://drive.google.com/file/d/1fWBvDdySXHl9jNMK7OeA9nBijjr01Eza/view?usp=sharing) | [Mega](https://mega.nz/file/SJgATLhJ#K0HwWwLvhkcfnWNVljgO-CIM-ouovxOL1ifQFI2Mvhc) (Updated 06/26/2022) MD5:8B6AB0B22656D3B3C953F9040832AE8C 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg503-changelog) | [RG503 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503)
 
-**RG351V** - [GDrive]() | [Mega]() | [Torrent]() (Updated 07/02/2022) MD5:C1FB817E60B6990E8C736168B0C20D85 
+**RG351V** - [GDrive](https://drive.google.com/file/d/1OzY6tkOCsv4u-ZUGFT3k-gCHcDS19qBs/view?usp=sharing) | [Mega](https://mega.nz/file/mBggGawB#f-iqDjLIxTaBSR5ZmDnWcSR7pSATfpdzcLkEjV3Tdf0) | [Torrent]() (Updated 07/02/2022) MD5:C1FB817E60B6990E8C736168B0C20D85 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351v-changelog) | [RG351V - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V)
 
 **RG351MP** (**Will not work for the the RG351P or RG351M!**) - [GDrive](https://drive.google.com/file/d/1iq_38i_hrMCRnflQ_UuXjYtuEVOlp5Fp/view?usp=sharing) | [Mega](https://mega.nz/file/2Y5WHDJb#aQvXTd34WaUtEnZydOcqkdkFhDHR3Bx7j3wtpJXY8zQ) | [China Server](http://portmaster.hopto.org/releases/arkos/ArkOS_RG351MP_v2.0_11052021.7z) (Updated 11/05/2021) MD5:7F5933EB5573C232354EB9DFA07850B8 | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351mp-changelog) | [RG351MP - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351MP)
@@ -120,14 +120,15 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **RG351P/RG351M (**Will not work for the the RG351MP!**) [Announcement](https://github.com/christianhaitian/arkos/wiki/Announcement)** - [GDrive](https://drive.google.com/file/d/1HFHsqlDo1mwDCQWD6edIZSkuX6ERSq0c/view?usp=sharing) | [Mega](https://mega.nz/file/bMAllK5C#JFst8dJuN9Bqxx59xk0R2s5sIyS7xZa4X5gr0xu3OcU) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_RG351P_Final.7z.torrent) | (Updated 05/01/2021) MD5:397CE9322205E2042A62F54E770F949E 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg351p-changelog) | [RG351P - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P)
 
-**OGA 1.0/RK2020** - [GDrive]() | [Mega]() | [Torrent]() (Updated 07/02/2022) MD5:CA7F6146841237034EE2856C7223684B 
+**OGA 1.0/RK2020** - [GDrive](https://drive.google.com/file/d/1sbMxvMhJff1W97u6VQgZxAHMSJh9jUV4/view?usp=sharing) | [Mega](https://mega.nz/file/PYQxRQwY#q5mUOaNTljytE_7rX72bYwB5op2dRXjgjhaBQ5sWjMI) | [Torrent]() (Updated 07/02/2022) MD5:CA7F6146841237034EE2856C7223684B 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog) | [RK2020 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020)
 
-**OGA 1.1/RGB10** - [GDrive]() | [Mega]() | [Torrent]() (Updated 07/02/2022) MD5:825CD346C1CA94CBE59F68E76F6C0122 
+**OGA 1.1/RGB10/RGB10s** - [GDrive](https://drive.google.com/file/d/1x0Z1LHhMntP6B6V5ePmioxp8vAdlt58Z/view?usp=sharing) | [Mega](https://mega.nz/file/uRoDES6b#dQi_xO1J82SSJuof-4SYs_ApzPEKOMld1vEppBdcUO0) | [Torrent]() (Updated 07/02/2022) MD5:825CD346C1CA94CBE59F68E76F6C0122 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) | [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
 
 # Credits and Thanks
-Slaminger for the [TheRA](https://techtoytinker.com/theretroarena) OS that helped inspire me to provide ArkOS \
+Slaminger for the [TheRA](https://techtoytinker.com/theretroarena) OS that helped inspire me to build and provide ArkOS \
+[Hardkernel](https://www.hardkernel.com/) for being a strong supporter of developers and proving various resources \
 [Libretro](https://www.libretro.com/) for the great open source emulators and retroarch frontend \
 valadaa48 for various assistance and all his work on the original rk3326 device, the Odroid Go Advance. \
 OtherCrashOverride for the retrorun emulator ppsspp-go and other work. \
@@ -144,7 +145,8 @@ That One (Seong) for assistance with libretro core updates and lzdoom port \
 BadBrent for advice \
 RadioMan for testing and feedback \
 IggyV for testing and feedback \
-Jetup for bootlogo fix, suggestions, theme update, testing and feedback \
+Jetup for bootlogo fix, suggestions, theme updates, ports, testing and feedback \
+Romadu for testing, feedback, ports and and other assistance \
 Tiduscrying for ArkOS logo, themes, testing and feedback \
 plex for testing and feedback \
 WadaKatsu for testing and feedback \
