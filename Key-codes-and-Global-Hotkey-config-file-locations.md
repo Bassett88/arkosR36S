@@ -7,7 +7,7 @@
 [RG351P/RG351M](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg351pm) \
 [RG351MP](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg351mp) \
 [RG351V](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg351v)
-
+[RG503](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg503)
 
 
 # RK2020/OGA 1.0
@@ -261,6 +261,54 @@ Left Analog Axis Configuration mappings
 Left Analog Axis Configuration mappings
 * X Axis = axis(0+,0-)
 * Y Axis = axis(1+,1-) \
+Right Analog Axis Configuration mappings
+* Left = axis(2-)
+* Right = axis(2+)
+* Down = axis(3+)
+* Up = axis(3-)
+
+# RG503
+
+* DPAD Up = 544
+* DPAD Down = 545
+* DPAD Left = 546
+* DPAD Right = 547
+* A = 305
+* B = 304
+* X = 307
+* Y = 308
+* Select = 314
+* Start = 315
+* L1 = 310
+* L2 = 312
+* L3 = 317
+* R1 = 311
+* R2 = 313
+* R3 = 318
+
+## Global Hotkey config file locations:
+
+### Useful for Mupen64plus key reassignment in ArkOS (/opt/mupen64plus/InputAutoCfg.ini) in the retrogame_joypad section and modifying joystick events (ex. Quit emulator and save state hotkeys) in /home/ark/.config/mupen64plus.cfg
+
+* DPAD LEFT = 15
+* DPAD RIGHT = 16
+* DPAD UP = 13
+* DPAD DOWN = 14
+* START = 9
+* SELECT = 8
+* A = 1
+* B = 0
+* X = 2
+* Y = 3
+* L1 = 4
+* L2 = 6
+* L3 = 11
+* R1 = 5
+* R2 = 7
+* R3 = 12 \
+Left Analog Axis Configuration mappings
+* X Axis = axis(0-,0+)
+* Y Axis = axis(1-,1+) \
 Right Analog Axis Configuration mappings
 * Left = axis(2-)
 * Right = axis(2+)
