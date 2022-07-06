@@ -134,6 +134,7 @@ valadaa48 for various assistance and all his work on the original rk3326 device,
 OtherCrashOverride for the retrorun emulator ppsspp-go and other work. \
 luali for kernel and dtb for the RG351P, and various other assistance requests. \
 shantigilbert for various assistance and great sources in [EmuELEC](https://github.com/EmuELEC/EmuELEC/wiki) \
+Retropie team for great sources in [Retropie](https://github.com/RetroPie) \
 Batocera team for great sources in [Batocera](https://github.com/batocera-linux/) \
 AmberElec team for various assistance and great sources in [AmberELEC](https://amberelec.org/) \
 fewt and the JelOS team for various assistance and great sources in [JelOS](https://github.com/JustEnoughLinuxOS/distribution/wiki) \
