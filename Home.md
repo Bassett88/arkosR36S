@@ -16,7 +16,7 @@ The overarching goals of ArkOS is as follows:
 
 This OS came about from an initial port of TheRA to support a roms folder on a NTFS partition so that the management of roms could be done by simply putting you SD card into an appropriate card reader on a Windows 10 computer.  Through various upgrades and tweaks overtime, it has diverged significantly from TheRA and it's time to rebrand this distro.  With suggestions provided by community members, ArkOS was chosen.  Short for **Another ~~rk3326~~ rockchip Operating System**.
 
-It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer as broad of an opportunity for incorporating various video game system emulators and ports as possible.  This OS offers the following capabilities:
+It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer as broad of an opportunity for incorporating support for various video game system emulators and ports as possible.  This OS offers the following capabilities:
 
 -  Emulates over 90 gaming systems
 -  Support for over 70 ports via [PortMaster](https://github.com/christianhaitian/PortMaster#what-is-portmaster)
@@ -25,11 +25,11 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 - [Emulationstation-FCAMOD](https://github.com/christianhaitian/EmulationStation-fcamod) is the frontend used.
   - Allows for core changes per system and per game. See FAQ for more information about this.
-  - Much faster load speed especially with large game libraries versus the regular Emulationstation frontend install.
+  - Much faster loading speed especially with large game libraries versus the regular Emulationstation frontend install.
   - Supports more themes like EmuElec's carbon theme available through JohnIrvine's [ThemeMaster](https://github.com/JohnIrvine1433/ThemeMaster).
 - Option to use Retroarch as the main frontend by holding the B button during boot and selecting Retroarch while in the Boot and Recovery Tool menu (BaRT).
-  - In this mode, no additional tools or standalone emulators are accessible. This means no NDS, no standalone PSP, no TI99. To enable remote services, you must do so through BaRT. To use a File Manager, you must do so through BaRT. Of course, you can always just switch back to Emulationstation anytime as well and access these standalone emulators and tools.
--  Retroarch is the primary frontend for Libretro emulators which the majority of the emulators in this OS make use of.
+  - In this mode, no additional tools or standalone emulators are accessible. This means no NDS, no standalone PSP, no TI99, and no standalone yabasanshiro. To enable remote services, you must do so through BaRT. To use a File Manager, you must do so through BaRT. Of course, you can always just switch back to Emulationstation anytime as well and access these standalone emulators and tools.
+-  [Retroarch](https://github.com/libretro/RetroArch) is the primary frontend for Libretro emulators which the majority of the emulators in this OS make use of.
 -  Remote access services (SSH and Samba) are disabled by default for security and reduced resource usage.  They can be enabled by going to **Options** and selecting **Enable Remote Services** from the Emulationstation menu.
 -  Stability tweak for RTL8188 and RTL8812/RTL8811 wireless chipsets.  (Disabled USB and wireless chip power saving in the 8812 and 8192 drivers which causes wifi drops on these chipsets.)
 -  ArkOS Browser powered by [FileBrowser](https://github.com/filebrowser/filebrowser) for managing roms via a web browser.
