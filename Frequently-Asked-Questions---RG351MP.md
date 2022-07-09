@@ -496,6 +496,7 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 ### A. Do the following:
 1. Make sure you have a micro sd card that is preformatted to Exfat, EXT4, Fat, Fat32 or NTFS.
     * For best performance, use EXT4, Exfat or NTFS.
+        * **If using EXT4, be sure that permissions for the contents of the second sd card are set to user/group 1002:1002**.  Otherwise, you may experience issues with successfully running games for some systems.
 1. Go the Options section just after ScummVM and before Retroarch and click the A button.
 2. Click on Advanced.
 3. Then click on SWITCH TO SD2 FOR ROMS.
