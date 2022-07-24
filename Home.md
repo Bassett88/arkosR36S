@@ -123,7 +123,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **OGA 1.0/RK2020** - [GDrive](https://drive.google.com/file/d/1sbMxvMhJff1W97u6VQgZxAHMSJh9jUV4/view?usp=sharing) | [Mega](https://mega.nz/file/PYQxRQwY#q5mUOaNTljytE_7rX72bYwB5op2dRXjgjhaBQ5sWjMI) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_RK2020_v2.0_07022022.7z.torrent) (Updated 07/02/2022) MD5:CA7F6146841237034EE2856C7223684B 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog) | [RK2020 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020)
 
-**OGA 1.1/RGB10/RGB10s** - [GDrive](https://drive.google.com/file/d/1x0Z1LHhMntP6B6V5ePmioxp8vAdlt58Z/view?usp=sharing) | [Mega](https://mega.nz/file/uRoDES6b#dQi_xO1J82SSJuof-4SYs_ApzPEKOMld1vEppBdcUO0) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_RGB10_v2.0_07022022.7z.torrent) (Updated 07/02/2022) MD5:825CD346C1CA94CBE59F68E76F6C0122 
+**OGA 1.1/RGB10/RGB10s/RGB20** (**Will not work for the the RGB20s!**) - [GDrive](https://drive.google.com/file/d/1x0Z1LHhMntP6B6V5ePmioxp8vAdlt58Z/view?usp=sharing) | [Mega](https://mega.nz/file/uRoDES6b#dQi_xO1J82SSJuof-4SYs_ApzPEKOMld1vEppBdcUO0) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_RGB10_v2.0_07022022.7z.torrent) (Updated 07/02/2022) MD5:825CD346C1CA94CBE59F68E76F6C0122 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) | [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
 
 # Credits and Thanks
