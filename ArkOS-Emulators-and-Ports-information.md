@@ -601,7 +601,7 @@ Bios: None
 ### Tiger LCD Games (RG503 Only!)
 Emulator: lr-mame \
 Rom Folder: tigerlcd \
-Extensions: .zeip .ZIP \
+Extensions: .zip .ZIP \
 Bios: None
 
 ### TI-99
