@@ -432,7 +432,7 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 * To access BaRT, just hold the B button while booting and in a few seconds, you should be presented with the Boot and Recovery Tools screen similar to this: ![](https://raw.githubusercontent.com/christianhaitian/arkos/main/pics/BaRT.jpg)
 
 ## Q. The analog stick is reversed on the RGB10s.  How do I fix it?
-### A. Load BaRT by holding the B button while booting your RGB10s.  Then scroll down and select **Set controls to RGB10s mode** with the A button.  Your unit will then reboot.  Your analog stick should now function in the correctly.
+### A. Load BaRT by holding the B button while booting your RGB10s.  Then scroll down and select **Set controls to RGB10s mode** with the A button.  Your unit will then reboot.  Your analog stick should now function correctly.
 
 ## Q. The L2 and R2 buttons on my OGA 1.1(BE) unit are not functional.  How do I fix it?
-### A. Load BaRT by holding the B button while booting your OGA 1.1(BE).  Then scroll down and select **Set controls to OGA 1.1(BE) mode** with the A button.  Your unit will then reboot.  Your L2 and R2 buttons should now function in the correctly.
+### A. Load BaRT by holding the B button while booting your OGA 1.1(BE).  Then scroll down and select **Set controls to OGA 1.1(BE) mode** with the A button.  Your unit will then reboot.  Your L2 and R2 buttons should now function correctly.
