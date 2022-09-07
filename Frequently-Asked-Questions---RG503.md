@@ -186,6 +186,16 @@ To exit the system, hit the Select and Start button.
 - Select: Key P (Usually Pause)
 - Select + Start: Exit emulator
 
+**For the Dolphin standalone emulator**
+
+- Select + R1 = Save Savestate
+- Select + L1 = Load Savestate
+- Select + Dpad Down = Decrement Save Slot
+- Select + Dpad Up = Increment Save Slot
+- Select + Y = Save Screenshot
+- Select + X = Toggle Stereo audio on or off
+- Select + Start: Exit emulator
+
 **For Yabasanshiro standalone emulator**
 
 - A: C
