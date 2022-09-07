@@ -260,7 +260,7 @@ Extensions: .bin .BIN .gg .GG .zip .ZIP .7z .7Z \
 Bios: bios.gg (optional)
 
 ### Gamecube (RG503 Only!)
-Emulator: [Dolphin standalone](https://github.com/rtissera/dolphin/tree/egldrm) \
+Emulator: [Dolphin](https://github.com/rtissera/dolphin/tree/egldrm) standalone \
 Rom Folder: gc \
 Extensions: .elf .ELF .gcz .GCZ .iso .ISO .m3u .M3U .wad .WAD .wbfs .WBFS .wia .WIA \
 Bios: None
