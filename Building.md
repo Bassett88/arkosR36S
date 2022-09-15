@@ -56,7 +56,7 @@ Then install armhf and arm64 chroots:
 
 ***
 **Optional Note** \
-You can choose to use the newer Bullseye debian stable for your chroots which has a newer gcc, however there's an extra step needed to get the arm64 version going.
+You can choose to use the newer Bullseye debian stable for your chroots which has a newer gcc, however there's an extra step needed to get the arm64 version going.  This may have weird quirks so install and use with caution.
 
 Per [this post](https://forum.armbian.com/topic/16740-debootstrap-base-system-second-stage-failed/?do=findComment&comment=130687), you'll need to refresh qemu-user-static using a docker command.  To do this, do the following after installing the prereqs noted above.:
 
