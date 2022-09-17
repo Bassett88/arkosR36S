@@ -84,7 +84,7 @@ Extensions: .a26 .A26 .bin .BIN .zip .ZIP .7z .7Z \
 Bios: None
 
 ### Atari 5200
-Emulator: lr-atari800 \
+Emulator: lr-atari800 lr-a5200 \
 Rom Folder: atari5200 \
 Extensions: .a52 .A52 .zip .ZIP .7z .7Z \
 Bios: 5200.rom and ATARIBAS.ROM
@@ -183,7 +183,7 @@ Bios: None \
 Notes: Be aware that within the daphne folder is a roms folder.  That is not an error.  That folder is needed.  Your laserdisc .zip files should contain a "rom name".daphne folder that must be copied to the root daphne folder.  Make sure the "rom name".daphne folder contains a framefile ("rom name".txt) or it will not load.  Your laserdisc .zip files must be loaded into the daphne/roms folder.  If you're still having issues getting this to work, click [here](https://retrogamecorps.com/2021/01/20/guide-daphne-on-the-rg351p-and-rg350-devices/) for a great guide and video from Retro Game Corps.
 
 ### Doom
-Emulator: (**[lzdoom](https://github.com/christianhaitian/lzdoom) standalone**) lr-prboom \
+Emulator: (**[lzdoom](https://github.com/christianhaitian/lzdoom) standalone**) (**[gzdoom](https://github.com/ZDoom/gzdoom) standalone**) lr-prboom \
 Rom Folder: doom \
 Extensions: .wad .WAD .sh .SH .doom .Doom \
 Bios: None \
