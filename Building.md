@@ -6,7 +6,7 @@ Since ArkOS is based on Ubuntu 19.10 for Arm, the process is different from a ty
 * The mali gpu driver from [here](https://dn.odroid.com/RK3326/ODROID-GO-Advance/rk3326_r13p0_gbm_with_vulkan_and_cl.zip).  Mirror available [here](https://mega.nz/file/aEZGjBSZ#Ip5BZQZs98GDWloqeyrzMgGVN9CFyXrCUKuBmCwSMlg)
   * `sudo cp libmali.so_rk3326_gbm_arm64_r13p0_with_vulkan_and_cl  /usr/local/lib/aarch64-linux-gnu/libmali-bifrost-g31-rxp0-gbm.so`
   * `sudo cp libmali.so_rk3326_gbm_arm32_r13p0_with_vulkan_and_cl  /usr/local/lib/arm-linux-gnueabihf/libmali-bifrost-g31-rxp0-gbm.so`
-  * For the RG503, use the `libmali-bifrost-g52-g2p0-gbm.so` mali driver from [here](https://github.com/christianhaitian/rk3566_libmali/tree/main/lib)
+  * For the RG503, use the `libmali-bifrost-g52-g2p0-gbm.so` mali driver from [here](https://github.com/christianhaitian/rk3566Libmali/tree/main/lib)
 * The sdl2 build from [here](https://github.com/christianhaitian/rk3326_core_builds/blob/rk3326/scripts/sdl2.sh)
 * For the kernel, that is dependent on the device you're targeting:
   * [Click here for the RG351P/M](https://github.com/lualiliu/RG351P-linux) - You can build it following the instructions [here](https://github.com/christianhaitian/linux/blob/rg351/README)
