@@ -150,7 +150,8 @@ To exit the emulator, hit the Start button then select exit in the menu for most
 
 **For Pico-8**
 
-To exit the system, hit the Start button then Option then select Shutdown or hit Select+Start.
+To exit the system, hit the Start button then Option then select Shutdown or hit Select+Start. \
+If using the fake-08 emulator, you can hit R1 to change the aspect ratio of the screen.
 
 **For PPSSPP (PSP emulator)**
 
