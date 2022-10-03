@@ -91,7 +91,7 @@ F and Volume Up =  Brightness Up (Can be held for continuous brightness increase
 F and Volume Down = Brightness Down (Can be held for continuous brightness decrease) \
 F and Power = Safely shutdown device \
 Power (Short Press) = Put device to sleep \
-F and L3 = Switch audio out to Headphone or Speaker
+F and L3 = Switch audio out to Headphone or Speaker \
 F and R3 = Bluetooth On/Off
 
 **Retroarch Hotkey: Select**
