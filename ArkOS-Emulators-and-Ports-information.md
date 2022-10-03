@@ -461,11 +461,12 @@ Extensions: .chd .CHD .zip .ZIP .cue .CUE .ccd .CCD .toc .TOC \
 Bios: pcfx.rom
 
 ### Pico-8
-Emulator: [pico8-dyn](https://www.lexaloffle.com/games.php?page=updates) \
+Emulator: [pico8-dyn](https://www.lexaloffle.com/games.php?page=updates) [fake-08](https://github.com/jtothebell/fake-08) Standalone (Currently available for the RG353V and coming soon to other supported devices) \
 Rom Folder: pico-8/carts \
 Extensions: .png .PNG .p8 .P8 \
 Bios: None \
 Notes: 
+-  ### Fake-08 is not affiliated with Lexaloffle, and is not 100% compatible, nor does it have SPLORE functionality, so using the official Pico-8 player from [Lexaloffel](https://www.lexaloffle.com/games.php?page=updates) is still highly encouraged for purchase for best performance, compatibility and to support the platform.
 -  Add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to /roms/pico-8 folder and add your .png and/or .p8 game files to /roms/pico-8/carts folder then start pico-8 from pico-8 emulationstation menu.
 -  If you'd like to access splore to download and update games online while in Pico-8, create a blank text file named zzzsplore.p8 in /roms/pico-8/carts and launch zzzsplore from the pico-8 system menu in emulationstation.
 -  By default, pico-8 games will load in a 1:1 aspect ratio.  You can also load games in full screen and pixel perfect aspect ratios as well by changing the default emulator setting.  See [here](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-change-emulator-cores-in-arkos) for information on how to change the default emulator.
