@@ -23,7 +23,7 @@ Rom Folder: alg \
 Extensions: .alg .ALG \
 Bios: None \
 Notes: 
-1. Make sure your Singe games are Hypseus-Singe based.  If they are Daphne-Singe based, you'll have to place them in a roms/alg/alg folder.  Thanks to [varkanoid](https://github.com/christianhaitian/arkos/issues/558) for reporting this finding.
+1. Make sure your American Laser Games (Singe 1) games are Hypseus-Singe based.  If they are Daphne-Singe based, you'll have to place them in a roms/alg/alg folder.  Thanks to [varkanoid](https://github.com/christianhaitian/arkos/issues/558) for reporting this finding.
 2. Copy your American Laser Games (Singe 1) game folder into the roms/alg folder
      - Make sure the game folder contains a framefile (usually gamename.txt file) and a .singe file
 3. Run the **Scan for New games** script to create a proper .alg dummy file for each of the game folders copied
