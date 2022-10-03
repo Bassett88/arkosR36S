@@ -11,7 +11,7 @@
 
 # Emulators
 
-### 3DO (Best on the RG503)
+### 3DO (Best on the RG353V/RG353VS and the RG503)
 Emulator: lr-opera \
 Rom Folder: 3do \
 Extensions: .iso .ISO .bin .BIN .chd .CHD .cue .CUE \
@@ -119,7 +119,7 @@ Rom Folder: atarixegs \
 Extensions: .bin .BIN .rom .ROM .xex .XEX .zip .ZIP  \
 Bios: ATARIXL.ROM and ATARIBAS.ROM 
 
-### CDi (RG503 Only!)
+### CDi (RG353V, RG353VS and RG503 Only!)
 Emulator: lr-same_cdi \
 Rom Folder: cdimono1 \
 Extensions: .iso .ISO .chd .CHD \
@@ -259,7 +259,7 @@ Rom Folder: gamegear \
 Extensions: .bin .BIN .gg .GG .zip .ZIP .7z .7Z \
 Bios: bios.gg (optional)
 
-### Gamecube (RG503 Only!)
+### Gamecube (RG353V, RG353VS and RG503 Only!)
 Emulator: [Dolphin](https://github.com/rtissera/dolphin/tree/egldrm) standalone \
 Rom Folder: gc \
 Extensions: .elf .ELF .gcz .GCZ .iso .ISO .m3u .M3U .wad .WAD .wbfs .WBFS .wia .WIA \
