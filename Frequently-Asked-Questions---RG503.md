@@ -35,6 +35,7 @@
 34. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
 35. [How do I use the HDMI port?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503#q-how-do-i-use-the-hdmi-port)
 36. [Can I use external controllers with this unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503#q-can-i-use-external-controllers-with-this-unit)
+37. [How do I enable Tate mode]()
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Do the following:
@@ -528,3 +529,6 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 **Notes:** 
 * Be sure to setup your external controller in Emulationstation by hitting start then **Configure Input**.  This will allow your external controller to navigate the Emulationstation menu and Retroarch based emulators
 * When using an external controller, only Retroarch based emulators will be automatically setup when configured through Emulationstation.  External emulators such as standalone mupen64plus, PPSSPP, and SCUMMVM may need additional manual configuration via SSH.
+
+## Q. How do I enable Tate mode?
+### A. Tate mode is available for Arcade, CPS1, CPS2 and CPS3 systems.  Just set the emulator to retroarch-tate and select either fbneo or mame2003 for your core.
