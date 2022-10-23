@@ -610,7 +610,8 @@ Bios: None
 Emulator: lr-mame \
 Rom Folder: tigerlcd \
 Extensions: .zip .ZIP \
-Bios: None
+Bios: None \
+Notes: Artwork for Tiger LCD Games should be copied to the roms/bios/mame/artwork folder (or roms2/bios/mame/artwork if using 2 sd cards) and kept within a similarly named .zip file.  For instance if your Double Dragons Tiger LCD roms is named tddragon.zip, you should also have a tddragon.zip folder within the roms/bios/mame/artwork folder that contains bg.jpg and default.lay files.
 
 ### TI-99
 Emulator: [ti99sim](https://github.com/christianhaitian/ti99sim) \
