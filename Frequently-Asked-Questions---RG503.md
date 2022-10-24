@@ -54,8 +54,8 @@
 7. Click on **Edit a connection** then Add and follow the menu for configuring your connection.
    - For more information on how to use this utility, check out the article available through this [link](https://www.tecmint.com/nmtui-configure-network-connection/)
    - Configured network connections are stored in /etc/NetworkManager/system-connections/
-8. Then type **sudo systemctl start networkwatchdaemon**
-9. Then type **sudo systemctl stop NetworkManager**
+8. Then type **sudo systemctl stop NetworkManager**
+9. Then type **sudo systemctl start networkwatchdaemon**
 
 ## Q. How do I SSH into ArkOS?
 ### A. Verify that you completed the steps in [FAQ #1](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg503#q-how-do-i-configure-my-wifi-connection-in-arkos) above to configure your wireless connection.  You will then need to do the following:
