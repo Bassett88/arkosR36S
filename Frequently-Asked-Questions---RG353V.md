@@ -47,10 +47,14 @@
 1. Press **Start**, scroll down to **Quit**, then select **Quit Emulationstation**.
 2. Connect a USB keyboard to your device and press **ALT+F2**.
 3. Login using the username of **ark** and password of **ark**.
-4. Then type **nmtui** to launch the graphical text based Network Manager utility.
-5. Click on **Edit a connection** then Add and follow the menu for configuring your connection.
+4. Then type **sudo systemctl stop networkwatchdaemon**
+5. Then type **sudo systemctl start NetworkManager**
+6. Then type **nmtui** to launch the graphical text based Network Manager utility.
+7. Click on **Edit a connection** then Add and follow the menu for configuring your connection.
    - For more information on how to use this utility, check out the article available through this [link](https://www.tecmint.com/nmtui-configure-network-connection/)
    - Configured network connections are stored in /etc/NetworkManager/system-connections/
+8. Then type **sudo systemctl start networkwatchdaemon**
+9. Then type **sudo systemctl start NetworkManager**
 
 ## Q. How do I SSH into ArkOS?
 ### A. Verify that you completed the steps in [FAQ #1](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg353v#q-how-do-i-configure-my-wifi-connection-in-arkos) above to configure your wireless connection.  You will then need to do the following:
