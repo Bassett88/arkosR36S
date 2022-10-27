@@ -356,6 +356,7 @@ Current Timezone \
 Drastic emulator configuration \
 Emulationstation collections \
 Emulationstation settings \
+Kodi plugins and settings \
 Mupen64plus standalone emulator gamepad configuration \
 Retroarch configurations for both 64 bit and 32 bit \
 Retroarch cheats for both 64 bit and 32 bit \
