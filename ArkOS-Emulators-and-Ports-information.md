@@ -57,6 +57,12 @@ Rom Folder: arcade \
 Extensions: .zip .ZIP .7z .7Z .cue .CUE \
 Bios: pgm.zip (for PGM games only like Knights of Valour and DoDonPachi)
 
+### Arduboy
+Emulator: lr-arduous \
+Rom Folder: arduboy \
+Extensions: .hex .HEX \
+Bios: None
+
 ### Astrocade
 Emulator: lr-mess \
 Rom Folder: astrocde \
