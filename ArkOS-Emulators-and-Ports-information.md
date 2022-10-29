@@ -278,6 +278,13 @@ Rom Folder: intellivision \
 Extensions: .bin .BIN .int .INT .zip .ZIP .7z .7Z \
 Bios: exec.bin, grom.bin
 
+### Love2d
+Emulator: [love2d](https://github.com/love2d/love) \
+Rom Folder: love2d \
+Extensions: .love .LOVE \
+Bios: None \
+Notes: Upon initial launch of a love game, a corresponding .gptk file is created within the love/controls subfolder within the roms (or roms2) folder.  This file contains keyboard keys that have been mapped to a corresponding controller button input of your device.  You can edit this file to change the assigned keyboard key to a controller button input.  You can also disable assigning a key to a controller button input by changing its value to `\"`.
+
 ### LowRes NX
 Emulator: lr-lowresnx \
 Rom Folder: lowresnx \
