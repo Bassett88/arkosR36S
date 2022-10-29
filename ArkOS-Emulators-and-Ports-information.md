@@ -279,7 +279,7 @@ Extensions: .bin .BIN .int .INT .zip .ZIP .7z .7Z \
 Bios: exec.bin, grom.bin
 
 ### Love2d
-Emulator: [love2d](https://github.com/love2d/love) \
+Emulator: [love2d version 11.4](https://github.com/love2d/love) \
 Rom Folder: love2d \
 Extensions: .love .LOVE \
 Bios: None \
