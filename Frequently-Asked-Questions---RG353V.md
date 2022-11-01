@@ -35,7 +35,7 @@
 34. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg353v#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
 35. [How do I use the HDMI port?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V#q-how-do-i-use-the-hdmi-port)
 36. [Can I use external controllers with this unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V#q-can-i-use-external-controllers-with-this-unit)
-37. [Can I use bluetooth headphones with this unit?]()
+37. [Can I use bluetooth headphones with this unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V#q-can-i-use-bluetooth-headphones-with-this-unit)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Do the following:
