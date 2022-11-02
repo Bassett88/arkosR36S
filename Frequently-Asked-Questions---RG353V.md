@@ -86,7 +86,7 @@
 ## Q. What are the global event keys and emulator event keys in ArkOS?
 ### A. See hotkey information below
 
-**Global Hotkey: Right Thumbstick (R3)**
+**Global Hotkey: F**
 
 F and Dpad Up = Brightness Up \
 F and Dpad Down = Brightness Down \
