@@ -19,7 +19,7 @@ This OS came about from an initial port of TheRA to support a roms folder on a N
 It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer as broad of an opportunity for incorporating support for various video game system emulators and ports as possible.  This OS offers the following capabilities:
 
 -  Emulates over 90 gaming systems
--  Support for over 70 ports via [PortMaster](https://github.com/christianhaitian/PortMaster#what-is-portmaster)
+-  Support for over 90 ports via [PortMaster](https://github.com/christianhaitian/PortMaster#what-is-portmaster)
 -  The roms folder is on a separate exfat partition for easy management of roms and bios files from a Linux, Mac OS X, or Windows 10 1703 or newer computer without needing a separate program.  Just pop the micro SD card into a card reader and look for the drive letter named EASYROMS and start loading and managing your roms and bios files there.
     - FOR WINDOWS 10 1703 or newer USERS:  If you don't see a drive letter named EASYROMS when you plug the SD card into a card reader, it's most likely that Windows did not automatically assign a drive letter to that partition on your SD card.  This can be resolved by going to disk management (type disk management in the search bar in Windows 10 and select the first control panel app that comes up at the top as the best match), then going to the SD card with the EASYROMS partition label, then assign a drive letter to the EASYROMS partition by right clicking on the EASYROMS partition and selecting Assign Drive Letter or Change Driver letter and Path, then follow the directions from there.  Once completed, the drive should show up under My Computer.  You typically only need to ever do this once on the Windows machine.
 
@@ -31,10 +31,11 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
   - In this mode, no additional tools or standalone emulators are accessible. This means no NDS, no standalone PSP, no TI99, and no standalone yabasanshiro. To enable remote services, you must do so through BaRT. To use a File Manager, you must do so through BaRT. Of course, you can always just switch back to Emulationstation anytime as well and access these standalone emulators and tools.
 -  [Retroarch](https://github.com/libretro/RetroArch) is the primary frontend for Libretro emulators which the majority of the emulators in this OS make use of.
 -  Remote access services (SSH and Samba) are disabled by default for security and reduced resource usage.  They can be enabled by going to **Options** and selecting **Enable Remote Services** from the Emulationstation menu.
--  Stability tweak for RTL8188 and RTL8812/RTL8811 wireless chipsets.  (Disabled USB and wireless chip power saving in the 8812 and 8192 drivers which causes wifi drops on these chipsets.)
+-  Stability tweaks for RTL8188 and RTL8812/RTL8811 wireless chipsets.  (Disabled USB and wireless chip power saving in the 8812 and 8192 drivers which causes wifi drops on these chipsets.)
 -  ArkOS Browser powered by [FileBrowser](https://github.com/filebrowser/filebrowser) for managing roms via a web browser.
+-  [Kodi](https://github.com/xbmc/xbmc) media player and entertainment hub for digital media. (RG353V/VS and RG503 units Only!)
 -  Optimized kernel and very few running backend OS services to maximize resources for emulation performance.
--  [Pico-8](https://www.lexaloffle.com/pico-8.php) support.  Just add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to the /roms/pico-8 folder and add your .png game files to /roms/pico-8/carts folder then load your pico-8 from the Pico-8 system in the Emulationstation menu.
+-  [Pico-8](https://www.lexaloffle.com/pico-8.php) support.  Just add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to the /roms/pico-8 folder and add your .png game files to /roms/pico-8/carts folder then load your pico-8 from the Pico-8 system in the Emulationstation menu.  You can also use Jon Bell's [Fake-08](https://github.com/jtothebell/fake-08) emulator as well starting with ArkOS v2.0 (10292022).
 -  All game saves (in-game and save states) are located in respective rom folders.
 -  Stable sleep mode for most of the supported RK3326 devices (Gameforce Chi, Odroid Go Advance, RK2020, RGB10, and RG351MP), the RG353V, RG353VS, and RG503.
 
