@@ -85,7 +85,7 @@ Bios: ATARIOSA.ROM and ATARIOSB.ROM and ATARIBAS.ROM \
 Note: .rom seems to have issues with the libretro atari800 as of 11/13/2021.  .atr still work as well as .zip files containing .atr and .xex seem to work for the most part.
 
 ### Atari 2600
-Emulator: lr-stella \
+Emulator: lr-stella2014 \
 Rom Folder: atari2600 \
 Extensions: .a26 .A26 .bin .BIN .zip .ZIP .7z .7Z \
 Bios: None
