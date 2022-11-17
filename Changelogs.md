@@ -10,6 +10,8 @@
 
 [RK2020/OGA 1.0](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog)
 
+[RG353M](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353m-changelog)
+
 [RG353V](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353v-changelog)
 
 [RG503](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg503-changelog)
