@@ -50,6 +50,12 @@ Extensions: .cpc .CPC .dsk .DSK .zip .ZIP .7z .7Z \
 Bios: None \
 Notes: crocods doesn't support loading from compressed .zip or .7z files as of 2/4/2022.
 
+### Amstrad GX4000 (Coming Soon)
+Emulator: lr-cap32 \
+Rom Folder: gx4000 \
+Extensions: .cpr .CPR .dsk .DSK .zip .ZIP \
+Bios: None
+
 ### Arcade
 Emulator: (**lr-fbneo**) lr-fbalpha2012 lr-fbalpha2016 lr-fbalpha2018 lr-mame (Current) \
 Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well). Mame required rom set version: MAME 0.235 \
