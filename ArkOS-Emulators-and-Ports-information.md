@@ -420,7 +420,7 @@ Note: mupen64plus(standalone) will most likely have the best performance but is 
 Emulator: lr-parallel-n64 \
 Rom Folder: n64dd \
 Extensions: .d64 .D64 .n64 .N64 .n64dd .N64DD .ndd .NDD .z64 .Z64 \
-Bios: None
+Bios: 64DD_IPL.bin
 
 ### Nintendo DS
 Emulator: drastic standalone \
