@@ -50,7 +50,7 @@ Extensions: .cpc .CPC .dsk .DSK .zip .ZIP .7z .7Z \
 Bios: None \
 Notes: crocods doesn't support loading from compressed .zip or .7z files as of 2/4/2022.
 
-### Amstrad GX4000 (Coming Soon)
+### Amstrad GX4000
 Emulator: lr-cap32 \
 Rom Folder: gx4000 \
 Extensions: .cpr .CPR .dsk .DSK .zip .ZIP \
