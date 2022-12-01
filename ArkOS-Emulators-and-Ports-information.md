@@ -61,7 +61,8 @@ Emulator: (**lr-fbneo**) lr-fbalpha2012 lr-fbalpha2016 lr-fbalpha2018 lr-mame (C
 Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well). Mame required rom set version: MAME 0.235 \
 Rom Folder: arcade \
 Extensions: .zip .ZIP .7z .7Z .cue .CUE \
-Bios: pgm.zip (for PGM games only like Knights of Valour and DoDonPachi)
+Bios: pgm.zip (for PGM games only like Knights of Valour and DoDonPachi) \
+Audio Samples: Place in /roms/bios/fbneo/samples folder
 
 ### Arduboy
 Emulator: lr-arduous \
