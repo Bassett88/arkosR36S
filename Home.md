@@ -113,7 +113,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **RG503** - [GDrive](https://drive.google.com/file/d/1jahuRUiqIGn5rY_YhByZjQb8BkwOeFwW/view?usp=sharing) | [Mega](https://mega.nz/file/eBRgBJqI#zCb8G7WzCKw6Zd1St4L4QnsthCLiPItnvIBcaKaRvcI) | [Torrent-N/A] (Updated 08/26/2022) MD5:C418D294EA3E4673250F37BB8D506692 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg503-changelog) | [RG503 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503)
 
-**RG353V/RG353VS** - [GDrive](https://drive.google.com/file/d/10SGXJ3J8XSRdpWAPZ1VOumBjV3Wm0hTs/view?usp=sharing) | [Mega](https://mega.nz/file/aV5BFazR#hKbqiUaTTUtNwL1bCSWtEPSWUvsNHDpgWiSJ3IESzFw) | [Torrent-N/A] (Updated 10/02/2022) MD5:686DAA6B33F6E3EBF5E531193C23DB6D 
+**RG353V/RG353VS** - [GDrive]() | [Mega]() | [Torrent-N/A] (Updated 11/18/2022) MD5:87C105A22E899C6018BC63E07E44E99A 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353v-changelog) | [RG353V - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V)
 
 **RG353M** - [GDrive](https://drive.google.com/file/d/1ZXtNSkuU6J54EZWbUlkiJPzYReFCo059/view?usp=share_link) | [Mega](https://mega.nz/file/SRIgTDCT#PpO0AgT1QP0m_dVwpU9yzKhSPIrGed-XCByffhFg1TQ) | [Torrent-N/A] (Updated 11/18/2022) MD5:444843285FC23DAA744FD6B07E070626
