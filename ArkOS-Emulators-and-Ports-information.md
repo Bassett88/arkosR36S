@@ -11,7 +11,7 @@
 
 # Emulators
 
-### 3DO (Best on the RG353V/RG353VS and the RG503)
+### 3DO (Best on the RG353M, RG353V/RG353VS and the RG503)
 Emulator: lr-opera \
 Rom Folder: 3do \
 Extensions: .iso .ISO .bin .BIN .chd .CHD .cue .CUE \
