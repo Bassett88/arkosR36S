@@ -133,7 +133,7 @@ Rom Folder: atarixegs \
 Extensions: .bin .BIN .rom .ROM .xex .XEX .zip .ZIP  \
 Bios: ATARIXL.ROM and ATARIBAS.ROM 
 
-### CDi (RG353V, RG353VS and RG503 Only!)
+### CDi (RG353M, RG353V, RG353VS and RG503 Only!)
 Emulator: lr-same_cdi \
 Rom Folder: cdimono1 \
 Extensions: .iso .ISO .chd .CHD \
@@ -273,7 +273,7 @@ Rom Folder: gamegear \
 Extensions: .bin .BIN .gg .GG .zip .ZIP .7z .7Z \
 Bios: bios.gg (optional)
 
-### Gamecube (RG353V, RG353VS and RG503 Only!)
+### Gamecube (RG353M, RG353V, RG353VS and RG503 Only!)
 Emulator: [Dolphin](https://github.com/rtissera/dolphin/tree/egldrm) standalone \
 Rom Folder: gc \
 Extensions: .elf .ELF .gcz .GCZ .iso .ISO .m3u .M3U .wad .WAD .wbfs .WBFS .wia .WIA \
@@ -627,7 +627,7 @@ Rom Folder: tic80 \
 Extensions: .tic .TIC \
 Bios: None
 
-### Tiger LCD Games (RG353V, RG353VS and RG503 Only!)
+### Tiger LCD Games (RG353M, RG353V, RG353VS and RG503 Only!)
 Emulator: lr-mame \
 Rom Folder: tigerlcd \
 Extensions: .zip .ZIP \
