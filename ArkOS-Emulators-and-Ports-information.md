@@ -666,7 +666,7 @@ Extensions: .bin .BIN .zip .ZIP .7z .7Z \
 Bios: None
 
 ### Wolfenstein
-Emulator: (**[ecwolf](https://bitbucket.org/ecwolf/ecwolf)**) lr-ecwolf \
+Emulator: (**[ecwolf](https://bitbucket.org/ecwolf/ecwolf)**) standalone lr-ecwolf \
 Rom Folder: wolf \
 Extensions: .wolf .WOLF .ecwolf .ECWOLF \
 Bios: None \
