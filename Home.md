@@ -110,7 +110,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **CHI** - [GDrive](https://drive.google.com/file/d/1H3XxL-suFV_dgU905_YA0wjKrZaTkKyI/view?usp=sharing) | [Mega](https://mega.nz/file/yQAxGSQY#gU75i4h0TJkgczeacpz4kTEk1RM7Z-359REbqL2SxnE) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_CHI_v2.0_07022022.7z.torrent) (Updated 07/02/2022) MD5:146CE4BB4CE10C584A2830E2226B4DC3 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/chi-changelog) | [CHI - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI)
 
-**RG503** - [GDrive](https://drive.google.com/file/d/1jahuRUiqIGn5rY_YhByZjQb8BkwOeFwW/view?usp=sharing) | [Mega](https://mega.nz/file/eBRgBJqI#zCb8G7WzCKw6Zd1St4L4QnsthCLiPItnvIBcaKaRvcI) | [Torrent-N/A] (Updated 08/26/2022) MD5:C418D294EA3E4673250F37BB8D506692 
+**RG503** - [GDrive](https://drive.google.com/file/d/1EIqD8iPfcAugHIRBr0Ew-CcQ9mK5kFCo/view?usp=share_link) | [Mega](https://mega.nz/file/uUAzDZZK#fHh9aXOc03wlBfwhtzDae4F9VHW9bdAi6K8A3_6989w) | [Torrent-N/A] (Updated 12/02/2022) MD5:D22C0533D058ABD1A1F33512C098B418 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg503-changelog) | [RG503 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503)
 
 **RG353V/RG353VS** - [GDrive](https://drive.google.com/file/d/1Iv8S7EicerJ1x7MTDKrpPMjxILz0BlL4/view?usp=share_link) | [Mega](https://mega.nz/file/DAwRjYZY#JFtsb_8gMNFbbB1UowwlbyuvpFyUaRBHB5pagcPA_fM) | [Torrent-N/A] (Updated 11/18/2022) MD5:87C105A22E899C6018BC63E07E44E99A 
