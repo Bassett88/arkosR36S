@@ -173,7 +173,7 @@ Like my work on this?  Want to say thank you?  Buy me a cup of tea. :) \
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=RC72LJ4SSERSU)
 
 # Connect
-For questions, comments and feedback related to this distro or RK3326 devices in general, find us on the Retro Game Handhelds Discord using this [link](https://discord.gg/wurh4WM)
+For questions, comments and feedback related to this distro or RK3326 and RK3566 devices in general, find us on the Retro Game Handhelds Discord using this [link](https://discord.gg/wurh4WM)
 
 # Reviews
 [![ArkOS Image](https://retrogamecorps.files.wordpress.com/2020/11/arkos-thumbnail.png?w=720)](https://youtu.be/YBYMKrf775o)
