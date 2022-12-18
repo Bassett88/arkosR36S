@@ -155,7 +155,7 @@ Rom Folder: c16 \
 Extensons: .d64 .D64 .d71 .D71 .d80 .D80 .d81 .D81 .d82 .D82 .g64 .G64 .g41 .G41 .x64 .X64 .t64 .T64 .tap .TAP .prg .PRG .p00 .P00 .crt .CRT .bin .BIN .zip .ZIP .gz .GZ .d6z .D6Z .d7z .D7Z .d8z .D8Z .g6z .G6Z .g4z .G4Z .x6z .X6Z .cmd .CMD .m3u .M3U .vsf .VSF .nib .NIB .nbz .NBZ \
 Bios: None
 
-### Commodore 64/VIC-20/PET
+### Commodore 64/PET
 Emulator: lr-vice_x64 \
 Rom Folder: c64 \
 Extensons: .d64 .D64 .zip .ZIP .7z .7Z .t64 .T64 .crt .CRT .prg .PRG .nib .NIB .tap .TAP \
@@ -167,6 +167,11 @@ Rom Folder: c128 \
 Extensons: .d64 .D64 .d71 .D71 .d80 .D80 .d81 .D81 .d82 .D82 .g64 .G64 .g41 .G41 .x64 .X64 .t64 .T64 .tap .TAP .prg .PRG .p00 .P00 .crt .CRT .bin .BIN .zip .ZIP .gz .GZ .d6z .D6Z .d7z .D7Z .d8z .D8Z .g6z .G6Z .g4z .G4Z .x6z .X6Z .cmd .CMD .m3u .M3U .vsf .VSF .nib .NIB .nbz .NBZ \
 Bios: JiffyDOS_C128.bin JiffyDOS_C64.bin JiffyDOS_1541-II.bin JiffyDOS_1571_repl310654.bin JiffyDOS_1581.bin
 
+### Commodore Vic-20
+Emulator: lr-vice_xvic \
+Rom Folder: vic20 \
+Extensons: .20 .40 .60 .a0 .A0 .b0 .B0 .d64 .D64 .d71 .D71 .d80 .D80 .d81 .D81 .d82 .D82 .g64 .G64 .g41 .G41 .x64 .X64 .t64 .T64 .tap .TAP .prg .PRG .p00 .P00 .crt .CRT .bin .BIN .gz .GZ .d6z .D6Z .d7z .D7Z .d8z .D8Z .g6z .G6Z .g4z .G4Z .x6z .X6Z .cmd .CMD .m3u .M3U .vsf .VSF .nib .NIB .nbz .NBZ .zip .ZIP \
+Bios: None
 
 ### CPS 1
 Emulator: (**lr-fbneo**) fbalpha2012 fbalpha2016 fbalpha2018 \
