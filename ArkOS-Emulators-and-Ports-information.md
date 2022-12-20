@@ -48,7 +48,7 @@ Emulator: (**lr-crocods**) lr-cap32 \
 Rom Folder: amstradcpc \
 Extensions: .cpc .CPC .dsk .DSK .zip .ZIP .7z .7Z \
 Bios: None \
-Notes: crocods doesn't support loading from compressed .zip or .7z files as of 2/4/2022.
+Notes: crocods doesn't support loading from compressed .zip or .7z files as of 2/4/2022.  .dsk files seem to be the easiest to load with crocods.
 
 ### Amstrad GX4000
 Emulator: lr-cap32 \
