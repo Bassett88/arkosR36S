@@ -110,13 +110,13 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **CHI** - [GDrive](https://drive.google.com/file/d/1H3XxL-suFV_dgU905_YA0wjKrZaTkKyI/view?usp=sharing) | [Mega](https://mega.nz/file/yQAxGSQY#gU75i4h0TJkgczeacpz4kTEk1RM7Z-359REbqL2SxnE) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_CHI_v2.0_07022022.7z.torrent) (Updated 07/02/2022) MD5:146CE4BB4CE10C584A2830E2226B4DC3 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/chi-changelog) | [CHI - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI)
 
-**RG503** - [GDrive](https://drive.google.com/file/d/1-D55IZmmjWfOwU31_jg3BjZGyM9OcG7m/view?usp=share_link) | [Mega](https://mega.nz/file/3cIR3DJa#_cTsracO_RkZiV-f8c7VnlOBQD_x8lA6OQZXTe8YDWk) | [Torrent-N/A] (Updated 12/27/2022) MD5:858A237D1F86100C702685C60B2244B0
+**RG503** - [GDrive](https://drive.google.com/file/d/1Cll2-v7qKeuKaIaGVwFk-2gE-P9gwD06/view?usp=share_link) | [Mega](https://mega.nz/file/GBAlDATb#1tTeCp5G6-pxnGB7By8reKqcuvXxIorHjwgHJaOqkhI) | [Torrent-N/A] (Updated 12/29/2022) MD5:D8C9B6310880147EC02D39FFA7D22EAC
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg503-changelog) | [RG503 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503)
 
-**RG353V/RG353VS** - [GDrive](https://drive.google.com/file/d/1EIZcY9eTkmQa_nudZIYXet2do40kwilf/view?usp=share_link) | [Mega](https://mega.nz/file/2UAkETqa#fjwcuPrQA76vvqzVCzNHexb571eiz7G7ZVp8QSXjHjI) | [Torrent-N/A] (Updated 12/27/2022) MD5:65ABD241217E7327FDF39CA6BE7C111C
+**RG353V/RG353VS** - [GDrive](https://drive.google.com/file/d/1_Iyk7QPFydcukj3_1NjZxUiQdD9DQ2rV/view?usp=share_link) | [Mega](https://mega.nz/file/mVxklTgI#QgE_Gy08tcC-vJst7Gb7m2DvfXjBIIKr6WWhPej9-i0) | [Torrent-N/A] (Updated 12/29/2022) MD5:8685FE989729A66EFF8AF6455BD4B8A8
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353v-changelog) | [RG353V - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V)
 
-**RG353M** - [GDrive](https://drive.google.com/file/d/1Ibu1KEmkoclipnRVclS8AMH_TD_rvccS/view?usp=share_link) | [Mega](https://mega.nz/file/SAolRBQS#b8Htn7hLqyPvlMGZeUF4Lb5Y3xLcmdz87ObOe2hQHAA) | [Torrent-N/A] (Updated 12/27/2022) MD5:B25130983BBB4A51CACD7EBC4827037D
+**RG353M** - [GDrive](https://drive.google.com/file/d/11mVyNe2MVEl65-FH9Fp8iEd3CFYyN67H/view?usp=share_link) | [Mega](https://mega.nz/file/jUYigaxR#yLjvvk8VqLlMC0EXf9VeQ9P3Yty4GIwEtV29ouo_RF0) | [Torrent-N/A] (Updated 12/29/2022) MD5:867504FB3E68DCBC7C8D7000AE0F3F07
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353m-changelog) | [RG353M - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M)
 
 **RG351V** - [GDrive](https://drive.google.com/file/d/1OzY6tkOCsv4u-ZUGFT3k-gCHcDS19qBs/view?usp=sharing) | [Mega](https://mega.nz/file/mBggGawB#f-iqDjLIxTaBSR5ZmDnWcSR7pSATfpdzcLkEjV3Tdf0) | [Torrent](https://github.com/christianhaitian/arkos/raw/main/ArkOS_RG351V_v2.0_07022022.7z.torrent) (Updated 07/02/2022) MD5:C1FB817E60B6990E8C736168B0C20D85 
