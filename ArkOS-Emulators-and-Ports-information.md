@@ -470,7 +470,7 @@ Bios: None
 
 ### PC Engine/TurboGraphx-16
 Emulator: (**lr-mednafen-pce-fast**) lr-mednafen-pce lr-mednafen-supergrafx [Mednafen](https://mednafen.github.io/) \
-Rom Folder: pcengine or turbographx \
+Rom Folder: pcengine or turbografx \
 Extensions: .pce .PCE .chd .CHD .zip .ZIP .7z .7Z \
 Bios: None
 
