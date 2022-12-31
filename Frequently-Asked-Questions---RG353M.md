@@ -36,7 +36,8 @@
 35. [How do I use the HDMI port?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-how-do-i-use-the-hdmi-port)
 36. [Can I use external controllers with this unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-can-i-use-external-controllers-with-this-unit)
 37. [Can I use bluetooth headphones with this unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-can-i-use-bluetooth-headphones-with-this-unit)
-38. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?]()
+38. [How do I enable Tate mode?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-how-do-i-enable-tate-mode)
+39. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Do the following:
@@ -547,5 +548,8 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 * The Emulationstation interface needs to be restarted after successfully connecting to bluetooth audio in order for interface sound effects to route via bluetooth.  Just press start, then go to quit, then press A on the Restart Emulationstation menu option.
 * Audio from video snapshots and video screensaver does not play when bluetooth audio is connected.
 
+## Q. How do I enable Tate mode?
+### A. Tate mode is available for Arcade, CPS1, CPS2 and CPS3 systems.  Just set the emulator to retroarch-tate and select either fbneo or mame2003 for your core.
+
 ## Q. How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?
-### A. MAke sure you load the appropriate support files into the respective folders.  See the [Emulators Information](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information) section for more info.  Then make the system visible from the Emulationstation start menu by pressing the start button, then press the A button on UI Settings, then press the A button on Visible Systems.  Select the systems you want visible by highlighting them then pressing A or scroll to the bottom and press Select All.  Then press the B button then press Start.  The additional systems you selected should now be visible.
+### A. Make sure you load the appropriate support files into the respective folders.  See the [Emulators Information](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information) section for more info.  Then make the system visible from the Emulationstation start menu by pressing the start button, then press the A button on UI Settings, then press the A button on Visible Systems.  Select the systems you want visible by highlighting them then pressing A or scroll to the bottom and press Select All.  Then press the B button then press Start.  The additional systems you selected should now be visible.
