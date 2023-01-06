@@ -492,11 +492,11 @@ Rom Folder: pico-8/carts \
 Extensions: .png .PNG .p8 .P8 \
 Bios: None \
 Notes: 
--  ### Fake-08 is not affiliated with Lexaloffle, and is not 100% compatible, nor does it have SPLORE functionality, so using the official Pico-8 player from [Lexaloffel](https://www.lexaloffle.com/games.php?page=updates) is still highly encouraged for purchase for best performance, compatibility and to support the platform.
--  Add the contents of the latest version available of your purchased Pico-8 Raspberry Pi Pico-8 zip to /roms/pico-8 (or /roms2/pico-8 for 2 sd card setups) folder and add your .png and/or .p8 game files to /roms/pico-8/carts (or /roms2/pico-8/carts folder then start pico-8 from pico-8 emulationstation menu.
+-  ### Fake-08 is not affiliated with Lexaloffle, and is not 100% compatible, nor does it have SPLORE functionality, so using the official Pico-8 player from [Lexaloffel](https://www.lexaloffle.com/games.php?page=updates) is still highly encouraged for purchase for best performance, compatibility and to support the Lexaloffle Pico-8 platform.
+-  Add the contents of the latest version available of your purchased Pico-8 Raspberry Pi zip to /roms/pico-8 (or /roms2/pico-8 for 2 sd card setups) folder and add your .png and/or .p8 game files to /roms/pico-8/carts (or /roms2/pico-8/carts folder then start pico-8 from pico-8 emulationstation menu.  If you're on ArkOS v2.0 (01/21/2022) or newer, remove the pico8_dyn file from the Raspberry Pi Pico-8 zip file you purchased so the 64bit version of Pico8 will be used.  The 32bit (pico8_dyn) version causes no video to display with the newer Pico-8 Raspberry Pi zip files.
 -  If you'd like to access splore to download and update games online while in Pico-8, create a blank text file named zzzsplore.p8 in /roms/pico-8/carts (or /roms2/pico-8/carts) and launch zzzsplore from the pico-8 system menu in emulationstation.
 -  By default, pico-8 games will load in a 1:1 aspect ratio.  You can also load games in full screen and pixel perfect aspect ratios as well by changing the default emulator setting.  See [here](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-how-do-i-change-emulator-cores-in-arkos) for information on how to change the default emulator.
-- You can exit pico-8 at any time by pressing the select and start buttons (RG351 and RK2020 devices) or 1 and Start buttons (Chi) or Minus and Start buttons (RGB10).
+- You can exit pico-8 at any time by pressing the select and start buttons (RG351, RG353M/V/VS, RG503 and RK2020 devices) or 1 and Start buttons (Chi) or Minus and Start buttons (RGB10).
 
 ### Playstation 1 (PSX)
 Emulator: (**lr-pcsx-rearmed**) lr-duckstation \
