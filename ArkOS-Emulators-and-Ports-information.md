@@ -338,7 +338,7 @@ Extensions: .mp4 .avi .mpeg .mkv
 Notes: Up to 720p seems to perform fine with limited testing.  Support will be limited for this feature. If a video/movie doesn't work on this, try a lower resolution or just use a more suitable device like a smartphone.
 
 ### Megadrive MSU
-Emulator: [lr-genesis_plus_gx](https://docs.libretro.com/library/genesis_plus_gx/)**) \
+Emulator: [lr-genesis_plus_gx](https://docs.libretro.com/library/genesis_plus_gx/) \
 Rom Folder: msumd \
 Extensions: .md .MD \
 Bios: bios_md.bin, bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin \
