@@ -544,9 +544,9 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 ### A. Yes.  Bluetooth headphones should work with the unit as of the ArkOS v2.0 (11/01/2022) updated.  Make sure to go to Bluetooth in the options system section just before Retroarch and run it.  It will start the Bluetooth connection manager.  Put your bluetooth headphones into pairing mode and select **Connect to new Bluetooth device** and add your bluetooth headphones.
 **Notes:** 
 * Be sure Bluetooth is on.  You can confirm bluetooth is on by pressing start and verifying it says BT:On In the status section at the bottom of the menu.  If it says BT:Off, Hit the F button which should toggle it on.  You can confirm by hitting start twice again To refresh the status area.
-**Known issues**
+
+**Known issues:**
 * The Emulationstation interface needs to be restarted after successfully connecting to bluetooth audio in order for interface sound effects to route via bluetooth.  Just press start, then go to quit, then press A on the Restart Emulationstation menu option.
-* Audio from video snapshots and video screensaver does not play when bluetooth audio is connected.
 
 ## Q. How do I enable Tate mode?
 ### A. Tate mode is available for Arcade, CPS1, CPS2 and CPS3 systems.  Just set the emulator to retroarch-tate and select either fbneo or mame2003 for your core.
