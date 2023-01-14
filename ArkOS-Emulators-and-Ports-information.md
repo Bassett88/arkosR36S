@@ -334,8 +334,8 @@ Bios: bios_E.sms (optional), bios_U.sms (optional), bios_J.sms (optional)
 ### Movie (video) Player
 Player: [FFplay](https://www.ffmpeg.org/ffplay.html) \
 Folder: videos \
-Extensions: .mp4 .avi .mpeg .mkv
-Notes: Up to 720p seems to perform fine with limited testing.  Support will be limited for this feature. If a video/movie doesn't work on this, try a lower resolution or just use a more suitable device like a smartphone.
+Extensions: .mp4 .avi .mpeg .mkv \
+Notes: Up to 720p seems to perform fine with limited testing.  Support will be limited for this feature. If a video or movie doesn't work on this, try a lower resolution or just use a more suitable device like a smartphone.  For rk3566 devices such as the RG353M, RG353V/VS, or RG503, you can use the Kodi Media Center which is available by pressing the Start button and selecting Kodi Media Center.
 
 ### Megadrive MSU
 Emulator: [lr-genesis_plus_gx](https://docs.libretro.com/library/genesis_plus_gx/) \
