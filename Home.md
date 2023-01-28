@@ -37,7 +37,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 -  Optimized kernel and very few running backend OS services to maximize resources for emulation performance.
 -  [Pico-8](https://www.lexaloffle.com/pico-8.php) support.  Just add the contents of your purchased Pico-8 Raspberry Pi Pico-8 zip to the /roms/pico-8 folder and add your .png game files to /roms/pico-8/carts folder then load your pico-8 from the Pico-8 system in the Emulationstation menu.  You can also use Jon Bell's [Fake-08](https://github.com/jtothebell/fake-08) emulator as well starting with ArkOS v2.0 (10292022).
 -  All game saves (in-game and save states) are located in respective rom folders.
--  Stable sleep mode for most of the supported RK3326 devices (Gameforce Chi, Odroid Go Advance, RK2020, RGB10, and RG351MP), the RG353V, RG353VS, and RG503.
+-  Stable sleep mode for most of the supported RK3326 devices (Gameforce Chi, Odroid Go Advance, RK2020, RGB10, and RG351MP), the RG353M, RG353V, RG353VS, and RG503.
 
 **For more information about the supported Emulators and Ports, click the [ArkOS Emulators and Ports](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information) information page link on the right of this page.**
 
