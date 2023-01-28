@@ -35,6 +35,7 @@
 33. [How do I generate .m3u files for PS1 games in ArkOS?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
 34. [I have duplicate games showing for PS1.  How do I eliminate the duplicates?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-i-have-duplicate-games-showing-for-ps1--how-do-i-eliminate-the-duplicates)
 35. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-what-is-bart-and-how-do-i-access-it)
+36. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
@@ -491,3 +492,6 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
   * Load 351Files for file management needs
   * Drop into terminal mode by connecting a keyboard and hitting alt+f2.
 * To access BaRT, just hold the B button while booting and in a few seconds, you should be presented with the Boot and Recovery Tools screen similar to this: ![](https://raw.githubusercontent.com/christianhaitian/arkos/main/pics/BaRT.jpg)
+
+## Q. How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?
+### A. Make sure you load the appropriate support files into the respective folders.  See the [Emulators Information](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information) section for more info.  Then make the system visible from the Emulationstation start menu by pressing the start button, then press the A button on UI Settings, then press the A button on Visible Systems.  Select the systems you want visible by highlighting them then pressing A or scroll to the bottom and press Select All.  Then press the B button then press Start.  The additional systems you selected should now be visible.
