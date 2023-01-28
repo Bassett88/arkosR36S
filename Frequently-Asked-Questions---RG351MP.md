@@ -34,6 +34,7 @@
 32. [I have duplicate games showing for PS1.  How do I eliminate the duplicates?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-i-have-duplicate-games-showing-for-ps1--how-do-i-eliminate-the-duplicates)
 33. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-what-is-bart-and-how-do-i-access-it)
 34. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
+35. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
@@ -504,3 +505,6 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
     * Existing roms folders, roms, bios, and games on this sd card will NOT be overwritten during this process.
     * Once ArkOS is setup to use the second sd slot for roms and games, your main sd card and your roms sd card must be in the unit for ArkOS to boot.
     * This process will NOT copy any of your roms, games and saves from the main SD card to the secondary card.  It will just create the structure for you.  You'll need to copy those yourself.  You can use File Manager from the Options menu to do this or copy them manually from your computer.
+
+## Q. How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?
+### A. Make sure you load the appropriate support files into the respective folders.  See the [Emulators Information](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information) section for more info.  Then make the system visible from the Emulationstation start menu by pressing the start button, then press the A button on UI Settings, then press the A button on Visible Systems.  Select the systems you want visible by highlighting them then pressing A or scroll to the bottom and press Select All.  Then press the B button then press Start.  The additional systems you selected should now be visible.
