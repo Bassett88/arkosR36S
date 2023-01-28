@@ -32,6 +32,8 @@
 30. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-what-is-bart-and-how-do-i-access-it)
 31. [The analog stick is reversed on the RGB10s.  How do I fix it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-the-analog-stick-is-reversed-on-the-rgb10s--how-do-i-fix-it)
 32. [The L2 and R2 buttons on my OGA 1.1(BE) unit are not functional.  How do I fix it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-the-l2-and-r2-buttons-on-my-oga-11be-unit-are-not-functional--how-do-i-fix-it)
+33. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
+
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Please note that it is highly recommended that you use the ArkOS 1.2 image or newer that was made available on 11/21/2020 due to wifi fixes that were implemented.  You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  It's also been reported that this [TP-Link Archer T2U Nano AC600](https://www.amazon.com/gp/product/B07PB1X4CN/) unit works very well with ArkOS.  It's inexpensive and supports 2.4GHz and 5GHz wireless signals.  I personally used this [EDUP Nano USB 650Mbps](https://www.amazon.com/dp/B089QL35T2/) unit and it works very well with ArkOS.  It also is very inexpensive and supports 2.4Ghz and 5GHz wireless signals.  You then will need to do the following:
@@ -436,3 +438,6 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 
 ## Q. The L2 and R2 buttons on my OGA 1.1(BE) unit are not functional.  How do I fix it?
 ### A. Load BaRT by holding the B button while booting your OGA 1.1(BE).  Then scroll down and select **Set controls to OGA 1.1(BE) mode** with the A button.  Your unit will then reboot.  Your L2 and R2 buttons should now function correctly.
+
+## Q. How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?
+### A. Make sure you load the appropriate support files into the respective folders.  See the [Emulators Information](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information) section for more info.  Then make the system visible from the Emulationstation start menu by pressing the start button, then press the A button on UI Settings, then press the A button on Visible Systems.  Select the systems you want visible by highlighting them then pressing A or scroll to the bottom and press Select All.  Then press the B button then press Start.  The additional systems you selected should now be visible.
