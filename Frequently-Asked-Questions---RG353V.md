@@ -542,10 +542,14 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 ## Q. Can I use bluetooth headphones with this unit?
 ### A. Yes.  Bluetooth headphones should work with the unit as of the ArkOS v2.0 (11/01/2022) updated.  Make sure to go to Bluetooth in the options system section just before Retroarch and run it.  It will start the Bluetooth connection manager.  Put your bluetooth headphones into pairing mode and select **Connect to new Bluetooth device** and add your bluetooth headphones.
 **Notes:** 
-* Be sure Bluetooth is on.  You can confirm bluetooth is on by pressing start and verifying it says BT:On In the status section at the bottom of the menu.  If it says BT:Off, Hit the F+R3 button which should toggle it on.  You can confirm by hitting start twice again To refresh the status area.
+* Be sure Bluetooth is on.  You can confirm bluetooth is on by pressing start and verifying it says BT:On In the status section at the bottom of the menu.  If it says BT:Off, Hit the F button which should toggle it on.  You can confirm by hitting start twice again To refresh the status area.
 
 **Known issues:**
 * The Emulationstation interface needs to be restarted after successfully connecting to bluetooth audio in order for interface sound effects to route via bluetooth.  Just press start, then go to quit, then press A on the Restart Emulationstation menu option.
+* ~~Audio from video snapshots and video screensaver does not play when bluetooth audio is connected.~~ Resolved as of 01/03/2023 update.
+
+**Tips:**
+* If you're experiencing excessive audio delays (of about 1 second or more) in retroarch based emulators, try reducing the retroarch audio delay configuration by going to retroarch Settings>Audio>Output>Audio Latency (ms).  It's set by default to 128.  You can try reducing that to 64 or another number and see if that helps.
 
 ## Q. How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?
 ### A. Make sure you load the appropriate support files into the respective folders.  See the [Emulators Information](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information) section for more info.  Then make the system visible from the Emulationstation start menu by pressing the start button, then press the A button on UI Settings, then press the A button on Visible Systems.  Select the systems you want visible by highlighting them then pressing A or scroll to the bottom and press Select All.  Then press the B button then press Start.  The additional systems you selected should now be visible.
