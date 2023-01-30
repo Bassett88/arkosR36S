@@ -171,7 +171,7 @@ To exit the system, hit the Select and Start button.
 
 **For Mupen64plus standalone emulator**
 
-![](https://github.com/christianhaitian/arkos/raw/main/devices/rg353v_mupen64_resized.jpg)  
+![](https://github.com/christianhaitian/arkos/raw/main/devices/RG353V_Mupen64plus_Layout.jpg)  
 
 - Select + Start: Exit emulator
 - Select + R1: Save State
