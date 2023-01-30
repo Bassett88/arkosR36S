@@ -544,7 +544,9 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 * Be sure Bluetooth is on.  You can confirm bluetooth is on by pressing start and verifying it says BT:On In the status section at the bottom of the menu.  If it says BT:Off, Hit the F button which should toggle it on.  You can confirm by hitting start twice again To refresh the status area.
 **Known issues**
 * The Emulationstation interface needs to be restarted after successfully connecting to bluetooth audio in order for interface sound effects to route via bluetooth.  Just press start, then go to quit, then press A on the Restart Emulationstation menu option.
-* Audio from video snapshots and video screensaver does not play when bluetooth audio is connected.
+* ~~Audio from video snapshots and video screensaver does not play when bluetooth audio is connected.~~ Resolved as of 01/03/2023 update.
+**Tip**
+* If you're experiencing excessive audio delays (of about 1 second or more) in retroarch based emulators, try reducing the retroarch audio delay configuration by going to retroarch Settings>Audio>Output>Audio Latency (ms).  It's set by default to 128.  You can try reducing that to 64 or another number and see if that helps.
 
 ## Q. How do I enable Tate mode?
 ### A. Tate mode is available for Arcade, CPS1, CPS2 and CPS3 systems.  Just set the emulator to retroarch-tate and select either fbneo or mame2003 for your core.
