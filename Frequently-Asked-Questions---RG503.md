@@ -175,7 +175,8 @@ To exit the system, hit the Select and Start button.
 - Select + Start: Exit emulator
 - Select + R1: Save State
 - Select + L1: Load State
-- Select + A: Pause/Unpause emulator
+- Select + A: Pause/Unpause emulator \
+**Note:** To change the controller setup, you'll have to manually edit the controller configuration via SSH at `/opt/mupen64plus/InputAutoCfg.ini`.  You can refer to this [link](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#global-hotkey-config-file-locations-6) for corresponding sdl button numbering.
 
 **For TI-99 standalone emulator**
 
