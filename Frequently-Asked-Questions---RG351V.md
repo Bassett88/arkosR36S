@@ -68,6 +68,11 @@
      1. Allow root to be able to login through ssh by doing ```sudo nano /etc/ssh/sshd_config``` then scroll down to ```PermitRootLogin``` and remove the beginning hashtag (#) and set PermitRootLogin to yes.  Basically it should say ```PermitRootLogin yes``` on that line.  
      1. Hit Ctrl+X, then hit y to save the change.
      1. Then either restart ssh by typing in ```sudo systemctl restart ssh``` or restart ArkOS.
+- If you'd like to enable authorized key based login, do the following from the ssh terminal session:
+   - `sudo chmod -R 755 /home/ark`
+   - `mkdir -p ~/.ssh && touch ~/.ssh/authorized_keys`
+   - `chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys`
+   - Create and/or copy your public key to the `/home/ark/.ssh/authorized_keys` file.  See this [link](https://www.ssh.com/academy/ssh/putty/windows/puttygen#creating-a-new-key-pair-for-authentication) for help on how to accomplish this if needed.
 
 **With great power comes great responsibility!**  Be careful as you make changes as now you can easily make various changes that can render the OS unstable or unbootable.
 
