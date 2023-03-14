@@ -558,6 +558,12 @@ Rom Folder: segacd \
 Extensions: .bin .BIN .chd .CHD .cue .CUE .iso .ISO \
 Bios: bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin
 
+### Sega Pico
+Emulator: [lr-picodrive](https://docs.libretro.com/library/picodrive/) \
+Rom Folder: pico \
+Extensions: .mdx .MDX .md .MD .smd .SMD .gen .GEN .bin .BIN .cue .CUE .iso .ISO .sms .SMS .gg .GG .sg .SG .sgd .SGD .68k .68K .chd .CHD .zip .ZIP .7z .7Z \
+Bios: None
+
 ### Sega Saturn
 Emulator: (**[lr-yabasanshiro](https://docs.libretro.com/library/yabasanshiro/)**) [lr-yabause](https://docs.libretro.com/library/yabasanshiro/) [yabasanshiro standalone](https://github.com/devmiyax/yabause/tree/pi4-1-9-0/yabause/src/retro_arena) \
 Rom Folder: saturn \
