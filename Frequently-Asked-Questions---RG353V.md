@@ -210,6 +210,16 @@ To exit the system, hit the Select and Start button.
 - Select + X = Toggle Stereo audio on or off
 - Select + Start: Exit emulator
 
+**For the Duckstation standalone emulator**
+
+- Select + R1 = Save Savestate
+- Select + L1 = Load Savestate
+- Select + X = Menu
+- Select + Y = Widescreen mode toggle
+- Select + A = Screenshot
+- Select + B = Reset
+- Select + Start = Exit emulator
+
 **For Yabasanshiro standalone emulator**
 
 - A: C
