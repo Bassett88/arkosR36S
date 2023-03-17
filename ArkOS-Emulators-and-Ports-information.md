@@ -470,7 +470,8 @@ Notes: Bios files have to be placed in a subfolder named np2 within the bios fol
 Emulator: (**[lr-dosbox_pure](https://docs.libretro.com/library/dosbox_pure/)**) [lr-dosbox](https://docs.libretro.com/library/dosbox/) \
 Rom Folder: dos \
 Extensions: .dosz .DOSZ .exe .EXE .com .COM .bat .BAT .conf .CONF .cue .CUE .iso .ISO .zip .ZIP \
-Bios: None
+Bios: None \
+Note: If you're using the default dosbox_pure libretro core and your dos games are in .zip format, rename the extensions to .dosz then run the MSDOS - Hide Zip Games tool in the Options section.  This will prevent the duplicate entries that occurs when dosbox_pure creates a .pure.zip file for each game launched.
 
 ### PC Engine/TurboGraphx-16
 Emulator: (**[lr-mednafen-pce-fast](https://docs.libretro.com/library/beetle_pce_fast/)**) [lr-mednafen-pce](https://github.com/libretro/beetle-pce-libretro) [lr-mednafen-supergrafx](https://docs.libretro.com/library/beetle_sgx/) [Mednafen](https://mednafen.github.io/) \
