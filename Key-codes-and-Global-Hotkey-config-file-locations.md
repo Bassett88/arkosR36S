@@ -7,7 +7,7 @@
 [RG351P/RG351M](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg351pm) \
 [RG351MP](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg351mp) \
 [RG351V](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg351v) \
-[RG353M/V/VS and RG503](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg503)
+[RG353M/V/VS and RG503](https://github.com/christianhaitian/arkos/wiki/Key-codes-and-Global-Hotkey-config-file-locations#rg353mvvs-and-rg503)
 
 
 # RK2020/OGA 1.0
