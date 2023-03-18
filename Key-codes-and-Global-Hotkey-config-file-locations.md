@@ -267,7 +267,7 @@ Right Analog Axis Configuration mappings
 * Down = axis(3+)
 * Up = axis(3-)
 
-# RG503
+# RG353M/V/VS and RG503
 
 * DPAD Up = 544
 * DPAD Down = 545
