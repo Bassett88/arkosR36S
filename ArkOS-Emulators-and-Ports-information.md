@@ -353,6 +353,12 @@ Extensions: .bin .BIN .zip .ZIP .7z .7Z \
 Bios: None \
 Notes: If you want to use the mess core, there's a little more work involved in getting the games to run in which the rom must be named exactly as shown as the software name in the bios/mame/hash/[megaduck.xml](https://github.com/libretro/mame/blob/master/hash/megaduck.xml) file.  For example, Arctic Zone rom must be named arczone.bin.  If it is zipped, it must be named arczone.zip.
 
+### Microvision
+Emulator: [MVEM](https://github.com/christianhaitian/Paul-Robson-s-Microvision-Emulation) \
+Rom Folder: mv \
+Extensions: .bin .BIN \
+Bios: None \
+
 ### MSX
 Emulator: (**[lr-bluemsx](https://docs.libretro.com/library/bluemsx/)**) [lr-fMSX](https://docs.libretro.com/library/fmsx/) [OpenMSX](https://github.com/openMSX/openMSX) \
 Rom Folder: msx \
