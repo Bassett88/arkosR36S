@@ -358,6 +358,21 @@ Emulator: [MVEM](https://github.com/christianhaitian/Paul-Robson-s-Microvision-E
 Rom Folder: mv \
 Extensions: .bin .BIN \
 Bios: None \
+Notes: This portable game system had only a few games.  For the best experience, the game files should include the .bmp and _snap.bmp for each bin.  To use the predefined control scheme, the game files must be named appropriately as follows: \
+[Alien Raiders.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Alien-Raiders_snap.jpg) \
+[Baseball.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Baseball_snap.jpg) \
+[Block Buster.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Block-Buster_snap.jpg) \
+[Bomber (homebrew).bin](https://github.com/christianhaitian/arkos/blob/main/mvem%20pics/Bomber-_homebrew__snap.jpg) \
+[Bowling.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Bowling_snap.jpg) \
+[Connect Four.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Connect%20Four_snap.jpg) \
+[Cosmic Hunter.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Cosmic%20Hunter_snap.jpg) \
+[Mindbuster.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Mindbuster_snap.jpg) \
+[Phaser Strike.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Phaser-Strike_snap.jpg) \
+[Pinball.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Pinball_snap.jpg) \
+[Sea Duel.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Sea-Duel_snap.jpg) \
+[Vegas Slots.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Vegas-Slots_snap.jpg) \
+
+You can click on each of the game file names above to see what the predefined key maps are.
 
 ### MSX
 Emulator: (**[lr-bluemsx](https://docs.libretro.com/library/bluemsx/)**) [lr-fMSX](https://docs.libretro.com/library/fmsx/) [OpenMSX](https://github.com/openMSX/openMSX) \
