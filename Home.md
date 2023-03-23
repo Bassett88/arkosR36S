@@ -74,8 +74,8 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 -  Mac OS X users (Instructions are untested):
    -  Download and install the [ApplePi-Baker](http://www.tweaking4all.com/hardware/raspberry-pi/macosx-apple-pi-baker/) application if you don't have it already.
         - **DO NOT USE BALENA ETCHER WITH THIS IMAGE.**  There has been reports of various strange issues and inconsistent performance using Etcher for this image.
-   -  Download the compressed .7z image from from one of the links at bottom of this page.         
-   -  Extract the image file from the downloaded .7z file with [The Unarchiver](http://unarchiver.c3.cx/) or [Keka](http://www.kekaosx.com/en/) or tool that can uncompress .7z files.
+   -  Download the compressed .xz image from from one of the links at bottom of this page.         
+   -  Extract the image file from the downloaded .xz file with [The Unarchiver](http://unarchiver.c3.cx/) or [Keka](http://www.kekaosx.com/en/) or tool that can uncompress .xz files.
    -  Insert the SD card into your SD card reader.
    -  Run ApplePi-Baker
    -  Click on the Select Disk(s) test or the hard drive icon and select your SD card.
