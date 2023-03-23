@@ -373,7 +373,8 @@ Notes: This portable gaming system by Milton Bradley had only a few games.  For 
 [Sea Duel.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Sea-Duel_snap.jpg) \
 [Vegas Slots.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Vegas-Slots_snap.jpg)
 
-* You can click on each of the game file names above to see what the predefined key maps are.  
+* You can click on each of the game file names above to see what the predefined key maps are.
+* If the game file names do not match any as shown above, the game will start with the default control setup as shown for the Mindbuster game [here](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Mindbuster_snap.jpg)
 * The left joystick serves as the analog knob control.  
 * If you'd like to create your own mappings for these games, just create a `controls` subfolder within the roms/mv (roms2/mv for 2 sd card setups) folder and create a text file named according to the game name above but instead of the .bin extension, give it the extension of .gptk.  
 * The MVEM emulator expects the keyboard keys as shown in yellow corner highlights [here](https://github.com/christianhaitian/arkos/blob/main/mvem%20pics/mvem_controls.JPG?raw=true) for each corresponding button.  
