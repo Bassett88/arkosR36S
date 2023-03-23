@@ -358,7 +358,8 @@ Emulator: [MVEM](https://github.com/christianhaitian/Paul-Robson-s-Microvision-E
 Rom Folder: mv \
 Extensions: .bin .BIN \
 Bios: None \
-Notes: This portable game system had only a few games.  For the best experience, the game files should include the .bmp and _snap.bmp for each bin.  To use the predefined control scheme, the game files must be named appropriately as follows: \
+Notes: This portable gaming system by Milton Bradley had only a few games.  For the best experience, the game files should include the .bmp and _snap.bmp for each bin.  To use the predefined control scheme, the game files must be named appropriately as follows:
+
 [Alien Raiders.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Alien-Raiders_snap.jpg) \
 [Baseball.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Baseball_snap.jpg) \
 [Block Buster.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Block-Buster_snap.jpg) \
@@ -372,7 +373,12 @@ Notes: This portable game system had only a few games.  For the best experience,
 [Sea Duel.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Sea-Duel_snap.jpg) \
 [Vegas Slots.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Vegas-Slots_snap.jpg)
 
-You can click on each of the game file names above to see what the predefined key maps are.
+* You can click on each of the game file names above to see what the predefined key maps are.  
+* The left joystick serves as the analog knob control.  
+* If you'd like to create your own mappings for these games, just create a controls subfolder within the roms/mv (roms2/mv for 2 sd card setups) folder and create a text file named according to the game name above but instead of the .bin extension, give it the extension of .gptk.  
+* The MVEM emulator expects the keyboard keys as shown in yellow corner highlights [here](https://github.com/christianhaitian/arkos/blob/main/mvem%20pics/mvem_controls.JPG?raw=true) for each corresponding button.  
+* See [here](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/mvem.gptk) on how the structure of the gptk text file should look.  
+* Unused gamepad keys should be commented out with `\"` like the start key is in the example .gptk file linked in the previous sentence.
 
 ### MSX
 Emulator: (**[lr-bluemsx](https://docs.libretro.com/library/bluemsx/)**) [lr-fMSX](https://docs.libretro.com/library/fmsx/) [OpenMSX](https://github.com/openMSX/openMSX) \
