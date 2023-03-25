@@ -371,6 +371,8 @@ Notes: This portable gaming system by Milton Bradley had only a few games.  For 
 [Phaser Strike.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Phaser-Strike_snap.jpg) \
 [Pinball.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/pinball_snap.jpg) \
 [Sea Duel.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Sea-Duel_snap.jpg) \
+[Space Invaders (homebrew).bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Space-Invaders-_homebrew__snap.jpg) \
+[Super Blockbuster.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Super-Blockbuster_snap.jpg) \
 [Vegas Slots.bin](https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/Vegas-Slots_snap.jpg)
 
 * You can click on each of the game file names above to see what the predefined key maps are.
