@@ -430,11 +430,14 @@ Bios: neogeo.zip \
 Notes: Because neogeo roms can come in different formats (split or non-merged), it's recommended to keep the neogeo.zip bios in the /roms/bios and the /roms/neogeo folder to ensure best compatibility.
 
 ### Neo Geo CD
-Emulator: [lr-neocd](https://github.com/libretro/neocd_libretro#readme) \
+Emulator: (**[lr-neocd](https://github.com/libretro/neocd_libretro#readme)**) [lr-fbneo](https://docs.libretro.com/library/fbneo/) \
 Rom Folder: neogeocd \
 Extensions: .cue .CUE .chd .CHD .m3u .M3U \
 Bios: (000-lo.lo or ng-lo.rom) and (neocd_f.rom or neocd.bin or uni-bioscd.rom) *placed in a folder named neocd within the bios folder* \
-Note: More information available [here](https://github.com/libretro/neocd_libretro#required-bios-files)
+Note: More information available [here](https://github.com/libretro/neocd_libretro#required-bios-files) \
+- If you choose to use the libretro fbneo core, be aware that you have to use either a Neo Geo CD romset that has .cue/.ccd/.img/.sub files or a single .bin and single .cue file.  
+- Doesn't seem chd files or m3u files will work with the libretro fbneo core.  
+- Also, the bios folder must contain proper neocdz.zip and neogeo.zip bios files.
 
 ### Neo Geo Pocket
 Emulator: (**[lr-mednafen-ngp (aka lr-beetle-ngp)](https://docs.libretro.com/library/beetle_neopop/)**) [Mednafen](https://mednafen.github.io/) \
