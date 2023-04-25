@@ -18,6 +18,13 @@ Rom Folder: 3do \
 Extensions: .iso .ISO .bin .BIN .chd .CHD .cue .CUE \
 Bios: panafz1.bin or panafz10.bin or panafz10-norsa.bin or panafz10e-anvil.bin or panafz10e-anvil-norsa.bin or panafz1j.bin or panafz1j-norsa.bin or goldstar.bin or sanyotry.bin or 3do_arcade_saot.bin  See this link for more details: https://docs.libretro.com/library/opera/#bios
 
+### Adventure Vision (Coming Soon)
+Emulator: [lr-mess](https://docs.libretro.com/guides/arcade-getting-started/) \
+Rom Folder: advision \
+Extensions: .7z .7Z .bin .BIN .zip .ZIP \
+Bios: advision.zip (must be in the roms/advision folder.  **NOT THE BIOS FOLDER!**) \
+Notes: Because this uses the mess emulator, there's a little more work involved in getting the games to run in which the rom must be named exactly as shown in the bios/mame/hash/[advision.xml](https://github.com/libretro/mame/blob/master/hash/advision.xml) file.  For example, Defender rom must be named defender.bin.  If it is zipped, it must be named defender.zip.
+
 ### American Laser Games
 Emulator: [hypseus-singe](https://github.com/DirtBagXon/hypseus-singe) standalone \
 Rom Folder: alg \
