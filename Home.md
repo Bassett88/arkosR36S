@@ -14,7 +14,7 @@ The overarching goals of ArkOS is as follows:
 1. Online Updates (Won't require SD card reflashing unless there are major structural changes like file system changes.)
 1. Ease of use
 
-This OS came about from an initial port of TheRA to support a roms folder on a NTFS partition so that the management of roms could be done by simply putting you SD card into an appropriate card reader on a Windows 10 computer.  Through various upgrades and tweaks overtime, it has diverged significantly from TheRA and it's time to rebrand this distro.  With suggestions provided by community members, ArkOS was chosen.  Short for **Another ~~rk3326~~ rockchip Operating System**.
+This OS came about from an initial port of [The Retro Arena](https://techtoytinker.com/theretroarena) to support a roms folder on a NTFS partition so that the management of roms could be done by simply putting you SD card into an appropriate card reader on a Windows 10 computer.  Through various upgrades and tweaks overtime, it has diverged significantly from TheRA and it's time to rebrand this distro.  With suggestions provided by community members, ArkOS was chosen.  Short for **Another ~~rk3326~~ rockchip Operating System**.
 
 It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer as broad of an opportunity for incorporating support for various video game system emulators and ports as possible.  This OS offers the following capabilities:
 
@@ -44,7 +44,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **For global and emulator hotkey information, check FAQ #6 in the Frequently Asked Questions for the specific rk3326 device you have or the RG353V, RG353VS, or RG503 on the right of this page.**
 
 # Disclaimer
-**Support for this OS is made on a best effort basis and is subject to change at anytime.  I make no guarantee on support or capabilities of this image.  Use at your own risk!  I do not provide support or condone the use of preloaded images.**
+**Support for this OS is made on a best effort basis and is subject to change at anytime.  I make no guarantee on support or capabilities of this image.  Use at your own risk!  I do not provide support or condone the use of preloaded images or rom packs.**
 
 # Instructions for loading
 
