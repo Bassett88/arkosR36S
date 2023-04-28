@@ -18,7 +18,7 @@ Rom Folder: 3do \
 Extensions: .iso .ISO .bin .BIN .chd .CHD .cue .CUE \
 Bios: panafz1.bin or panafz10.bin or panafz10-norsa.bin or panafz10e-anvil.bin or panafz10e-anvil-norsa.bin or panafz1j.bin or panafz1j-norsa.bin or goldstar.bin or sanyotry.bin or 3do_arcade_saot.bin  See this link for more details: https://docs.libretro.com/library/opera/#bios
 
-### Adventure Vision (Coming Soon)
+### Adventure Vision
 Emulator: [lr-mess](https://docs.libretro.com/guides/arcade-getting-started/) \
 Rom Folder: advision \
 Extensions: .7z .7Z .bin .BIN .zip .ZIP \
