@@ -502,7 +502,7 @@ or you may experience control issues!
 ### PC98
 Emulator: (**[lr-nekop2](https://github.com/libretro/libretro-meowPC98)**) [lr-nekop2kai](https://docs.libretro.com/library/neko_project_ii_kai/) \
 Rom Folder: pc98 \
-Extensions: .d88 .D88 .fdi .FDI .hdi .HDI .zip .ZIP \
+Extensions: .cmd .CMD .d88 .D88 .fdi .FDI .hdi .HDI .zip .ZIP \
 Bios: See this link for more details.  https://docs.libretro.com/library/neko_project_ii_kai/#bios \
 Notes: Bios files have to be placed in a subfolder named np2 within the bios folder.
 
