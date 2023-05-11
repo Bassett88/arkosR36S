@@ -344,6 +344,7 @@ Important Notes:
 - As the compressed file will contain sensitive information such as wireless ssid passwords, it should be stored securely off the sd card once created if there's a concern of possible prying eyes.
 - An accompanying log file (arkosbackup.log) is also created in the roms/backup/ folder.
 - Only one backup file is created and currently supported with these options.  A new backup process will overwrite the existing backup and logfile in the roms/backup/ folder.
+- When restoring your backups, if you're using a 2 sd card setup, your backups have to be restored from the backup folder located on your tf1 card.
 
 ## Q. How do I use ArkOS Browser for managing my roms via a web browser?
 ### A. Do the following:
