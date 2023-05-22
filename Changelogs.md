@@ -15,3 +15,5 @@
 [RG353V](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353v-changelog)
 
 [RG503](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg503-changelog)
+
+[RK2023](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2023-changelog)
