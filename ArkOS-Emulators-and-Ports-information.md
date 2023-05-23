@@ -463,7 +463,7 @@ Emulator: (**[standalone(mupen64plus)](https://github.com/mupen64plus)**) [lr-pa
 Rom Folder: n64 \
 Extensions: .z64 .Z64 .n64 .N64 .v64 .V64 \
 Bios: None \
-Note: mupen64plus(standalone) will most likely have the best performance but is the least user friendly emulator as the keys are not easily reconfigurable.  See the FAQ section for your respective supported device in this wiki and scroll down to the mupen64plus standalone emulator section for the default key configuration for the standalone emulator.
+Note: standalone(mupen64plus) will most likely have the best performance but is the least user friendly emulator as the keys are not easily reconfigurable.  See the FAQ section for your respective supported device in this wiki and scroll down to the mupen64plus standalone emulator section for the default key configuration for the standalone emulator.
 
 ### Nintendo 64DD
 Emulator: [lr-parallel-n64](https://docs.libretro.com/library/mupen64plus/) \
