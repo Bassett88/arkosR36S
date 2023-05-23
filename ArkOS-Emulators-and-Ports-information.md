@@ -459,11 +459,11 @@ Extensions: .ngp .NGP .ngc .NGC .zip .ZIP .7z .7Z \
 Bios: None
 
 ### Nintendo 64
-Emulator: (**[lr-parallel-n64](https://docs.libretro.com/library/mupen64plus/)**) [lr-mupen64plus_next](https://docs.libretro.com/library/mupen64plus/#nintendo-64-mupen64plus-next) [lr-mupen64plus](https://docs.libretro.com/library/mupen64plus/) [mupen64plus(standalone)](https://github.com/mupen64plus) \
+Emulator: (**[standalone(mupen64plus)](https://github.com/mupen64plus)**) [lr-parallel-n64](https://docs.libretro.com/library/mupen64plus/) [lr-mupen64plus_next](https://docs.libretro.com/library/mupen64plus/#nintendo-64-mupen64plus-next) [lr-mupen64plus](https://docs.libretro.com/library/mupen64plus/) \
 Rom Folder: n64 \
 Extensions: .z64 .Z64 .n64 .N64 .v64 .V64 \
 Bios: None \
-Note: mupen64plus(standalone) will most likely have the best performance but is the least user friendly emulator as the keys are not easily reconfigurable.  See the FAQ section for the [RG351P/M](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#q-what-are-the-global-event-keys-and-emulator-event-keys-in-ArkOS) or the [RG351MP](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-what-are-the-global-event-keys-and-emulator-event-keys-in-ArkOS) or the [RG351V](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-what-are-the-global-event-keys-and-emulator-event-keys-in-ArkOS) or the [RGB10](https://github.com/christianhaitian/rgb10/wiki/Frequently-Asked-Questions#a-) or the [RK2020](https://github.com/christianhaitian/rk2020/wiki/Frequently-Asked-Questions#a-) or the [Chi](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI#q-what-are-the-global-event-keys-and-emulator-event-keys-in-ArkOS) and scroll down to the mupen64plus standalone emulator section for the default key configuration for the standalone emulator.
+Note: mupen64plus(standalone) will most likely have the best performance but is the least user friendly emulator as the keys are not easily reconfigurable.  See the FAQ section for your respective supported device in this wiki and scroll down to the mupen64plus standalone emulator section for the default key configuration for the standalone emulator.
 
 ### Nintendo 64DD
 Emulator: [lr-parallel-n64](https://docs.libretro.com/library/mupen64plus/) \
