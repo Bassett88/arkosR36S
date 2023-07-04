@@ -44,7 +44,7 @@
 - Then hit the **R1** button to go to the **+** sign and click the A button to add your wifi details.  
 - Once completed, you can then verify that your wifi is connected by confirming that you see the wifi symbol located near the top right corner of the Emulationstation Menu.  You can also verify that you have a valid wireless connection by going to **Options** then **NETWORK INFO** and verify you have an assigned IP for your device.
 
-**Note:** If you have a password that has special characters not available through the Wifi menu option in the Options menu, you can configure your wifi device manually by doing one of the options below:
+**Note:** If you have a password that has special characters not available through the Wifi menu option in the Options menu, you can configure your wifi using Retroarch in the Settings>Wifi section or manually by doing one of the options below:
 
 ### Manual option 1
 At boot, ArkOS will check for a wifikeyfile.txt file in the roms/tools folder (or roms2/tools folder for 2 sd card setups) and start a wifi credentials importing process.  
