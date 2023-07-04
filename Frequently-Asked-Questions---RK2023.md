@@ -42,7 +42,19 @@
 - Then click the A button on **Connect to new Wifi connection" to select your ssid and provide your credentials.
 - Once completed, you can then verify that your wifi is connected by pressing the start button and reviewing the **SSID:** info at the bottom of the menu.  You can also verify that you have a valid wireless connection by pressing start and looking at the bottom of menu next to **Distro Version** or by going to **Options** then **Wifi** then **Current Network Info** and verify you have an assigned IP for your device.
 
-**Note:** If you have a password that has special characters not available through the Wifi menu option in the Options menu, you can configure your wifi device manually by doing the following:
+**Note:** If you have a password that has special characters not available through the Wifi menu option in the Options menu, you can configure your wifi device manually by doing one of the options below:
+
+### Manual option 1
+At boot, ArkOS will check for a wifikeyfile.txt file in the roms/tools folder (or roms2/tools folder for 2 sd card setups) and start a wifi credentials importing process.  
+format is 
+```
+ssid="your ssid"
+pass="your ssid password"
+```
+Upon successful connection, the file gets deleted for security purposes.
+
+### Manual option 2
+
 
 1. Press **Start**, scroll down to **Quit**, then select **Quit Emulationstation**.
 2. Connect a USB keyboard to your device and press **ALT+F2**.
