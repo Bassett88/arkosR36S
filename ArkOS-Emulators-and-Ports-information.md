@@ -221,7 +221,7 @@ You can load IWADs using .doom files.  See [here](https://github.com/plaidman/rg
 ### Dreamcast
 Emulator: (**[lr-flycast](https://docs.libretro.com/library/flycast/)**) lr-flycast_xtreme lr-reicast_xtreme [retrorun](https://github.com/christianhaitian/retrorun-go2) [retrorun32](https://github.com/christianhaitian/retrorun-go2) \
 Rom Folder: dreamcast \
-Extensions: ~~.7z .7Z~~ .gdi .GDI .cdi .CDI .cue .CUE .chd .CHD \
+Extensions: ~~.7z .7Z~~ .gdi .GDI .cdi .CDI .cue .CUE .chd .CHD .m3u .M3U \
 Bios: dc_boot.bin, dc_flash.bin (*need to be placed in a folder named dc within the bios folder*) \
 Note: 
 -  For best performance, .gdi files are usually best since they're uncompressed.
