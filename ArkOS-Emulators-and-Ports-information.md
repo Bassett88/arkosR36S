@@ -544,7 +544,7 @@ Notes:
 - You can exit pico-8 at any time by pressing the select and start buttons (RG351, RG353M/V/VS, RG503 and RK2020 devices) or 1 and Start buttons (Chi) or Minus and Start buttons (RGB10).
 
 ### Playstation 1 (PSX)
-Emulator: (**[lr-pcsx-rearmed](https://docs.libretro.com/library/pcsx_rearmed/)**) [lr-duckstation](https://github.com/stenzek/duckstation) [Duckstation Standalone (except for 351v)](https://github.com/stenzek/duckstation) \
+Emulator: (**[lr-pcsx-rearmed](https://docs.libretro.com/library/pcsx_rearmed/)**) [lr-duckstation](https://github.com/stenzek/duckstation) [Duckstation Standalone (except for 351v)](https://github.com/stenzek/duckstation) [lr-swanstation](https://github.com/libretro/swanstation) \
 Rom Folder: psx \
 Extensions: .cue .CUE .img .IMG .mdf .MDF .pbp .PBP .toc .TOC .cbn .CBN .m3u .M3U .ccd .CCD .chd .CHD .zip .ZIP .7z .7Z .iso .ISO \
 Bios: psxonpsp660.bin, scph101.bin, scph7001.bin, scph5501.bin, scph1001.bin \
