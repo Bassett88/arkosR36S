@@ -35,6 +35,7 @@
 33. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-what-is-bart-and-how-do-i-access-it)
 34. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
 35. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
+32. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-what-is-quick-mode-and-how-do-i-enable-it)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
@@ -525,3 +526,6 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 
 ## Q. How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?
 ### A. Make sure you load the appropriate support files into the respective folders.  See the [Emulators Information](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information) section for more info.  Then make the system visible from the Emulationstation start menu by pressing the start button, then press the A button on UI Settings, then press the A button on Visible Systems.  Select the systems you want visible by highlighting them then pressing A or scroll to the bottom and press Select All.  Then press the B button then press Start.  The additional systems you selected should now be visible.
+
+## Q. What is Quick Mode and how do I enable it?
+### A. When you do a safe shutdown (R3 button + Power Button) while in a Retroarch or Retroarch32 emulator, an auto savestate will be created of the current game and the unit will shutdown.  Upon power on, the system will autoboot into the last game and resume the auto savestate.  To enable this mode, select Enable Quick Mode from the Options>Advanced menu section in Emulationstation.  **Reminder** - This only works with Retroarch and Retroarch32 based emulators.
