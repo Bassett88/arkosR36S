@@ -714,6 +714,12 @@ Rom Folder: virtualboy \
 Extensions: .vb .VB .vboy .VBOY .zip .zip .7z .7Z \
 Bios: None
 
+### Visual Novel games engine (ONScripter)
+Emulator: [lr-onscripter](https://github.com/iyzsong/onscripter-libretro)
+Rom Folder: onscripter \
+Extensions: .dat .DAT .txt .TXT \
+Bios: None
+
 ### Watara Supervision
 Emulator: [lr-potator](https://github.com/libretro/potator) \
 Rom Folder: supervision
