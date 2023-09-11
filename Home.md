@@ -96,6 +96,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
    -  Uncompress the image with 7zip (From terminal, you can install this by doing sudo apt-get install p7zip-full p7zip-rar)   
    -  For those with Ubuntu based systems, you can use the Disks app to image to a 8GB micro SD card or larger.  (16GB micro SD card or bigger highly recommended!)
        - If you're using some other flavor of Ubuntu like Xubuntu that doesn't have Disks installed by default, you can install the disks app by typing sudo apt install gnome-disks from terminal.
+   -  You can also use DD in Linux to image the sd card.  Review the instructions [here](https://github.com/christianhaitian/arkos/issues/785?notification_referrer_id=NT_kwDOAV6AULM3NjgzMDU3ODAyOjIyOTcwNDQ4#issue-1891240493) for more information on this.
    -  Insert into your rk3326 device and power on the device.
    -  Device will reboot twice as it expands the NTFS partition and converts it to exfat to fill the rest of the micro SD card.
    -  Device is ready once the Emulationstation menu is displayed.
