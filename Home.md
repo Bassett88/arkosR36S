@@ -120,7 +120,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353m-changelog) | [RG353M - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M)
 
 **RGB30** - [GDrive](https://drive.google.com/file/d/1e473JMY_fYqnh6S3Uui1zQUgVxx92Nkc/view?usp=sharing) | [Mega](https://mega.nz/file/fZ4iVKzB#ZahQk4lK0NIlDhBO1tavzWTXUYGy6YhSjjDC5EErnRs) | (Updated 08/11/2023) MD5:EBFF36C6F567C70FC10795B7D7845EBF
- | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2023-changelog) | [RK2023 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2023)
+ | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb30-changelog) | [RGB30 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30)
 
 **RK2023** - [GDrive](https://drive.google.com/file/d/1ua0Q5Oihp-t5-_LKZBuQ8wzMIAaEg7wN/view?usp=sharing) | [Mega](https://mega.nz/file/DBxDSTbI#CLqIMS8k-gkrmEfc_w7xjRO6YRMVPXc1Q_YDdW8UPQU) | (Updated 06/22/2023) MD5:CA6C4ED89ED3C78A03A4B0635F9243D9
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2023-changelog) | [RK2023 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2023)
