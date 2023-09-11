@@ -33,9 +33,8 @@
 31. [How do I use the HDMI port?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-use-the-hdmi-port)
 32. [Can I use external controllers with this unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-can-i-use-external-controllers-with-this-unit)
 33. [Can I use bluetooth headphones with this unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-can-i-use-bluetooth-headphones-with-this-unit)
-34. [How do I enable Tate mode?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-enable-tate-mode)
-35. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
-36. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-what-is-quick-mode-and-how-do-i-enable-it)
+34. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
+35. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-what-is-quick-mode-and-how-do-i-enable-it)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  It's also been reported that this [TP-Link Archer T2U Nano AC600](https://www.amazon.com/gp/product/B07PB1X4CN/) unit works very well with ArkOS.  It's inexpensive and supports 2.4GHz and 5GHz wireless signals.  I personally used this [EDUP Nano USB 650Mbps](https://www.amazon.com/dp/B089QL35T2/) unit and it works very well with ArkOS.  It also is very inexpensive and supports 2.4Ghz and 5GHz wireless signals.  You then need to do the following:
@@ -576,9 +575,6 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 
 **Tips:**
 * If you're experiencing excessive audio delays (of about 1 second or more) in retroarch based emulators, try reducing the retroarch audio delay configuration by going to retroarch Settings>Audio>Output>Audio Latency (ms).  It's set by default to 128.  You can try reducing that to 64 or another number and see if that helps.
-
-## Q. How do I enable Tate mode?
-### A. Tate mode is available for Arcade, CPS1, CPS2 and CPS3 systems.  Just set the emulator to retroarch-tate and select either fbneo or mame2003 for your core.
 
 ## Q. How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?
 ### A. Make sure you load the appropriate support files into the respective folders.  See the [Emulators Information](https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information) section for more info.  Then make the system visible from the Emulationstation start menu by pressing the start button, then press the A button on UI Settings, then press the A button on Visible Systems.  Select the systems you want visible by highlighting them then pressing A or scroll to the bottom and press Select All.  Then press the B button then press Start.  The additional systems you selected should now be visible.
