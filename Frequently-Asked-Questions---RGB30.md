@@ -628,10 +628,14 @@ Instructions:
 14. Press and hold on the rumble motor on the location for at least 30 seconds to ensure the motor is sufficiently fastened.
 15. Reconnect the speakers and the battery and close the unit.
 16. Boot up ArkOS, [connect your unit to your wireless network](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-how-do-i-configure-my-wifi-connection-in-arkos), and remote into your unit via [SSH](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-how-do-i-ssh-into-ArkOS).
-17. Enter the following command the press enter. \ 
+17. Enter the following command the press enter.
+
   `echo "@reboot /usr/local/bin/enable_vibration.sh" | sudo tee -a /var/spool/cron/crontabs/root`
+
 18. Test that vibration works with this command and press enter.
-  `echo 0 | sudo tee /sys/class/pwm/pwmchip1/pwm0/enable && sleep 0.4 && echo 1 | sudo tee /sys/class/pwm/pwmchip1/pwm0/enable`.
+
+  `echo 0 | sudo tee /sys/class/pwm/pwmchip1/pwm0/enable && sleep 0.4 && echo 1 | sudo tee /sys/class/pwm/pwmchip1/pwm0/enable`
+
 It should vibrate for about half a second and stop.  If it does, you're now done and job well done!  If not, reopen the unit and check that you soldered the wires of the rumble motor correctly and that they did not come loose from the board or the rumble motor.
 
 **Note:** A near future update to ArkOS will include the ability to enable this motor from the Emulationstation menu.  Enabling it from emulationstation will also initiate a short vibration pattern to confirm the functionality of the motor.  So steps 17 and 18 will not be needed to be completed at that point.
