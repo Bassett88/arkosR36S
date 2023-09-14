@@ -593,7 +593,7 @@ Tools and Supplies needed: \
 [Philips Screwdriver #1](https://amzn.to/3RltNVb) \
 [90% or higher Isopropyl Alcohol](https://amzn.to/3sW1N0f) \
 Clean cotton swab \
-Clean microfiber cloth or clean paper towel \
+Clean microfiber cloth or clean paper towel
 
 Optional: \
 Retrogamecorps approved workmat
