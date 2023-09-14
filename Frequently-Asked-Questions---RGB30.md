@@ -640,4 +640,4 @@ It should vibrate for about half a second and stop.  If it does, you're now done
 
 **Note:** A near future update to ArkOS will include the ability to enable this motor from the Emulationstation menu.  Enabling it from emulationstation will also initiate a short vibration pattern to confirm the functionality of the motor.  So steps 17 and 18 will not be needed to be completed at that point.
 
-Special thanks to kane159 from the RGH Discord for the testing and confirming that this mod works.
+Special thanks to kane159 from the [RGH Discord](https://discord.gg/retro-game-handhelds-529983248114122762) for the testing and confirming that this mod works.
