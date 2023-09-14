@@ -19,7 +19,7 @@ This OS came about from an initial fork of [The Retro Arena](https://techtoytink
 It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer as broad of an opportunity for incorporating support for various video game system emulators and ports as possible.  This OS offers the following capabilities:
 
 -  Emulates over 90 gaming systems
--  Support for over 150 ports via [PortMaster](https://github.com/christianhaitian/PortMaster#what-is-portmaster)
+-  Support for over 200 ports via [PortMaster](https://github.com/christianhaitian/PortMaster#what-is-portmaster)
 -  The roms folder is on a separate exfat partition for easy management of roms and bios files from a Linux, Mac OS X, or Windows 10 1703 or newer computer without needing a separate program.  Just pop the micro SD card into a card reader and look for the drive letter named EASYROMS and start loading and managing your roms and bios files there.
     - FOR WINDOWS 10 1703 or newer USERS:  If you don't see a drive letter named EASYROMS when you plug the SD card into a card reader, it's most likely that Windows did not automatically assign a drive letter to that partition on your SD card.  This can be resolved by going to disk management (type disk management in the search bar in Windows 10 and select the first control panel app that comes up at the top as the best match), then going to the SD card with the EASYROMS partition label, then assign a drive letter to the EASYROMS partition by right clicking on the EASYROMS partition and selecting Assign Drive Letter or Change Driver letter and Path, then follow the directions from there.  Once completed, the drive should show up under My Computer.  You typically only need to ever do this once on the Windows machine.
 
@@ -152,6 +152,7 @@ AmberElec team for various assistance and great sources in [AmberELEC](https://a
 fewt and the JelOS team for various assistance and great sources in [JelOS](https://github.com/JustEnoughLinuxOS/distribution/wiki) \
 [Anbernic](https://anbernic.com/) for providing hardware to developers like myself so I could release this OS on them \
 [GameForce](https://gameforce.fun/) for providing the Chi hardware to developers like myself so I could release this OS on it \
+[Powkiddy](https://powkiddy.com/) for providing rk3566 hardware to developers like myself so I could release this OS on it \
 npaladin2000 for donation of the RG351P device so I could release this OS on it \
 [RetroGameCorps](https://retrogamecorps.com/) for the youtube review \
 [Emulation Dojo](https://www.youtube.com/channel/UCsAO6HXaLZnfyv326c78gtQ) for youtube game play videos \
