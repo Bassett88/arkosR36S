@@ -619,10 +619,10 @@ Instructions:
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_161430_resized.jpg?raw=true)
 10. Make sure you've stripped the ends of both wires of the rumble motor and tinned the tips with solder.
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_161627_resized.jpg?raw=true)
-11. Solder the wires of the rumble motor to the board as shown in the picture below.
-![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_161853_resized.jpg?raw=true)
-12. Take your clean cotton swab and moisten it with some of your 90% or higher isopropyl alcohol.  Clean the motor mounting position with it and let it dry.  Should take no more than few seconds or so to dry.
+11. Take your clean cotton swab and moisten it with some of your 90% or higher isopropyl alcohol.  Clean the motor mounting position with it and let it dry.  Should take no more than few seconds or so to dry.
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_153201_resized.jpg?raw=true)
+12. Solder the wires of the rumble motor to the board as shown in the picture below.
+![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_161853_resized.jpg?raw=true)
 13. Remove the adhesive backing from your rumble motor and fasten it to the mount location similar to as shown in the picture below.
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_162005_resized.jpg?raw=true)
 14. Press and hold on the rumble motor on the location for at least 30 seconds to ensure the motor is sufficiently fastened.
