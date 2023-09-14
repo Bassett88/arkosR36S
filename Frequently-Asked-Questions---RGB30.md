@@ -35,7 +35,7 @@
 33. [Can I use bluetooth headphones with this unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-can-i-use-bluetooth-headphones-with-this-unit)
 34. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
 35. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-what-is-quick-mode-and-how-do-i-enable-it)
-36. [How do I add and enable a rumble (vibration) motor to my unit?]()
+36. [How do I add and enable a rumble (vibration) motor to my unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-add-and-enable-a-rumble-vibration-motor-to-my-unit)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  It's also been reported that this [TP-Link Archer T2U Nano AC600](https://www.amazon.com/gp/product/B07PB1X4CN/) unit works very well with ArkOS.  It's inexpensive and supports 2.4GHz and 5GHz wireless signals.  I personally used this [EDUP Nano USB 650Mbps](https://www.amazon.com/dp/B089QL35T2/) unit and it works very well with ArkOS.  It also is very inexpensive and supports 2.4Ghz and 5GHz wireless signals.  You then need to do the following:
@@ -588,11 +588,11 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 
 Tools and Supplies needed:
 
-Soldering Iron and Solder (https://amzn.to/45RzHBJ)
-Rumble Motor with pre-applied adhesive (https://amzn.to/46cKkik)
-Spugder tool (https://amzn.to/44XeXXX) or Plastic pry tool (https://amzn.to/3r4AnF3)
-Philips Screwdriver #1 (https://amzn.to/3RltNVb)
-90% or higher Isopropyl Alcohol (https://amzn.to/3sW1N0f)
+[Soldering Iron and Solder](https://amzn.to/45RzHBJ)
+[1.5v to 3.0v button style Rumble Motor with pre-applied adhesive](https://amzn.to/46cKkik)
+[Spugder tool](https://amzn.to/44XeXXX) or [Plastic pry tool](https://amzn.to/3r4AnF3)
+[Philips Screwdriver #1](https://amzn.to/3RltNVb)
+[90% or higher Isopropyl Alcohol](https://amzn.to/3sW1N0f)
 Clean cotton swab
 Clean microfiber cloth or clean paper towel
 
@@ -618,7 +618,8 @@ Instructions:
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_161627_resized.jpg?raw=true)
 11. Solder the wires of the rumble motor to the board as shown in the picture below.
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_161853_resized.jpg?raw=true)
-12. Take your clean cotton swab and moisten it with some of your 90% or higher isoproply alcohol.  Clean the motor mounting position with it and let it dry.  Should take no more than few seconds or so to dry.
+12. Take your clean cotton swab and moisten it with some of your 90% or higher isopropyl alcohol.  Clean the motor mounting position with it and let it dry.  Should take no more than few seconds or so to dry.
+![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_153201_resized.jpg?raw=true)
 13. Remove the adhesive backing from your rumble motor and fasten it to the mount location similar to as shown in the picture below.
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_162005_resized.jpg?raw=true)
 14. Press and hold on the rumble motor on the location for at least 30 seconds to ensure the motor is sufficiently fastened.
@@ -626,3 +627,5 @@ Instructions:
 16. Boot up ArkOS, connect your unit to your wireless network, and remote into your unit via SSH.
 17. Enter the following command the press enter. `echo "@reboot /usr/local/bin/enable_vibration.sh" | sudo tee -a /var/spool/cron/crontabs/root`
 18. Test that vibration works with this command and press enter. `echo 0 | sudo tee /sys/class/pwm/pwmchip1/pwm0/enable && sleep 0.4 && echo 1 | sudo tee /sys/class/pwm/pwmchip1/pwm0/enable`.  It should vibrate for about half a second and stop.  If it does, you're now done and job well done!  If not, reopen the unit and check that you soldered the wires of the rumble motor correctly and that they did not come loose from the board or the rumble motor.
+
+Special thanks to kane159 from the RGH Discord for the testing and confirming that this mod works.
