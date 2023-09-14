@@ -588,12 +588,12 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 
 Tools and Supplies needed:
 
-[Soldering Iron and Solder](https://amzn.to/45RzHBJ)
-[1.5v to 3.0v button style Rumble Motor with pre-applied adhesive](https://amzn.to/46cKkik)
-[Spugder tool](https://amzn.to/44XeXXX) or [Plastic pry tool](https://amzn.to/3r4AnF3)
-[Philips Screwdriver #1](https://amzn.to/3RltNVb)
-[90% or higher Isopropyl Alcohol](https://amzn.to/3sW1N0f)
-Clean cotton swab
+[Soldering Iron and Solder](https://amzn.to/45RzHBJ) \
+[1.5v to 3.0v button style Rumble Motor with pre-applied adhesive](https://amzn.to/46cKkik) \
+[Spugder tool](https://amzn.to/44XeXXX) or [Plastic pry tool](https://amzn.to/3r4AnF3) \
+[Philips Screwdriver #1](https://amzn.to/3RltNVb) \
+[90% or higher Isopropyl Alcohol](https://amzn.to/3sW1N0f) \
+Clean cotton swab \
 Clean microfiber cloth or clean paper towel
 
 Instructions:
