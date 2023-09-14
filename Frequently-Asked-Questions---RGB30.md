@@ -600,6 +600,7 @@ Instructions:
 
 1. Make sure you remove all sd cards from the unit.
 2. Using your philips screwdriver #1, remove the 4 screws from the back of the unit.  Go slow to make sure you don't strip the screws.
+![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_151855_resized.jpg?raw=true)
 3. Take your spugder or plastic pry tool and starting at the top of the unit near the L or R shoulder button, start prying the case open. 
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_152220_resized.jpg?raw=true)
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_152315_resized.jpg?raw=true)
