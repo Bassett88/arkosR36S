@@ -676,7 +676,7 @@ Rom Folder: snes-hacks \
 Extensions: .smc .SMC .fig .FIG .bs .BS .st .ST .sfc .SFC .gd3 .GD3 .gd7 .GD7 .dx2 .DX2 .bsx .BSX .swc .SWC .zip .ZIP .7z .7Z \
 Bios: None
 
-### Thomson (Coming soon)
+### Thomson
 Emulator: [lr-theodore](https://github.com/Zlika/theodore) \
 Rom Folder: thomson \
 Extensions: .fd .FD .k7 .K7 .m5 .M5 .m7 .M7 .rom .ROM .sap .SAP \
@@ -726,7 +726,7 @@ Rom Folder: onscripter \
 Extensions: .dat .DAT .txt .TXT \
 Bios: None
 
-### WASM-4 (Coming soon)
+### WASM-4
 Emulator: [lr-wasm4](https://github.com/aduros/wasm4) \
 Rom Folder: wasm4 \
 Extensions: .wasm .WASM \
