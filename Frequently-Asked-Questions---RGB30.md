@@ -604,11 +604,12 @@ Instructions:
 1. Make sure you remove all sd cards from the unit.
 2. Using your philips screwdriver #1, remove the 4 screws from the back of the unit.  Go slow to make sure you don't strip the screws.
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_151855_resized.jpg?raw=true)
-3. Take your spugder or plastic pry tool and starting at the top of the unit near the L or R shoulder button, start prying the case open. 
+3. Take your spugder or plastic pry tool and starting at the top of the unit near the L or R shoulder button, start slightly pry the case open. 
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_152220_resized.jpg?raw=true)
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_152315_resized.jpg?raw=true)
   - It's highly recommended that you use a plastic spugder or plastic pry tool as to not damage the case of the unit.
-  - Go slow as you pry the unit open as there are 3 wires (1 for the battery, and 1 for each speaker) that are connected to the back case of the unit.
+  - Go slow as you open the unit slide the pry tool around the seam to undo the clips instead of prying it open to minimize on damaging the case.
+  - Also be ware that there are 3 wires (1 for the battery, and 1 for each speaker) that are connected to the back case of the unit.
 4. Once you've loosened the back panel of the unit, unplug the speakers plugs and battery plug from the board and carefully lay the front half of the unit, screen down on a microfiber cloth or clean towel.
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_153334_resized.jpg?raw=true)
 6. Locate the rumble motor connection points as shown in the picture below.
@@ -628,17 +629,9 @@ Instructions:
 ![](https://github.com/christianhaitian/arkos/blob/main/pics/rgb30/20230913_162005_resized.jpg?raw=true)
 14. Press and hold on the rumble motor on the location for at least 30 seconds to ensure the motor is sufficiently fastened.
 15. Reconnect the speakers and the battery and close the unit.
-16. Boot up ArkOS, [connect your unit to your wireless network](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-how-do-i-configure-my-wifi-connection-in-arkos), and remote into your unit via [SSH](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-how-do-i-ssh-into-ArkOS).
-17. Enter the following command the press enter.
-
-  `echo "@reboot /usr/local/bin/enable_vibration.sh" | sudo tee -a /var/spool/cron/crontabs/root`
-
-18. Test that vibration works with this command and press enter.
-
-  `echo 0 | sudo tee /sys/class/pwm/pwmchip1/pwm0/enable && sleep 0.4 && echo 1 | sudo tee /sys/class/pwm/pwmchip1/pwm0/enable`
+17. Enable the rumble motor from the Emulationstation start menu>Advanced section.
 
 It should vibrate for about half a second and stop.  If it does, you're now done and job well done!  If not, reopen the unit and check that you soldered the wires of the rumble motor correctly and that they did not come loose from the board or the rumble motor.
 
-**Note:** A near future update to ArkOS will include the ability to enable this motor from the Emulationstation menu.  Enabling it from emulationstation will also initiate a short vibration pattern to confirm the functionality of the motor.  So steps 17 and 18 will not be needed to be completed at that point.
 
 Special thanks to kane159 from the [RGH Discord](https://discord.gg/retro-game-handhelds-529983248114122762) for the testing and confirming that this mod works.
