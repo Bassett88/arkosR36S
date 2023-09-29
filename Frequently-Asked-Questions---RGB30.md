@@ -111,6 +111,7 @@ R3 and Dpad Right = Volume Up \
 R3 and Dpad Left = Volume Down \
 R3 and Volume Up =  Brightness Up (Can be held for continuous brightness increase) \
 R3 and Volume Down = Brightness Down (Can be held for continuous brightness decrease) \
+R3 and L3 = Mute/Unmute \
 R3 and Power = Safely shutdown device \
 Power (Short Press) = Put device to sleep
 
