@@ -340,7 +340,7 @@ Bios: bios_E.sms (optional), bios_U.sms (optional), bios_J.sms (optional)
 
 ### Movie (video) Player
 Player: [FFplay](https://www.ffmpeg.org/ffplay.html) \
-Folder: videos \
+Folder: movies (Prior to the 9/29/2023 update, this folder is named videos) \
 Extensions: .avi .AVI .mkv .MKV .mov .MOV .mp4 .MP4 .mpeg .MPEG \
 Notes: 
 - Up to 720p seems to perform fine with limited testing.  Support will be limited for this feature. If a video or movie doesn't work on this, try a lower resolution or just use a more suitable device like a smartphone.  
