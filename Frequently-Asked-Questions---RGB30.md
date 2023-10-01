@@ -38,7 +38,7 @@
 36. [How do I add and enable a rumble (vibration) motor to my unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-add-and-enable-a-rumble-vibration-motor-to-my-unit)
 
 ## Q. How do I configure my wifi connection in ArkOS?
-### A. You must have a compatible USB wifi dongle plugged in.  See [this link](https://github.com/retrogamehandheld/oga/wiki/Frequently-Asked-Questions#what-wifi-adapters-work) for a compatible list of USB wifi dongles.  It's also been reported that this [TP-Link Archer T2U Nano AC600](https://www.amazon.com/gp/product/B07PB1X4CN/) unit works very well with ArkOS.  It's inexpensive and supports 2.4GHz and 5GHz wireless signals.  I personally used this [EDUP Nano USB 650Mbps](https://www.amazon.com/dp/B089QL35T2/) unit and it works very well with ArkOS.  It also is very inexpensive and supports 2.4Ghz and 5GHz wireless signals.  You then need to do the following:
+### A. You need to do the following:
 - Go to the **Options** menu and select **WIFI**.  
 - Then click the A button on **Connect to new Wifi connection" to select your ssid and provide your credentials.
 - Once completed, you can then verify that your wifi is connected by pressing the start button and reviewing the **SSID:** info at the bottom of the menu.  You can also verify that you have a valid wireless connection by pressing start and looking at the bottom of menu next to **Distro Version** or by going to **Options** then **Wifi** then **Current Network Info** and verify you have an assigned IP for your device.
