@@ -48,6 +48,8 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 # Instructions for loading
 
+**DO NOT USE BALENA ETCHER WITH THIS IMAGE!** There has been reports of various strange issues and inconsistent performance using Etcher for this image.
+
 **DO NOT MANUALLY EXPAND THE EASYROM PARTITION AS THIS WILL BE DONE AT FIRST BOOT OF THIS IMAGE.  Manually expanding the partition prior to the first boot of this distro will cause the distro to hang and not complete the boot up process.  If the partition expansion fails for some reason, you can use tools such as Gparted for linux or Minitool Partition Wizard for Windows to expand the partition.**
 
 **This image requires a minimum of an 8GB micro SD card.  A 16GB micro SD card or bigger is highly recommended for the best experience!  Do not use low quality or no name brand SD cards.  Those will most likely fail quickly, cause inconsistent emulation performance, or fail in booting up.**  
