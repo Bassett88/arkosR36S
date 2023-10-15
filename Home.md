@@ -116,10 +116,10 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **RG503** - [GDrive](https://drive.google.com/file/d/1fu4otqdmR0_Be8P52lMf05371GDjkjMq/view?usp=sharing) | [Mega](https://mega.nz/file/jNgGzJqJ#LBMAn0Iioj5ux-RAg0na8WfCcCFa8WiZvqm3hZ24xFk) | (Updated 10/06/2023) MD5:120F07E364B09141C1CAD9BB38315A2A
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg503-changelog) | [RG503 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503)
 
-**RG353V/RG353VS** - [GDrive]() | [Mega](https://mega.nz/file/PAA0gBjD#kAJXrF3eRKnuMmF8EBnNnlPQuurcV7MHOSl2IbbfWs8) | (Updated 10/06/2023) MD5:91045D48E7129B3E05BE0E727402ABBA
+**RG353V/RG353VS** - [GDrive](https://drive.google.com/file/d/1iRuG__9fhy0Skh7M5GCGkSyFCjEpUGLg/view?usp=sharing) | [Mega](https://mega.nz/file/PAA0gBjD#kAJXrF3eRKnuMmF8EBnNnlPQuurcV7MHOSl2IbbfWs8) | (Updated 10/06/2023) MD5:91045D48E7129B3E05BE0E727402ABBA
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353v-changelog) | [RG353V - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V)
 
-**RG353M** - [GDrive](https://drive.google.com/file/d/1xJHinP7EesNrn7F2iITlRcmQ4_SpFzXS/view?usp=share_link) | [Mega](https://mega.nz/file/HA5TUB6Y#SglhBwGeWgqhb4mIMuIshcf68kqzjjX6zlNFJIDrJp8) | (Updated 05/04/2023) MD5:73B2A6275BA28ABDF6B174DCFFC4EE32
+**RG353M** - [GDrive](https://drive.google.com/file/d/1xJHinP7EesNrn7F2iITlRcmQ4_SpFzXS/view?usp=sharing) | [Mega](https://mega.nz/file/HA5TUB6Y#SglhBwGeWgqhb4mIMuIshcf68kqzjjX6zlNFJIDrJp8) | (Updated 05/04/2023) MD5:73B2A6275BA28ABDF6B174DCFFC4EE32
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353m-changelog) | [RG353M - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M)
 
 **RGB30** - [GDrive](https://drive.google.com/file/d/1IGTwIRI5SlaEknv4iLGJEq3czNykOjyp/view?usp=sharing) | [Mega](https://mega.nz/file/eJhA1Ipa#vAtR-J8XPD_mWONO9rfNWUSfyFB8o8D90uvUwNyIoeQ) | (Updated 08/11/2023) MD5:B2E4A8DD454BEA510BD111E5FE620B0F
