@@ -125,7 +125,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **RGB30** - [GDrive](https://drive.google.com/file/d/13D4d3mCUeHZaDP_63O6y7gyNIsiMwOM-/view?usp=sharing) | [Mega](https://mega.nz/file/XZpB1DLY#DL-uCChB8TDkjp_U7UjK7feYHDEFUFUlzUSMjhz2T3k) | (Updated 10/16/2023) MD5:0C65C5C7D7CFEE353AE9FB30B42B2159
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb30-changelog) | [RGB30 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30)
 
-**RK2023** - [GDrive-Coming Soon]() | [Mega-Coming Soon]() | (Updated 10/16/2023) MD5:F3C7F09D014D11D3D3F1B99D5BCE4E99
+**RK2023** - [GDrive](https://drive.google.com/file/d/1nlmPwvmhyQqelDJiC16JpnX19XrKqX2o/view?usp=sharing) | [Mega](https://mega.nz/file/yNxC3bjQ#113GfydyBDha99jwmZFzbhu7AVTGGD0PD7o3UfRaz4E) | (Updated 10/16/2023) MD5:F3C7F09D014D11D3D3F1B99D5BCE4E99
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2023-changelog) | [RK2023 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2023)
 
 **RG351V** - [GDrive](https://drive.google.com/file/d/1MCoP3dS32Y4ciwLaiTf4IQ6U8QXHvOZr/view?usp=sharing) | [Mega](https://mega.nz/file/TFAlyaRb#KDJGxsKv9BxOderd1CcVhn7t-qhvHYAgA5T40z9su4w) | (Updated 06/22/2023) MD5:A7EF6087D6B356C1F690A3AA0B14E922
