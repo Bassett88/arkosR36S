@@ -113,19 +113,19 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **CHI** - [GDrive](https://drive.google.com/file/d/1w3p1-e2BPVN5ZmN-LDeHRcBg7n6SO49D/view?usp=sharing) | [Mega](https://mega.nz/file/mZpwiLaI#0d8AtFI-H9BOH9gtHF8nQ43OqX2aWuv-GtU3E4HoZng) | (Updated 03/11/2023) MD5:981952A362193F9F51C692F0949DBBD9
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/chi-changelog) | [CHI - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI)
 
-**RG503** - [GDrive](https://drive.google.com/file/d/1fu4otqdmR0_Be8P52lMf05371GDjkjMq/view?usp=sharing) | [Mega](https://mega.nz/file/jNgGzJqJ#LBMAn0Iioj5ux-RAg0na8WfCcCFa8WiZvqm3hZ24xFk) | (Updated 10/06/2023) MD5:120F07E364B09141C1CAD9BB38315A2A
+**RG503** - [GDrive](https://drive.google.com/file/d/1agKqr0o-eHlt_oYRL466t84un_tIsC_d/view?usp=sharing) | [Mega](https://mega.nz/file/uFxVxTIA#lp5FKa0jpCMEhbQ72r3s-sFeljNLfavrmP5jy34bLHM) | (Updated 10/16/2023) MD5:AFFB7D08F108C2407B3C7D79A22BC415
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg503-changelog) | [RG503 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503)
 
-**RG353V/RG353VS** - [GDrive](https://drive.google.com/file/d/1iRuG__9fhy0Skh7M5GCGkSyFCjEpUGLg/view?usp=sharing) | [Mega](https://mega.nz/file/PAA0gBjD#kAJXrF3eRKnuMmF8EBnNnlPQuurcV7MHOSl2IbbfWs8) | (Updated 10/06/2023) MD5:91045D48E7129B3E05BE0E727402ABBA
+**RG353V/RG353VS** - [GDrive](https://drive.google.com/file/d/1qLu26eSqk0K2ZAQnrChw8kzn1EM8RqjF/view?usp=sharing) | [Mega](https://mega.nz/file/ScxHSb5D#E7hhV1kPsqMGAmQAKitepvkmgqZR4GJxa-HM-xPAq0Q) | (Updated 10/16/2023) MD5:E30DE5DC9F096BB7ED9E28929A659FBB
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353v-changelog) | [RG353V - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V)
 
-**RG353M** - [GDrive](https://drive.google.com/file/d/1BpgP_4AkuDl2_C6lp_6dqaFcOK5IqA4n/view?usp=sharing) | [Mega](https://mega.nz/file/yVIXDKIQ#6r6CvU6cobgWKPvoCf7arG35tfOhkGVxM28fuVi0PDI) | (Updated 10/06/2023) MD5:B3279421DD283232C2A011986733D7FB
+**RG353M** - [GDrive](https://drive.google.com/file/d/1PjNfbxGGms3Ssx5ezRJxRtJrU4JkCG6m/view?usp=sharing) | [Mega](https://mega.nz/file/DUJkgaza#LHLxNIQqLeIXgumF5_Ocv-mhtZagnVSYgH9RDpgIMkw) | (Updated 10/16/2023) MD5:F23201CF2E696FBAAE4E003591CC2557
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353m-changelog) | [RG353M - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M)
 
 **RGB30** - [GDrive](https://drive.google.com/file/d/13D4d3mCUeHZaDP_63O6y7gyNIsiMwOM-/view?usp=sharing) | [Mega](https://mega.nz/file/XZpB1DLY#DL-uCChB8TDkjp_U7UjK7feYHDEFUFUlzUSMjhz2T3k) | (Updated 10/16/2023) MD5:0C65C5C7D7CFEE353AE9FB30B42B2159
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb30-changelog) | [RGB30 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30)
 
-**RK2023** - [GDrive](https://drive.google.com/file/d/1ZdhfjJDnYWEY5quQuKsMsZ4WfUPOB02Z/view?usp=sharing) | [Mega](https://mega.nz/file/icgB0BZZ#zu3F9e2H6_d0OvjKnCJprItzr_oEx_0tDsdDo_Xxreo) | (Updated 10/06/2023) MD5:E215914D8B4579B6112520F4A1396EA5
+**RK2023** - [GDrive-Coming Soon]() | [Mega-Coming Soon]() | (Updated 10/16/2023) MD5:F3C7F09D014D11D3D3F1B99D5BCE4E99
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2023-changelog) | [RK2023 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2023)
 
 **RG351V** - [GDrive](https://drive.google.com/file/d/1MCoP3dS32Y4ciwLaiTf4IQ6U8QXHvOZr/view?usp=sharing) | [Mega](https://mega.nz/file/TFAlyaRb#KDJGxsKv9BxOderd1CcVhn7t-qhvHYAgA5T40z9su4w) | (Updated 06/22/2023) MD5:A7EF6087D6B356C1F690A3AA0B14E922
