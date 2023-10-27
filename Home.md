@@ -94,7 +94,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
    -  Insert the SD card back into your rk3326 device and power it on if you removed it to load your roms or reboot you device and enjoy!
    -  (**Tip**) There are additional updates that are made available from time to time.  You can apply them by going to the options menu and clicking on Update.  Make sure you're wifi adapter is plugged in and connected to your wireless network.  You must have a reliable internet connection for these online updates to complete successfully when available.
 
-**Option 2**
+**Option 2** (Thanks to [j-rahman](https://github.com/christianhaitian/arkos/issues/824#issue-1965728211) for the suggestion)
    -  Download the compressed .xz image from from one of the links at bottom of this page.         
    -  Extract the image file from the downloaded .xz file with [The Unarchiver](http://unarchiver.c3.cx/) or [Keka](http://www.kekaosx.com/en/) or tool that can uncompress .xz files.
    -  Insert the SD card into your SD card reader.
