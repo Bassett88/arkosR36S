@@ -464,7 +464,8 @@ Emulator: (**[standalone(mupen64plus)](https://github.com/mupen64plus)**) [lr-pa
 Rom Folder: n64 \
 Extensions: .z64 .Z64 .n64 .N64 .v64 .V64 \
 Bios: None \
-Note: standalone(mupen64plus) will most likely have the best performance but is the least user friendly emulator as the keys are not easily reconfigurable.  See the FAQ section for your respective supported device in this wiki and scroll down to the mupen64plus standalone emulator section for the default key configuration for the standalone emulator.
+Note: standalone(mupen64plus) will most likely have the best performance but is the least user friendly emulator as the keys are not easily reconfigurable.  See the FAQ section for your respective supported device in this wiki and scroll down to the mupen64plus standalone emulator section for the default key configuration for the standalone emulator. 
+  - It's been reported that a performance improvement can be achieved using the Mupenplus64_Next Retroarch core using the GlideN64 settings with the core options settings set to as the images shown in the links [here](https://github.com/christianhaitian/arkos/blob/main/pics/wiki/Mupen64plus_next_GlideN64_Settings_Josep_1.jpg?raw=true) and [here](https://github.com/christianhaitian/arkos/blob/main/pics/wiki/Mupen64plus_next_GlideN64_Settings_Josep_2.jpg?raw=true).  Thanks to Josep from the [Anbernic Discord](https://discord.gg/pjTqxwh4) for sharing the findings.
 
 ### Nintendo 64DD
 Emulator: [lr-parallel-n64](https://docs.libretro.com/library/mupen64plus/) \
