@@ -17,3 +17,5 @@
 [RG503](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg503-changelog)
 
 [RK2023](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2023-changelog)
+
+[RGB30](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb30-changelog)
