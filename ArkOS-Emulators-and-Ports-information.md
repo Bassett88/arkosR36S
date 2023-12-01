@@ -784,4 +784,4 @@ Bios: None
 
 # Ports
 
-See the [PortMaster](https://github.com/christianhaitian/PortMaster/wiki) wiki for more info on available ports and how to install them.
+See the [PortMaster](https://portmaster.games/) webpage for more info on available ports and how to install them.
