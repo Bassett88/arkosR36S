@@ -36,6 +36,8 @@
 34. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
 35. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
 32. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-what-is-quick-mode-and-how-do-i-enable-it)
+33. [How do I Host, Join, or Spectate an Adhoc Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
+34. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI#q--what-is-game-share)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
@@ -529,3 +531,16 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 
 ## Q. What is Quick Mode and how do I enable it?
 ### A. When you do a safe shutdown (R3 button + Power Button) while in a Retroarch or Retroarch32 emulator, an auto savestate will be created of the current game and the unit will shutdown.  Upon power on, the system will autoboot into the last game and resume the auto savestate.  To enable this mode, select Enable Quick Mode from the Options>Advanced menu section in Emulationstation.  **Reminder** - This only works with Retroarch and Retroarch32 based emulators.  As of 9/21/2023, this also works with the Pico-8 standalone emulator as well.  You can boot directly into the last Pico-8 game you were playing or into splore.  Of course, no auto savestate will be available since the emulator doesn't support savestates.
+
+## Q. How do I Host, Join, or Spectate an Adhoc Netplay session?
+### A. Make sure you're on the 12/08/2023 or later version of ArkOS.  After you press A to launch an emulator core and game via retroarch or retroarch32 that is compatible with netplay, hold the X button.  You should then be presented with an Adhoc Netplay Session Manager menu.
+* All supported devices must be on the same version of ArkOS
+* Compatible only with Retroarch and Retroarch32 8bit, 16bit, and older Arcade games such as Teenage Mutant Ninja Turtles and The Simpsons
+* All supported devices must be using the same version of retroarch and retroarch32 cores.
+  * Make sure to update all retroarch and retroarch32 cores
+* Game Share mostly works with single game files.  Multi Disc games may or may not work.
+* By default, Adhoc Netplay attempts to host sessions via a 5GHz connection for the best experience.  If a host or client has a wireless chip that does not support 5GHz, ensure the host is set to 2.4Ghz mode in the Adhoc Netplay Session Manager Settings menu.
+* It can take up to 1-2 minutes for a client or spectator to find the host for an Adhoc NetPlay game session.  Starting the Host session first before attempting to join from a client or spectator can help speed this process up.
+
+## Q.  What is Game Share?
+### A.  Game Share allows you to wirelessly share a game with another ArkOS device so you can adhoc netplay with the ArkOS device.  This is handy in case one unit has a game that is wanted to be played via netplay but the other doesn't.  Only works to share the game to one other wirelessly connected device.  This is available from the Adhoc Netplay Session Manager menu.
