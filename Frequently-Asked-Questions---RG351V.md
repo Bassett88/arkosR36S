@@ -36,9 +36,9 @@
 34. [I have duplicate games showing for PS1.  How do I eliminate the duplicates?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-i-have-duplicate-games-showing-for-ps1--how-do-i-eliminate-the-duplicates)
 35. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-what-is-bart-and-how-do-i-access-it)
 36. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
-32. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-what-is-quick-mode-and-how-do-i-enable-it)
-33. [How do I Host, Join, or Spectate an Adhoc Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
-34. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI#q--what-is-game-share)
+37. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-what-is-quick-mode-and-how-do-i-enable-it)
+38. [How do I Host, Join, or Spectate an Adhoc Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
+39. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q--what-is-game-share)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
