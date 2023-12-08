@@ -36,6 +36,10 @@
 34. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
 35. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-what-is-quick-mode-and-how-do-i-enable-it)
 36. [How do I add and enable a rumble (vibration) motor to my unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-add-and-enable-a-rumble-vibration-motor-to-my-unit)
+37. [How do I Host, Join, or Spectate an Adhoc Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
+38. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q--what-is-game-share)
+
+
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. You need to do the following:
@@ -635,3 +639,16 @@ It should vibrate for about half a second and stop.  If it does, you're now done
 
 
 Special thanks to kane159 from the [RGH Discord](https://discord.gg/retro-game-handhelds-529983248114122762) for the testing and confirming that this mod works.
+
+## Q. How do I Host, Join, or Spectate an Adhoc Netplay session?
+### A. Make sure you're on the 12/08/2023 or later version of ArkOS.  After you press A to launch an emulator core and game via retroarch or retroarch32 that is compatible with netplay, hold the X button.  You should then be presented with an Adhoc Netplay Session Manager menu.
+* All supported devices must be on the same version of ArkOS
+* Compatible only with Retroarch and Retroarch32 8bit, 16bit, and older Arcade games such as Teenage Mutant Ninja Turtles and The Simpsons
+* All supported devices must be using the same version of retroarch and retroarch32 cores.
+  * Make sure to update all retroarch and retroarch32 cores
+* Game Share mostly works with single game files.  Multi Disc games may or may not work.
+* By default, Adhoc Netplay attempts to host sessions via a 5GHz connection for the best experience.  If a host or client has a wireless chip that does not support 5GHz, ensure the host is set to 2.4Ghz mode in the Adhoc Netplay Session Manager Settings menu.
+* It can take up to 1-2 minutes for a client or spectator to find the host for an Adhoc NetPlay game session.  Starting the Host session first before attempting to join from a client or spectator can help speed this process up.
+
+## Q.  What is Game Share?
+### A.  Game Share allows you to wirelessly share a game with another ArkOS device so you can adhoc netplay with the ArkOS device.  This is handy in case one unit has a game that is wanted to be played via netplay but the other doesn't.  Only works to share the game to one other wirelessly connected device.  This is available from the Adhoc Netplay Session Manager menu.
