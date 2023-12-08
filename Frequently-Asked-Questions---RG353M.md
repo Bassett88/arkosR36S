@@ -38,9 +38,9 @@
 37. [Can I use bluetooth headphones with this unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-can-i-use-bluetooth-headphones-with-this-unit)
 38. [How do I enable Tate mode?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-how-do-i-enable-tate-mode)
 39. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
-32. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-what-is-quick-mode-and-how-do-i-enable-it)
-33. [How do I Host, Join, or Spectate an Adhoc Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
-34. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI#q--what-is-game-share)
+40. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-what-is-quick-mode-and-how-do-i-enable-it)
+41. [How do I Host, Join, or Spectate an Adhoc Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
+42. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q--what-is-game-share)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
