@@ -472,13 +472,13 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 
 ## Q. How do I Host, Join, or Spectate an Adhoc Netplay session?
 ### A. Make sure you're on the 12/08/2023 or later version of ArkOS.  After you press A to launch an emulator core and game via retroarch or retroarch32 that is compatible with netplay, hold the X button.  You should then be presented with an Adhoc Netplay Session Manager menu.
-* Must be on the same version of ArkOS
+* All supported devices must be on the same version of ArkOS
 * Compatible only with Retroarch and Retroarch32 8bit, 16bit, and older Arcade games such as Teenage Mutant Ninja Turtles and The Simpsons
-* Must be using the same version of retroarch and retroarch32 cores.
+* All supported devices must be using the same version of retroarch and retroarch32 cores.
   * Make sure to update all retroarch and retroarch32 cores
 * Game Share mostly works with single game files.  Multi Disc games may or may not work.
 * By default, Adhoc Netplay attempts to host sessions via a 5GHz connection for the best experience.  If a host or client has a wireless chip that does not support 5GHz, ensure the host is set to 2.4Ghz mode in the Adhoc Netplay Session Manager Settings menu.
-* It can take up to 1-2 minutea for a client or spectator to find the host for an Adhoc NetPlay game session.  Starting the Host session first before attempting to join from a client or spectator can help speed this process up.
+* It can take up to 1-2 minutes for a client or spectator to find the host for an Adhoc NetPlay game session.  Starting the Host session first before attempting to join from a client or spectator can help speed this process up.
 
 ## Q.  What is Game Share?
 ### A.  Game Share allows you to wirelessly share a game with another ArkOS device so you can adhoc netplay with the ArkOS device.  This is handy in case one unit has a game that is wanted to be played via netplay but the other doesn't.  Only works to share the game to one other wirelessly connected device.  This is available from the Adhoc Netplay Session Manager menu.
