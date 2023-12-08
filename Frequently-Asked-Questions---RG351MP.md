@@ -36,8 +36,8 @@
 34. [How do I make use of the second sd slot for roms and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-make-use-of-the-second-sd-slot-for-roms-and-games)
 35. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
 32. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-what-is-quick-mode-and-how-do-i-enable-it)
-33. [How do I Host, Join, or Spectate an Adhoc Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
-34. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI#q--what-is-game-share)
+33. [How do I Host, Join, or Spectate an Adhoc Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
+34. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg351mp#q--what-is-game-share)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
