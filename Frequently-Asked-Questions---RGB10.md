@@ -33,9 +33,9 @@
 31. [The analog stick is reversed on the RGB10s.  How do I fix it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-the-analog-stick-is-reversed-on-the-rgb10s--how-do-i-fix-it)
 32. [The L2 and R2 buttons on my OGA 1.1(BE) unit are not functional.  How do I fix it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-the-l2-and-r2-buttons-on-my-oga-11be-unit-are-not-functional--how-do-i-fix-it)
 33. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
-32. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-what-is-quick-mode-and-how-do-i-enable-it)
-33. [How do I Host, Join, or Spectate an Adhoc Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
-34. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q--what-is-game-share)
+34. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-what-is-quick-mode-and-how-do-i-enable-it)
+35. [How do I Host, Join, or Spectate an Adhoc Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
+36. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q--what-is-game-share)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
