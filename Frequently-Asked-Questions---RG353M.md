@@ -572,6 +572,7 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 * Be sure Bluetooth is on.  You can confirm bluetooth is on by pressing start and verifying it says BT:On In the status section at the bottom of the menu.  If it says BT:Off, Hold F then hit R3 which should toggle it on.  You can confirm by hitting start twice again To refresh the status area.
 * Be sure to setup your external controller in Emulationstation by hitting start then **Configure Input**.  This will allow your external controller to navigate the Emulationstation menu and Retroarch based emulators
 * When using an external controller, only Retroarch based emulators will be automatically setup when configured through Emulationstation.  External emulators such as standalone mupen64plus, PPSSPP, and SCUMMVM may need additional manual configuration via SSH.
+* With an external controller connected, you can bring up the retroarch menu by pressing select+start+l1+r1.  
 
 ## Q. Can I use bluetooth headphones with this unit?
 ### A. Yes.  Bluetooth headphones should work with the unit as of the ArkOS v2.0 (11/01/2022) updated.  Make sure to go to Bluetooth in the options system section just before Retroarch and run it.  It will start the Bluetooth connection manager.  Put your bluetooth headphones into pairing mode and select **Connect to new Bluetooth device** and add your bluetooth headphones.
