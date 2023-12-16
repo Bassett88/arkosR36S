@@ -245,6 +245,12 @@ Extensions: .easyrpg .EASYRPG .zip .ZIP (.ldb .LDB prior to 7/28/2021 update) \
 Bios: None \
 Notes: Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.  As of 7/28/2021, you must run the Scan_for_new_games script to create the necessary shortcuts to load EASYRPG games.
 
+### Enterprise 64/128
+Emulator: [lr-ep128emu](https://docs.libretro.com/library/ep128emu/#enterprise-64128-ep128emu) \
+Rom Folder: enterprise \
+Extensions: .128 .bas .BAS .com .COM .dsk .DSK .dtf .DTF .img .IMG .tap .TAP .trn .TRN \
+Bios: [Optional](https://docs.libretro.com/library/ep128emu/#bios)
+
 ### Fairchild Channel F
 Emulator: [lr-freechaf](https://github.com/libretro/FreeChaF) \
 Rom Folder: channelf \
@@ -715,6 +721,12 @@ Emulator: [lr-vecx](https://docs.libretro.com/library/vecx/) \
 Rom Folder: vectrex \
 Extensions: .vec .VEC .zip .ZIP .7z .7Z \
 Bios: None
+
+### Videoton TV-Computer
+Emulator: [lr-ep128emu](https://docs.libretro.com/library/ep128emu/#enterprise-64128-ep128emu) \
+Rom Folder: tvc \
+Extensions: .cas .CAS \
+Bios: [Optional](https://docs.libretro.com/library/ep128emu/#bios)
 
 ### Virtual Boy
 Emulator: [lr-mednafen-vb (aka lr-beetle-vb)](https://docs.libretro.com/library/beetle_vb/) [Mednafen](https://mednafen.github.io/) \
