@@ -36,7 +36,7 @@
 34. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
 35. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-what-is-quick-mode-and-how-do-i-enable-it)
 36. [How do I add and enable a rumble (vibration) motor to my unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-add-and-enable-a-rumble-vibration-motor-to-my-unit)
-37. [How do I Host, Join, or Spectate an Adhoc Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
+37. [How do I Host, Join, or Spectate an Adhoc (local) Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
 38. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q--what-is-game-share)
 
 
@@ -641,7 +641,7 @@ It should vibrate for about half a second and stop.  If it does, you're now done
 
 Special thanks to kane159 from the [RGH Discord](https://discord.gg/retro-game-handhelds-529983248114122762) for the testing and confirming that this mod works.
 
-## Q. How do I Host, Join, or Spectate an Adhoc Netplay session?
+## Q. How do I Host, Join, or Spectate an Adhoc (local) Netplay session?
 ### A. Make sure you're on the 12/08/2023 or later version of ArkOS.  After you press A to launch an emulator core and game via retroarch or retroarch32 that is compatible with netplay, hold the X button before the game loads.  You should then be presented with an Adhoc Netplay Session Manager menu.
 * All supported devices must be on the same version of ArkOS
 * Compatible only with Retroarch and Retroarch32 8bit, 16bit, and older Arcade games such as Teenage Mutant Ninja Turtles and The Simpsons
