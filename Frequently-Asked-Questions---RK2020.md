@@ -32,7 +32,7 @@
 30. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-what-is-bart-and-how-do-i-access-it)
 31. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
 32. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-what-is-quick-mode-and-how-do-i-enable-it)
-33. [How do I Host, Join, or Spectate an Adhoc Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
+33. [How do I Host, Join, or Spectate an Adhoc (local) Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
 34. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q--what-is-game-share)
 
 
