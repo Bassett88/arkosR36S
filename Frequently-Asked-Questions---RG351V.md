@@ -37,7 +37,7 @@
 35. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-what-is-bart-and-how-do-i-access-it)
 36. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
 37. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-what-is-quick-mode-and-how-do-i-enable-it)
-38. [How do I Host, Join, or Spectate an Adhoc Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
+38. [How do I Host, Join, or Spectate an Adhoc (local) Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
 39. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351V#q--what-is-game-share)
 
 
@@ -520,7 +520,7 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 ## Q. What is Quick Mode and how do I enable it?
 ### A. When you do a safe shutdown (F button + Power Button) while in a Retroarch or Retroarch32 emulator, an auto savestate will be created of the current game and the unit will shutdown.  Upon power on, the system will autoboot into the last game and resume the auto savestate.  To enable this mode, select Enable Quick Mode from the Options>Advanced menu section in Emulationstation.  **Reminder** - This only works with Retroarch and Retroarch32 based emulators.  As of 9/21/2023, this also works with the Pico-8 standalone emulator as well.  You can boot directly into the last Pico-8 game you were playing or into splore.  Of course, no auto savestate will be available since the emulator doesn't support savestates.
 
-## Q. How do I Host, Join, or Spectate an Adhoc Netplay session?
+## Q. How do I Host, Join, or Spectate an Adhoc (local) Netplay session?
 ### A. Make sure you're on the 12/08/2023 or later version of ArkOS.  After you press A to launch an emulator core and game via retroarch or retroarch32 that is compatible with netplay, hold the X button before the game loads.  You should then be presented with an Adhoc Netplay Session Manager menu.
 * All supported devices must be on the same version of ArkOS
 * Compatible only with Retroarch and Retroarch32 8bit, 16bit, and older Arcade games such as Teenage Mutant Ninja Turtles and The Simpsons
