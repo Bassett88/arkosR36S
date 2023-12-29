@@ -486,7 +486,7 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 ### A.  Game Share allows you to wirelessly share a game with another ArkOS device so you can adhoc netplay with the ArkOS device.  This is handy in case one unit has a game that is wanted to be played via netplay but the other doesn't.  Only works to share the game to one other wirelessly connected device.  This is available from the Adhoc Netplay Session Manager menu.
 
 ## Q. How do I use the governor (performance) setting for systems and games?
-### A. The governor setting allows you to control the speed frequency for systems and games.
+### A. Make sure you're on the 12/22/2023 or later version of ArkOS to make use of this feature.  The governor setting allows you to control the speed frequency for systems and games.
 The available governors are performance, ondemand, and powersave. 
 
 * Performance locks the frequency to the highest setting of the chip.  It also uses the most battery and generates the most heat.
