@@ -32,8 +32,9 @@
 30. [What is BaRT and how do I access it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-what-is-bart-and-how-do-i-access-it)
 31. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
 32. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-what-is-quick-mode-and-how-do-i-enable-it)
-33. [How do I Host, Join, or Spectate an Adhoc (local) Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
+33. [How do I Host, Join, or Spectate an Adhoc (local) Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-host-join-or-spectate-an-adhoc-local-netplay-session)
 34. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q--what-is-game-share)
+35. 
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
@@ -468,3 +469,27 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 
 ## Q.  What is Game Share?
 ### A.  Game Share allows you to wirelessly share a game with another ArkOS device so you can adhoc netplay with the ArkOS device.  This is handy in case one unit has a game that is wanted to be played via netplay but the other doesn't.  Only works to share the game to one other wirelessly connected device.  This is available from the Adhoc Netplay Session Manager menu.
+
+## Q. How do I use the governor (performance) setting for systems and games?
+### A. Make sure you're on the 12/22/2023 or later version of ArkOS to make use of this feature.  The governor setting allows you to control the speed frequency for systems and games.
+The available governors are performance, ondemand, and powersave. 
+
+* Performance locks the frequency to the highest setting of the chip.  It also uses the most battery and generates the most heat.
+* Ondemand allows the frequency to vary based on the load as sensed by the OS.  It attempts to balance performance and saving on power and heat generation where possible.
+* Powersave locks the frequency to a step above the lowest frequency.  This has the best battery life and lowest heat generation but can cause certain systems and games to experience lag especially when certain overlays and shaders are used.
+
+By default the governor for all systems and games is set to performance.  \
+Why? Because the 2nd primary goal of the distro is performance.  \
+This can be set globally for all systems and games, per system, and per game.  
+
+* To set it globally, press Start then go to Advanced Settings then go to Default Emulator Governor and change it.
+* To set it on a per system basis, press Start then go to Emulator Settings, choose the emulator(system),
+then go to governor and change it.  
+* To set it on a per game basis, go to the system and game, then
+press select, then go to edit this game's metadata, then go to governor and change it, then scroll 
+to the bottom and scroll to save and press the A button.
+
+Note the hierarchy of the governor settings is as follows:
+
+* Per game takes precedence over emulator and global.
+* Per emulator takes precedence over global.
