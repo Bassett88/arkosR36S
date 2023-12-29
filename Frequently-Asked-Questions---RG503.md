@@ -39,9 +39,9 @@
 38. [How do I enable Tate mode?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503#q-how-do-i-enable-tate-mode)
 39. [How do I make American Laser Games, EASYRPG, ScummVM, or Wolfenstein show up in Emulationstation?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503#q-how-do-i-make-american-laser-games-easyrpg-scummvm-or-wolfenstein-show-up-in-emulationstation)
 40. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503#q-what-is-quick-mode-and-how-do-i-enable-it)
-41. [How do I Host, Join, or Spectate an Adhoc (local) Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503#q-how-do-i-host-join-or-spectate-an-adhoc-netplay-session)
+41. [How do I Host, Join, or Spectate an Adhoc (local) Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503#q-how-do-i-host-join-or-spectate-an-adhoc-local-netplay-session)
 42. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503#q--what-is-game-share)
-43. 
+43. [How do I use the governor (performance) setting for systems and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503#q-how-do-i-use-the-governor-performance-setting-for-systems-and-games)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
