@@ -40,7 +40,7 @@
 39. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V#q-what-is-quick-mode-and-how-do-i-enable-it)
 40. [How do I Host, Join, or Spectate an Adhoc (local) Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V#q-how-do-i-host-join-or-spectate-an-adhoc-local-netplay-session)
 41. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V#q--what-is-game-share)
-42. 
+42. [How do I use the governor (performance) setting for systems and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V#q-how-do-i-use-the-governor-performance-setting-for-systems-and-games)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
