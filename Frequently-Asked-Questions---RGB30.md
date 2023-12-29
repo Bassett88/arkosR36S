@@ -38,7 +38,7 @@
 36. [How do I add and enable a rumble (vibration) motor to my unit?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-add-and-enable-a-rumble-vibration-motor-to-my-unit)
 37. [How do I Host, Join, or Spectate an Adhoc (local) Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-host-join-or-spectate-an-adhoc-local-netplay-session)
 38. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q--what-is-game-share)
-39. 
+39. [How do I use the governor (performance) setting for systems and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30#q-how-do-i-use-the-governor-performance-setting-for-systems-and-games)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
