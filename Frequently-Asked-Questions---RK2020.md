@@ -34,7 +34,7 @@
 32. [What is Quick Mode and how do I enable it?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-what-is-quick-mode-and-how-do-i-enable-it)
 33. [How do I Host, Join, or Spectate an Adhoc (local) Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-host-join-or-spectate-an-adhoc-local-netplay-session)
 34. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q--what-is-game-share)
-35. 
+35. [How do I use the governor (performance) setting for systems and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020#q-how-do-i-use-the-governor-performance-setting-for-systems-and-games)
 
 
 ## Q. How do I configure my wifi connection in ArkOS?
