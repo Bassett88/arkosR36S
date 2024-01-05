@@ -42,7 +42,7 @@
 41. [How do I Host, Join, or Spectate an Adhoc (local) Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-how-do-i-host-join-or-spectate-an-adhoc-local-netplay-session)
 42. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q--what-is-game-share)
 43. [How do I use the governor (performance) setting for systems and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-how-do-i-use-the-governor-performance-setting-for-systems-and-games)
-
+44. [Can I load ArkOS onto the internal (emmc) storage?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M#q-can-i-load-arkos-onto-the-internal-emmc-storage)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Do the following:
@@ -632,3 +632,19 @@ Note the hierarchy of the governor settings is as follows:
 
 * Per game takes precedence over emulator and global.
 * Per emulator takes precedence over global.
+
+## Q. Can I load ArkOS onto the internal (emmc) storage?
+### A. This is possible with a custom image available for the RG353M.  
+
+**Notes**
+ - You must be able to boot ArkOS from an existing sd card installation.
+ - You must have at least 8GBs of storage available on your roms partition.  If you're using a 2 sd card setup, you must have at least 8GBs of free space  on the 2nd sd card.
+ - If you'd like to load Android back onto the internal memory, check out [GammaOS-RK3566 by TheGammaSqueeze](https://github.com/TheGammaSqueeze/GammaOS-RK3566).
+
+Follow the instructions below:
+
+  1. Download this compressed custom image: [Google](https://drive.google.com/file/d/1STTNs7VKO75LrZXrWTOFWfVq_fcWxTts/view?usp=sharing)
+  2. Using [7zip](https://www.7-zip.org/download.html) extract the .img file from the compressed file downloaded.
+  3. Place the extracted .img file into the backup folder of your sd card.  If you're using a 2 sd card setup, you must place it in the 2nd sd card's backup folder.
+  4. Download and copy this [script](https://github.com/christianhaitian/arkos/raw/main/353_emmc/353_emmc_flash.sh) and place it in the tools folder or your sd card.  If you're using a 2 sd card setup, you must place it in the 2nd sd card's backup folder.
+  5. Boot ArkOS on your device then go to Options, Tools, then Press A on 353_emmc_flash and follow the directions on the screen.
