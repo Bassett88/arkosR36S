@@ -633,6 +633,7 @@ Note the hierarchy of the governor settings is as follows:
 ### A. This is possible with a custom image available for the RG353V.  This is only possible with the RG353V unit.  This is not possible with the RG353VS since this unit does not contain internal (emmc) storage.  
 
 **Notes**
+ - You must have at least 60 percent battery power available on your unit before the process can start.  It is best to have it fully charged.
  - You must be able to boot ArkOS from an existing sd card installation.
  - You must have at least 8GBs of storage available on your roms partition.  If you're using a 2 sd card setup, you must have at least 8GBs of free space  on the 2nd sd card.
  - This will not work with fat32 formatted sd cards due to the 4GB max singular file size limitation.
