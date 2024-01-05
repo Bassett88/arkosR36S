@@ -639,7 +639,7 @@ Note the hierarchy of the governor settings is as follows:
 
 Follow the instructions below:
 
-  1. Download this compressed custom image: [Google](https://drive.google.com/file/d/1MOsXJPMUqPDyKvmd3YJwJJ-lrp9IAbyU/view?usp=sharing)
+  1. Download this compressed custom image: [GDrive](https://drive.google.com/file/d/1MOsXJPMUqPDyKvmd3YJwJJ-lrp9IAbyU/view?usp=sharing)
   2. Using [7zip](https://www.7-zip.org/download.html) extract the .img file from the compressed file downloaded.
   3. Place the extracted .img file into the backup folder of your sd card.  If you're using a 2 sd card setup, you must place it in the 2nd sd card's backup folder.
   4. Download and copy this [script](https://github.com/christianhaitian/arkos/raw/main/353_emmc/353_emmc_flash.sh) and place it in the tools folder or your sd card.  If you're using a 2 sd card setup, you must place it in the 2nd sd card's backup folder.
