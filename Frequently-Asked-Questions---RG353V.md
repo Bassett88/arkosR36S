@@ -41,7 +41,7 @@
 40. [How do I Host, Join, or Spectate an Adhoc (local) Netplay session?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V#q-how-do-i-host-join-or-spectate-an-adhoc-local-netplay-session)
 41. [What is Game Share?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V#q--what-is-game-share)
 42. [How do I use the governor (performance) setting for systems and games?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V#q-how-do-i-use-the-governor-performance-setting-for-systems-and-games)
-43. [Can I load ArkOS onto the internal (emmc) storage?]()
+43. [Can I load ArkOS onto the internal (emmc) storage?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V#q-can-i-load-arkos-onto-the-internal-emmc-storage)
 
 ## Q. How do I configure my wifi connection in ArkOS?
 ### A. Do the following:
@@ -629,7 +629,7 @@ Note the hierarchy of the governor settings is as follows:
 * Per game takes precedence over emulator and global.
 * Per emulator takes precedence over global.
 
-## Q. Can I load ArkOS onto the internal (emmc) storage for the RG353V?
+## Q. Can I load ArkOS onto the internal (emmc) storage?
 ### A. This is possible with a custom image available for the RG353V.  This is only possible with the RG353V unit.  This is not possible with the RG353VS since this unit does not contain internal (emmc) storage.  
 
 **Notes**
