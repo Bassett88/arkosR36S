@@ -636,8 +636,13 @@ Note the hierarchy of the governor settings is as follows:
  - You must be able to boot ArkOS from an existing sd card installation.
  - You must have at least 8GBs of storage available on your roms partition.  If you're using a 2 sd card setup, you must have at least 8GBs of free space  on the 2nd sd card.
  - This will not work with fat32 formatted sd cards due to the 4GB max singular file size limitation.
- - This is a fresh install of ArkOS onto your internal (emmc).  Existing settings and roms will not be transferred using this process
-   - You should be able to do a backup and restore of your existing settings
+ - This is a fresh install of ArkOS onto your internal (emmc).  Many settings and roms will not be transferred using this process except for the following:
+   - Display Panel settings such as contrast and saturation
+   - Kodi settings and plugins
+   - Drastic emulator configuration
+   - Most Emulationstation Settings (Some settings may need to be toggled such as preferred verbal warning voice and setting)
+   - Wireless internet settings
+ - You should be able to do a backup and restore of your existing settings after the initial setup has been completed on your internal emmc storage.
  - If you'd like to load Android back onto the internal memory, check out [GammaOS-RK3566 by TheGammaSqueeze](https://github.com/TheGammaSqueeze/GammaOS-RK3566).
 
 Follow the instructions below:
