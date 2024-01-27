@@ -135,10 +135,10 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **RG503** - [GDrive](https://drive.google.com/file/d/1agKqr0o-eHlt_oYRL466t84un_tIsC_d/view?usp=sharing) | [Mega](https://mega.nz/file/uFxVxTIA#lp5FKa0jpCMEhbQ72r3s-sFeljNLfavrmP5jy34bLHM) | (Updated 10/16/2023) MD5:AFFB7D08F108C2407B3C7D79A22BC415
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg503-changelog) | [RG503 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503)
 
-**RG353V/RG353VS** - [GDrive](https://drive.google.com/file/d/1qLu26eSqk0K2ZAQnrChw8kzn1EM8RqjF/view?usp=sharing) | [Mega](https://mega.nz/file/ScxHSb5D#E7hhV1kPsqMGAmQAKitepvkmgqZR4GJxa-HM-xPAq0Q) | (Updated 10/16/2023) MD5:E30DE5DC9F096BB7ED9E28929A659FBB
+**RG353V/RG353VS** - [GDrive](https://drive.google.com/file/d/1R0WQG3U13XVDJsWYxpJfWsgdo67nuzp_/view?usp=sharing) | [Mega](https://mega.nz/file/TFJXEARZ#WaYxTK0xCLtU0iznlV-2Fl-ftxk6Z3j0ChHc1EG2wlQ) | (Updated 01/27/2024) MD5:7F6C96399B1A4E31A68664B73E960EB8
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353v-changelog) | [RG353V - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353V)
 
-**RG353M** - [GDrive](https://drive.google.com/file/d/1PjNfbxGGms3Ssx5ezRJxRtJrU4JkCG6m/view?usp=sharing) | [Mega](https://mega.nz/file/DUJkgaza#LHLxNIQqLeIXgumF5_Ocv-mhtZagnVSYgH9RDpgIMkw) | (Updated 10/16/2023) MD5:F23201CF2E696FBAAE4E003591CC2557
+**RG353M** - [GDrive](https://drive.google.com/file/d/1EZlBLjHz9OCxaflck2hzIOEdYR-wcFZy/view?usp=sharing) | [Mega](https://mega.nz/file/vUxjmRDC#V21ZrCeHqp-qAjvL4j3YdGBex7g12T3-rVR0L0WVbFc) | (Updated 01/27/2024) MD5:14BC64AA09885AFB143F85725B28CF56
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353m-changelog) | [RG353M - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M)
 
 **RGB30** - [GDrive](https://drive.google.com/file/d/13D4d3mCUeHZaDP_63O6y7gyNIsiMwOM-/view?usp=sharing) | [Mega](https://mega.nz/file/XZpB1DLY#DL-uCChB8TDkjp_U7UjK7feYHDEFUFUlzUSMjhz2T3k) | (Updated 10/16/2023) MD5:0C65C5C7D7CFEE353AE9FB30B42B2159
