@@ -507,6 +507,15 @@ Notes: RG351P/M/V Limitations--It is not possible to use the joystick within Ope
 Only the gamepad, Start, A, B, X, Y, L1, and R1 buttons are assignable.  DO NOT enable the gamepad within the options menu \
 or you may experience control issues!
 
+### Palm OS
+Emulator: [lr-mu](https://github.com/libretro/Mu) \
+Rom Folder: palm \
+Extensions: .img .IMG .prc .PRC \
+Bios: palmos41-en-m515.rom (See [here](https://github.com/libretro/Mu#files) for more info on additional supported bios files) \
+Notes: \
+- It is currently not possible to load Palm OS 5.x based apps and games yet.  Hopefully this will be resolved in future updates of the emulator core.
+- You can legally and freely download some Astraware Palm OS games and license them from Astraware's website [here](https://astraware.com/support/codes)
+
 ### PC98
 Emulator: (**[lr-nekop2](https://github.com/libretro/libretro-meowPC98)**) [lr-nekop2kai](https://docs.libretro.com/library/neko_project_ii_kai/) \
 Rom Folder: pc98 \
@@ -683,6 +692,19 @@ Emulator: [lr-snes9x2010](https://docs.libretro.com/library/snes9x_2010/) \
 Rom Folder: snes-hacks \
 Extensions: .smc .SMC .fig .FIG .bs .BS .st .ST .sfc .SFC .gd3 .GD3 .gd7 .GD7 .dx2 .DX2 .bsx .BSX .swc .SWC .zip .ZIP .7z .7Z \
 Bios: None
+
+### Tandy Color Computer 3 aka CoCo3 (Radioshack TRS-80)
+Emulators: (**[standalone(XRoar)](https://www.6809.org.uk/xroar/)**) [lr-mess](https://docs.libretro.com/guides/arcade-getting-started/) \
+Rom Folder: coco3 \
+Extensions: .bin .BIN .cas .CAS .ccc .CCC .dsk .DSK .rom .ROM .wav .WAV .zip .ZIP \
+Bios: \
+- For the default XRoar standalone emulator: coco3.rom, disk11.rom and extbas11.rom should be in the bios folder. For PAL games, coco3p.rom should be in the bios folder.
+- For the libretro mess emulator: coco.zip coco2.zip coco2p.zip coco3.zip coco3p.zip (must be in the roms/coco3 folder. **NOT THE BIOS FOLDER!**)(See [here](https://wiki.retrobat.org/systems-and-emulators/supported-game-systems/home-computer/trs-80-color-computer#content-of-bios-files) for more info on the content of the bios files.
+Notes: \
+- For the default XRoar standalone emulator, it's best to use .ccc, .dsk and .rom files or zip files that contain .ccc, .dsk or .rom files in them with this emulator.
+- For the default XRoar standalone emulator, you can create own mappings for each game.  Just create a controls subfolder within the roms/coco3 (roms2/coco3 for 2 sd card setups) folder and create a text file named exactly similar to game name but with a .gptk extension.  See https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/mvem.gptk for an example of how to setup the structure of this file.  Unused gamepad keys should be commented out with \" like the start key is in the example .gptk file linked in the previous sentence.  To enable keyboard mode for the emulator, insert #keyboard mode at the top of the file.  To enable mouse mode, insert #mouse mode at the top of the file.
+- If using the mess emulator, there's some work involved in getting the games to run in which the rom must be named exactly as shown in the bios/mame/hash/[coco_cart.xml](https://github.com/libretro/mame/blob/master/hash/coco_cart.xml) file or [coco_flop.xml](https://github.com/libretro/mame/blob/master/hash/coco_flop.xml) file.  For example, Canyon Climber rom must be named cclimber.zip and must contain canyon climber (1982) (26-3089) (datasoft) [a1].rom in the zip file.  If your file is canyon climber (1982) (26-3089) (datasoft) [a1].ccc, you can rename it to canyon climber (1982) (26-3089) (datasoft) [a1].rom
+  - For games that need keyboard entry, see [here](https://forums.launchbox-app.com/topic/61379-a-quick-hack-for-retroarch-cores-that-dont-have-a-keyboard-controls-option/) for a workaround.
 
 ### Thomson
 Emulator: [lr-theodore](https://github.com/Zlika/theodore) \
