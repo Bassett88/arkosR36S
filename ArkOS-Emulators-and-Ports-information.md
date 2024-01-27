@@ -512,7 +512,7 @@ Emulator: [lr-mu](https://github.com/libretro/Mu) \
 Rom Folder: palm \
 Extensions: .img .IMG .prc .PRC \
 Bios: palmos41-en-m515.rom (See [here](https://github.com/libretro/Mu#files) for more info on additional supported bios files) \
-Notes: \
+Notes:
 - It is currently not possible to load Palm OS 5.x based apps and games yet.  Hopefully this will be resolved in future updates of the emulator core.
 - You can legally and freely download some Astraware Palm OS games and license them from Astraware's website [here](https://astraware.com/support/codes)
 
