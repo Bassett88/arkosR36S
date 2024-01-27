@@ -652,7 +652,7 @@ Note the hierarchy of the governor settings is as follows:
 
 Follow the instructions below:
 
-  1. Download this compressed custom image: [GDrive](https://drive.google.com/file/d/1STTNs7VKO75LrZXrWTOFWfVq_fcWxTts/view?usp=sharing)| [Mega](https://mega.nz/file/vQJwGarZ#rlv4LV6Se2STYxzAV_LpHKIpGnBYOMfOUlmlJPxGP0s)| [Fastupload](https://fastupload.io/vu2cDIqyPWorau7/file)
+  1. Download the latest ArkOS image available from the main page of the wiki for the [RG353M](https://github.com/christianhaitian/arkos/wiki#download-links).
   2. Using [7zip](https://www.7-zip.org/download.html) extract the .img file from the compressed file downloaded.
   3. Place the extracted .img file into the backup folder of your sd card.  If you're using a 2 sd card setup, you must place it in the 2nd sd card's backup folder.
   4. Download this [script](https://github.com/christianhaitian/arkos/raw/main/353_emmc/353_emmc_flash.sh) and place it in the tools folder or your sd card.  If you're using a 2 sd card setup, you must place it in the 2nd sd card's tool folder.
