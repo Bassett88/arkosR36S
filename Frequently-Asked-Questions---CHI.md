@@ -270,7 +270,7 @@ Per game:
 ### A. Do the following:
 
    *  Just pop the micro SD card into a card reader, plug it into your Windows 10 1703, Mac OS X, or Linux computer and look for the drive letter named EASYROMS.
-   *  Place all .mp3 files you'd like to use as background music in the roms(EASYROMS)/bgmusic folder on the exfat partition.
+   *  Place all .mp3 or .ogg files you'd like to use as background music in the roms(EASYROMS)/bgmusic folder on the exfat partition.
    *  Safely eject your micro SD card from your computer and insert the micro SD card in your CHI and turn it on.
    *  In Emulationstation, press START then go to Sound Settings > Frontend Music > ON.
    *  Go back out of the start menu and enjoy!
