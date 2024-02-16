@@ -163,7 +163,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 # Credits and Thanks
 Slaminger for the [TheRA](https://techtoytinker.com/theretroarena) OS that helped inspire me to build and provide ArkOS \
-[Hardkernel](https://www.hardkernel.com/) for being a strong supporter of developers and proving various resources \
+[Hardkernel](https://www.hardkernel.com/) for being a strong supporter of developers and providing various resources \
 [Libretro](https://www.libretro.com/) for the great open source emulators and retroarch frontend \
 valadaa48 for various assistance and all his work on the original rk3326 device, the Odroid Go Advance. \
 OtherCrashOverride for the retrorun emulator ppsspp-go and other work. \
