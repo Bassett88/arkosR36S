@@ -129,7 +129,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 ## Download Links
 
-**CHI** - [GDrive](https://drive.google.com/file/d/1w3p1-e2BPVN5ZmN-LDeHRcBg7n6SO49D/view?usp=sharing) | [Mega](https://mega.nz/file/mZpwiLaI#0d8AtFI-H9BOH9gtHF8nQ43OqX2aWuv-GtU3E4HoZng) | (Updated 03/11/2023) MD5:981952A362193F9F51C692F0949DBBD9
+**CHI** - [GDrive](https://drive.google.com/file/d/1RfaYVMZlT0NoL_qZqpLHCGEkXovukIUn/view?usp=sharing) | [Mega](https://mega.nz/file/DRhnXb6Y#Wxavm-oB0_elI-Im2TgbRg0PNvzvSQDdEynmIcQCSVA) | (Updated 02/23/2024) MD5:D9738025936B0862574CCC8415387B60
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/chi-changelog) | [CHI - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI)
 
 **RG503** - [GDrive](https://drive.google.com/file/d/1agKqr0o-eHlt_oYRL466t84un_tIsC_d/view?usp=sharing) | [Mega](https://mega.nz/file/uFxVxTIA#lp5FKa0jpCMEhbQ72r3s-sFeljNLfavrmP5jy34bLHM) | (Updated 10/16/2023) MD5:AFFB7D08F108C2407B3C7D79A22BC415
