@@ -747,6 +747,12 @@ Rom Folder: vectrex \
 Extensions: .vec .VEC .zip .ZIP .7z .7Z \
 Bios: None
 
+### Videopac
+Emulator: [lr-o2em](https://docs.libretro.com/library/o2em/) \
+Rom Folder: videopac \
+Extensions: .bin .BIN .zip .ZIP \
+Bios: o2rom.bin copied as g7400.bin
+
 ### Videoton TV-Computer
 Emulator: [lr-ep128emu](https://docs.libretro.com/library/ep128emu/#enterprise-64128-ep128emu) \
 Rom Folder: tvc \
