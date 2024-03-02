@@ -726,7 +726,13 @@ Emulator: [lr-mame](https://docs.libretro.com/guides/arcade-getting-started/) \
 Rom Folder: tigerlcd \
 Extensions: .zip .ZIP \
 Bios: None \
-Notes: Artwork for Tiger LCD Games should be copied to the roms/bios/mame/artwork folder (or roms2/bios/mame/artwork if using 2 sd cards) and kept within a similarly named .zip file.  For instance if your Double Dragons Tiger LCD roms is named tddragon.zip, you should also have a tddragon.zip folder within the roms/bios/mame/artwork folder that contains bg.jpg and default.lay files.
+Notes: \
+* Artwork for Tiger LCD Games should be copied to the roms/bios/mame/artwork folder (or roms2/bios/mame/artwork if using 2 sd cards) and kept within a similarly named .zip file.  For instance if your Double Dragons Tiger LCD roms is named tddragon.zip, you should also have a tddragon.zip folder within the roms/bios/mame/artwork folder that contains bg.jpg and default.lay files.
+* Thanks to EnsignRutherford for sourcing some artwork that can be used for many of these games.  They are available [here](https://github.com/christianhaitian/arkos/tree/main/Tiger_LCD_Overlays). \
+Thanks and Credit to the creators of these artworks: \
+Design, layout and artwork by Lee Robson (hydef) \
+Background scan by Sean Riddle \
+Unit artwork scan by Tom Tenners
 
 ### TI-99
 Emulator: [ti99sim](https://github.com/christianhaitian/ti99sim) \
