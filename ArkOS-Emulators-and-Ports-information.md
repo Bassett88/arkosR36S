@@ -23,8 +23,8 @@ Bios: panafz1.bin or panafz10.bin or panafz10-norsa.bin or panafz10e-anvil.bin o
 Emulator: [lr-mess](https://docs.libretro.com/guides/arcade-getting-started/) \
 Rom Folder: advision \
 Extensions: .zip .ZIP \
-Bios: advision.zip (must be in the roms/advision folder.  **NOT THE BIOS FOLDER!**) \
-Notes: Because this uses the mess emulator, there's a little more work involved in getting the games to run in which the rom must be named exactly as shown in the bios/mame/hash/[advision.xml](https://github.com/libretro/mame/blob/master/hash/advision.xml) file.  For example, Defender rom must be named defender.zip.
+Bios: advision.zip, containing two files, b225__ins8048-11kdp_n.u5 (MD5: 5729638bd856c475678467a353bd921c) and b8223__cop411l-kcn_n.u8 (MD5: fc5e71445e4947a9d00eedbc66b13a8f). This must be in the roms/advision folder.  **NOT THE BIOS FOLDER!** \
+Notes: Because this uses the mess emulator, there's a little more work involved in getting the games to run in which the rom must be named exactly as shown in the bios/mame/hash/[advision.xml](https://github.com/libretro/mame/blob/master/hash/advision.xml) file. For example, Defender rom must be named defender.zip. You'll also need a copy of this `advision.xml` file in `/roms2/bios/mame/hash/advision.xml` (or `/roms/bios`... if using a single SD card).
 
 ### American Laser Games
 Emulator: [hypseus-singe](https://github.com/DirtBagXon/hypseus-singe) standalone \
