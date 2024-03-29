@@ -438,12 +438,14 @@ Notes:
 
 
 ### Neo Geo
-Emulator: (**[lr-fbneo](https://docs.libretro.com/library/fbneo/)**) [lr-fbalpha2012](https://github.com/libretro/fbalpha2012) \
+Emulator: (**[lr-fbneo](https://docs.libretro.com/library/fbneo/)**) [lr-fbalpha2012](https://github.com/libretro/fbalpha2012) [lr-geolith](https://github.com/libretro/geolith-libretro) \
 Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well) \
 Rom Folder: neogeo \
-Extensions: .zip .ZIP .7z .7Z .7z .7Z \
+Extensions: .zip .ZIP .7z .7Z .7z .7Z (.neo .NEO See notes for more info for this extension) \
 Bios: neogeo.zip \
-Notes: Because neogeo roms can come in different formats (split or non-merged), it's recommended to keep the neogeo.zip bios in the /roms/bios and the /roms/neogeo folder to ensure best compatibility.
+Notes: 
+- Because neogeo roms can come in different formats (split or non-merged), it's recommended to keep the neogeo.zip bios in the /roms/bios and the /roms/neogeo folder to ensure best compatibility.
+- For a highly accurate and generally easier way to run Neo Geo, try the geolith core and use .neo files.  Only the geolith core supports .neo files and the geolith core only supports loading .neo files.  For more information on how to change the core per game or for a whole system, see [here](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg353m#q-how-do-i-change-emulator-cores-in-ArkOS)
 
 ### Neo Geo CD
 Emulator: (**[lr-neocd](https://github.com/libretro/neocd_libretro#readme)**) [lr-fbneo](https://docs.libretro.com/library/fbneo/) \
