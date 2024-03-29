@@ -65,6 +65,23 @@ Rom Folder: gx4000 \
 Extensions: .cpr .CPR .dsk .DSK .zip .ZIP \
 Bios: None
 
+### Apple II
+Emulator: [linapple standalone](https://github.com/linappleii/linapple) [lr-applewin](https://github.com/audetto/AppleWin) [applewin standalone](https://github.com/audetto/AppleWin)
+Rom Folder: apple2 \
+Extensions: .dsk .DSK .sh .SH .do .DO .po .PO .apple2 .APPLE2 .zip .ZIP \
+Bios: None
+Notes: 
+- For the default linapple standalone emulator as well as the applewin standalone emulator, you can create own mappings for each game. Just create a controls subfolder within the roms/apple2 (roms2/apple2 for 2 sd card setups) folder and create a text file named exactly similar to game name but with a .gptk extension. See https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/mvem.gptk for an example of how to setup the structure of this file. Unused gamepad keys should be commented out with " like the start key is in the example .gptk file linked in the previous sentence. 
+- To load games with 2 floppy disks, create a .apple2 text file within the roms/apple2 (roms2/apple2 for 2 sd card setups) folder and the disks similar to as follows as an example for a 2 disk game named PoP_1.dsk and PoP_2.dsk:
+
+Create PoP.apple2 file in the apple2 folder then insert the following:
+```
+DISK1=PoP_1.dsk
+DISK2=PoP_2.dsk
+```
+Then just launch the PoP.apple2 from the emulationstation system menu for Apple II.  \
+**HINT** - You can change the extensions of your 2 disk games to something like .dsks and add that to your .apple2 text file.  That way, they won't show up in the system menu and cause duplication.  You could also just hide those games in the system menu as well via the menu when you press the select on the game and go to **Edit Metadata**.
+
 ### Arcade
 Emulator: (**[lr-fbneo](https://docs.libretro.com/library/fbneo/)**) [lr-fbalpha2012](https://github.com/libretro/fbalpha2012) lr-fbalpha2016 [lr-fbalpha2018](https://github.com/libretro/fbalpha) [lr-mame (Current)](https://docs.libretro.com/guides/arcade-getting-started/) \
 Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well). Mame required rom set version: MAME 0.235 \
