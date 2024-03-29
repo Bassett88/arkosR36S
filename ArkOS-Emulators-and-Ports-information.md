@@ -283,7 +283,7 @@ Extensions: .nes .NES .unif .UNIF .unf .UNF .fds .FDS .zip .ZIP .7z .7Z \
 Bios: disksys.rom
 
 ### Game Boy
-Emulator: (**[lr-gambatte](https://docs.libretro.com/library/gambatte/)**) [lr-mgba](https://docs.libretro.com/library/mgba/) [lr-tgbdual](https://docs.libretro.com/library/tgb_dual/) [Mednafen](https://mednafen.github.io/) \
+Emulator: (**[lr-gambatte](https://docs.libretro.com/library/gambatte/)**) [lr-mgba](https://docs.libretro.com/library/mgba/) [lr-tgbdual](https://docs.libretro.com/library/tgb_dual/) [lr-DoubleCherryGB](https://github.com/TimOelrichs/doublecherryGB-libretro/tree/master/libretro) [Mednafen](https://mednafen.github.io/) \
 Rom Folder: gb \
 Extensions: .gb .GB .gbc .GBC .dmg .DMG .zip .ZIP .7z .7Z \
 Bios: gb_bios.bin (optional)
@@ -301,7 +301,7 @@ Extensions: .mgw .MGW \
 Bios: None
 
 ### Game Boy Color
-Emulator: (**[lr-gambatte](https://docs.libretro.com/library/gambatte/)**) [lr-mgba](https://docs.libretro.com/library/mgba/) [lr-tgbdual](https://docs.libretro.com/library/tgb_dual/) [Mednafen](https://mednafen.github.io/) \
+Emulator: (**[lr-gambatte](https://docs.libretro.com/library/gambatte/)**) [lr-mgba](https://docs.libretro.com/library/mgba/) [lr-tgbdual](https://docs.libretro.com/library/tgb_dual/) [lr-DoubleCherryGB](https://github.com/TimOelrichs/doublecherryGB-libretro/tree/master/libretro) [Mednafen](https://mednafen.github.io/) \
 Rom Folder: gbc \
 Extensions: .gb .GB .gbc .GBC .dmg .DMG .zip .ZIP .7z .7Z \
 Bios: gbc_bios.bin (optional)
