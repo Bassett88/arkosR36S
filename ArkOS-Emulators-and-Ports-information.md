@@ -66,7 +66,7 @@ Extensions: .cpr .CPR .dsk .DSK .zip .ZIP \
 Bios: None
 
 ### Apple II
-Emulator: [linapple standalone](https://github.com/linappleii/linapple) [lr-applewin](https://github.com/audetto/AppleWin) [applewin standalone](https://github.com/audetto/AppleWin)
+Emulator: (**[linapple standalone](https://github.com/linappleii/linapple)**) [lr-applewin](https://github.com/audetto/AppleWin) [applewin standalone](https://github.com/audetto/AppleWin) \
 Rom Folder: apple2 \
 Extensions: .dsk .DSK .sh .SH .do .DO .po .PO .apple2 .APPLE2 .zip .ZIP \
 Bios: None
