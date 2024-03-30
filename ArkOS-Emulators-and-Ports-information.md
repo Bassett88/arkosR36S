@@ -315,7 +315,7 @@ Bios: bios.gg (optional)
 ### Gamecube (Available on the RK3566 devices such as the RG353M Only!)
 Emulator: [Dolphin](https://github.com/rtissera/dolphin/tree/egldrm) standalone \
 Rom Folder: gc \
-Extensions: .elf .ELF .gcz .GCZ .iso .ISO .m3u .M3U .wad .WAD .wbfs .WBFS .wia .WIA \
+Extensions: .elf .ELF .gcz .GCZ .iso .ISO .m3u .M3U .rvz .RVZ .wad .WAD .wbfs .WBFS .wia .WIA \
 Bios: None
 
 ### Genesis/Megadrive
@@ -463,6 +463,7 @@ Bios: neogeo.zip (and aes.zip for geolith core)\
 Notes: 
 - Because neogeo roms can come in different formats (split or non-merged), it's recommended to keep the neogeo.zip bios in the /roms/bios and the /roms/neogeo folder to ensure best compatibility.
 - if your using a rk3566 device such as a rg353m/v or rk2023, for a highly accurate and generally easier way to run Neo Geo, try the geolith core and use .neo files.  Only the geolith core supports .neo files and the geolith core only supports loading .neo files.  For more information on how to change the core per game or for a whole system, see [here](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg353m#q-how-do-i-change-emulator-cores-in-ArkOS)
+- Existing Neo Geo arcade sets can be converted to .neo using the NeoBuilder tool from stoneagegame available [here](https://stoneagegamer.com/neosd-downloads.html#neobuilder).  **Be aware!!** I have used the tool and it works but I do so in a controlled environment to minimize on the possibility of any malware.  Use caution when running any .exe file from an unknown site.  
 
 ### Neo Geo CD
 Emulator: (**[lr-neocd](https://github.com/libretro/neocd_libretro#readme)**) [lr-fbneo](https://docs.libretro.com/library/fbneo/) \
