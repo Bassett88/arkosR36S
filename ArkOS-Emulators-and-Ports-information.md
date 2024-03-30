@@ -455,7 +455,7 @@ Notes:
 
 
 ### Neo Geo
-Emulator: (**[lr-fbneo](https://docs.libretro.com/library/fbneo/)**) [lr-fbalpha2012](https://github.com/libretro/fbalpha2012) [lr-geolith (best on rk3566 devices.  Slow on rk3326 devices.)](https://github.com/libretro/geolith-libretro) \
+Emulator: (**[lr-fbneo](https://docs.libretro.com/library/fbneo/)**) [lr-fbalpha2012](https://github.com/libretro/fbalpha2012) [lr-geolith (best on rk3566 devices.  Slow on rk3326 devices.)](https://docs.libretro.com/library/geolith/) \
 Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well) \
 Rom Folder: neogeo \
 Extensions: .zip .ZIP .7z .7Z .7z .7Z (.neo .NEO See notes for more info for this extension) \
