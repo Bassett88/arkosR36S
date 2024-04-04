@@ -162,7 +162,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **OGA 1.1/RGB10/RGB10s/RGB20** (**Will not work for the the RGB20s!**) - [GDrive](https://drive.google.com/file/d/1yvFKLew5jL03pTBrxm-tVAwXO2NpnAIz/view?usp=sharing) | [Mega](https://mega.nz/file/Pd5QGRYZ#5XCb-QULrZcN1v_bkJubDfrwc2JIhtKE9nKxVW1IiBI) | (Updated 10/06/2023) MD5:8E864F5B0088DFEB7261E4D66C4AE05A | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) | [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
 
 # Credits and Thanks
-Slaminger for the [TheRA](https://techtoytinker.com/theretroarena) OS that helped inspire me to build and provide ArkOS \
+Slaminger for the [TheRA](https://techtoytinker.com/) OS that helped inspire me to build and provide ArkOS \
 [Hardkernel](https://www.hardkernel.com/) for being a strong supporter of developers and providing various resources \
 [Libretro](https://www.libretro.com/) for the great open source emulators and retroarch frontend \
 valadaa48 for various assistance and all his work on the original rk3326 device, the Odroid Go Advance. \
