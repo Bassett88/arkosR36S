@@ -23,7 +23,7 @@
 21. [How do I turn on the accessibility features of Retroarch?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg353m#q-how-do-i-turn-on-the-text-to-speech-accessibility-feature-of-retroarch)
 22. [How do I get out of kiosk or kid UI mode?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg353m#q-how-do-i-get-out-of-kiosk-or-kid-ui-mode)
 23. [How do I mount a USB drive for copying and moving files?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg353m#q-how-do-i-mount-a-usb-drive-for-copying-and-moving-files)
-25. [How does the low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg353m#q-how-does-the-low-battery-indicator-work)
+25. [How does the verbal low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg353m#q-how-does-the-verbal-low-battery-indicator-work)
 26. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg353m#q-how-does-the-movievideo-player-work)
 27. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg353m#q-where-are-game-saves-and-savestates-stored)
 28. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rg353m#q-where-do-i-put-psp-dlcs)
