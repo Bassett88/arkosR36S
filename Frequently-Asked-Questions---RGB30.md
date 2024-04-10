@@ -20,7 +20,7 @@
 18. [How do I turn on the accessibility features of Retroarch?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-how-do-i-turn-on-the-text-to-speech-accessibility-feature-of-retroarch)
 19. [How do I get out of kiosk or kid UI mode?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-how-do-i-get-out-of-kiosk-or-kid-ui-mode)
 20. [How do I mount a USB drive for copying and moving files?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-how-do-i-mount-a-usb-drive-for-copying-and-moving-files)
-21. [How does the low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-how-does-the-low-battery-indicator-work)
+21. [How does the verbal low battery indicator work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-how-does-the-verbal-low-battery-indicator-work)
 22. [How does the movie/video player work?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-how-does-the-movievideo-player-work)
 23. [Where are game saves and savestates stored?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-where-are-game-saves-and-savestates-stored)
 24. [Where do I put PSP DLCs?](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---rgb30#q-where-do-i-put-psp-dlcs)
@@ -474,10 +474,10 @@ Using the left joystick (NOT THE DPAD!) do up, up, down, down, left, right, left
 4. You can now use File Manager to navigate to /mnt/usbdrive to access the mounted USB drive to copy and/or move files between it and ArkOS.
 5. When you're done copying and/or moving files within File Manager, be sure to go back to to Options and select **USB Drive Unmount** before unplugging your drive or you may risk corrupting the USB drive's file system.
 
-## Q. How does the low battery indicator work?
+## Q. How does the verbal low battery indicator work?
 ### A. The following will occur:
-- The power led will turn red when battery life is less than 20 percent.
-- The power led will blink red every 1 second when battery life is less than 10 percent.
+- Verbal warning when in games if battery level is below 30 percent, then below 20 percent, then below 10 percent
+- This can be disabled in the EmulationStation menu by pressing start, then go to sound setting, then go to Verbal Battery Warning and set that to off.
 
 ## Q. How does the movie/video player work?
 ### A. The movie/video player is ffplay.  More information about ffplay is available in this [link](https://ffmpeg.org/ffplay.html)
