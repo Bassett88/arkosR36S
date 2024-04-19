@@ -721,7 +721,7 @@ Rom Folder: coco3 \
 Extensions: .bin .BIN .cas .CAS .ccc .CCC .dsk .DSK .rom .ROM .wav .WAV .zip .ZIP \
 Bios:
 - For the default XRoar standalone emulator: coco3.rom, disk11.rom and extbas11.rom should be in the bios folder. For PAL games, coco3p.rom should be in the bios folder.
-- For the libretro mess emulator: coco.zip coco2.zip coco2p.zip coco3.zip coco3p.zip (must be in the roms/coco3 folder. **NOT THE BIOS FOLDER!**)(See [here](https://wiki.retrobat.org/systems-and-emulators/supported-game-systems/home-computer/trs-80-color-computer#content-of-bios-files) for more info on the content of the bios files.
+- For the libretro mess emulator: coco.zip coco2.zip coco2b.zip coco3.zip coco3p.zip (must be in the roms/coco3 folder. **NOT THE BIOS FOLDER!**)(See [here](https://wiki.retrobat.org/systems-and-emulators/supported-game-systems/home-computer/trs-80-color-computer#content-of-bios-files) for more info on the content of the bios files.
 
 Notes:
 - For the default XRoar standalone emulator, it's best to use .ccc, .dsk and .rom files or zip files that contain .ccc, .dsk or .rom files in them with this emulator.
