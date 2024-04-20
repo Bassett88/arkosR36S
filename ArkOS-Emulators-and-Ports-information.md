@@ -2,7 +2,7 @@
 
 -  All retroarch emulator cores (ex. Those that start with lr in the front of the emulator names in the list below) have controller configurations setup automatically by Retroarch.  You can hit (Designated retroarch hotkey)+X, then go to settings, controllers to review and change to your liking.
 -  Rom folders are located in either /roms when accessing the device via network or from the EASYROMS folder in Mac, Linux or Windows if accessing the micro SD card in a micro SD card reader directly on a PC.
--  All bios files go into the bios folder located in the roms (EASYROMS) folder unless specifically stated otherwise in the emulators list below.
+-  All bios files go into the bios folder located in the roms (EASYROMS) folder unless specifically stated otherwise in the emulators list below.  For those devices that support a dual (2) sd card setup (ex. RG351V or RG353M), if you're using a dual (2) sd card setup, all bios files go into the bios folder located on the 2nd sd card.
 -  For those devices that support a dual (2) sd card setup (ex. RG351V or RG353M), all references to roms2 means the second sd card where you put your game files on.
 -  Any systems listed below that have a standalone emulator will most likely not have controls that can be reconfigured.
 -  Any systems below with multiple emulator cores available will have a default emulator core **bolded** and in parentheses().  [Click here](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG351P#a-do-the-following) for information on how to change emulators per system or game.
