@@ -478,6 +478,7 @@ Using the left joystick (NOT THE DPAD!) do up, up, down, down, left, right, left
 ### A. The following will occur:
 - Verbal warning when in games if battery level is below 30 percent, then below 20 percent, then below 10 percent
 - This can be disabled in the EmulationStation menu by pressing start, then go to sound setting, then go to Verbal Battery Warning and set that to off.
+- You can also trigger the verbal battery indicator by pressing Select+R3.
 
 ## Q. How does the movie/video player work?
 ### A. The movie/video player is ffplay.  More information about ffplay is available in this [link](https://ffmpeg.org/ffplay.html)
