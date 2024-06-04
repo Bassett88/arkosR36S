@@ -442,7 +442,7 @@ Single files can be downloaded directly. Also, you can download more than one fi
 Similarly, you can remove or copy your files.
 
 ## Q. How can I change or remove the splash screen when loading games?
-### A. A. From within the main Emulationstation menu, press Start then press A on UI Settings then A on Game Loading Image Mode.  From there, you can select between Pic, Ascii, and None
+### A. From within the main Emulationstation menu, press Start then press A on UI Settings then A on Game Loading Image Mode.  From there, you can select between Pic, Ascii, and None
   - PIC – You can choose between the following Game Loading Image setting: \
         - Default – Default ArkOS launch image if available in the roms/launchimages or roms2/launchimages folder(for 2(dual) sd card setups) named loading.jpg. \
         - Image – Loads a scraped image if available for the selected game. \
