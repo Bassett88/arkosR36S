@@ -441,18 +441,36 @@ Single files can be downloaded directly. Also, you can download more than one fi
 Similarly, you can remove or copy your files.
 
 ## Q. How can I change or remove the splash screen when loading games?
-### A. You can choose to use ascii art as your splash screen by simply going to Options/Advanced and select Switch launchimage to ascii.  To switch back to jpg images, simply go to Options and select Switch launchimage to jpg.  
+### A. From within the main Emulationstation menu, press Start then press A on UI Settings then A on Game Loading Image Mode.  From there, you can select between Pic, Ascii, and None
+  - PIC – You can choose between the following Game Loading Image setting: \
+        - Default – Default ArkOS launch image if available in the roms/launchimages or roms2/launchimages folder(for 2(dual) sd card setups) named loading.jpg. \
+        - Image – Loads a scraped image if available for the selected game. \
+        - Marquee – Loads a scraped marquee if available for the selected game. \
+        - Thumb – Loads a scraped thumbnail if available for the selected game.
+  - Ascii – Loads the ArkOS ascii launchimage if available in the roms/launchimages or roms2/launchimages folder(for 2(dual) sd card setups) named loading.ascii.
+  - None – Disables the use of launch images which can save up to 2 seconds on game loading time.
 
-You can change the splash screen by uploading a new splash screen image in the /roms/launchimages folder.  The image must meet the following criteria: 
+**Notes**
+* If you change to PIC from having it set to Ascii or None, you’ll need to press B to go back to the main Start menu, then press A on UI Settings to see the various Game Loading Image options.
+* Game Loading Image options assumes your Images, Marquees and Thumbs are setup as follows for your systems. \
+Example for ROMS/gb/game.zip \
+ROMS/ \
+├─ gb/ \
+│  ├─ images/ \
+│  │  ├─ game-image.png \
+│  │  ├─ game-marquee.png \
+│  │  ├─ game-thumb.png
+
+  If you use the built-in screenscraper feature, this is the structure it will create for your games for your scraped images.
+
+You can change the default splash screen by uploading a new splash screen image to the /roms/launchimages or /roms2/launchimages(for 2(dual) sd card setups) folder.  The image must meet the following criteria: 
 
 - Must be in .jpg format
 - Must be named loading.jpg.  The name is case sensitive!
 - Must be 640 pixels in width and 480 pixels in height.
 - Must be of 24 bit depth
 
-If you'd like to remove the splash screen all together, just rename the loading.jpg file to something else or simply delete it.
-
-You can also update loading.ascii with your own ascii art if you prefer.  You can also simply delete it.
+You can also update loading.ascii with your own ascii art if you prefer.
 
 ## Q. How do I turn on the Text to Speech accessibility feature of Retroarch?
 ### A. Do the following:
