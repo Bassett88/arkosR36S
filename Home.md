@@ -141,7 +141,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **RG353M** - [GDrive](https://drive.google.com/file/d/1EZlBLjHz9OCxaflck2hzIOEdYR-wcFZy/view?usp=sharing) | [Mega](https://mega.nz/file/vUxjmRDC#V21ZrCeHqp-qAjvL4j3YdGBex7g12T3-rVR0L0WVbFc) | (Updated 01/27/2024) MD5:14BC64AA09885AFB143F85725B28CF56
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353m-changelog) | [RG353M - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M)
 
-**RGB30** - [GDrive]() | [Mega](https://mega.nz/file/fM50hYxC#3j3LCpOQ4ZpsG74CAH1av6aq3VsIbm9b6JIXFHe-jOE) | (Updated 05/24/2024) MD5:CF523C77FB1E74F8DCA1E0557ED27D2C
+**RGB30** - [GDrive](https://drive.google.com/file/d/1V6npc_XRWQePp8dUJjKKio0UgwlR4Ebc/view?usp=sharing) | [Mega](https://mega.nz/file/fM50hYxC#3j3LCpOQ4ZpsG74CAH1av6aq3VsIbm9b6JIXFHe-jOE) | (Updated 05/24/2024) MD5:CF523C77FB1E74F8DCA1E0557ED27D2C
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb30-changelog) | [RGB30 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30)
 
 **RK2023** - [GDrive]() | [Mega](https://mega.nz/file/TZhm0QrJ#ViYS3zBiMIm1NAIhcXzqZkXnPZmyKDrS_ttxCgsroVA) | (Updated 05/24/2024) MD5:A9A86973D1D7EC52CCC7AECBE6300DF4
