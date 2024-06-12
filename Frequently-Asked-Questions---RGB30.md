@@ -608,6 +608,8 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 ## Q. What is Quick Mode and how do I enable it?
 ### A. When you do a safe shutdown (R3 button + Power Button) while in a Retroarch or Retroarch32 emulator, an auto savestate will be created of the current game and the unit will shutdown.  Upon power on, the system will autoboot into the last game and resume the auto savestate.  To enable this mode, select Enable Quick Mode from the Options>Advanced menu section in Emulationstation.  **Reminder** - This only works with Retroarch and Retroarch32 based emulators.  As of 9/21/2023, this also works with the Pico-8 standalone emulator as well.  You can boot directly into the last Pico-8 game you were playing or into splore.  Of course, no auto savestate will be available since the emulator doesn't support savestates.
 
+**Note** - If a game fails to boot during Quick Mode, it may mean the savestate created is corrupted.  You can delete this savestate by holding the R1 button while booting up and then press A on the screen asking if the savestate should be deleted.  You can also bypass booting directly into a game during quick mode by holding the B button down which will load the BaRT menu where you can boot into Emulationstation or Retroarch directly or use other tools.
+
 ## Q. How do I add and enable a rumble (vibration) motor to my unit?
 ### A. 
 
