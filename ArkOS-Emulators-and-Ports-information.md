@@ -91,7 +91,7 @@ Bios: pgm.zip (for PGM games only like Knights of Valour and DoDonPachi) \
 Audio Samples: Place in /roms/bios/fbneo/samples folder
 
 ### Arduboy
-Emulator: [lr-arduous](https://github.com/libretro/arduous/) \
+Emulator: (**[lr-ardens](https://github.com/tiberiusbrown/Ardens)**) [lr-arduous](https://github.com/libretro/arduous/) \
 Rom Folder: arduboy \
 Extensions: .hex .HEX \
 Bios: None
