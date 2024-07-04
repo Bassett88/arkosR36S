@@ -84,7 +84,7 @@ Then just launch the PoP.apple2 from the emulationstation system menu for Apple 
 
 ### Arcade
 Emulator: (**[lr-fbneo](https://docs.libretro.com/library/fbneo/)**) [lr-fbalpha2012](https://github.com/libretro/fbalpha2012) lr-fbalpha2016 [lr-fbalpha2018](https://github.com/libretro/fbalpha) [lr-mame (Current)](https://docs.libretro.com/guides/arcade-getting-started/) \
-Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well). Mame required rom set version: MAME 0.235 \
+Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well). Mame required rom set version: MAME 0.266 \
 Rom Folder: arcade \
 Extensions: .zip .ZIP .7z .7Z .cue .CUE \
 Bios: pgm.zip (for PGM games only like Knights of Valour and DoDonPachi) \
