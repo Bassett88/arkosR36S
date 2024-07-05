@@ -597,14 +597,14 @@ Notes:
 ### Playstation Portable (PSP)
 Emulator: (**[ppsspp](https://github.com/hrydgard/ppsspp) standalone**) [ppsspp-go standalone](https://github.com/christianhaitian/ppsspp-go2) [lr-ppsspp](https://github.com/hrydgard/ppsspp) \
 Rom Folder: psp \
-Extensions: .iso .ISO .cso .CSO .pbp .PBP \
+Extensions: .iso .ISO .chd .CHD .cso .CSO .pbp .PBP \
 Bios: None
 Note: For lr-ppsspp, to correct some ui issues, you'll need to install the contents of this [assets](https://github.com/christianhaitian/rk2020/raw/master/ForThera/assets.7z) 7z compressed file to /roms/bios/PPSSPP folder.
 
 ### Playstation Portable (PSP) Minis
 Emulator: (**[ppsspp standalone](https://github.com/hrydgard/ppsspp)**) [lr-ppsspp](https://github.com/hrydgard/ppsspp) \
 Rom Folder: pspminis \
-Extensions: .iso .ISO .cso .CSO .pbp .PBP \
+Extensions: .iso .ISO .chd .CHD .cso .CSO .pbp .PBP \
 Bios: None
 
 ### Pokemon Mini
