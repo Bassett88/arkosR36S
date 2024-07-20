@@ -14,18 +14,24 @@ Since ArkOS is based on Ubuntu 19.10 for Arm, the process is different from a ty
   * [Click here for the OGA/RK2020/RGB10](https://github.com/christianhaitian/linux/tree/odroidgoA-4.4.y) - You can build it following the instructions [here](https://github.com/christianhaitian/linux/blob/odroidgoA-4.4.y/README)
   * [Click here for the Chi](https://github.com/christianhaitian/GameForce-Chi.git) - You can build it following the instructions [here](https://github.com/christianhaitian/linux/blob/odroidgoA-4.4.y/README).  Instead of `make odroidgoa_tweaked_defconfig` do `make gameforce_defconfig`
   * [Click here for the RG503](https://github.com/christianhaitian/rg503Kernel) - You can build it following the instructions [here](https://github.com/christianhaitian/rg503Kernel/blob/main/README.md).
+  * [Click here for the RK2023 and RGB30](https://github.com/christianhaitian/RG353VKernel/tree/rk2023) - You can build it following the instructions [here](https://github.com/christianhaitian/RG353VKernel/blob/rk2023/README.md).
 * For the uboot, that is also dependent on the device you're targeting:
   * [Click here for the OGA, RGB10, and the RK2020](https://github.com/hardkernel/u-boot/tree/odroidgoA-v2017.09)
   * [Click here for the RG351V](https://github.com/christianhaitian/RG351-u-boot/tree/odroidgoA-v2017.09)
   * [Click here for the CHI](https://github.com/christianhaitian/chi-u-boot)
   * [Click here for the RG503](https://github.com/christianhaitian/rg503Uboot)
+  * [Click here for the RGB30/RG353V/RK2023](https://github.com/christianhaitian/rk356x-uboot)
 
 Last but not least, Emulationstation-FCAMOD from [here](https://github.com/christianhaitian/EmulationStation-fcamod)
 * For the non header version that's fully dependent on SDL2, [use this version instead](https://github.com/christianhaitian/EmulationStation-fcamod/tree/351v).
-* For the rg503, [use this version instead](https://github.com/christianhaitian/EmulationStation-fcamod/tree/503noTTS).
+* For the rk3566 devices (Such as the RG353M/V/VS, RG503, RK2023 and RGB30), [use this version instead](https://github.com/christianhaitian/EmulationStation-fcamod/tree/503noTTS).
 
 The rest I add via scripted updates from here:
+* [RG353V](https://github.com/christianhaitian/arkos/blob/main/Update-RG353V.sh)
+* [RG353M](https://github.com/christianhaitian/arkos/blob/main/Update-RG353M.sh)
+* [RGB30](https://github.com/christianhaitian/arkos/blob/main/Update-RGB30.sh)
 * [RG503](https://github.com/christianhaitian/arkos/blob/main/Update-RG503.sh)
+* [RK2023](https://github.com/christianhaitian/arkos/blob/main/Update-RK2023.sh)
 * [RG351P/M](https://github.com/christianhaitian/arkos/blob/main/Update-RG351P.sh)
 * [RG351V](https://github.com/christianhaitian/arkos/blob/main/Update-RG351V.sh)
 * [RK2020/OGA 1.0](https://github.com/christianhaitian/arkos/blob/main/Update-RK2020.sh)
