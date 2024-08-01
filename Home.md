@@ -159,7 +159,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 
 **OGA 1.0/RK2020** - [GDrive](https://drive.google.com/file/d/1iEkW54lCGCvRHfKNfcv7xZBA-RvAwfbD/view?usp=sharing) | [Mega](https://mega.nz/file/zRpkgQaQ#Xai8FuMRj7fczHxtQcQauHoW64FTgPS2IPPCkGYLEKI) | (Updated 06/22/2023) MD5:351215BA34768120F4304A4BEB739940 | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rk2020-changelog) | [RK2020 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RK2020)
 
-**OGA 1.1/RGB10/RGB10s/RGB20/V10** (**Will not work for the the RGB20s or RGB10Max units!**) - [GDrive](https://drive.google.com/file/d/1HD1r3RWoMJvlGOKJBUARpZW15G3K3gcp/view?usp=sharing) | [Mega](https://mega.nz/file/qNQXHYhb#2cSfwDOR3vhSuvNWHmWpE8F8DRosjEUTA1UTu9lP-i4) | (Updated 07/04/2024) MD5:ADB263FC48BF53B6A31D60DEF5F91287 | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) | [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
+**OGA 1.1/RGB10/RGB10s/RGB20/V10** (**Will not work for the the RGB20s or RGB10Max units!**) - [GDrive](https://drive.google.com/file/d/11evKJIDo8_8gnvNRWfMHX_1TQ2KKxY_g/view?usp=sharing) | [Mega](https://mega.nz/file/uJZzXaqC#ybxGSewBwAaMZdYOhLfSPCRHMIcj6g9cqcoo8xba53g) | (Updated 07/31/2024) MD5:BA1D97C22E854AFC09AB19916E7D51CC | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb10-changelog) | [RGB10 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10)
 
 # Credits and Thanks
 Slaminger for the [TheRA](https://techtoytinker.com/) OS that helped inspire me to build and provide ArkOS \
