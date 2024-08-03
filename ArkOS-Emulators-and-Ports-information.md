@@ -82,6 +82,15 @@ DISK2=PoP_2.dsk
 Then just launch the PoP.apple2 from the emulationstation system menu for Apple II.  \
 **HINT** - You can change the extensions of your 2 disk games to something like .dsks and add that to your .apple2 text file.  That way, they won't show up in the system menu and cause duplication.  You could also just hide those games in the system menu as well via the menu when you press the select on the game and go to **Edit Metadata**.
 
+### Aquaplus P/ECE (Coming Soon!)
+Emulator: [piemu](https://github.com/YonKuma/piemu) \
+Rom Folder: piece \
+Extensions: .pex .pfi .PEX .PFI \
+Bios: [Firmware 1.20](https://aquaplus.jp/piece/dl/update120.exe) or [Firmware 1.18 (Recommended)](https://aquaplus.jp/piece/dl/update118.exe) or [Firmware 1.14a](https://aquaplus.jp/piece/dl/update114a.exe) or [Firmware 1.14](https://aquaplus.jp/piece/dl/update114.exe) or [Firmware 1.12a](https://aquaplus.jp/piece/dl/update112a.exe) or [Firmware 1.12](https://aquaplus.jp/piece/dl/update.exe) \
+Note: \
+ - The Aquaplus P/ECE requires a bios file that is freely available from their website as linked in the Bios line above. It’s strongly recommended that you use version 1.18, as there are many games that do a version check and only recognize 1.1x versions.
+ - Just place the downloaded firmware exe file in the bios folder of your roms card and ArkOS will extract the needed bios file from it when launching a game.  You can also manually extract the all.bin file by downloading one of the firmware packages linked in the bios line above. These packages are released as a self-extracting lzh file, so you can either run the exe (if you’re on Windows), or you can use 7zip open the file navigate to the folder called update, and extract the all.bin file. Add this file to the bios folder on your roms card.
+
 ### Arcade
 Emulator: (**[lr-fbneo](https://docs.libretro.com/library/fbneo/)**) [lr-fbalpha2012](https://github.com/libretro/fbalpha2012) lr-fbalpha2016 [lr-fbalpha2018](https://github.com/libretro/fbalpha) [lr-mame (Current)](https://docs.libretro.com/guides/arcade-getting-started/) \
 Required ROM Version: FBAlpha v0.2.97.44 (v0.2.97.40, v0.2.97.42 and v0.2.97.43 may work as well). Mame required rom set version: MAME 0.266 \
