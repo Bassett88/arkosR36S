@@ -85,7 +85,7 @@ Then just launch the PoP.apple2 from the emulationstation system menu for Apple 
 ### Aquaplus P/ECE (Coming Soon!)
 Emulator: [piemu](https://github.com/YonKuma/piemu) \
 Rom Folder: piece \
-Extensions: .pex .pfi .PEX .PFI \
+Extensions: .pex .PEX .pfi .PFI \
 Bios: [Firmware 1.20](https://aquaplus.jp/piece/dl/update120.exe) or [Firmware 1.18 (Recommended)](https://aquaplus.jp/piece/dl/update118.exe) or [Firmware 1.14a](https://aquaplus.jp/piece/dl/update114a.exe) or [Firmware 1.14](https://aquaplus.jp/piece/dl/update114.exe) or [Firmware 1.12a](https://aquaplus.jp/piece/dl/update112a.exe) or [Firmware 1.12](https://aquaplus.jp/piece/dl/update.exe) \
 Note:
  - The Aquaplus P/ECE requires a bios file that is freely available from their website as linked in the Bios line above. It’s strongly recommended that you use version 1.18, as there are many games that do a version check and only recognize 1.1x versions.
