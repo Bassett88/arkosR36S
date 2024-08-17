@@ -694,6 +694,16 @@ Extensions: .smc .SMC .zip .ZIP .7z .7Z \
 Bios: STBIOS.bin \
 Notes: For multi-cart Sufami Turbo games, you must first run each game individually to create sram files for them. Then the multi-link will function correctly.  See [Libretro’s documentation](https://docs.libretro.com/library/snes9x/#bs-x-and-sufami-turbo) for more info.
 
+### Super Cassette Vision (Coming Soon!)
+Emulator: [emuscv](https://gitlab.com/MaaaX-EmuSCV/libretro-emuscv) \
+Rom Folder: scv \
+Extensions: .0 .bin .BIN .cart .CART .rom .ROM .zip .ZIP \
+Bios: upd7801g.s01 (MD5: 635a978fd40db9a18ee44eff449fc126) \
+Note:
+ - For .zip and .ZIP Roms, the name of the rom must be the same as the ZIP file.  For example: Lupin III (Japan).zip contains Lupin III (Japan).bin.  This is valid as long as the bin is not corrupted.
+ - All ROMs can be stored in a 1 file ROM (.CART, .BIN, .ROM or .0). Large ROMs can be stored in multiple files (.0, .1, .2, .3).
+ - .cart and .CART files have some technical limitations.  See [here](https://gitlab.com/MaaaX-EmuSCV/libretro-emuscv/-/blob/master/readme.txt?ref_type=heads) for more info.
+
 ### Super Game Boy
 Emulator: [lr-mgba](https://docs.libretro.com/library/mgba/) \
 Rom Folder: sgb \
