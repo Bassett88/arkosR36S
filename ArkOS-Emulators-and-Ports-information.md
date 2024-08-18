@@ -82,6 +82,12 @@ DISK2=PoP_2.dsk
 Then just launch the PoP.apple2 from the emulationstation system menu for Apple II.  \
 **HINT** - You can change the extensions of your 2 disk games to something like .dsks and add that to your .apple2 text file.  That way, they won't show up in the system menu and cause duplication.  You could also just hide those games in the system menu as well via the menu when you press the select on the game and go to **Edit Metadata**.
 
+### Apple Macintosh (Coming Soon!)
+Emulator: [lr-minivmac](https://docs.libretro.com/library/minivmac/) \
+Rom Folder: vmac \
+Extensions: .cmd .CMD .dsk .DSK .hvf .HVF .img .IMG .zip .ZIP \
+Bios: MacII.rom
+
 ### Aquaplus P/ECE (Coming Soon!)
 Emulator: [piemu](https://github.com/YonKuma/piemu) \
 Rom Folder: piece \
