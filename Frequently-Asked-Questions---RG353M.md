@@ -655,7 +655,7 @@ Note the hierarchy of the governor settings is as follows:
 * Per emulator takes precedence over global.
 
 ## Q. Can I load ArkOS onto the internal (emmc) storage?
-### A. This is possible with a custom image available for the RG353M.  
+### A. This is possible with the latest image available for the RG353M.  
 
 **Notes**
  - You must have at least 60 percent battery power available on your unit before the process can start.  It is best to have it fully charged.
