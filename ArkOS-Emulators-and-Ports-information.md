@@ -69,7 +69,7 @@ Bios: None
 Emulator: (**[linapple standalone](https://github.com/linappleii/linapple)**) [lr-applewin](https://github.com/audetto/AppleWin) [applewin standalone](https://github.com/audetto/AppleWin) \
 Rom Folder: apple2 \
 Extensions: .dsk .DSK .sh .SH .do .DO .po .PO .apple2 .APPLE2 .zip .ZIP \
-Bios: None
+Bios: None \
 Notes: 
 - For the default linapple standalone emulator as well as the applewin standalone emulator, you can create own mappings for each game. Just create a controls subfolder within the roms/apple2 (roms2/apple2 for 2 sd card setups) folder and create a text file named exactly similar to game name but with a .gptk extension. See https://raw.githubusercontent.com/christianhaitian/arkos/main/mvem%20pics/mvem.gptk for an example of how to setup the structure of this file. Unused gamepad keys should be commented out with " like the start key is in the example .gptk file linked in the previous sentence. 
 - To load games with 2 floppy disks, create a .apple2 text file within the roms/apple2 (roms2/apple2 for 2 sd card setups) folder and the disks similar to as follows as an example for a 2 disk game named PoP_1.dsk and PoP_2.dsk:
