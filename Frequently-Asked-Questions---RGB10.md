@@ -459,8 +459,10 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 ### A. This is most likely caused by having multiple .cue or .chd files for multi disk games.  Do the following:
 
 1. Be sure to follow the steps [here for generating .m3u files in ArkOS](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB10#q-how-do-i-generate-m3u-files-for-ps1-games-in-arkos)
-2. Then go to the Options section in Emulationstation just above Retroarch and select **PS1 - Show only m3u files**.
-3. Emulationstation will restart and you should only have single entries for your multi disk games.
+2. Navigate to the PS1 Section
+3. Press Start scroll to UI Settings
+4. Theme Configuration -> File Extensions
+5. Check only .m3u
 
 ## Q. What is BaRT and how do I access it?
 ### A. BaRT is short for Boot and Recovery Tool.  It allows the following:
