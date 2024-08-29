@@ -544,7 +544,7 @@ If its savedata dlc: place it in the SAVEDATA folder. If its a game data DLC: pl
 **Note** - If a game fails to boot during Quick Mode, it may mean the savestate created is corrupted.  You can delete this savestate by holding the R1 button while booting up and then press A on the screen asking if the savestate should be deleted.  You can also bypass booting directly into a game during quick mode by holding the B button down which will load the BaRT menu where you can boot into Emulationstation or Retroarch directly or use other tools.
 
 ## Q. How do I Host, Join, or Spectate an Adhoc (local) Netplay session?
-### A. Make sure you're on the 12/08/2023 or later version of ArkOS.  After you press A to launch an emulator core and game via retroarch or retroarch32 that is compatible with netplay, hold the X button before the game loads.  You should then be presented with an Adhoc Netplay Session Manager menu.
+### A. Make sure you're on the 12/08/2023 or later version of ArkOS.  After you press A to launch an emulator core and game via retroarch or retroarch32 that is compatible with netplay, hold the Y button before the game loads.  You should then be presented with an Adhoc Netplay Session Manager menu.
 * All supported devices must be on the same version of ArkOS
 * Compatible only with Retroarch and Retroarch32 8bit, 16bit, and older Arcade games such as Teenage Mutant Ninja Turtles and The Simpsons
 * All supported devices must be using the same version of retroarch and retroarch32 cores.
