@@ -628,6 +628,14 @@ Rom Folder: pokemonmini \
 Extensions: .min .MIN .zip .ZIP \
 Bios: bios.min (optional)
 
+### PuzzleScript (Coming Soon!)
+Emulator: [lr-puzzlescript](https://github.com/nwhitehead/pzretro) \
+Rom Folder: puzzlescript \
+Extensions: .pz .PZ \
+Bios: None
+Notes: PuzzleScript games are usually online at the main [PuzzleScript site](https://www.puzzlescript.net/) \
+To play games in the core, you will need to download the source for the game and save it as a .pz file. The normal way to do this is to click the "hack" or "sourcecode" link on the game to go to the PuzzleScript editor, then copy/paste the entire contents of the program into a file with extension .pz.
+
 ### Satellaview
 Emulator: [lr-snes9x](https://docs.libretro.com/library/snes9x/) \
 Rom Folder: satellaview \
@@ -809,6 +817,12 @@ Emulator: [lr-ep128emu](https://docs.libretro.com/library/ep128emu/#enterprise-6
 Rom Folder: tvc \
 Extensions: .cas .CAS \
 Bios: [Optional](https://docs.libretro.com/library/ep128emu/#bios)
+
+### Vircon32 (Coming Soon!)
+Emulator: [lr-vircon32](https://www.vircon32.com/index.html) \
+Rom Folder: vircon32 \
+Extensions: .v32 .V32 \
+Bios: Vircon32Bios.v32 (optional)
 
 ### Virtual Boy
 Emulator: [lr-mednafen-vb (aka lr-beetle-vb)](https://docs.libretro.com/library/beetle_vb/) [Mednafen](https://mednafen.github.io/) \
