@@ -631,7 +631,7 @@ Bios: bios.min (optional)
 ### PuzzleScript (Coming Soon!)
 Emulator: [lr-puzzlescript](https://github.com/nwhitehead/pzretro) \
 Rom Folder: puzzlescript \
-Extensions: .pz .PZ \
+Extensions: .pz .PZ .pzp .PZP \
 Bios: None \
 Notes: PuzzleScript games are usually online at the main [PuzzleScript site](https://www.puzzlescript.net/) \
 To play games in this emulator, you will need to download the source for the game and save it as a .pz file. The normal way to do this is to click the "hack" or "sourcecode" link on the game to go to the PuzzleScript editor, then copy/paste the entire contents of the program into a file with extension .pz.
