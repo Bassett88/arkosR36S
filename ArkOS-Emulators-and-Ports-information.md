@@ -509,6 +509,13 @@ Extensions: .7z .7Z .zip .ZIP .z64 .Z64 .n64 .N64 .v64 .V64 \
 Bios: None \
 Note: standalone(mupen64plus) will most likely have the best performance but is the least user friendly emulator as the keys are not easily reconfigurable.  See the FAQ section for your respective supported device in this wiki and scroll down to the mupen64plus standalone emulator section for the default key configuration for the standalone emulator. 
   - It's been reported that a performance improvement can be achieved using the Mupenplus64_Next Retroarch core using the GlideN64 settings with the core options settings set to as the images shown in the links [here](https://github.com/christianhaitian/arkos/blob/main/pics/wiki/Mupen64plus_next_GlideN64_Settings_Josep_1.jpg?raw=true) and [here](https://github.com/christianhaitian/arkos/blob/main/pics/wiki/Mupen64plus_next_GlideN64_Settings_Josep_2.jpg?raw=true).  Thanks to Josep from the [Anbernic Discord](https://discord.gg/pjTqxwh4) for sharing the findings.
+   - As of the 09/27/2024 update of ArkOS, it is now possible to add an alternative control scheme for the standalone Mupen64plus emulator including on 
+     per game basis.
+     - In the n64 games folder, a controls subfolder will be created after the initial run of a game.  Within that controls folder should be a 
+       Sample.ini file.  This file contains the currently assigned default controls for mupen64plus.  To change that default control setup, just copy 
+       Sample.ini to Default.ini within the controls subfolder and make your control changes there.  To do it on a per game basis, copy Sample.ini to 
+       yourgamename.ini within the controls subfolder and make your changes there.  If your game's file name is called Paper Mario.z64, the custom 
+       control file name will need to be Paper Mario.ini for the custom control to be picked up.
 
 ### Nintendo 64DD
 Emulator: [lr-parallel-n64](https://docs.libretro.com/library/mupen64plus/) \
@@ -628,7 +635,7 @@ Rom Folder: pokemonmini \
 Extensions: .min .MIN .zip .ZIP \
 Bios: bios.min (optional)
 
-### PuzzleScript (Coming Soon!)
+### PuzzleScript
 Emulator: [lr-puzzlescript](https://github.com/nwhitehead/pzretro) \
 Rom Folder: puzzlescript \
 Extensions: .pz .PZ .pzp .PZP \
@@ -818,7 +825,7 @@ Rom Folder: tvc \
 Extensions: .cas .CAS \
 Bios: [Optional](https://docs.libretro.com/library/ep128emu/#bios)
 
-### Vircon32 (Coming Soon!)
+### Vircon32
 Emulator: [lr-vircon32](https://www.vircon32.com/index.html) \
 Rom Folder: vircon32 \
 Extensions: .v32 .V32 \
