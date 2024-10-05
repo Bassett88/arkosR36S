@@ -141,7 +141,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **RG353M** - [GDrive](https://drive.google.com/file/d/1ip7V7ruuBX8ZzwyezuXwQaj3Wz4FoUKa/view?usp=sharing) | [Mega](https://mega.nz/file/6IYjWSLJ#HdmhzzIz5w6nM7QoenAuHCMY5B1SutYZM78pP8pXUAg) | (Updated 09/29/2024) MD5:B1DDB6BF73B8A08FDFC5AD6F29297932
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg353m-changelog) | [RG353M - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG353M)
 
-**RGB30** - [GDrive](https://drive.google.com/file/d/1V6npc_XRWQePp8dUJjKKio0UgwlR4Ebc/view?usp=sharing) | [Mega](https://mega.nz/file/fM50hYxC#3j3LCpOQ4ZpsG74CAH1av6aq3VsIbm9b6JIXFHe-jOE) | (Updated 05/24/2024) MD5:CF523C77FB1E74F8DCA1E0557ED27D2C
+**RGB30** - [GDrive](https://drive.google.com/file/d/1o06qYOxI0S_yRp9EhNf3_oysJEiQpKt-/view?usp=sharing) | [Mega](https://mega.nz/file/vBhB0D4A#tPdn9SQ90BsIOoOOreZZUtH6IcSbow6snivt5d6cIY8) | (Updated 09/29/2024) MD5:735B163575D53FEF7F1CF57D6DC0BC1E
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rgb30-changelog) | [RGB30 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RGB30)
 
 **RK2023** - [GDrive](https://drive.google.com/file/d/1CoJm0PuFXB-fblG7wc54dwaADdvMeJU0/view?usp=sharing) | [Mega](https://mega.nz/file/HBgHzCJZ#tVnYObFVvddmAvd-k42daWEh9yqrIhZ2fKaCfXJxd8o) | (Updated 09/29/2024) MD5:69F7E2420924FA88BA1F57B467578BFD
