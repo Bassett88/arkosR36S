@@ -132,7 +132,7 @@ It is based on Ubuntu 19.10 and has both a 64 bit and 32 bit userspace to offer 
 **CHI** - [GDrive](https://drive.google.com/file/d/1RfaYVMZlT0NoL_qZqpLHCGEkXovukIUn/view?usp=sharing) | [Mega](https://mega.nz/file/DRhnXb6Y#Wxavm-oB0_elI-Im2TgbRg0PNvzvSQDdEynmIcQCSVA) | (Updated 02/23/2024) MD5:D9738025936B0862574CCC8415387B60
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/chi-changelog) | [CHI - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---CHI)
 
-**RG503** - [GDrive](https://drive.google.com/file/d/1l3CvoIpBgy5S8hYRVKw8B4B-XqsHLlcN/view?usp=sharing) | [Mega](https://mega.nz/file/WUIiDBDB#iLMbaehbTU6OqxNyuBqAIEZcMcyOkasdnTHU6yDJ7Bw) | (Updated 05/24/2024) MD5:1AB0EA0F7D5FA09F358BE41778DC4586
+**RG503** - [GDrive](https://drive.google.com/file/d/1qSEhoKqYdCdfRRUj8tO5zQCBYLcQkwf2/view?usp=sharing) | [Mega](https://mega.nz/file/SM4WSaQD#eddUK7rDdMgzhDedsRG4kmtIpU-hMmwR13Qs1_yn_AI) | (Updated 09/29/2024) MD5:419C95D4A9C165F98B8CF5A1AF610533
  | [Changelog](https://github.com/christianhaitian/arkos/raw/main/changelogs/rg503-changelog) | [RG503 - FAQ](https://github.com/christianhaitian/arkos/wiki/Frequently-Asked-Questions---RG503)
 
 **RG353V/RG353VS** - [GDrive](https://drive.google.com/file/d/1R0WQG3U13XVDJsWYxpJfWsgdo67nuzp_/view?usp=sharing) | [Mega](https://mega.nz/file/TFJXEARZ#WaYxTK0xCLtU0iznlV-2Fl-ftxk6Z3j0ChHc1EG2wlQ) | (Updated 01/27/2024) MD5:7F6C96399B1A4E31A68664B73E960EB8
